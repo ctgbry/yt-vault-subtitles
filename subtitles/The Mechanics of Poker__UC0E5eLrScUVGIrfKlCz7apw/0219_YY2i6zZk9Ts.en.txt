@@ -1,0 +1,246 @@
+Kind: captions
+Language: en
+why is it that despite the rise of
+powerful tools like solvers and GTO
+wizard AI we have seen the average Rim
+rate of professional slowly declin over
+the last few years I will explain the
+answer to this question by showing you
+guys the five bad habits players start
+to develop when studying solvers and GTO
+strategies so you can stop the decline
+rise upwards and make more money let's
+go bad habit number one being stuck in
+defense playing not to lose instead of
+playing to win when we open the solver
+we see a GTO strategy GTO strategies
+provide a framework for unexploitable
+play by balancing optimally which makes
+it unbeatable regardless of your
+opponent's strategy its goal is not to
+win the most amount of money possible
+but instead play a defensive strategy
+designed not to lose not losing is a
+great place to start if you are a losing
+player however it is likely that your
+goal is to make the most amount of money
+possible which happens to not be the
+objective of the model you've been
+studying while there are benefits in
+taking a more defensive approach when
+playing versus tougher opponents or in
+difficult notes in order to boost your
+winnings you must evolve towards a more
+offensive strategy to take advantage of
+the numerous opportunities that are
+available to you at the tables bad habit
+number two trying to copy GTO strategies
+instead of learning poker Theory as we
+concluded gto's goal is not to lose
+while we are more interested Ed in
+making the most amount of money possible
+now this does not mean we should all go
+and cancel our GTO wizard subscriptions
+but rather that we need to shift our
+focus and adjust what we aim to learn
+from these solvers as when we stop
+trying to memorize and mimic the solver
+and look beyond the frequencies and
+range constructions of the GTO model We
+Begin noticing returning Trends and
+patterns of play for example in which
+circumstances we usually increase or
+decrease our bet sizing or bet frequency
+what C hand classes achieve in commonly
+used lines and how they generate their
+EV understanding these drivers will help
+eliminate fundamental flaws in your
+approach to the game help you make
+better decisions even if you are a more
+exploitative player because Theory
+unlike GTO strategies offer more
+flexibility which allows you to adapt
+and maneuver and apply it in various
+ways and
+situations bad habit number three
+thinking in have to instead of can I in
+solver l players have full information
+about the other strategy this means that
+it has to construct its ranges in a way
+that makes its opponent indifferent
+meaning that for many hands in your
+range there is no clear higher EV
+decision to be made in other words
+you're being put in a tough spot because
+no action is clearly better than the
+other the solver has to do this because
+his opponent is also playing perfectly
+therefore any imbalance in its strategy
+would have direct and expensive
+consequences however in the the real
+world these consequences don't exist as
+most players are too preoccupied with
+their own ranges and frequencies trying
+to mimic solver strategies they aren't
+focused on your range and even if they
+are aware of it they won't be able to
+execute the same counter strategy a
+solver Wen game so the truth is you
+don't have to do anything instead we
+must focus on what we can do based on
+the incentives given by our opponents
+and whether the we are considering
+making will be plus in this situation
+let's say we Face a triple barrel on the
+river holding a bluff catcher how do we
+decide if we should call here if you
+think you're going to have to call this
+hand a certain percentage of the time
+you're implying that either your
+opponent is playing a perfectly balanced
+strategy or that you are able to execute
+a perfect GTO strategy which in both
+cases is very unlikely when deciding if
+we should pull the trigger on a bluff or
+in this case make the call on the the
+river don't focus on whether we have to
+call or Bluff our hand a certain
+percentage of the time for the sake of
+trying to be GTO instead focus on if we
+can make a plus of bluff or call in that
+specific spot so in case we are
+considering a bluff is it likely that
+your opponent is going to fold enough or
+in our Bluff catch situation is this
+spot sensitive to being over or under
+bluffed as these are the factors that
+will truly have an impact on your win
+rate bad habit number four thinking
+about your range and frequencies instead
+of your opponent's range and tendencies
+shifting from half to to cani is part of
+evolving from a defensive to offensive
+thinking framework we must stop thinking
+in threats and instead look for
+opportunities given by our opponents
+that allow us to make higher EV
+decisions instead of focusing solely on
+your own cards range and tendencies lift
+your head from the table and start
+looking at those of your opponents
+you'll start to notice that most of the
+time they are not playing a strategy so
+GTO that they make your decisions
+indifferent instead they have Tendencies
+and give away information that
+incentivizes us to take one action more
+often than the other if we go back to
+the key poker theoretical concepts of
+solver can teach us it is that acity and
+frequencies are the main driver of
+strategy every human opponent has
+difficulty maintaining the exact
+frequencies and range construction of a
+solver and since their range
+construction determines our equity and
+Equity is the main driver of strategy
+our main objective should be to figure
+out what our opponent has and what he's
+up to as this information allows us to
+make higher EV decisions and deploy more
+effective strategies against them bad
+habit number five randomizing your way
+through the hand if we look at a GTO
+flop cat strategy we see the solver
+mixing a lot of hands this mixing means
+that both lines are generating the same
+EV it can't play its hand at a full
+frequency as this would either over or
+undershoot the appropriate frequency for
+the situation he is in it also can
+simplify by always betting this hand and
+never a similar hand in this category as
+villain knows his range and this would
+make his strategy very predictable and
+exploitable when we try to copy GTO
+strategies and start mixing combos
+simply because the solver does so many
+things can go wrong with the most
+significant error being not
+understanding how EV is generated in
+both lines taken the actual EV of the
+hand and therefore its indifference is
+determined by how you execute and how
+your opponent response in both lines
+being mixed whichever line you
+understand fully and can execute best or
+in which you induce the most mistakes
+from your opponent will be the highest E
+Line take this turn spot for example we
+can either bet or check our hand in
+theory however after we check we must
+now raise our hand versus a riverbat at
+a high frequency but if we instead check
+turn and fold the river the turn would
+no longer be indifferent and batting
+would be the highest a strategy what
+often happens is that players start
+randomizing hands without understanding
+its incentives in both lines they then
+end up clueless on where they are at at
+the hand and later streets leading to
+more randomizing and mistakes as they
+fil to plan ahead bonus bad habit the
+blocker fattish when we are stuck in
+defensive poker have to thinking and
+failing to plan H ahead to figure out
+how to best generate EV our
+decision-making process becomes a mess
+we then start looking for any type of
+handhold to help us make a decision and
+the most common handhold is blockers
+since solver strategies are perfect the
+only way we can influence our opponent's
+frequencies and gain the EV needed to
+make something plus v is through the
+impact of card removal AKA blocking or
+unblocking call or folding ranges while
+it's true that blocking or unblocking
+increases and decreases the chances of
+something happening in most real world
+situations this alone is not the
+difference between a play being plus or
+minus EV but instead it will only
+enhance or decrease the EV further take
+the following example we are on the
+river and deciding on whether we should
+Bluff our hand after having B the Flop
+and turn goes check check we see that
+the solver clearly has a preference for
+Bluffs that are not blocking the folding
+range while it is definitely true that
+this will decrease the percentage of our
+Bluff working it's not that relevant as
+the impact that this will have on our
+Bluff beam plus evv is simply too small
+so to have this very high up in our
+decision-making process seems pretty
+useless in reality there are plenty of
+other variables that will have a greater
+impact on the EV of our play play Then
+blocking or unblocking but since we just
+spend a 100 hours in the solver this is
+where our mind goes towards when having
+to make a decision this steady decline
+in win rate of professionals over the
+last few years has got me wondering are
+the pros winning less because the feud
+is becoming more GTO or are they winning
+less because they're trying to play GTO
+let me know your opinion in the comments
+down below if you liked this video hit
+that like button and subscribe to the
+channel if you learn something chances
+are you're going to learn something in
+this video here as well so go check that
+out see you guys there

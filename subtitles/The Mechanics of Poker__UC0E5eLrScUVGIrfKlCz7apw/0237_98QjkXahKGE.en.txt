@@ -1,0 +1,4199 @@
+Kind: captions
+Language: en
+You can never tell that to yourself.
+That can never never exist in your mind.
+And if it does and you catch it. In
+today's episode, we're joined by Belgian
+highstakes entity player Thomas Boyin.
+With a background in engineering, Thomas
+has developed a structured and
+analytical approach to poker. You know,
+analyze the impact of one parameter. So,
+you only change that parameter. You put
+it in a few different situations and you
+see different outputs and then you draw
+a conclusion. His obsession with
+continuous improvement has led him to
+study peak performance, mindset, and
+biohacking, reading books, taking
+courses, and working with top coaches to
+refine his edge. I like to deconstruct a
+topic. I save all the handy stories
+online where I have a question where I'm
+not sure, right? And I put them in
+categories. And after a month, I look at
+which folder has the most handy stories.
+If it's five bet spots and I have one
+hand per year, I don't really care. I'm
+not going to go into that biggest icing
+pressure you have on yourself. So the
+biggest rispium, however you call it,
+the biggest pressure, the less you want
+to put money into the pot on textures
+where the nuts is going to change. When
+do you think simplification is overdone
+and kind of hurting your EV?
+Oversimplifying would be you can bet
+range one/3 every board and I think
+nowadays it's not great. And in poker,
+you really need confidence because many
+decisions you can never know if they
+were good. You can never know if the guy
+was actually folding top pair, but this
+time he had trips. And so it takes a lot
+of reps to build that confidence. And
+the more confident you are, the less
+validation you need. But yeah, I've had
+similar experiences where I thought I
+found something and then solver found a
+way to remind me that he is omnicient
+and smarter than me.
+And it was a humbling experience.
+Thank you guys for tuning in to what's
+going to be another great episode of the
+Mechanics of Poker podcast. Quick
+announcement, we have seats open for our
+Mechanics of Poker coaching program. If
+you want to work with me and Adam and
+have us help you make more progress in
+your poker career, you can apply using
+the link down below or go over to
+mechanicsofpoker.com. Without further
+ado, guys, enjoy this episode. Thomas,
+by degree you are a civil engineer
+specialized in mechanics and energetics.
+From what I know, engineer engineering
+is all about the problem solving,
+creating structure and analytical
+thinking. I'm curious, how has that
+background shaped the way you approach
+poker and being a poker professional in
+general?
+Um yeah, it has definitely I think
+shaped my approach to the game in the
+way that I think there's two things that
+I learned probably I mean there's more
+things that I learned hopefully but two
+things the main two things that I have
+in mind that I can uh use in poker all
+the time. The first thing was just that
+I had to study uh at least a decent
+amount of you know hours in order to
+graduate. uh I wasn't the study the
+student who studies the whole year
+throughout but one month before the the
+you know examinations I would spend 14
+hours a day for four weeks to binge
+everything and study very hard and so
+when I came to poker and then it was
+time to study again uh it was pretty
+easy for me to put on two hours a day or
+something like that seemed very light um
+compared to what I before like doing my
+degree. Um and I think another thing is
+clearly what you mentioned is like the
+analytical mindset problem solving. Um
+basically the scientific uh method where
+you want to you know analyze the impact
+of one parameter. So you only change
+that parameter. You put it in a few
+different situations and you see
+different outputs and then you draw a
+conclusion. and you say, "Hey, when I
+change that only, it goes in that
+direction, right?" Then you do the same
+with another parameter and it goes in
+the other direction. And then when you
+do that with all the parameters,
+eventually you kind of have an idea of
+how the game moves, you know, left and
+right based on tendencies, based on
+profiles, based on ICM, like all those
+stuff. And this kind of understands this
+kind of experimental mindset, right? I
+think you you know just like many
+players obviously you use a solver and
+like you said you can change one thing
+in the solver and see how that then
+impacts strategy and then instead of
+learning okay this is what I have to do
+in this spot it's like hey this is the
+key parameter that drives this spot
+going from either left to right do you
+recall any like big aha moments you had
+like playing around with these
+parameters
+uh yeah for sure one of I feel like the
+parameters that I was shocked by how
+sensitive believe it was is for example
+the three bet on the flop. So let's say
+your opponent bets C bets range button
+big blind right and then you're in the
+big blind and you can check raise. Um
+now the check raise frequency is going
+to be impacted by many things but one of
+the thing that impacts it pretty u
+widely is how much after you check raise
+your opponent will three bet. So
+essentially sometimes they just have to
+let's say they see a two big blind you
+check raise six big blind and they have
+to show 40 bigs you know with over pairs
+with top pairs and a few bluffs and that
+seems like something that rarely happens
+and so you could think that's probably
+unimportant. Um but in reality you tweak
+that a little bit you make your opponent
+shove a little bit less 50 bigs in your
+face on the flop because like
+realistically that doesn't happen very
+often. um solver does it let's say 12%
+you node lock to 8% or 7% and then
+suddenly you can check raise maybe twice
+as much from 18 to 36 so clearly that
+was a ha moment when I verified it and I
+did it many times and I was like okay
+that's parameter is super sensitive and
+there's there's a few like that on the
+flip side any parameters you played
+around with they were like hm this is
+pretty useless
+um well I I thank my selective memory
+for not having anything in mind right
+now. Um, yeah, I I probably tend to
+forget them right away. Actually, I had
+a similar experience with with what you
+mentioned. It was uh uh we were we were
+playing around with this exactly the
+same spot was blind versus blind. I
+would raise the flop. Um, and you know,
+I would not have him three bet the flop,
+right? So, I imagine, okay, well, if if
+he if he if if I don't allow him to
+three bet the flop, I should probably
+just always raise, right? because he
+cannot free bet. And then I was playing
+around with the solver and I was like,
+"Hey, he's not raising that much. I
+would have imagined what's going on."
+And then I figured out that the solver,
+as smart as he is, he
+pre-app he he he adapted. He was like,
+"Okay, I cannot throw at the flop.
+However, I can call your race." And then
+suddenly on the turn, he had like a 50
+to 60% dunking range. Like, exactly.
+That [ __ ] you know, you
+understand? Did did you ever have a sim
+similar experience where basically the
+solver sort of outsmarted you? Yeah, for
+sure. That's a good example that you
+mentioning. We call actually that the
+like the the the check raise of the
+passive uh old man. That that's what we
+call it the the check call turn lead.
+You know, you see that I don't know all
+old guys doing that on the parrot board.
+They're gonna check call 105 and then
+lead turn deuce. And basically they have
+a trips. They just didn't dare to check
+risk. But yeah, I've had similar
+experiences where I thought I found
+something and then solver found a way to
+remind me that he's omnicient and
+smarter than me and
+humbling. It was a humbling experience.
+Yeah. Uh wi with your engineering
+mindset, you already mentioned uh that
+it helped you studying, but I can also
+imagine it helped you with your study
+process and especially how you structure
+it. How do you systematically approach
+studying poker like from a engineer
+mindset? Sure. Um, so like I said, I
+like to deconstruct a topic. So for
+example, what I do, I save all the handy
+stories online where I have a question
+where I'm not sure, right? And I put
+them in categories and after a month I
+look at which folder has the most handy
+stories, right? If it's five bet spots
+and I have one hand per year, I don't
+really care. I'm not going to go into
+that in in depth. But then there's BVB.
+Maybe last month I had 20. Uh then I'm
+like, okay, this is really a spot where
+I have a lot of uncertainties. And so
+I'm going to tackle BVB limpot. And
+yeah, I really like to have a global
+overview frequencies, then I go in
+depth, strategies, then I go in depth,
+simplifications, I look at exploits. And
+so I'm basically going to spend maybe
+two weeks just doing BBB uh because I
+really want to kind of finish that topic
+before moving on.
+So you kind of use your own uncertainty
+in a spot as kind of a compass towards
+what you have to put work in.
+Yes. Uh I do either that or what I've
+done for example we did a map with a
+friend Kenny Hollard. Um we did a map of
+what nodes impact the win rate and in in
+in uh which fashion. So basically we had
+three bet pots, PVB, single race pot,
+you know, everything you can think of.
+And then we took a big database and we
+kind of looked, okay, three bet pots,
+they involve that many big blind, you
+know, over time, uh BVB, that many big
+blind on the flop for like, etc., etc.
+Uh and then you cross that with the
+frequency of the spot, right? Single
+race spot, small parts but very frequent
+blah blah blah. We crossed everything
+and the answer was basically how much
+does that node impact your win rate. Is
+it a lot? Is it medium? Is it not at
+all? Like I mentioned six big pots. The
+pots are giant but it never happens. So
+it doesn't impact your win rate at all.
+Right? And so basically we did that and
+then we just I just prioritize. Okay,
+I'm just going to tackle what impacts my
+win rate the most. That's where I want
+to get really good. Then I went second
+layer. What impacts the win the min rate
+the win rate like you know in a medium
+fashion. Uh and I probably never got to
+the the small stuff. No six back pots.
+No six pot. I'm a fish in six pot. Uh
+actually it's very similar. We we had a
+podcast with um with Patrick Howard and
+I think we talked similar like in a
+similar fashion. Then we talked about
+textures. Then we talked about mono
+boards and then I asked him a question
+about it. He said, "I don't know and I
+don't care. It never happens." Yeah.
+Which which was a good answer. Like in
+in cash games like I use a very very
+similar approach. Frequency of spots uh
+pot size. What you mentioned like your
+own skill level is definitely a variable
+to take in consideration. I think also
+the skill level of your opponent is a
+very interesting one. So in general,
+it's worth putting more time into a spot
+where on average the population leaks
+the most because basically then your
+return of investment of putting time in
+that spot because you can come up with
+better exploits. You know, there's more
+to gain. So there's like a couple of
+variables here. Obviously in cash is a
+bit easier because it's always the same.
+How do you then measure in phases of the
+tournament? Yeah. Yeah, that's
+definitely complex. Um I think that was
+a good analogy, a good example you gave.
+For example, recently I started to work
+way more on postrop ICM and that's kind
+of a new topic. It's kind of a new world
+uh that opened to us recently with
+solvers being super fast and we can now
+really study that part of the game
+efficiently. Uh but that's clearly a
+topic where if you would if you watch
+streams even high stakes um you see
+people doing a lot of stuff nobody knows
+if it's good. And that's kind of what
+you're mentioning, right? If you put 20
+hours there, you're going to become the
+best ICM postal player in the world.
+Honestly, like I'm oversimplifying, but
+that's a little bit how it feels right
+now. In one year, it's going to be
+different, of course. Um so yeah that's
+a good way to also I think direct or
+study um or at least I think it's a
+really rewarding one because like you
+mentioned you you end up having a big
+edge after 20 hours of study whereas if
+you want to have a big edge in single
+race big line you have to put you know
+100 I remember actually we also did a
+podcast with with Jono and I think he he
+mentioned 80% of a study is pre flop and
+ICM because he says that's that's like
+where where ref is going to be by far
+the most frequent, right? And ICM is
+going to have the biggest impact in
+terms of on your win rate. Would you
+would you say your your study ratio is
+is similar? No, I don't think so. I
+don't do so much pre flop. Um, and yeah,
+I'm more of a post flop studier, if you
+might say. Uh I do ICM of course so
+maybe something like 20% pre flop
+um 40%
+ICM including post flop and 40% post
+flop
+GPV you mentioned that nowadays it
+become is or at least we have now a
+model to study right with postlop ICM
+when that came out any any any
+realizations you had like oh I was I was
+I was pretty bad at so many so many so
+many textures I was betting way too
+often um as a covered stack for example
+so many textures I wasn't leading as a
+covering stack from the big blind uh so
+many textures I wasn't putting big bet
+you know in as the big stack so the big
+stack can actually play pretty splashy
+in some spots uh and I didn't think that
+would be the case because we always have
+the wide range we face tight range Um
+but that doesn't really matter in some
+spots where we overrealize our equity uh
+they have a big risk premium so they
+overfold or obluffs you know are making
+more money and we end up being splashy
+with a lot of big bets. So yeah lots of
+spots where I learned a
+lot if you I feel like you know
+especially in entities because it's so
+it's so diverse so complex there's so
+many so many things going on it's really
+valuable to zoom out. So if you if you
+look at what you learned in posttop ICM
+and you kind of zoom out what's what's
+kind of the main principle or the kind
+of the main takeaway that people should
+should keep in mind because like all the
+specific spot that you mentioned they
+all have to do with the amount of
+pressure you can you can put on your
+opponent given given the ICM
+restrictions right that's kind of the
+the the the bigger topic. Yeah. Yeah.
+Exactly. That's the zoom out. Uh the
+zoom out is the biggest icing pressure
+you have on yourself. So the biggest
+rispium, however you call it, the
+biggest pressure, the less you want to
+put money into the pot. Um on textures
+where the nuts is going to change,
+right? So on a ace queen six rainbow, if
+we have a tight range, we can have big
+bets, everything that's fine. But on
+those textures where the nuts is going
+to change. So let's take a king 56 flush
+draw. Now that's a completely different
+story because on many turns and rivers
+uh we don't want to stack off anymore
+with aces and ace king. And when we have
+a big pressure these are the flops where
+I feel like population bets way too
+much. I was betting way too much.
+Sometimes we have to check back a ton
+even some ai boards a45 you know those
+kind of texture. So when we have a big
+pressure, don't bet too much those
+textures. And then vice versa, when you
+are the big stack and the other guy uh
+is going to under realize equity because
+he has a big pressure, you can easily
+bet pretty much any board uh range like
+versus the big guy. There's a few
+exceptions, but yeah, that's that's a
+pretty interesting finding because like
+in in cash obviously because the SPR in
+general is bigger like the equity
+retention and how the N is going to
+change is way more important. I always
+thought that in tournaments because you
+know SPR is smaller it doesn't really
+matter but now you've thrown ICM in the
+mix and now now it flips again. So that
+that's that's why ICMS is very very uh
+tournaments is very interesting because
+you think you know something and then
+you add a new parameter right a new
+variable to the equation and then it
+suddenly does something else. Is that
+also something that keeps you excited
+like from from kind of digging into your
+story you seem like a very curious and
+and motivated guy. You you really seem
+to really love poker. Is it is it
+because the complexity of it? Yeah, I
+think so. Of course, there's, you know,
+all the good hormones you get when you
+deep run and when you win, and that's
+super exciting, but I don't think I
+would be that deep in your game. That
+would be super simple. Like, it's like
+you said, it's very exciting to keep
+learning. Is that also one of the reason
+why you you chose I don't know how
+conscious this choice was to play MTTS
+for example compared to cash games
+which from what it sounds like you know
+obviously it has its own type of depths
+but it is has less is less I remember we
+had a podcast with I think it was good
+enough he said cash game is deeper and
+entities are wider I thought it was a
+pretty interesting interesting
+comparison yeah definitely yeah I for me
+it was just more to play MTS like I
+basically started with sit and goes
+because cash game was yeah a little bit
+boring for me and s and goes was like a
+tournament but that if you just want to
+play one hour and a half that's fine uh
+uh and and because of being at
+university that that was the way I was
+playing poker uh but yeah it's mostly
+for the fun and the probably the
+diversity of of the spots like you
+mentioned um but I think it's just you
+know naturally just more exciting to
+have a final table uh being able to win
+big and then those kind of stuff. Um,
+that's probably what got me in. As a as
+an engineer, uh, very structured,
+systematic, how do you go about the
+process of continuous improvement? I
+feel like many players leave improving
+as a player up to kind of randomness
+like wherever they feel like they should
+put time. Now, you already kind of
+mentioned, right, for example, that your
+study approach is way more systematic.
+you put more time into the spots that uh
+uh that get you the highest return. How
+do you approach
+uh improving as a
+player in terms of like the whole the
+whole spectrum? Yeah. So I think for
+sure there's probably one big league of
+a good part of the population, the pros,
+right, that that don't maybe accept the
+truth that is that if you want to be
+competitive, you you have to evolve with
+the game and with the population. Um,
+for me honestly, I would say the the
+key, the number one key is just
+discipline because I know I have to do
+it if I want to stay competitive. Now,
+it's fun to discover something. It's fun
+to sometimes find uristics and stuff. U
+I also like coaching a lot, which I will
+mention in a in a minute. But honestly,
+eventually I do it because I have to do
+it. If I could just play main events
+across the world and be the best player
+in the world, that's probably what I
+would do. Um but realistically speaking,
+I know I have to put in the work and so
+I just do it because I have to do it. Um
+but I kind of found the form the magic
+formula for me when you say really how
+basically do I practically doing uh do
+it is coaching. Uh I realized a few
+years ago that
+coaching forces me puts some kind of
+positive pressure on me where you know I
+book a session with somebody and they
+want to work on post flop ICM I have to
+know my stuff. I have to do some
+researches beforehand and I'm going to
+get some tough questions and sometimes
+I'm not going to know it. I'm going to
+do the research afterwards and so
+eventually coaching really pushes me to
+evolve as a player with some kind of
+positive pressure where I don't have to
+decide myself hey today it's Friday I
+have to study six hours. Um yeah for me
+that works really well.
+How do you structure a coaching session?
+Um so it really depends what kind of
+students what kind of programs but
+essentially let's say it's a one-on-one
+and the student wants to work on a
+specific topic for example BVB limpot
+um usually what I do because now after a
+few years I start to have like a pretty
+extensive library of material and so I
+take the material I have and then we go
+in together and I'm going to say okay
+this is what I have um these are the
+important stuff. Where are you at in
+your journey? What do you know? What's
+your strategy in that spot? You know, uh
+we can we kind of feel where he is at.
+Um and then we start from there and we
+at the same time deepen the knowledge,
+right? And say, hey, look, there's this
+strategy or there's this uristics and
+there's this stuff. And also we focus on
+their population because you know a cash
+gamer transitioning to MTT or a live you
+know player in USA or an online rag or
+live player in Cambodia. All those guys
+they play different population and so we
+kind of focus on their population and
+we're like okay what are the main
+exploits we can get in that node right?
+How is your population playing? Are they
+doing that too often or not enough? and
+we find exploits right away. So that's
+kind of how I would structure it. So we
+start from theory, equilibrium,
+overview, we go a little bit deeper,
+more theory, more accuracy, and then we
+switch to exploits versus
+population. Yeah, I like that. I like
+that structure. I feel like especially
+in the past, for example, I don't know,
+I think you've been playing for 10
+years, may maybe you were there already
+in the pre-olver era, but in pre-olver
+era, if you have like a pyramid, we're
+only playing poker like here at the top.
+We're just trying to figure out what our
+opponent has and try to make an optimal
+decision. It was pure exploitative base,
+right? Yeah. But now with solvers, we
+gained like a certain fundament below
+that like if you don't know what your
+opponent who your opponent is, basically
+the level that we have that we fall back
+on, I think is way more solid nowadays
+if you have good theoretical
+understanding. And from there you can,
+you know, make very good exploits,
+right? Um, also in order to make a good
+exploit, you first have to know what's
+what's correct, right? I remember when
+when some of us came out, I was doing
+things that I thought people were doing
+wrong that turns out it was not wrong.
+So, I was just exploiting myself, right?
+Um I'm I'm really curious how someone
+with an engineer mindset like yourself
+approaches the process of like building
+that foundation, right? Let's say the
+process of strategy building or strategy
+development. How do you take like the
+raw theory like so from solvers or data
+and turn that into something practical
+that you can actually apply to the
+tables? I think that definitely
+something people struggle with, right?
+That that translation of okay, I have
+this in theory. How do I turn this into
+a practical strategy that I can start
+applying? Yeah. Yeah. Yeah, for sure. Uh
+I would say like so I come from just
+pre-solver maybe when they started to be
+more coming out but not super popular
+and the guy who kind of told me MTT when
+I was transitioning from sen go it was
+purely exploitative as well really like
+you think he overfolds bluff range you
+feel you think he under bluffs fold
+range like really very exploitative then
+I got to studying I really like the
+baseline because then I could tweak a
+parameter like I told you and in game I
+could decide, hey, I think that guy's
+going to overfold. It's just so hard to
+defend here. I'm just going to bluff a
+little bit more often every single time.
+Um, I want to stay focused on your
+question, but it's because it it remind
+me of some kind of journey. Then after a
+few years, there was really one year
+where I got too deep in the solver and I
+started to only play or try to emulate
+GTO and and and re replicate thing I
+would learn but in equilibrium not
+exploiting enough having a little bit
+paranoia like oh if I you know if I fold
+this combo he's going to exploit me
+because I overfold. Um and that year
+coincidence or not that was my worst
+year in like seven years. uh stopping to
+listen to my intuition, stopping to play
+exploitatively and try to play
+equilibrium was my worst year and then I
+had talks with some people and then
+again they was like hey but how were you
+winning before and like I was more based
+on intuition uh studying a lot but
+exploiting a lot and like and why did
+you stop and anyway we question and then
+I came back to the collision okay nobody
+plays perfectly there's no equilibrium
+nobody's omnicient um and so it's really
+important I think starting to get back
+to your question um to study, know the
+baseline, know how parameters are
+moving, but the end goal and the only
+goal is that at the table you own your
+opponents day and night. And so if we
+play one night together, of course you
+can do whatever you want. Um it's
+different than if you play three years
+together online, but there's still so
+many nodes that it's just naturally
+going to be really hard for you as a
+human to play correctly. And the more
+you can identify those hot spots, the
+more you can put pressure in those spots
+and over bluff slightly, overfold
+slightly because it's really hard to
+find the bluffs, that kind of stuff. Um,
+yeah, for me the goal is really to
+understand the game very deep. That's
+why I study. And then in game, it's a
+lot of one or zeros. There's a lot of,
+you know, over bluff, overfold,
+uh, over check back, but it's not like
+randomized
+67% calling on the river. For me, that
+makes no sense. I I don't think that's
+exist in in practice. I think you always
+face ones or zeros.
+Yeah, because I I I agree with that.
+Like sometimes when I hear or see
+someone roll, I'm like, okay, so when
+you roll, there's two assumptions that
+you make. You're assuming that this guy
+plays that GTO that you need to defend
+that GTO that overalling this hand more
+than 40% of the time or less is actually
+going to be a leak. And second of all,
+you're telling me now that you know this
+hand is 40% calling and 60% folding.
+Both things I don't think will ever
+apply. There's one instant in which I do
+actually like an RNG, uh, which is, for
+example, let's say you're a station on
+the river and you just always press
+call. Yeah. Then sometimes you should
+maybe when you feel like it's close it's
+probably not you you understand your
+intuition is a little bit biased then
+running the RNG in in those spots at
+least folding your hand 50% of the time
+if you really don't if you really don't
+know then at least you can protect
+yourself from your bias constantly
+impacting your game if you understand
+what I mean for example I'm naturally a
+bit more risk averse so I would find a
+reason to fold so when I feel like it's
+close I'll run the RNG and do it 50/50
+not because I need to defend 50/50 but
+just to protect
+myself if that makes sense. Yeah, for
+sure. I think it's smart. I think
+there's a few nodes where RNG makes
+sense, namely pre flop when you know you
+play that all the time. Let's say you
+play bet from the big blind, very
+shallow, you know the combos, but you
+know it's 20% here and there. Uh yeah,
+it's the same if you don't want to
+overdo it. Every time you think, "Oh,
+that's a great spot. I'm going to three
+bet." Um if you don't want to overdo it,
+RNG makes a lot of sense. But I agree
+with you.
+Rivers honestly I would say it shouldn't
+apply. Like we do it because we are
+maybe afraid to make a mistake. Uh but I
+would say
+that in practice versus the ranges we
+play, there's probably never RNG, right?
+If we would have an AI bot that could
+know everything that's happening, he
+would probably never RNG. He would have
+pure decisions with everything. Yeah.
+And he would he would outsmart everyone.
+So for for sure he would he would just
+completely annihilate you. Uh you you
+mentioned that that year where you went
+too far into into theory, right? You you
+went a bit too far and later you kind of
+found found the balance even though that
+year wasn't great. What were like some
+things that you did learn from going
+very deep in theory that you took with
+you? H but maybe applied in a in in a
+more practical way. Yeah. Um I think
+just all the study I did was not for
+nothing and I learned a lot of stuff. I
+was just not utilizing it properly. But
+the year after I had all that knowledge
+that I accumulated but now I was able to
+think as a strategical mindset. How am I
+going to use it? How am I going to
+exploit those guys? How am I going to
+deviate? uh in final tables, you know, I
+don't need to take something that's
+close because there's nothing that's
+close. Either that guy is under three
+betting, either he's over three bidding.
+So, I just starting to use my intuition
+more. Uh but I had much more baseline.
+So, you know, I had more spots where I
+knew how I could exploit. So, that was a
+good thing. Uh I just had to wake up on
+how to use it.
+Do you feel like you also got kind of
+lost because for example obviously a
+solver very important tool. I feel like
+there's multiple things you can learn
+from a solver. You can learn indeed like
+how the parameters impact strategies.
+You can kind of try to understand why
+certain hand classes prefer certain
+things. So there's a lot of things but
+then you have like the actual range
+construction like you said the frequency
+which which is a bit more built around
+GTO strategy whereas the other things
+are more poker theory. you think you got
+a bit too far down trying to play a GTO
+strategy and later when you evolved just
+like huh the actual GTO strategy doesn't
+really matter but the underlying
+concepts are very valuable.
+Yeah. Yeah. It's exactly that. It's uh
+being too much into the overall strategy
+um into the frequency into you know
+never getting exploited and so yeah
+really like an overall strategy like you
+say. Yeah.
+A lot of uh a lot of players you know
+they talk about the importance of
+simplifying your strategy. I think
+that's also something that you mentioned
+in terms of making it practical.
+Simplification however can have very
+different uh can mean different things
+to different people right how simple for
+you might not be the version of simple
+for for someone else. Do you have maybe
+an example of how you simplify and kind
+of where or when do you think
+simplification is overdone and kind of
+hurting your EV? Yeah. Okay. Um I think
+typical example would be for me in
+position versus big line especially
+from a middle position and early
+position when we have a tight range um
+that is very strong on many boards.
+Oversimplifying would be you can bet
+range one/ird every board and I think
+nowadays it's not great because people
+have been facing CBET 1/3 for 15 years
+and it's it's hardly challenging from
+big blind anymore right 15 years ago it
+was killing because people were
+overfolding and under check raising and
+everything but it's not the case anymore
+um and if you just do CBET range but
+having two sizings one very small one 20
+25 one very big one 100 125
+uh first of all you gain EV even versus
+GTO bot it's like a more advanced better
+strategy by a significant margin so it's
+not like having five size compared to
+four where it wouldn't matter like this
+is actually a real difference uh but
+second layer is that the human is now
+going to be way more challenged when you
+be hund um and when you B20 as well
+because now that you have the Bund B20
+is actually weaker and so they should
+attack it way more uh but probably
+people don't think oh it B 20 but I
+remember 6 months ago he behind that
+spot so I have to defend more aggressive
+you know no so that would be an example
+where people oversimplify and miss out
+on quite a lot of EV in my opinion I'm
+curious like when when when building
+strategies uh like you already just
+mentioned right imposition is initial
+razor you you you found like a strategy
+basically that the population has a
+tougher time defending against, right?
+When building strategies, do you
+approach situations differently? Whether
+you're the aggressor, so like the
+initial razor or the defender since like
+when you're the aggressor, like in the
+spot that you you just explained, you
+kind of drive the action, right? You put
+you enforce a strategy that your
+opponent has difficult time playing
+against on the other. Whereas if you're
+the big blind, you have to react. So do
+you approach studying these situations
+in a different way? Yeah. Um I think the
+main difference is that there's more
+uncertainty in what kind of strategies
+are being used when you are in big blind
+because it doesn't matter which size you
+face. You eventually don't really know
+at what frequency he uses it. There's
+tails of course if it's 25% on NI board
+is probably range but you know on some
+other textures it's harder. So what I
+like to do is just
+uh study how I'm supposed to react in
+different situation. So let's
+say it's a dynamic texture queen 96
+flush row and I face B 23. Um next time
+I want to study that spot from the big
+blind, hopefully not while I'm playing,
+uh is going to be look at the solver and
+look at the different options. First of
+all, what if my opponent can check bet
+small B23 and then I see, okay, this is
+my defense. Next option, what if my
+opponent just check B23. Okay, these are
+the differences. Next scenario, what if
+my opponent best range 23? Uh this is
+how I react, right? And so you get
+again, you know, three baselines. Um and
+then in game depending on your opponent
+you can make assumptions and maybe you
+merge number one and number three uh
+check raise more but do this and do
+that. So there's more guessing but again
+having a couple baselines under your
+sleeves it's going to help you in game
+figure out even if you have to merge two
+solutions
+together. I'm always a big fan of when
+when when I study spots, I always like
+to first start I always give people the
+recommendation to first start with the
+the spot looking at it from the
+aggressor perspective because it will
+really help you when you're the defender
+because the defender is more about
+trying to figure out what your opponent
+is doing wrong and exploit that. And in
+order to know that you first must have
+studied, okay, what was correct in the
+first place, right? And usually when you
+look at the solver, especially in like
+for example this situation, you say,
+"Okay, queen 96. Okay, I'm going to play
+a mix between check one/3 and big bet.
+Okay, I'm going to be very sensitive to
+screw up this range construction here
+and there, right?" And when studying
+that, you can then use that knowledge
+when you're in the big blind and be
+like, well, he's also human, so most
+likely he will also have trouble, you
+know, making his big bat a bit too
+equity driven, a bit too strong, and his
+his weak bat a bit too full of [ __ ] So,
+so from there you can uh you can make I
+think very very good exploits. Um yeah,
+100% agree. One struggle I actually see
+a lot coming up also in our in our own
+coaching community is how to optimally
+document uh your study notes and your
+findings, right? Uh have you found any
+particularly effective ways to document,
+retain and structure poker knowledge
+over time? Yeah, actually I think that's
+also something I take from university.
+uh more structure approach, you know,
+taking notes, taking doing summaries. Um
+definitely I've started to do that
+pretty early. I mean, I think there are
+different tools. I'm not like the most
+um like I have a method. I like it. I
+keep using it. I'm not going to look
+every year for a new tool. Uh but I use
+a document like Quip, for example, where
+I can do all my summaries. You can put
+screenshots, you can put links, you can
+put like a few things.
+Um, yeah, I I usually do one document
+for one node. So, you know, three bet
+small blind versus in position, that's
+going to be one big document. Big blind
+versus in position, that's going to be
+another document. Um, so I have a bunch
+of documents. Then I have a document
+that I called Mark's daily spot, which
+is just anything I come across that I
+don't know, it's like a river five flush
+lead all in with range. Uh, okay. That's
+like weird and interesting, but halfly
+useless, but I didn't know the answer
+and and I learned something new. So
+maybe I copy paste it in the martm spot
+and when I have 15 minutes I want to
+mental warm up or something, I just
+scroll and look at the I don't know the
+five most recent spots for example that
+I learned
+something. That would be my method. Um,
+but I have friends who have more
+advanced method. For example, they do
+memory cards. So everything they learn
+they put in memory cards and then they
+quiz themselves and it's it's very
+dynamic. Only the wrong answers come
+back with time. So you know it's it
+increases memory retention like uh yeah
+it's it's too advanced for me and I
+don't like to uh do those small things
+but uh these guys are learning fast and
+for them it works really a lot. So I
+guess it depends on your style but there
+are some great tools available I would
+say. Yeah, we had a we had a podcast
+with uh I think it was Yolan. He used to
+be a memorization world champion. So
+maybe if you want to learn something,
+you can go check out that episode for
+people interested. He also talked about
+the like best tactics for like me memory
+retention and stuff. Uh was was
+definitely uh very interesting. So what
+it sounds like you basically have the
+book How Thomas plays poker like your
+your baseline strategy, your foundation.
+Yes. I think it's very important as well
+that you mentioned that you have
+summaries. So you have kind of a summary
+on how to play every spot because
+sometimes I feel like if you study a lot
+and you have a lot of pieces to the
+puzzle, but you don't summarize it at
+the end, aka you decide what your
+strategy is going to be and put all the
+the puzzles together. If you then find
+something in game, you can have all
+these pieces of information, but you
+haven't really structured it. How
+important is like that summary for you?
+Yeah, for me it's pretty important.
+There are so many spots that are so
+complicated and for me it has helped to
+have that summary because I like to
+understand why something is happening.
+But yeah, eventually like you say, you
+understand a 100 stuff. But eventually
+it kind of helps if you have just one
+small table with four different textures
+of ASI, you know, ace high X is low is
+midm. Okay, that's three categories. Uh
+and then you have big uristics. Hey, on
+all of these we actually have big bets.
+Uh but on these ones we never have big
+bets. So small table, you know, few
+simplified strategies for me that's very
+helpful.
+Being organized uh off the table also
+will help you uh and will translate to
+being structured in your in your in your
+thought process right in game. How do
+you structure your decision- making
+process while playing? Are you like
+deliberate about the key factors that
+you want to consider and then how has
+this evolved for you over the years? Um
+probably dare I deviate from the
+stereotype engineer. I'm more like a
+little bit I'm not going to say feeling
+but I'm like okay I'm like this is this
+this is the spot he's supposed to do
+that he's supposed to see that much that
+sizing I'm supposed to check raise that
+but he's supposed to react that way uh
+so it goes really fast of course I let
+the infusion do the work uh and then I'm
+like okay then I'm going to check race
+that combo very aggressively because I
+think that's the best way um and then I
+already think okay that means on the
+turn maybe I have to readapt but yeah I
+don't really have like a list five
+questions like myself every river for
+example um yeah I'm more like letting my
+intuition do the work rather than
+controlling the thought process
+there's obviously you know intuition is
+is very helpful right because if we
+would really write down everything we
+consider in a hand that that is indeed a
+lot of thing right so if you make that a
+conscious process will will burn out way
+too much uh way way too much brain power
+like I said there's infinite variables
+we and think about blockers, bet sizing,
+timing tells game flow. There's so much
+things to take in consideration. If you
+had to rank like the most important
+things to take in consideration when
+making a decision to so like the thing
+that has the greatest impact right on
+the EV of your decision, what would be
+at the top and what would be at like the
+bottom of the
+list? I think the top eventually is just
+technical analysis of there is a
+baseline. I think I know where it is and
+these are my assumptions on how it
+deviates, right? And then that is for me
+the most important. Sometimes it's there
+other things. There's the profile. The
+guy's I don't know 80 years old who
+hasn't played a hand like there's other
+things that you know you kind of really
+want to take into account over that. But
+then the answer is just okay he has way
+too many bluffs like that's and I found
+in my experience that that is the most
+important thing to to hold on right he
+has
+25 bluffing combos available per every
+value combos and I know he's a nit when
+it comes to value betting the answer is
+just call like it doesn't really matter
+anything else you know this is the most
+important for me this the technical
+side of of the the
+equation. Um, the least
+important or okay, for me personally, I
+think it's uh uh physical tails. I'm
+really not good at it
+and sometimes it can, you know, uh, put
+me in like question my my decision,
+maybe confuse me, maybe go against what
+I thought was the right move. And
+honestly, I'm just not good at it. So
+now I disregard it. Um yeah, I just
+disregard it. Now
+you you do play you do play a lot of
+life. Is that a area that maybe in the
+future you'll be curious in exploring? I
+I do understand what you mean. Like I've
+been in a similar situation where I play
+live very unfrequent then I sit and I
+see him acting a certain way and then
+it's like hey this probably means
+something but I have no clue what it
+means. So maybe I should try to ignore
+it. But then like but I did see it. So
+then it starts to you know it starts to
+creep into my decision making like why
+am I thinking about these things I have
+no baseline I cannot I cannot know if
+this is weaker or or strong. Yeah, I
+have worked. I followed some program.
+Um, it's just somehow feels like I'm not
+super talented at that. Now, I must say
+that of course in high stakes, I think
+it it's really hard to find reliable
+tails or at least for me probably some
+for some people it's not. Uh now of
+course if I'm going to play softer
+fields, lower stakes, WSOP main event
+like in those tournaments, yeah, you can
+see sometime some um sizing tails, some
+sorry, some physical tails, some some
+timing tails and I will use them, but
+honestly, usually they are like second
+or third degree because those guys who
+have tails probably have giant leagues
+in every single decision that they make.
+So again you know the number one
+parameter is going to be just uh the
+technical analysis of the spot.
+It's quite interesting that that you
+mentioned about uh about intuition
+earlier because I figured like engineers
+you know they will naturally be drawn
+towards data logic but obviously there
+is data logic right it's it's it's what
+you put it your time in offame and it
+feels like the time that you've put it
+in offgame right in that document we
+discussed right where Thomas how Thomas
+how Thomas plays poker that allows you
+to then in game
+go you don't have to think about your
+base answer anymore so it sounds like
+then in game, you can just look at the
+new information that comes towards you,
+which seems to be more like the
+exploitative layer, but you you can only
+do that because you don't have to think
+about the fundamentals anymore. Correct.
+Yeah. Yeah. Yeah. Um Yeah. Overall,
+overall, I would say is correct. Now,
+there are still spots where I do have to
+consciously think about the baseline.
+I'm like, what was it again here? Can I
+can I do that? What was the logic
+behind? Like, you know, it's really a
+complex game like like you mentioned.
+And so sometimes I do have to go back
+there. Uh but eventually I will still
+end up in do I think I can exploit
+somebody somehow like I I always like to
+play with those uh
+things. feel like I have something else
+in mind but tough remember what
+what are like some of your favorite uh
+tendencies or like that that you try to
+look out for in your opponents there you
+from which you know like hey if I can
+figure this out on my opponent that that
+will lead me to a a good plus V spot
+um I would say from both sides so when
+I'm the aggressor I'm usually going to
+think what is the defend what is the def
+the
+the bottom combos that have to defend
+like what are the toughest defend in his
+range in his strategy when I do a
+certain sizing and then I'm just going
+to wonder okay is he actually going to
+do that or not uh I think that is an
+information we can use a lot flop river
+um and then when we are facing the
+aggression I think it's a combination of
+how many unnatural bluffs does he have
+to have like does he have to have a lot
+of zero equity jack high nothing bluffs
+on the turn and on the river or not? Uh
+that's very important because some
+profiles are not very comfortable you
+know starting to blast off jack high
+nothing turn and river. Um and then the
+second one in contrast to that is you
+know how thin does he have to value bet?
+Is he supposed to bet bet bet bet bet
+bet bet bet bet bet bet bet bet bet bet
+bet bet bet bet bet bet all in with
+almost any top pair for 60 bigs? If yes,
+that's pretty hard. And so you can
+contrast those two usually and sometimes
+it leads you to a very clear decision.
+Uh easy to bluff, hard to value or the
+opposite very hard to bluff, easy to
+value, you know, and then you have a
+pure decision with your hand.
+Yeah, it's a great answer. So both kind
+of both again stem from first knowing
+knowing what's correct, right? you know
+that this is a spot where the bluffs
+have to come from a part of the range
+that's often unnatural so easy to be
+missed then on average if you look at
+okay best case scenario he does reach
+them and my call might be like zero EV
+right it's just indifferent hand in
+theory but if he does miss my hand loses
+a lot so probably not really a spot
+where I'm going to make a lot of money
+whereas in the in the other scenario
+that you said okay well you know this is
+a spot where people's fold allowance is
+very low right they have to defend all
+these hands that are They're very hard
+to defend. So, it's more likely that if
+he defends correctly, it's my hand's
+going to be zero, but it's way more
+likely that it's going to overfold. So,
+we should probably always pull a
+trigger. Yeah. Yeah. Exactly. Yeah.
+Intuition can often be used as like a
+super weapon, right? When you're really
+in the flow and it's it's it's pointing
+in the right direction, you feel like
+poker is easy, right? You make good
+decisions. But sometimes when things are
+not really going your way, especially
+when you're in a downswing or you made a
+couple of bad decisions in a row, it
+feels like sometimes my intuition kind
+of lets me down, right? I think I I've
+mentioned that earlier. For example,
+naturally, if I'm in a downswing, I
+become a bit more risk averse. So, my
+intuition just says fold, fold, fold,
+fold. He sets everywhere. You know, it's
+it turns very very pessimistic. Uh how
+do you make sure that your intuition is
+always spot on? And what are like signs
+that it's going either towards to the
+left because I I'm also sensitive
+towards the other side, right? If every
+like I I suddenly see hero calls
+everywhere. So I feel like it's
+impossible to always stay centered. So
+maybe we should talk about uh uh how can
+we spot the difference between good
+intuition and the impact of bias and how
+do we try to steer back to the middle
+and stay in the middle uh as as as much
+as possible. Yeah, I think it's a great
+topic, great question. Um yeah, it make
+me think that one of the way I think I
+notice that I'm not purely listening to
+my intuition. That's usually when
+there's some kind of dissonance in how I
+feel. So for example, I'm on the river.
+Uh somebody put me all in and I have to
+think do I call or not? And there's
+different part of me that kind of feels
+that they want to do different things.
+And that's usually because there's
+something else in intuition, right? Your
+intuition is telling you one or the
+other. And then a fear is telling you
+the opposite. So maybe your intuition
+tells you it's a bluff. Uh like it's so
+easy to overbluff. You know it it's hard
+to value bet. But then your fear is
+telling you it's 17 left in that 10k.
+The field is soft. I have an edge. I
+really don't want to bust right now.
+uh you know and then those two like
+which one do you choose? Um and I think
+also how how do you know which one is
+talking? Yeah, exactly. How do you know?
+Yeah. Oh yeah, of course. Which one do
+you choose? You know it if you know
+which one is intuition for sure. Yeah,
+you're right. Which one is talking? Um I
+had to learn it. I mean by fail and and
+like trial and failure. Um I had to fail
+many times and I had to question like
+you know I had that feeling many times
+like I knew what I had to do and I
+didn't do it. Why is that? How can it be
+possible that that I know what is the
+best play and I don't do it? What
+happened there? It's not logical. And no
+it's not it's not rational. It's
+emotional. And so I made the mistakes
+many times and then eventually I
+understood okay I have to perform
+emotionally really at my best in order
+to apply all that work that I do in the
+lab otherwise it's useless. If you're
+the most knowledgeable player in the
+world and you cannot apply it because of
+emotions it's a waste. Um so yeah just
+basically start to I started to be more
+um listening to the small signs. What
+can be fear? um like what am I fearing?
+Is it busting and the end of the fun? Is
+it looking silly in front of other high
+stakers? Uh you know, I felt them all.
+And so eventually I just developed some
+kind of more sensitivity to those things
+and I can recognize them. And if I can
+recognize him, then I'm like, okay, I'm
+afraid to look silly uh
+by bluffing this nonsense combo, but at
+the same time, I really think it's a
+good play. And so I nowadays I'm pretty
+happy of my performance and I feel like
+I always go with what I think is the
+right play. Um, and that means that I
+fail more often listening to my
+intuition. And that is more rewarding
+for me than failing because I didn't
+listen to my intuition. And then you
+have regrets, right? So I'm more
+satisfied with the failure nowadays
+because I followed my gut.
+Um, yeah. When you say listen, is it
+like a a pattern in the type of chatter
+you hear in your mind or is it when you
+say listen, do you mean like listen to
+what you're feeling in your body? Like
+how is the the sensation in your body
+different when it's good intuition or
+when it's fear? It's so hard to explain
+honestly. I have to think, put myself in
+the situation, see how I feel.
+Somehow I have the feeling that yeah I
+have this technical analysis that I feel
+is right you know and that like I
+basically I don't think too much I'm
+like okay I'm pretty sure that is right
+and I try not to listen too much the
+rest what's going on all the fears and
+all the stuff like I'm like okay I I I
+hold on to that maybe I'm going to use
+25 seconds just I'm I'm going to think
+what I have for dinner tomorrow whatever
+but I'm going to just Stick with that.
+Stick with that initial technical
+intuition, right? And not trying to find
+excuses to uh act like my fears want me
+to
+act. I I like I'm I I feel like I uh I
+can definitely relate a lot to what
+you're saying.
+Um I one thing that has helped me
+actually I remember I was playing live
+uh in Vegas. I don't play live that
+often. So, in general, I can be a little
+bit nervous. Uh, especially when, you
+know, the pots get bigger, you have real
+chips, you know, there's all stuff of
+real stuff going on. And sometimes I
+feel like I'm way too much in like a
+fight or flight spot. Something that
+really helped for me is that in in
+indecision, I would I would literally
+ask myself facts or thoughts and try to
+and try to make a difference between
+those two. And it's kind of a check-in
+moment that you try to stay with the
+facts. You you're trying to check in
+like, hey, is this facts or thoughts?
+where I feel like if you don't check in,
+your thoughts can just take over. And if
+your thoughts are mainly fear driven,
+I'm I'm sure players have experienced
+this, but then sometimes the hand is
+over, it's like, what the [ __ ] just
+happened? It's almost like you you it's
+it's gone black and it's like, you know,
+the the fear or the emotions have taken
+over like do these emotions still come
+up for you or do you think at
+some moment you have sort of resolved
+these fears, right? You you said, okay,
+you listen to what are these fears? Do
+you like give it a play so they don't
+come up or do they still come up and you
+learn like hey is it is it not a fact
+this is just a thought that the fault is
+fear driven let's stick to the fact is
+it more a process like that or at some
+point do you can you actually resolve it
+that it doesn't come up anymore yeah I I
+probably think you can resolve it that
+it doesn't come up anymore um I don't
+think I'm quite there yet however now it
+seems usually very obvious which one is
+which and you So I like for example to
+look at my card or at least one card
+before it's my turn when it's a shot
+clock tournament right so that I can
+think I can start thinking and I don't
+have to use a shot clock like a time
+bank for silly pre flop decision um
+let's say um hijack it's a final table
+first card is a four and then lowjack
+opens now I already know that maybe it's
+a good spot to three bet a four suited
+uh maybe it's a big final table it's
+high stakes there's a lot of good
+players
+you know, and right away I have those
+two things coming up. I'm like, okay, I
+know it's probably going to be a good
+three bet, but I'm like, my body starts
+to prepare and it's like, uh, we might
+go to war with this for student here and
+maybe I actually think it's a good three
+bet five and you know, my body started
+to prepare. I look on the reaction of
+the body, but I just know already what
+I'm going to do, right? I have decided
+this is the right play but the body
+feels it and the body is like yeah this
+is this is stressful uh but I have yeah
+now I can easily feel the difference you
+mentioned
+um thinking thoughts or fact and I
+thought that was really great and that
+made me think of something I do
+especially when I deep run is that I
+meditate even just a few minutes uh at
+every break even like three minutes Um,
+and there's a couple reasons why I do
+it. First one is just that the brain uh
+rests and regenerates much faster when
+you meditate than when you sleep. So,
+it's really really good, really positive
+for the brain. If you do that five
+times, 3 minutes AC throughout the day,
+it's going to have an impact on your
+sharpness, on your focus, on your
+stamina, everything. Uh but the second
+reason is to do some kind of exercise
+like you mentioned and sometimes I'm in
+a deep run and there's a lot of emotions
+and a lot of pressure and adrenaline and
+then you know you close your eyes take a
+few deep breath and then I ask myself
+okay what is my edge here in this game?
+Um what am I I'm okay I'm going to touch
+that after. What is my edge? What are
+the pressure points? What do I feel that
+I can do better than others? What are
+the spots where I feel like they're
+going to let the emotion take over? How
+can I exploit that? Right? I do that for
+one or two minutes and then I come back
+on the game and then I'm like, "Oh my
+god, I have to play like a degenerate
+over here. Maybe the past 20 minutes I
+was too passive actually under the
+pressure of the 12 left blah blah blah,"
+you know. Um, so yeah, that helps me
+disconnect, reenter. Feels like you gave
+it you you g you gave your mind a
+different perspective.
+Yeah. Yeah. Exactly. Yeah. You you cut
+some hormones, cut cut some fears,
+reenter, you know. Yeah. Keep the main
+thing the main thing. Uh winning this
+stuff. Big shout out to our sponsors.
+First off, Coin Poker. Coin Poker is one
+of the fastest growing poker rooms in
+the world right now. In a world where
+science seems to care less and less
+about the players, Coin Poker is showing
+good promise, listening to the
+community, and providing a safe and
+sustainable playing environment going
+forward. Join the action. Get 33%
+rakeback and 150% deposit bonus using
+code TMP or register using the link in
+the description down below. Next up, GTO
+Wizard. If you're looking to level up
+your game, let me tell you about GTO
+Wizard. It's got everything you need
+whether you're just starting out or
+already crushing it. You got tools like
+a hand history analyzer, a GTO trainer,
+and even a custom drills to help you
+sharpen your skills and make smarter
+plays. It's what so many guests we have
+had on use to dominate cash games and
+tournaments. Get started for free and
+get 10% off your first purchase using
+the link down below,
+gowizard.com/mechanics. If you sign up,
+you also get access to the weekly
+coaching webinars where you can learn
+from me and other great coaches. So,
+looking forward to educating you guys
+over there. But without further ado,
+let's get back into our episode with
+Thomas. I like that. Keep keep the main
+thing the main thing. It's kind of like
+the fact the facts are fun. Stay stay to
+the fact. Um yeah, great stuff, Adam. Uh
+this is a great time to include you in
+the conversation. you as a peak
+performance po coach. Uh actually there
+was there there was something that
+Thomas also said that I can definitely
+relate to as well. Uh where he saw the
+ace and he know this could end up in
+like five battle win. This is like again
+the fear, right? Fear often uh excels in
+like the future, right? It's not in the
+now, but it it excels in what could
+happen. So I I I I mentioned earlier,
+right, that when I'm in a downswing, I
+have passive tendencies. It's exactly
+for that reason. I'll find an excuse to
+flat a hand that I should three bet just
+because fear sees three betting as a
+potential bigger pot aka bigger threat
+and therefore it's I find a reason the
+RNG ruled the call for example you know
+it's really funny then how why the [ __ ]
+did I call well it was because fear
+steered you towards finding a reason
+that you didn't want to blow up the pot
+because you you were not really feeling
+confident right I feel like in general
+confidence in all sports and especially
+in poker, right? We see we see people go
+on heaters obviously there's partly just
+the the cards fall right but I feel like
+a very big part is just also well
+everything is going right for them
+they're in the flow right the cards that
+they get dealt sure they fall a bit
+better but what they do with it is also
+way better right so I feel like that's a
+very big part of poker that that I'm
+sure Adam will touch into uh right now
+with you Adam like how can we not I
+guess I have two questions for you how
+can we not get overwhelmed by all these
+emotions, right? If you like emotions,
+everyone struggles with that. Uh it's
+also interesting what Thomas said like
+yes, you're struggling now with these
+emotion, but imagine your opponents,
+right? Some sometimes we think it's just
+us, but it's not only us. They're
+they're also they're also afraid, right?
+And we can use that to an advantage like
+you said, oh, I should have been maybe
+playing way more aggressive. Uh but how
+how do you fix
+a a mistake that you made that you look
+at afterward like, oh yeah, I shouldn't
+make this mistake. I know this, but
+apparently I don't. H how do you fix
+what you How do you fix a problem that's
+actually not a problem because you think
+you know, but apparently you don't. What
+a topic. Wow. Okay, this one has been so
+interesting listening to you guys map
+out the whole framework of intuition
+versus fear. As I was listening, I was
+thinking what is like the dominant fear
+in most situations? And it's protection
+versus mistakes. It's like whether it's
+a bad call, you just don't want to look
+stupid, you don't want to lose. most
+fears are really in how do I not make
+the mistake? You guys were chatting
+about RNGs earlier and kind of due to
+your frameworks. A lot of those are like
+how do I not make a mistake? It's always
+kind of on and not messing up. So then
+we look at intuition and it was really
+interesting hearing Thomas speak about
+how you think about intuition and I was
+getting the sense of I trust myself. I
+trust myself in what my intuition feels
+like. Now we we end up on a bit of
+unsteady ground because the mind tries
+to label intuition. It's like, well,
+tell me all the stuff about intuition.
+Like, now it kind of just feels a bit
+different. Then we've got this fear
+that's competing with intuition often.
+So, we've got to map it out. So, as um
+Thomas mentioned as well with his
+examples, he kind of he knew what to do.
+He knew the decision, but didn't go with
+it. So, a lot of understand intuition is
+learn to listen to yourself and what it
+feels like. There's a lot of times where
+there's kind of these two voices. Oh, I
+should do this or should I do that? and
+they can feel like they've directly
+competed. But when the kind of emotion
+subsides and you're back into reflecting
+on it, you're like, "Actually, I knew
+that was a fold. I knew that was a
+call." So with this over time, you build
+up a sample size and you realize you
+have a tendency. So re for you when
+you're on a downswing, your tendency,
+your fear tendency is to go, "Oh, let's
+fall. Let's be more passive." So we can
+see the voice of fear for you is leading
+to a tendency of being more passive. For
+somebody else, they might have a fear
+that feels similar, but they be more
+aggressive in those spots. Like, oh,
+they make quick decisions. They don't
+like getting pushed around. So, their
+fear makes them act aggressively. So, I
+think the kind of root is understand
+your tendency, how this fear and
+intuition interplay with you and spend
+some time getting to know it. And as
+Thomas has mentioned there, it's very
+hard to like to speak about, okay, how
+do you learn to trust that intuitive
+voice and not listen to that fear voice
+as often because they are competing, but
+over time you realize there's one voice
+that is more likely going to be right,
+the intuition voice, but there's a high
+risk of mistakes. I've got to trust it.
+I'm going to make mistakes. Then there's
+another voice going, don't do that.
+Don't do that. And the fear voice is
+always like a protective voice. And
+protective voice always sounds
+reasonable. It's like, oh yeah, I don't
+want to risk it. this is this sounds
+dangerous. I'll just do the fear one. So
+we end up like defaulting to the fear
+voice very often. So we need to
+understand ourselves and then we need to
+be brave enough to override that. So to
+go with our gut. So as Thomas mentioned
+was perfect. He feels so much better
+when he makes mistakes but he trust his
+intuition. You live and die by your own
+sword. So what that does is you
+internalize I trust myself. I trust
+myself to make mistakes. I will not be
+perfect and I will I will make mistakes
+and I'm okay with that. And once you
+instill that and as you mentioned Renee
+the fear is in the future once you
+realize okay the fear is just an outcome
+that I'm afraid of in the future when it
+actually happens and you make a mistake
+what's the fear there's a moment to deal
+with get on with it so we sort of have
+this kind of internal battle see I think
+the if I could summarize it in terms of
+how to work on it understand how fear
+gets you to act what is your personal
+tendency and then learn to override that
+this is a whole process to go through
+but the main thing is understand you
+have a tendency reneg and rivers is to
+override that fear tendency. But there's
+ways of practically approaching it to to
+trust your intuition. And then it leads
+to how do you deal with mistakes? So I'm
+going to push this back to Thomas in
+terms of how do you deal with mistakes
+when it does come from trusting
+yourself? Because this is where the mind
+can really freak out because like you
+idiot, you didn't think about it. Why
+did you do that? Because you made an
+assumption in a spot and let's say it
+was incorrect. So you've made a mistake.
+How do you generally internalize or deal
+with mistakes that you make? Yeah. Uh
+first of all I must say all everything
+you said I really agreed. I I thought it
+was many great points or strategies or
+techniques how to uh you know improve
+yourself and that make me think about
+just a couple things that I'm going to
+mention before answering the question
+that how do I deal with those mistakes.
+Um but yeah something you mentioned I
+just wanted to reinforce it is that uh
+Rene asked okay how do we do that? Uh
+Adam you gave a few element of answer uh
+and you mentioned it's also about
+getting some reps in uh basically you
+have to do the mistakes many times and
+then you also have to do the right
+choice many times and then eventually
+you're going to develop a confidence and
+in poker you really need confidence
+because many decisions you can never
+know if they were good. You can never
+know if the guy was actually folding top
+pair, but this time he had trips. Uh you
+cannot know when you fold if the guy was
+bluffing or not, right? And so it takes
+a lot of reps to build that confidence.
+And the more confidence you are, the
+less validation you need and the more
+like I don't care what he had there. I
+know I I played that spot a 100 times. I
+know he would have folded top pair often
+enough. I'm happy with my play. He had
+two pair now. That's fine, you know. Um
+so yeah, that was the first thing. But
+was the second thing um yeah how do I
+also choose to go more often with my
+intuition nowadays than to listen to the
+fears is because I understood that I'm
+going to be a better poker player if I
+listen to my intuition. That's my
+conviction. Now I don't have scientific
+evidence of that but that's what I
+believe in. And what's the most fun in
+poker Rene and Adam in in tournament
+poker? Like what's the most fun? making
+an exploit and being right even more fun
+than that
+and ended up winning it. Yes, winning uh
+winning is the most fun. And so, how do
+I get the most fun in this game? That's
+by putting myself into as many times as
+possible in a spot where I make money
+and where I make a good decision. How do
+I do that? It's by following intuition
+and going by playing against the fears.
+It's by playing to win. Yes. Because I
+feel like intuition, listening to your
+intuition is playing to win. Whereas if
+you try to like literally GTO strategies
+are built around not losing, right? If
+you think about this guys, if you try to
+play GTO, you're you're playing from
+fear. You're trying not to lose. But if
+you trust your intuition, you're trying
+to play to win. GTO strategy, the real
+one is pretty savage. And I would argue
+it plays to win. But yeah, it's easy to
+find something in the GTO strategy like
+the RNG and stuff and be like, "Oh, I'm
+going to be too passive." Um, so coming
+back to your question, Adam, how do I
+deal with the mistakes where I I
+basically So I think your question is
+the mistakes where you didn't think
+about something, right? Or you didn't
+have the information. Is that the type
+of mistake or is it the mistake where
+you knew what you had to do but you
+didn't? not the fear-based mistakes, but
+the intuition based mistakes because I
+want to reinforce like you're you're
+going to learn to trust yourself. So, I
+want the audience to be taken out. Okay,
+I'm going to learn to trust my
+intuition. But with that, there's a
+caveat. You're going to make mistakes
+and you're going to be like, oh [ __ ] I
+should have listened to the fear instead
+of the intuition. So, how do you deal
+with those? Hm. Well, um I'm not sure if
+I had to
+work for that
+uh so that those mistake would be less
+painful, but naturally they just feel
+much better. Like if I'm doing something
+because I just didn't know uh that that
+was the solution or
+because yeah, my intuition thought that,
+you know, I'm pretty sure he's bluffing
+and he's gonna over bluffing and then he
+end up not bluffing. I mean, maybe I'm
+still right. So, when I do those
+mistakes, somehow it
+doesn't feel too painful. I don't know.
+Uh, the very painful one is the I know
+it's a call, but I fold. And then maybe
+I I see a review um a replay, maybe I
+just bust an hour later, 13th. Uh, and
+I'm like, man, I knew it was a call. I
+shared a hand with three friends. I run
+the hand myself. all the results going
+in the same direction. It was a call and
+this one is painful because I knew it
+and I just let the fear, you
+know, change the the the the outcome of
+my tournament.
+Yeah. It's almost like intuition's quite
+raw. It's vulnerable. It's your best
+efforts, your best assumptions in that
+moment and you almost just go like this
+is the best I got. It's kind of this
+vulnerable situation I might be wrong.
+You're right. Whereas fear is like oh
+well wait a second. What what's GTO
+going to do here? what can I fall back
+on? Can I RNG this? And it it's
+protective. It's like not putting
+yourself out there. And it's almost like
+that. Yeah. That fear of making a
+mistake, you therefore go for the
+defensive approach. Whereas intuition is
+going to be it's going to be more
+vulnerable and more raw, but also it
+feels more authentic. So even when you
+fail, you're like, "Oh, I love that.
+That was the best I could do there." And
+it does still hurt, but it's different.
+It's a different kind of pain. And I can
+100% relate to that. And I have many
+conversations with clients on these
+topics. And a lot one of the big pain
+points from players is I knew I should
+have did that but I didn't. And like it
+drives them crazy because they're like
+ah I just I just had this I had the read
+and I didn't do it. So yeah I think
+we've done a really good job of kind of
+unpacking why that is. Um yeah I don't
+think we've ever spoken this depth on
+this topic. So I'm glad this topic came
+up. All right. I quickly want to circle
+into dealing with big challenges. So
+obviously we deal with mistakes. I want
+to touch on basically how you've dealt
+with the biggest challenges of your
+career. So, if we could jump into a a
+big setback, maybe one of the biggest
+challenges of your career and how you
+were able to navigate that. Yeah. Okay.
+I must say I love that analogy, that
+intuition is your best effort. I thought
+it was uh remarkable. I love it. That
+actually made me think at the gym, let's
+say you walk 20 minutes to go to the
+gym, you enter, you do three reps, and
+then you go back home. You're going to
+be like, man, I mean, I I could have
+done more. Uh and then the other
+scenario is that you do as much res as
+much reps as you can until failure.
+That's going to feel amazing. Although
+you're gonna fail, right? You're going
+to drop the weight everywhere. Uh the
+whole gym is going to look at you.
+You're going to come back with pain and
+you're going to feel amazing.
+Uh so biggest setback of my career?
+Yeah. I mean, I had a couple.
+Um
+probably I would say I mean there's one
+where I went into downswing when I was
+playing S and goes and I was backed and
+for like a year and a half I was in a
+big downswing didn't make profit. Uh
+savings were melting. Not much money
+left. Uh I was studying so much pre flop
+and still not having so many good
+results. I'm like like why am I working
+so hard for this? Like is it really
+worth it?
+Um how I navigate those. Yeah, I mean
+I'm not quite sure
+um I mean that's more like very
+technical again but I must say that
+studying always helped me in those tough
+moments. uh maybe with different people,
+maybe hiring a different coach, but like
+improving myself, growing, learning, and
+feeling better about myself, increasing
+my confidence, seeing, oh, there's an
+edge here on the left and on the right
+that I could take because I saw it in
+the sim, you know, that has helped me
+mentally to stay positive and confident
+or at least, you know, often enough. Not
+all the time, of course.
+Um, I think eventually you must really
+just love the game, right? Um I think in
+general in life if you are born in a
+western country if you have some kind of
+you know freedom of choice I think we
+should all do something that we love and
+nothing else. Uh even if your goal is to
+make the most money possible that's fine
+but do it with doing something that you
+love. Maybe it's building businesses
+maybe it's consulting businesses maybe
+it's startups maybe like you know tech
+health whatever. So eventually I really
+love the game. I think that's why I
+stayed.
+Um yeah,
+man. I guess another thing and it's more
+recent is focusing on self- growth. Uh
+that wasn't the case maybe seven years
+ago, but more recently I found a lot of
+joy and just yeah feeling like
+fulfillment in growing outside of the
+table, right? Learning like listening to
+a podcast makes me feel incredible. uh
+listening to a book makes me feel
+incredible. doing like a live kind of
+self-growth program makes me feel
+incredible and so those
+thing make my day a win you know when I
+do them no matter what happens even if I
+have a bad session if I have I don't
+know many things if I started the first
+30 minutes of my day by learning
+something I feel great and I'm just
+happy so those I think help a lot in
+navigating the tougher times I would say
+yeah perfect let's uh take the
+conversation towards personal growth and
+how that can help during tough times s I
+do feel like it is really important to
+understand like okay there's going to be
+times in your poor career where you're
+going through a hard time it's just
+almost like you can't see the light at
+the end of the tunnel and how we
+navigate those is really important so
+you did mention like learning was
+important studying during that time then
+you did say more recently personal
+growth is how you kind of feel good
+about yourself during tough times so for
+you what have been some of the most
+powerful changes or realizations you've
+made on your personal growth journey I
+picture myself when I started going
+deeper into this I started to realize oh
+wow I didn't know this about the brain
+oh wow this how psychology works. This
+is how my old patterns have been showing
+up in my life. And it just like light
+bulbs just going off everywhere. And I
+was like, "Wow, the way I've been
+showing up has been very blindsided."
+And I started to my eyes a bit. So for
+you, what have been some of the the big
+personal growth chapters you can
+remember? Hm. Well, I think um enjoying
+some things in life outside of the table
+that has been some kind of like if when
+you're deep in the hole and everything
+and maybe you spend your time grinding
+and blah blah blah and it feels like
+your whole life is poker. And if poker
+doesn't go well, well, your whole life
+is not going well. Um, but if instead
+you have a healthy relationship with a
+partner, you have one or two really good
+friends that you have the discipline to
+call every Saturday morning to have a
+good conversation or or have a brunch
+with. Uh, if you enjoy nature and you
+force yourself to go in nature four
+times a week. Um, it can be anything.
+Can be sports, can be, you know,
+whatever. Uh, I feel like having those
+things outside of poker that are
+successful by nature because they make
+they make you happy, then at least if
+poker doesn't go well, it's only, you
+know, maybe 70% of your life or 60 or 50
+or 80, but you still have something
+that's going well that makes you happy.
+Uh, and I think some years in my earlier
+days, I didn't have that so much. And so
+when I went through that big downswing,
+the first one I'm mentioning when I was
+playing sitting goes, that was really
+hard. I almost quit poker. I remember I
+was going to Vegas. I told my dad if I
+don't win in Vegas here, honestly, I'm
+considering quitting. It's been a year
+and a half. I'm not I'm not winning.
+Like, it's just so tough. Um, obviously
+I binged because I'm a luck box. Uh, and
+it went better. But, um, but then more
+recently through the challenges then I
+had a more balanced life, right? I'm
+still very intense in poker, very
+competitive and everything, but you
+know, I have couple friends, I have a
+fantastic relationship, I love nature,
+I'm going out, I'm doing some sports.
+And so eventually the life and I and I'm
+doing some self growth like I mentioned.
+And so the life feels like there's a lot
+of things going forward, positive, some
+kind of small victories here and there.
+And so if poker doesn't go well, well,
+it's it's not the end of my life
+basically. It's, you know, it's not the
+only thing that matters. Yeah, I think
+that's so important that poker isn't
+everything. It's a piece of your life,
+but it's not your whole life. And I can
+relate to players who struggle the most
+are often the ones who are kind of the
+most ambitious. They want to get the
+finish line the quickest, but poker is
+everything. And then when they're
+losing, like this really struggle to
+think that their life isn't falling
+apart because poker is their life. So I
+think it's really important to have that
+kind of balance of other things you're
+pursuing, whether that's health goals,
+fitness goals, learning things outside
+of poker, having friends and family who
+you can connect with, so your life feels
+more balanced, that you're not all in on
+poker. You are all in a poker, but
+you're not the only thing. So when
+things aren't bad, you've got other
+things to fall back on. For me, it was
+always the gym, fitness, and yeah,
+personal development as well was things
+I was always pursuing outside of poker,
+which helped me feel like during down
+down swings, I was still progressing in
+certain areas and still still a human
+that was had some value in the world
+rather than just a loser. You can win
+the game. So I want I want to take this
+conversation into the power of the mind.
+I know you've done some interesting
+tweets on these topics and we had
+listened to podcast of you speaking on
+this as well. And you mentioned
+something powerful in terms of we are
+just programs that run in the
+background. And you also touched on
+creating your own character and I so
+resonate with this I think a lot about
+identity and the person we're showing up
+as and how malleable that is but most
+people don't take conscious control of
+that process. So for you when it comes
+to the programs in the background and
+creating your character, how have you
+approached that for yourself? I think
+the word the most important word I think
+you said is conscious where when you
+gain the consciousness that you can
+define who you are how you act how you
+interact with people how you deal with
+challenges you can actually decide you
+can write on paper how you want to be
+ideally and it's not going to be by
+tomorrow morning but if you do a few
+practices here and there 6 months 12
+months 2 years 5 years I don't know but
+it's only a decision eventually. So you
+can't really become this zen happy
+intuition guided beast like it's really
+just a decision. And so when I gained
+consciousness of that, I was like, okay,
+that's the game changer, right? That's
+that's I can really decide everything in
+my life. If I want to be a billionaire,
+that's just a decision. It might take me
+40 years, but it's just a decision
+eventually, right? So yeah, that was
+that was that consciousness of just
+choosing what kind of life I want to
+live. And more recently, I think I'm
+deviating from a question. I don't even
+remember your question but uh more
+recently I discovered that that is also
+uh true in the emotional life in the
+relationships uh in the intellectual
+life in in so many things you just have
+to decide what kind of life you want to
+live and then implementing strategies
+one after another whether they are super
+small steps three minutes in the morning
+journaling you know like really small
+stuff setting intentions before you go
+to a room with somebody small things uh
+but eventually you can decide everything
+and you you can have the perfect super
+happy life, super mindset uh that that
+you want to have. Yes, 100% agree with
+this that it's so powerful when you
+realize this is true. And you can debate
+whether it's true or not, but it's in my
+opinion it's it gets hard to debate when
+you actually start to live it. And the
+way I like to think about it is you've
+got a version of you now who's shown up.
+So all your character traits, your
+identity, and we've come very attached
+to it. We come very fixed with that
+identity. This is me. This is what I'm
+good at. This is what I'm not good at.
+And then when we let's say what you did,
+you wrote down a list of who I want to
+be. I want to be a billionaire. I want
+to be a great poker player. It doesn't
+feel like us. There's a disconnect
+between all these things we want to be
+and who we currently are. So we need to
+learn to bridge that gap, but also start
+showing up as that new version as soon
+as possible. And I think it comes down
+as well as you talking about intuition
+like confidence. We need confidence that
+we can make changes that we can become a
+different version of ourel. And for some
+people people who struggle who like very
+fixed identity, haven't made many
+changes, they lack that confidence in
+themselves. they go, I'm going to get in
+great shape and then they skip the first
+gym session or I'm gonna I'm gonna lose
+weight and they binge eat that night and
+they they haven't got a confidence in
+themselves. So, I think what you touched
+on there was importance that kind of
+small steps like what could I do now to
+step closer towards that. So, you've
+almost got this is me the current
+version. This is who I want to be and
+these are all the steps in between.
+There might be a thousand steps to get
+to that version of me, but these are
+some of the action items I can take. and
+then getting very practical going all
+right that version of me what can I do
+today to take one more step closer and
+then over time you sort of build
+repetition exactly one step and
+everything's just one step like what
+else can you take you can't take two
+steps you can only take one then the
+second one so don't jump too many steps
+ahead and I think that is where people
+often get lost in this they almost have
+the ideal version and then who they are
+actually I want to touch on this with
+you because I've experienced some
+conflict here as well when I've tried to
+make too much growth too quickly I've
+almost been like right I've got my pen
+and paper I know who I want to Hey,
+let's let's go to work. And then I felt
+this disconnect of God, I'm so far from
+this. This is like this is miles away.
+And then I feel the pull of my old
+tendencies just going just do what
+you've always done out of this. Don't
+don't worry about that. That's another
+thing. So for you, how have you have you
+experienced that yourself or how have
+you overcame those gaps in where you are
+now and where you want to be? Yeah, I
+think it's very natural. Change is one
+of the big threat in for the human mind
+like from a survival point of view. And
+so I think change is hard for most
+people for 99% of the people I'm one of
+them. Um and and so when I see for
+example I can improve a lot in maybe
+relationship uh I I see what kind of
+ideal relationship should I would like
+to have or and what kind of partner I
+would like to be. This is the ideal
+version. I'm there. I'm over there like
+the back of the room. Okay. Okay. That's
+scary. Like that really scary. I have to
+change so much. Like that's even like um
+not even scary. It's like uh my ego
+takes a bit of a hit. I'm like way I'm
+so far from my ideal. Um but like you
+mentioned eventually not any not
+everything needs to happen at once and
+just gaining consciousness of that.
+Maybe the next day I'm going to feel
+better and we're gonna Hey, that's a
+good first step. Gaining the
+consciousness. Now, if I just take one
+small step every Saturday when I have
+time and I dedicate one hour to that,
+you know, in 52 sessions, I'm going to
+be, you know, 52 steps. That's a lot of
+one hour. So, it make me think of a
+quote that says, be patient with your
+big goals and impatience with small
+actions. And so, if you have a big goal
+like that, it takes patience. It's going
+to take years maybe to get to your
+ideal. Maybe never because you can maybe
+always improve but being patient with
+the small action you can do like you
+mentioned just put one feet in the gym
+everything else is bonus you stay there
+10 minutes that's fine this your first
+session doesn't matter just talk to the
+receptionist but like small small steps
+right and then uh yeah little by little
+the small steps add up and that make me
+think of a great book which is atomic
+habits and where they really talk about
+everything is just eventually a habit
+like every big change comes from a habit
+Right? Nothing, nobody created something
+huge at once in one day uh in one
+session. It always takes perseverance
+basically just habits and routines and
+nothing else. Yeah, 100% agree with
+that. And topic habits the book on
+habits like you've got to read that if
+you want to make lasting changes in a
+practical way. I really love how he
+breaks everything down into practical
+ways of taking action. I think you
+mentioned like change is hard. I think
+it's it's good to touch on that because
+we always we all feel resistance. We
+want to change. It's almost like there's
+a version of us that that's got used to
+doing stuff and we want to break free
+from that. There's a resistance to that
+and we've got to break free from that
+resistance. Even it's like a simple
+thing like changing your morning routine
+or do an extra study session. It takes a
+bit of almost like almost like lift off
+power like a rocket like taking off. It
+takes like a lot of energy to get the
+the rocket off the ground. It's the same
+with a habit of changing something. You
+got to put a lot of intentionality and
+effort into making that change. And also
+as you were speaking it reminded me of
+the book awareness by Anthony Dlo and
+he's he always says like people don't
+want to change. People want their toys.
+They want their comforts. They don't
+want to change. No one wants to wake up
+because waking up and changing it's
+hard. You've got to almost like
+acknowledge your shortcomings and go I'm
+not quite good. So you mentioned
+relationships. That's a hard one to
+confront because you're going [ __ ] I've
+been sucking in relationships for how
+long? And now you feel like this like
+almost like threatens and now you've got
+to acknowledge that before you can take
+that next step forwards. So I think that
+with alongside this there's an element
+of accepting where you're currently at
+as you take that next step. So I feel
+like some of my mistakes in personal
+growth were where I was trying to make
+changes to cover over lack. I didn't
+feel good. So I'd want to move to that
+next goal to to overcome that when in
+reality when I've got better at it. It's
+almost like okay accept where I'm at
+now. This is where you're currently at
+with your current level of awareness and
+consciousness. Okay cool. How can I take
+that next step and enjoy the path that
+I'm taking rather than trying to rush to
+a finish line. I feel like a lot of
+personal growth if we look at it in the
+wrong way, we can be trying to get
+somewhere instead of enjoying the
+journey of getting better and making
+progress. I think that's a piece
+together well and I do like the small
+actions because it comes down to at some
+point we can think, we can journal, we
+can reflect, we can meditate, but at
+some point what actions are you going to
+take that's going to move you forward?
+And then just a final thing on this one,
+just acknowledge that you're not going
+to be perfect. So like you set goals,
+you set changes, there's an element of
+change which is messy where you're going
+to go back to your old patterns somewhat
+frequently and it's going to feel like I
+failed. And I think a some people really
+struggle with this. I I personally don't
+because I was like you fell over, get
+back up. You fell over, get back up. But
+some like I fell over again. I didn't do
+what what I said I was going to do. I'm
+a loser. I suck. I can't make changes.
+Adam and Thomas told me to make changes
+and here I go again. Doesn't work for
+me. I I always suck. This is me again.
+So I think not getting caught up in
+those narratives and realizing like you
+can always go again and just I know it's
+challenging for people who struggle with
+this to override that but just realizing
+look it's over time you could build
+momentum you'll build confidence in
+yourself find a change that you can make
+and then just build that change into
+your life with a repetition till that
+becomes your kind of sample size ah I
+made that one change I got up it's 30
+minutes earlier cool that's your win
+then from there you can build build more
+so I just want to touch on that just for
+some people might struggle with the the
+initial changes that they want want to
+make I'm curious for sure
+I'm I'm curious going to ask both of you
+guys because obviously we're all we're
+all interested right in trying to be the
+best version we can be. We're all
+striving towards becoming better. Do you
+guys ever feel like or do you have
+phases phases where it can feel very
+overwhelming as well? Like I some I have
+moments where it can be very motivating
+if I learn about for example these
+things that you said oh I I realized I
+showed up as a partner in the wrong way.
+On one side I'm like cool I now know
+what to do. But sometimes on the other
+side it's like okay let's say for
+example we have this podcast you're a
+poker player you have to be better in my
+case I have a daughter I try to be the
+best dad I can be I have to be a better
+partner does it sometimes feel
+overwhelming like I said when I feel
+good about myself and have energy it can
+feel very motivating but sometimes it
+can also feel very overwhelming I don't
+know if you guys ever experienced that
+uh maybe some of our audience can relate
+you have any any tips in this regards I
+can say I've 100% experienced
+Um, and I would say it's related. Yeah,
+levels of energy I think are a really
+big deal. Uh, take three days off, spend
+them in bed sleeping, and then the
+fourth days, the fourth day you first in
+the morning fresh, tackle those topics,
+and you're going to feel like Superman.
+You're going to feel like, oh my god, I
+want to take so many steps today. Right?
+But then do that uh at 2 am after 12
+hours of work and coaching and podcast
+and you're like so exhausted that your
+mind is like, "Oh my god, that is
+terrible. I really don't want to do
+that." Um yeah, I can relate to that for
+sure. Yeah, me too. And I feel like we
+all have that kind of struggle of trying
+to make changes but then not trying to
+overwhelm myself. We live in a world of
+just crazy information, crazy amount of
+exciting stuff, but also it can feel
+very overwhelming. I just need to do all
+this stuff. I need to read this book,
+listen to this podcast, and work on 30
+different areas of my life. Oh my god,
+this is going to be hard. See, I think
+always like simplifying like bring it
+back to what step can I take? Every time
+I feel overwhelmed, it's always I'm
+trying to do too much, things are too
+complicated. Just bring it back to
+basics. And also like sometimes what I
+do now is learn to just accept where I'm
+at. And I think this is a a big part of
+it because the overwhelm comes from you
+wanting to be in the future. You wanted
+to be in the end result of making the
+changes. What's wrong with now? Now it's
+good. Okay, maybe you're not as good as
+relationships as you want to be. Maybe
+your pocket career sucks right now
+because your results are bad. Cool.
+Accept that. Be where you're at a bit
+more present. And I feel like from
+there, you can always take the next
+step. So, if you simplify to accept the
+moment that you're in, then what's the
+next step I need to take? And then watch
+the mind go, yeah, but that's not going
+to do it because you need these other 50
+steps and oh, okay, nice one, mind.
+Watch that. Observe the mind. Do all
+that. Where are you now? Back to the
+current moment. And as Thomas was
+saying, like meditation in these small
+moments, getting back in tune with the
+body, being more present, that really
+helps because the mind will think about
+the future a lot. will feel overwhelming
+at times and just bring it back to this
+current moment and when we think about
+life what have we got the moment we're
+in to take an action and that's it and
+some is a good action some is a bad one
+and don't let the the mind create a
+narrative there yeah and empathy as well
+right towards you know towards yourself
+and the fact that you you know you
+cannot do it all like you said so
+there's one like strategical side right
+to kind of chunk it down and don't make
+it too hard for yourself basically to
+succeed which is very demotivating and
+and and very overwhelming I thought the
+point that Thomas made was very good as
+well because if you feel energetic,
+right? So it comes back to like your
+basic habits, right? If you if you sleep
+properly, if you eat properly, if you
+exercise properly, you feel better, you
+have more energy and therefore things
+feel easier, right? And then like in the
+same time also being okay with, you
+know, like, oh, I sucked at this or oh,
+I'm I'm here now. uh because sometimes
+it can feel like if you if you're only
+looking at there and then you reflect on
+yourself right now and you only look at
+all the ideal versions it's like I
+actually I suck pretty bad right but
+it's like to to if that narrative due to
+low energy I think that's usually then
+the cause if your energy then is low
+then that narrative can become start to
+live its own voice right and then you
+can really kind of talk yourself down or
+at least I've had phases where I
+definitely experienced that where I was
+just so focused on everything that I'm
+doing wrong everything that I should
+optimize combined with low energy and
+then feeling overwhelmed due to having a
+poor strategy doing doing too much
+things in the same time and then you're
+left kind of feeling like oh I'm
+actually sort of a loser if you
+understand what I mean but I think you
+guys both uh use the word narrative and
+self talk and I think it's a really
+important topic and again I think that
+there uh like many areas there are just
+tools that we can learn we can just
+basically get coached in a way we can
+get better like we can get better at
+anything and we can get better at selft
+talk and narratives as well and you know
+having those negative self-t talk dogs I
+think that happens to a lot of people
+nowadays
+um it's extremely limiting both on the
+short and the long run and at the same
+time there are many tools that are
+accessible to anyone who wants to hear
+about them um to start to work on that,
+right? And you can learn a couple tools
+and then you just little bit have to
+discipline uh yourself to use those
+tools, right? If you c if you catch
+yourself thinking something negative
+about yourself, if you catch it, then
+the next step is discipline. Is that do
+you want to keep doing it because that's
+a comfort zone? Because you want to feel
+pity by yourself? You want somebody to
+pity you? There's so many reasons we can
+keep doing it, but once you caught it,
+like it's a choice. And sometimes it's
+hard to say, "Hey, never say that any
+ever again." It's like it feels
+uncomfortable. Uh you can do anything.
+Even if it takes time, even if it takes
+reps, even if you know it's going to be
+hard, you can do anything. It's just
+about small steps like Adam told me. uh
+it's just about self- love blah like and
+then honestly just using those tools in
+um making yourself look better I feel
+like you can resolve a lot of these you
+know um yeah limitations basically and
+you can end up accepting that okay I
+don't have to be perfect but eventually
+I can do anything I want and that's a
+good selft talk compared to I'm a loser
+that's should you can never tell that to
+yourself that can never exist in your
+mind and if it does and you catch it,
+that's okay. Accept it, you know,
+apologize to yourself. Uh you don't have
+to hold grudge or anything. Tell
+yourself you love you, but tell
+yourself, "Hey, bro, that's not true."
+Even if it takes discipline, even if you
+feel silly to say it in a mirror, I do
+believe it's really important.
+Yeah, I I want to touch more on this as
+well. So, it feels like it starts with
+awareness to spots the kind of thought
+patterns that we're having. Then it
+comes acceptance which I 100% agree with
+which I think is the harder part which
+we'll touch on and then change from
+there. Do you want to change? Can you
+change? Are you willing to confront
+change? So for you let's talk about how
+you've been able to accept some of the
+narratives that you've seen in your mind
+and then some of the tools you've
+practically used to change those. So as
+you mentioned some people are very
+identified with the narrative. So if the
+voice in their head says I'm a loser
+like they don't question that voice.
+They've heard it they're conscious of
+it. They've they've been aware of it,
+but they don't they don't necessarily
+they accept everything it says is what
+I'm getting at. But I I want to get to
+the point of how do you observe what the
+mind is saying, accept it, what it's
+doing, but not accept what the context
+of it, if that makes sense. So for you,
+what are some tools that you've used to
+navigate that? Huh. makes me think of a
+great book that I read that's called uh
+the card of the extraordinary mind um by
+uh Vish Lakani who's owner of a great
+platform mine valley and yeah he
+basically he's also a engineer who got
+into that world and so he also
+deconstructed everything in terms of
+algorithm and programs running and it's
+a very for for rational people you guys
+are going to like it because uh yeah
+it's It's like a rational approach to
+the the mental and the the mental health
+and selft talk and that kind of thing.
+Um and so yeah I really basically
+learned when I was reading that book
+that you can question your beliefs. So
+there's a topic for example what's my
+worth in this world? what am I capable
+of or what kind of relationship do I
+deserve or like those topics that we
+don't consciously think about you you
+rarely wonder hey uh what kind of
+relationship is ideal for me like who
+who asked that to themselves like it's
+really rare but if you have those kind
+of books or these tools and then it
+tells you hey take the time to do that
+okay then you do it and you actually ask
+a question you're like huh wow what a
+crazy question I have so many answers uh
+then maybe he asks you to question the
+beliefs that you
+Why do you think that for example what
+you are capable of in this world is this
+or how rich can you become is this much?
+Why do you believe that? Where does it
+come from? Is it really really
+really you knowing yourself or does it
+come from maybe parents talking one way
+you know maybe teachers maybe friends
+making fun of you? Maybe I don't know
+there's so many reasons that you we can
+take in beliefs that are not ours that
+we didn't create ourel right and when
+you question those beliefs you're like
+wait that's not ideal what would be an
+ideal belief an ideal belief would be
+you know yeah I'm self learner and I
+have the energy and the mindset to do
+pretty much whatever I want if I put my
+mind to it that's a great belief and
+then you just change it you replace you
+update the program right you do an
+update Um and so little by little you
+end up with those tools to just question
+beliefs, question mindset and direct a
+little bit your selft talk to better
+directions.
+Amazing. Yeah, I love I love all of
+those steps. I feel like that's the
+that's the practical hands-on way to do
+it. You got to get this the beliefs the
+surface, understand what beliefs you
+currently have. You got to question them
+what's true. You don't need necessarily
+know where they came from, although you
+can do some exploring. And then you got
+to upgrade them. Like change those
+beliefs to something that's helps your
+life more going forward. I think this
+really pieces together like the changes
+we've been talking about of creating new
+character. Because a lot of changes come
+from like breaking down old beliefs,
+creating new ones to allow yourself to
+make those day-to-day changes because if
+we if we have all all these beliefs that
+say I'm an idiot, I'm a loser. And then
+we're writing down all the things we
+want to do and changes. We hate conflict
+because our belief systems are like I'm
+the advers. So once we start breaking
+down those beliefs alongside the change
+we want to make over time, we just see
+we just weaken those beliefs. The way I
+look at it, it's almost like your belief
+is really strong. So it gets questioned.
+It's almost like the bullies like puffed
+his chest up and you start questioning.
+He's like, "Oh, I get weaker." It gets
+lighter and lighter and then your new
+beliefs like the weak one and over time
+you sort of strengthen those new
+beliefs. So they start to feel like you
+and it faces like this weird gap where
+you're like the old beliefs don't feel
+like me but the new ones still don't
+either. Neither's quite in this kind of
+messy middle I call it. But then over
+time that new beliefs start to feel like
+you. It's like yeah I do feel like a
+high performer. I am showing up in this
+way. Yeah, this is this is the new me.
+So yeah really I love that kind of
+practical way of piecing together
+change. I think this is yeah really
+really important topic. So with this
+like as we're making changes I want to
+touch on the topic of peak performance
+and I know you've got some ideas on this
+and I think you mentioned you class
+poker players as cognitive athletes
+which is really interesting because I
+call poker athletes very similar. How do
+you see poker as a high performance
+discipline and what some of the things
+you feel are important for high
+performance? H well clearly we are only
+using our mind basically to perform in
+this game and we were talking about
+intuition making the difference between
+fears um maybe paying attention to tells
+when it's important uh there's so many
+information we and we can gather and
+then there's all the notes on everybody
+every single showdown every single
+sizing every single action is
+potentially note that you can use later
+um so I found that the better I can use
+my brain, the better I perform in poker.
+So, scenario one, I eat a huge bowl of
+pasta with a lot of sugary sauce in
+dinner break. I come back and I had a
+bad night before because I drank six
+glasses of wine, so I didn't sleep well.
+Uh, that day I feel like rubbish. I'm
+like low energy, don't have excitement.
+After dinner break, I'm sleepy. I'm on
+my phone, right? like how can I ever
+perform at my peak? Like is it my best
+self? Am I showing up as my best self?
+Like there's no way. And maybe that day
+might not matter that much. Who knows?
+But like if I'm going to play for 10
+years, one game where there's so much
+money involved, do I honestly think that
+showing up as my worst self between
+showing up to my best self, do I really
+think it's not going to make a
+difference in terms of money? Of course
+not. Like of course there's going to be
+a few moments key moments where you're
+gonna make a slightly better decision.
+It's gonna worth be worth a lot of
+money. Um maybe you're going to have a
+little bit more endurance. Instead of
+having a six-year car care carrier,
+maybe it's 10 because you have higher
+energy. Instead of having an eight hour
+online session, maybe it's nine or 10.
+And again, you do that for 10 years.
+Everything add up, right? It's compound
+interest, compound everything. Um so
+that's just the money and performance
+aspect. And for me, that was enough. I
+was like, "All right, I'm sold." Uh, if
+I can focus better for longer time, uh,
+play more tournaments over the summer
+because I don't need the seven days uh,
+you know, off in a row mid series
+because I burn out. If I if I can
+accumulate those small edges, I'm sold.
+I'm making more money, more deep runs,
+I'm happy. But there was a sneaky side
+effect is that I started feeling better
+and I started to be more happy and more
+content with my journey because now it's
+not only I'm going to grind 10 hours
+today. It's I'm going to the gym. I have
+good hormones. Uh my body is getting
+better. I'm able to climb better because
+I'm stronger. Um then I meditate. So I
+feel maybe less tired and more centered.
+So less like chattering busy mind that
+is kind of unpleasant and more like
+happy place you know there's a little
+bit of self growth like I end up showing
+up as my best self and I end up being
+more happy and so that was like a side
+effect that was wow that's actually that
+has become the main reason why I do it
+right and then there's the third kind of
+side effect which is long longevity
+um it's kind of like it's proven that
+many things can improve our longevity
+and so I'm quite excited thinking that I
+might live 200 years and that when I'm
+going to be 80 I'm going to look like a
+45 50 years old in good shape now today
+right so there's so many things that
+kind of got me into that almost
+addiction to leave it showing up as my
+best self or like at least
+improving.1% every day right
+yeah I love all that And I think as you
+mentioned there as well, it's almost
+like the brain and body are one. Like we
+can try and separate them as I'm a poker
+player. I only think with my mind like
+you're living in a body and the whole
+body is a energy system that's
+interacting. And once we start to
+understand that we're like, okay, well,
+what does the body need to perform at a
+high level? And I I really love it
+because I think the way you went through
+that process, I think most poker players
+will relate to the performance motive
+goals first. They go, I want to perform
+well. What do I need to do? It's much
+easier to motivate a poker player to
+change if they're going to get better
+focus, better win rates than it is for
+longevity or even to look good. Maybe
+some guys will will be like, "Yes, I
+want to have the six-ack." But most
+players like, I want to perform well.
+And I think a lot of players for a long
+time neglected the body. So like, oh
+yeah, I feel like [ __ ] I do all these
+long sessions. I have energy drinks and
+and they crash after, but I'm doing well
+at poker. And it's almost like a my
+health sucks, but poker is going well.
+And I obviously you can have success
+like with an unhealthy lifestyle, but
+over time you start to realize like
+you're almost like pushing upstream.
+you're going against the currents
+because you're waiting against your body
+and you're making yourself do stuff over
+and over and very often you'll have a
+short career, you'll burn out quicker
+and you won't perform as well as you
+could have if you prioritize health and
+performance. And then it makes me think
+about, okay, well, what really matters?
+And it's almost like for performance as
+a poker player, it's almost like you
+need to be a generalist. It's like
+generalist and specialist. Like you
+don't need to be an athlete with a
+six-pack and the muscles, but you need
+to be a generalist of the body. like you
+need to understand exercise, nutrition,
+you need to understand the basics of how
+to fuel the energy system of the body.
+So like compete and do high level poker,
+you don't necessarily need to uh do the
+marathons or uh be in the gym for an
+hour every day because that doesn't
+necessarily that's too specialist too
+specialist for what you need. But
+there's general principles and
+categoristics of exercise and
+performance that will 100% improve your
+performance. And then as you mentioned,
+you end up getting to the the end point
+where you feel better. And that's just
+like everyone wants to feel good,
+everyone wants to be happy. that's like
+kind of the the end point for for
+everyone to some degree. And when you
+realize, okay, I can actually these
+don't need to compete with each other
+because I think most poker players who
+struggle with health and performance,
+they kind of make poker compete with
+health. Like, oh, I haven't got time. I
+haven't got time to eat healthy. I
+haven't got time to go to the gym. It's
+like, okay, so now you've you've had
+them separate categories where I either
+be healthy and feel good or I do well in
+poker and now it's like which one do I
+choose? I'll do well in poker. I'll do
+the health stuff later. And I think that
+the way you've described it, they at
+some point they start to overlap and
+then they become the same thing. in
+feeling good, performing good, being my
+best version, it's one thing. So I feel
+the same way. I don't I don't think
+about performance and then health is
+separate. It's like it's the same thing.
+If I want to be my best self, I got to
+look after myself. There's no way I can
+perform at a high level in anything I do
+if I'm not looking after myself. So then
+then they become intertwined and now it
+becomes easy because now like okay, well
+I want to perform well and be the best
+version. What should I do? So they had
+to bring it practically for you. What
+are some of the things that you do on a
+day-to-day basis? What are some of the
+performance things that you find very
+important? and maybe walk us through a
+day in the life if you're at the World
+Series or go for a W cook prep. That's
+that feels good for you. Yeah. Uh by the
+way, I want to add one last thing to
+what you were saying uh is that I think
+we are really good at thinking short
+term but really bad at thinking long
+term.
+And there might be a week or a month or
+six months in in your pocket career
+where you know spending a little bit
+less time on your fitness and and health
+and everything might make you you know
+one more K or or or 3K or whatever like
+a a.1% more EV somehow and that might be
+possible but what we are not good at is
+thinking what if I play like for 5 years
+and 10 years um what are the consequence
+quences of not feeling so happy or not
+so energetic or you know we don't know
+it's just too big to for us to
+comprehend the consequences. Um it's a
+little bit like playing let's say your
+maximum focus is 12 tables and you play
+13 14 tables every day because you want
+to maximize the EV, right? But there's
+so many other ways to look at that. For
+example, what if you play 11 tables and
+you win a little bit less EV that day,
+but you are more present, you think
+more, you learn more, you become a
+better player faster for the next day
+and then for the next day and then for
+the next day and you do that for five
+years. Who do you think is the best
+pocket player after five years? The guy
+who played 14 tables because and like uh
+like two tables over his cap or the guy
+who played one table lower just so he
+could think every decision and learn,
+right? And so maybe the 14 tables guy is
+going to start making a little bit more
+EV in the beginning, but it's going to
+be a straight line, super linear. And
+the guy who plays less table is going to
+be a little bit less E in the beginning,
+but it's going to be exponential because
+it's going to end up playing high
+stakes, tritons, whatever, right? And
+it's been the same with health. It's
+really hard to imagine the consequences
+of not having good health and a good
+sleep and a good nutrition, everything
+on the long run. We don't know what it
+could cost us. But what is sure is that
+right now it's not going to cost a lot.
+You know, it might cost you $5 per day,
+$40 per day, I don't know, to maximize
+your health, but long term the
+consequences can be like
+gigantic. Um, right. So, a day in my
+life, let's say for me, the most
+important routines, they're going to be
+okay. Nutrition is something I really
+care about. um especially when I play.
+So I think we all have different you
+know metabolism and things work for some
+and not for others. For me I pay a lot
+of attention to not intake any sugar,
+artificial sugar. Um basically have a
+really low carb diet, you know, high
+nutrients, high in veggies, high in good
+oils and nuts and stuff. um lots of
+energy, lots of good nutrients, but not
+a lot of carbs and sugars that, you
+know, impact my insulin and and I go on
+a roller coaster and I'm tired and
+excited and tired and excited. Um, so
+that's one thing I pay attention to. But
+then I would say sport is probably
+probably the biggest. Uh, I feel like
+every time I have a good gym session, I
+have a high energy for the rest of the
+day. It's like
+95% efficiency. Um, this time in Vegas
+last summer, I had a personal coach and
+I pushed myself more at the gym than any
+other other years. And across the seven
+weeks, I had a really long summer
+because I played so many days, 13 hours
+a day, busting at the bubble, uh, many
+times in a row. Like, it was really
+mentally challenging summer. Uh but my
+physical energy was the highest I've
+ever had. Like honestly, I went on for
+seven weeks. Few days of here and there,
+maybe five across the seven weeks. Uh
+max intensity, high energy, no problem.
+And I'm pretty sure that's combination
+of workout and
+nutrition. Um meditation is quite
+important for me. I don't spend a lot of
+time meditating but just like five
+minutes before session kind of centers
+me little bit you know rem remind me um
+yeah h how how to approach this session
+what's the objective the objective is to
+play my best game being my intuition
+like just centers me quiet the mind rest
+my mind so I have more stamina um so
+yeah in u meditation workout and then
+there's a few other things I like to do
+but it's not every day like cold
+exposure. Uh basically all those things
+they are kind of regulating your levels
+of you know excite excitement or like I
+feel like workout takes me up. Uh hot
+shower takes me down cold shower takes
+me up medit meditation takes me down and
+they can you can really regulate and end
+up in that sweet spot where you feel
+like oh my god for six hours you're
+flying you're just like high energy the
+time flies. you like feel like you take
+a lot of decisions and that's the zone
+where I want to be.
+I like how you touched on there as well
+how some things are getting you higher
+and some things are like bring you down
+a little bit and I feel like the mistake
+people often make is they want to be
+high all the time and they're in a bit
+of a low moment. They're like caffeine
+more I need more stimulus I need to do
+something else and they try to ride that
+high for too long and realizing the body
+doesn't work that way. We have a nervous
+system that likes to be highly excited
+or highly activated and then come down
+to recover. And even I really like those
+little meditation breaks you take
+because that's conscious going right if
+we been really stimulated high energy.
+Okay, I need to bring my nervous system
+down to allow for some recovery because
+okay, ideally we could just stay high
+all the time and maybe that would be uh
+for performance we'd like that but in
+reality that doesn't work. So we need to
+look at our days and go right where do I
+create some downtime? which activities
+am I currently doing that are activating
+me and which activities am I doing that
+are lower in activation and trying to
+get that balance for yourself so you
+feel like you're recovering well because
+I know for myself for example I used to
+push activation too hard so I used to do
+too much and then on my off days when I
+had to recover like ice bath but I used
+to do like ice for a long time then
+sauna for a long time then back and
+forth between them and then I used to be
+like I'm burning out here what's going
+on and I realized even when I was trying
+to recover I was just pushing the
+activation too high it's like no you
+should be lowering the activation on
+these days so just understand for
+yourself in certain times of your days,
+weeks, what are you trying to achieve?
+And trying to find those balance points
+where you have time in nature, you have
+time to uh calm yourself down to go
+alongside the the high intensity stuff.
+I think for poker players, it's more
+important because poker by default is
+going to be highly activated. I have a
+friend who played um this one the scoops
+and he got the the final table of a big
+event and he had a whoop tracker on his
+on his wrist the whole time and he
+showed me the data from it and it was
+terrifying. So the whoop has stress
+levels and it has low, medium, and high.
+I have high maybe 20 minutes a day, 30
+minutes, and that's generally heavy
+squats, heavy deadlifts. He had 10 hours
+straight of high in like high stress,
+like chronic stress, like just bouncing
+around this high one. He was really
+burnt out after the the tournament
+finished. But yeah, it just got me
+think, oh wow, like the nervous system
+and how much activated we are during
+poker for a lot of people is super high,
+especially if you play MTS or final
+tables and things like that. So
+acknowledging that and go right well I
+need to fit in some recovery. I'm not a
+machine like I need to have some
+downtime so I can actually perform at a
+high level. It's understand that
+oscillation between high performance
+then recovery and trying to find that
+balance. I know recovery can be a boring
+topic but it is something you got to
+consider if you want to be a high
+performer. Recovery needs to be like
+really front of mind. Like you can only
+perform as well as you can recover from
+because over time you think about a gym
+workout. If you work out every day but
+like you're not recovering very quickly
+the performance has dropped through the
+floor. So you can push as hard as you
+want and keep trying to go, but now
+recovery is the the the ceiling almost
+of how far you can go with it. So yeah,
+I really like that you touched on that
+kind of increasing and decreasing. So I
+really think about it the same way in
+terms of the nervous system, how if you
+want to perform, we've got to fit in and
+make time in all honesty for downtime to
+recover to to lower that response. Yeah.
+Yeah, for sure. And eventually it's not
+even sacrificing time because you're
+going to be 3% more intense, 4% more
+focused, uh 5% more this and that. And
+then you're going to just use better
+your time, right? And so the hours you
+are actually going to be productive if
+you do all those things right are going
+to be much more productive. And then
+eventually even if you are 5% less
+productive, it's you're still going to
+feel much better. And so if your goal is
+to be the most productive person in the
+entire world, maybe you're going to have
+to be unhealthy. But for 99.9% of the
+people like we said where happiness is
+eventually the end goal, you know,
+you're going to feel more happy. You're
+going to have 3% less money after 10
+years. Who cares? You're going to be in
+good health. Maybe you're not going to
+have to pay for health care or sick
+care. Uh you know, there's so many other
+consequences like we said. And so
+eventually if you live more happy you
+know what else can you ask like the rest
+is going to follow good decisions good
+attraction good energies you know things
+are going to fall into places when you
+are yourself I think showing up as your
+best self and and being healthy and
+happy. Love it. And yeah as you
+mentioned that ability to think a bit
+more longterm rather than like the
+moment to moment dayto-day. Once you do
+think long term the equation gets so
+skewed towards health like it's just
+like it's uncomprehendable. Like I think
+all of us in 20 years time would give
+almost all the money we've got to be
+back to where we are in terms of our
+health and we kind of know that's true
+but we're like yeah yeah but we make all
+these weird decisions in the moment but
+realize like health is going to be super
+important like in the future we know
+that and it's also it's important now.
+So once we link those together I think
+it becomes very easy to to make the
+changes or the decisions that you need
+to make to uh to prioritize health. All
+right rene for you any routines you do
+on a regular basis that we haven't
+touched on that are powerful for you. I
+feel like also I wanted to add to that.
+I feel like if you go
+down the the track of trying to optimize
+for performance while initially it can
+be you know to perform at good at the
+poker tables but then exactly what
+Thomas said you just notice you start to
+feel better you notice other areas of
+your life start to improve at some point
+you just get addicted to feeling good
+like you don't want to go back to to
+feeling bad you know like nowadays when
+when you know my sleep is a bit is is
+not great it's like I feel bad I don't
+want to feel bad so Therefore, you know,
+I I prefer to go to bed early, so I had
+a good night of sleep. Or when I eat bad
+food, I feel bad afterwards. So, it's no
+longer a it's no longer a temptation as
+well, right? For example, with nutrition
+or exercise or all that type of stuff.
+When you for example, you ask me about
+like routines. I don't even see these
+things anymore as routines like
+nutrition like taking in good nutrition
+like like what you said, Thomas,
+avoiding sugar, stuff like that. Yeah,
+it's it's I I've been doing this
+probably for I don't know 16 years. Like
+I I don't think about it anymore. It's
+just it's people say, "Oh, you this is
+your diet. It's not a diet. What do you
+mean? It's just it's just how I eat, you
+know." Yeah. Yeah. Yeah. Yeah. 100%. Um
+I think something that helps us to build
+good routines is to focus on how we feel
+right after that routine. Right. And so
+you mentioned it Renee, I completely
+agree. Uh food is the same for me. I've
+become so you know into my my own
+nutrition and what makes me feel good
+then when I go to restaurant or when I
+eat something that is not good for me I
+feel so terrible after that I'm like man
+that's not worth it like man I cannot
+wait to go home and eat my own food and
+you know uh we had a trip in Japan last
+year with my wife and I went crazy uh I
+went to taste all the food I wanted all
+the ramen and all the, you know, the
+curries and the sushies and everything.
+I was so happy I was tasting all the
+great food. And you know what? After a
+few weeks in, I really noticed, man, I
+feel like [ __ ] Like, I feel so tired.
+Even if I sleep long, I don't exercise
+so much anymore because we are traveling
+a lot. And I was, we were talking, we
+were like, those short moments of
+happiness when I eat those food are
+great and they're good memories. But
+overall, I look back at the trip and I'm
+like, I don't think I've, you know, I've
+been my happiest. I really feel like I
+could have lived this trip more happily.
+And it was honestly just habits that,
+you know, weren't nourishing me and and
+weren't recovering me and weren't Yeah.
+making me function well. I have the same
+like you you you may have the same. I
+know you don't live in your initial
+country, right? I believe you're
+currently in Costa Rica. I live in
+Brazil. When I have like friends over
+for a week, for example, we basically
+try to we go out to dinner every night,
+but after the week, after like five
+nights, I'm like, I don't I don't want
+to anymore. I just want to eat my own
+food, you know? It's like, sure, it's
+nice. It's exactly what you said. When I
+order it, it's nice. Maybe actually
+fifth or sixth day, at some point it's
+not so nice anymore. Doesn't matter
+which restaurant I go to. Uh but then
+you just want to go back to to to the
+basics, right? because you know that's
+and also I feel often it's almost like I
+feel sort of obligated to order
+something different because we went out
+for dinner where I could also still on
+the menu order something that's you know
+a bit more align but I'm like no yeah
+but I'm here now I'm not going to order
+what I already eat at home right uh so
+which is fine you know if you do that
+once a week or something but if if it's
+repetitive yeah I I for me it's best if
+I just go back to to my diet uh that
+just I know works for me and same with
+exercise like I don't think about it you
+know it's just like minimum requirements
+a couple times sports a week couple
+times gyms a week just like minimum
+requirements then we talk about like
+actual habits I've always struggled with
+like the consistency in like meditation
+or for example uh cold showers I feel
+like for me I really need to raise the
+necessity for that so let's say for
+example I play a poker
+session meditating before or a cold
+shower before is almost like a
+no-brainer training because there's
+direct consequence. I notice immediate
+results, right? You you mentioned
+obviously I know that, for example,
+meditation will have good long-term
+effects, but there's no direct
+short-term consequence if I didn't
+meditate. Whereas, if I play poker
+afterwards, there is direct consequence.
+I notice my brain just doesn't work the
+same if I didn't do a meditation before,
+right? Like you said, it centers me. I
+set my attention. So then if I don't do
+it, I have direct I get direct feedback
+and I get punished sort of directly that
+I didn't do it. So therefore, if if I
+play poker, I would easily do it. But if
+I don't play poker, I'm like, you know,
+it's all it's basically what I'm saying
+is I care more about my short-term
+outcome of my poker session than the
+long-term quality of my life. Almost if
+you want to zoom it out. It's pretty
+shocking actually.
+Yeah. Yeah, definitely. I think I think
+it's just we are so bad at that like you
+said. So yeah, I can relate to that
+where some things I also don't do during
+my days off and I feel like it would
+make me just a better person and more
+happy to do them. Um, but I have hopes
+because it's changing. For example,
+nowadays I love to go to the gym on a
+day off because I don't have an agenda
+and I don't have a goal. I can just be
+here and do what what I want and it just
+feels great. And if I want to spend two
+hours here taking breaks, 10 minute
+breaks between each set, like I can I
+can just take a little coffee, enjoy my
+coffee, like you know. So I start to see
+the the the pleasure in the process even
+outside of the performance, but not
+everywhere still like meditation for
+example is definitely one thing that I
+don't do during my days off, but it
+would be good to recover better. Yeah, I
+sh I I I share that one with you. So, so
+you can also relate like you know that
+you should be doing it because you have
+the immediate results. I have a a quick
+hack for people in Vegas by the way. Um
+that's that's a meditation I do during
+my days off. It's um floating tank. So,
+you know, there man, it's absolutely
+amazing. I go out from there, my senses
+are enhanced. Like I smell thing in my
+car I haven't smelled in three weeks.
+Like it's crazy. the brain is so
+restored that it can intake more signal
+and like I have more patience and
+empathy and and I'm a great husband for
+at least 24 hours. So yeah, it's it's
+like yeah, it's it's a really it's a
+really it's a really nice experience. Uh
+people like I said especially people
+have trouble slowing down maybe don't
+take an hour and a half or something
+straight away because I can imagine
+you'll freak out but maybe build it up a
+little bit slowly. But yeah, it's
+definitely I think for for recovery, I
+think it's what you said, right? Like
+meditation recovers you even better than
+sleep. I mean, an hour in a in in a tank
+like that. Uh yeah, it it does wonders,
+especially on a long trip like that. I
+was actually wondering uh especially
+with live poker, like I said, I I play
+it very unfrequently, but if I play a
+live tournament or something, these
+often go quite long. You even said like
+12 hour days and then basically
+sometimes you have to already show up
+for day two 9 hours after day one finish
+for example. How do you but h how do you
+transition from okay last end of the day
+you know I'm still want to be as sharp
+as possible and try to make the best
+decisions possible to an hour later I
+would prefer to already be in deep sleep
+so I can recover properly to to perform
+day two. Most players go to the bar but
+I have a feeling you don't go to the
+bar. What's what What would be a more
+optimal way to do this? Um, again, many
+tools. Um, as soon as the last hand is
+finished, red glass is on, you know, um,
+increase the production of melatonin.
+Uh, don't eat too much before sleep
+time. So, I think ideally four hours.
+So, if you aim to go to bed at 2:00
+a.m., have your last meal at 10:00.
+Um, take a few supplements that improve
+sleep quality. You know, something very
+like magnesium, 5HTP, like there's
+there's a bunch. Uh, little bit of yoga,
+some some kind of movement I think is
+good to release and and circulate all
+the hormones. You have had adrenaline
+for 12 hours, right? So, little yoga,
+little walk evening, something kind of
+chilled. Yeah. Little meditation. Avoid
+the screens. uh or if you do really use
+the red glasses, you know, bunch of
+tools and then it can go really fast.
+Uh sometimes let's say you have a D6
+minivan. I don't know how it feels like.
+I hope I will one day. Uh maybe you are,
+you know, overly excited, but those
+tools are going to help you somehow. You
+know, you're going to have a slightly
+better sleep. But then what will matter
+now has been how how you have been
+showing showing up for the last two
+weeks. you know, have you been
+consistent with your sleep and your
+nutrition and your workout uh and your
+meditations? If yes, I think you're
+ready to roll and you're just going to
+have a huge edge on the guys who are not
+ready and who are exhausted and stressed
+and everything and malnourished and
+whatever you whatnot, right? So, yeah,
+that's where the consistency also plays
+and that's what we are bad at planning
+ahead, right? But that could matter a
+lot. It's just hard to plan it and to to
+feel it right
+now. I heard you talk in the
+conversation with Adam. I heard you
+talked about uh hiring coaches in
+general. It seems like you know you you
+look for resources whether it be books,
+podcast, courses, and I heard you
+mention hiring coaches. Which coaches
+have you hired in your career? And what
+are like some of the biggest lessons
+that you've learned from them?
+Um, so I've had coaches in poker
+naturally and I've had coaches in other
+areas of life. I've had a a high
+performance coach. So that was more for
+the Okay, there was like a habit,
+health, nutrition coach that was very
+practical and and tangible wins, right?
+And then there was a performance coach
+and that was more soft skills that I was
+very bad at. I'm very good at hard
+skills as an engineer, very bad at soft
+skills. So clarity um you know um
+courage um plan planning your agenda
+your days your weeks your your year
+actually um like there's so many things
+that feels I'm even having a hard time
+to explain it but then when I was
+getting the coach and when basically
+what we were doing is just taking an
+hour
+to so that I ask like she would ask
+myself the hard question and I would
+have to think about it little bit like
+what kind of husband you want to be.
+Like who thinks about that? Nobody,
+right? But somebody that you paid tell
+you, okay, we're going to focus on that
+for 20 minutes, then you do it, right?
+And so, yeah, overall any kind of coach
+I've had, I've always been so happy with
+the value. I feel like when you have a
+professional who is an expert in their
+field and is willing to share that with
+you, you know, for a few hours, the
+value again, it's really unvaluable. you
+know, you cannot put a price on that.
+That might impact the next 80 years of
+my life. Like, it doesn't matter how
+much it costs. Honestly, if it's
+remotely reasonable, I think it's going
+to be worth it. I've even had a coach in
+uh the the name of the program was uh
+sexual energy mastery. And so, that
+sounds very sexual.
+And that kind of what I thought it would
+be. But then there was so much more
+around that. There was communication
+with your partner. There was
+communication with yourself or listening
+to yourself or being honest with
+yourself. There's so much more. Uh my
+relationship with my wife improved
+drastically on all levels, right? Just
+by listening more to myself, by
+communing the communication. um like and
+so like I can I can really tell that I
+think any type of coaching in any area
+in my experience exceeds my
+expectations. So I'm probably going to
+hire a lot of random coaches throughout
+my life. If you are a charlatan, you
+have a spot here. You you can contact me
+and I will I will give you action.
+It's funny because people's like in in
+terms of marketing, right? you try to
+sell uh you sell kind of the dream
+outcome, right? So that course that you
+did, it kind of sold you the dream
+outcome, but then it taught you the
+tools how to get there, right? So the
+course itself is not necessarily only
+about the dream outcome. Like I said,
+it's about communication because if
+there's less uh friction between you and
+your partner and you communicate your
+needs more clearly, you'll both feel
+more satisfied, more loved and therefore
+more open uh and more connected, which
+you know will lead to better uh better
+sexual chemistry for example. Yeah,
+exactly. More happy showing up in the
+right way to maintain the polarity in a
+relationship type of stuff. Yeah, 100%.
+Yeah. You mentioned that uh these
+coaches you pay them to uh to ask you
+usually the questions that you know you
+paid them because you sort of wanted to
+hear them but at the same time when the
+question is like oh they always ask this
+question that I didn't really want to
+think about. What is like the toughest
+question uh uh that that that that they
+taught you to or that they ask you to
+think about?
+Um I would say it usually comes in the
+areas of like
+uh for
+example
+what do you think you should be doing to
+improve your results but you're not
+currently doing right now? What is
+something you could do to improve you
+know the the category we are talking
+about in the coaching where whatever it
+is can be poker can be outside but
+you're currently not doing you know and
+why is that and when you start to dig
+and you find the wise and then sometimes
+you have to again the ego takes a hit
+and it's like okay I'm I'm not doing it
+because I'm scared uh of change for
+example or I'm not doing it because um
+maybe
+afraid slightly remotely afraid that
+people will not love me for who I am
+exactly and will judge me right and so
+those are the hard questions but
+eventually when you find the answers um
+you're like you feel free and also when
+you go to face those deep fears that you
+don't look at you actually realize
+they're not that scary so what if
+somebody judges you then what you're
+like oh wait nothing actually nothing
+has changed in my
+Uh, so that wasn't that bad, right? And
+so you kind of open some boxes and you
+thought it was a huge monster in there
+and then there's nothing and like, oh,
+oh, there's a small monster there and it
+flies away. That wasn't that bad, right?
+Yeah. We we we we make it worse in our
+head. I I I did a coaching program I
+think end last year and in there there
+was a session as well where
+um there was an exercise where it kind
+of had you had to start with what I
+don't want you to know about me. So this
+was like a group session. We were I
+think six guys or something and yeah
+basically you had to go you had to go
+what I got what I don't want you to know
+about me or what I'm most ashamed of. Oh
+man that's cool. And you had to and you
+had to start and you had to start saying
+these things and obviously in the
+beginning it's like oh [ __ ] oh you know
+when I when it's going to be my turn at
+some point but then I remember I was
+finished and then the other people and
+then more started to come up and say hey
+can can I share more because it felt
+amazing you know to get to get the [ __ ]
+out of your out of your chest you know
+uh so it's it's really interesting like
+obviously naturally we try to
+unconsciously you know try to show up or
+hide certain things that we're maybe
+uncertain about uh but exercises like
+that and environments like that right
+it's very important obviously that you
+feel comfortable in sharing it in the
+environment in environment where I was I
+felt very comfortable
+uh then it's just such a relief and I
+felt great man afterwards it's like wow
+this is amazing you know
+yeah for sure
+I want to before we wrap this up I want
+to do a couple of reflection uh
+reflection questions on on your I think
+10 year 10 in your poker career. Um,
+what would you say the is the most
+important lesson that poker has taught
+you? Uh, many many to choose
+from.
+Um, I
+think I already had a strong belief
+about
+myself. Uh, so I'm not going to pick
+that one. I think something I learned
+the hard way was
+that it's important to get out of your
+comfort zone. Um, if you want to succeed
+and eventually if you want to be
+happy or the most happy you can be, it's
+important to get out of your comfort
+zone. Um, to face change, to accept that
+it might be scary, but usually it's
+scary
+because again, you don't really look at
+it. you just think it's there, like, "Oh
+my god, it's so scary." And then if you
+actually look at the process to go from
+here to there, it's like Adam said, it's
+just like 17 simple steps. Oh my god,
+that wasn't that that bad. Um, and I've
+had that a few times where when I was
+playing CD and goes, for example,
+Pyolver came out that was that terrible
+looking awful solver, super aric like
+horrible to look at, right? Looks really
+hard to manipulate and everything. And I
+was like, man, I don't want to do that.
+That feels hard. That honestly feels
+hard to download that program, start to
+play around, run everything by myself,
+put 200 hours to know how to play post
+flop. And I didn't do it in the
+beginning. And yeah, what do you know?
+The best players that were crashing the
+high stakes at that time were doing it.
+And I wasn't one of them, right? Um,
+couple years
+later, I think it was, yeah, six max
+hypers became popular. So, everybody was
+playing six mac turbos on start and then
+six max hypers became popular. And
+again, I was like, that's a different
+format. I'm going to have to relearn
+everything. Uh, I don't really want to
+face that change. Like, I'm I'm good now
+here in my zone, like, you know,
+six-pack turbos. So, I didn't do it
+right away. Uh again the guys who went
+there first started to learn first
+became the best. Uh soon enough six Mac
+turbos died. I had I was forced to go to
+six hypers and I was late, right? And so
+few times like that I realized that my
+fear of change and going out of my
+comfort zone limited me and then really
+costed me and I think going further you
+know I know that better but also I know
+for example after poker probably I would
+like to have a career in business. I
+would like to play that game creating
+business that kind of stuff. Um, and I
+already know that I'm going to be afraid
+of the change and the going outside of
+the comfort zone, but at least I know
+that I have to go against that fear. You
+know, I learned that. So now I just have
+to have the discipline to implement it.
+But I I would say that's the most
+valuable lesson.
+What is an area you feel like uh you're
+currently too much in your comfort zone
+and you should probably step out of it?
+Nice question.
+Um, I would say in poker it's
+probably streamlining my coaching. Um, I
+want to do more one-on-one. I want to I
+think I would like to do more coaching
+without adding workload to my plate. And
+I think I can do that by being smart and
+rearranging some commitments, you know.
+Um, so there I could honestly just put a
+little bit of work and do more. And I
+think outside of poker,
+um, well, I started that big, you know,
+program that I mentioned to Jared, uh,
+which is called life book on Mind
+Valley, which is absolutely amazing. I
+really recommend anybody who's ready to
+do some self-rowth to have a look at.
+Uh, and that one I could do more now. I
+I stopped for Triton, but the Triton
+excuse has has expired for like 10 days.
+So now I I really have to get back on.
+Yeah,
+thanks. I uh I I will put some
+accountability on myself as well because
+like I I I I know that I should be for
+example, I mentioned the coaching
+program I went to and it was already on
+my list. It was like, oh yeah, I need to
+I need to go through my notes again
+because you know how it goes, right?
+when you're in it, you know, so you
+write all these things down and then in
+the end you maybe 20% or 30%, you know,
+you start applying which already better
+than nothing, right? But then sometimes
+you have to revisit it to to remember
+yourself, oh yeah, [ __ ] Yeah, at that
+moment when I was in that state that
+came so obvious to me, but now, you
+know, due to life happening and you
+know, I'm getting distracted, it doesn't
+come natural to me. So sometimes it's
+good to revisit your notes, right? kind
+of kind of what we talked about earlier
+the the the playbook that we had for
+poker. Uh basically after that coaching
+I also made kind of a playback of how a
+playbook how I want to show up in in my
+relationship right with my with with my
+wife with my daughter. Uh so you know
+also I'm I'm now reflecting also what
+what is something I should I should I
+should actually be doing it. That's
+definitely something as well. What about
+you
+Adam? Nice. He can't hide. Yeah. Damn. I
+thought I got away from this. Yes. Yeah.
+So, I think for me, I'm going through a
+stage of putting more content out there
+in the not the non-poker world, let's
+call it, the real world, and being more
+vulnerable, sharing my experiences. So,
+I recently started a blog. I've done
+five blog posts where I'm kind of
+sharing vulnerable experiences. I
+recently did a Passa retreats where I
+had to deal with a lot of emotions and
+vulnerable stuff. So, I've started
+sharing my experience with that. I've
+wrote a blog on self-worth and
+challenges with selfworth. And yes, it's
+basically being able to uh share parts
+of myself, kind of what Rene said, the
+parts of yourself where you're like,
+I've kind of kept this a bit hidden, but
+I struggled with these in times and kind
+of taken off the role of the coach coach
+for a while to just share my
+experiences. So, I'm currently on that
+journey. So, I'm quite happy I've taken
+steps like towards that the last few
+months, but just continuing that
+momentum and then not getting
+sidetracked and going, "Yeah, I've done
+that." And I'm back into my lane now. I
+want to keep being able to just share
+things authentically. And yeah,
+sometimes that's going to be
+uncomfortable because a lot of stuff I'm
+sharing is not from a place of wisdom,
+but a place of experience of this is
+what I went through. Hope it helps for
+somebody else. So yeah, that's kind of
+where where I'm looking at it. Nice. Do
+you feel like it also gets harder as you
+are a coach especially, you know, you
+you might say things to or you know, we
+we sometimes say things here on this
+podcast that we think is important, but
+then next day, you know, I go out and do
+something completely different myself.
+Do do you feel like there's an extra
+sort of hurdle in being open and and
+sharing stuff like that because of kind
+of the sort of example role that you
+have? Right. I think there is, but I
+think it's all just a construct in your
+head and you put on a role of I'm the
+coach. I need the answers and you play
+that role. You play it so well you're
+like that's my role. And you think
+taking a backseat of being more vulner
+vulnerable would be a downside because
+people expect something else from you.
+I'm making the assumption that my
+intuition is telling me that is a false
+belief and that actually being more
+vulnerable will connect with more people
+and anyone who doesn't connect with
+because you didn't sound clever or know
+the answers. That's okay. I'll lose
+those people. See, I think it's uh it
+definitely is harder from a the mindset
+of of a role. But once you put that role
+down and for me, I've had to give myself
+permission to put the role down. Even as
+I'm writing, my kind of way of teaching
+is always action items. This is what you
+need to do. This is how you get past
+this. And I'm like I almost go to write
+that section in my blog. like no action
+items today. Just just end on the
+reflection. Like it's it's like almost
+like a the audience hasn't had the
+action items. What are they going to do
+with this information? So yeah, just
+giving yourself permission to to share
+things and to for me it's yeah putting
+down the role so I can explore different
+things. That's good. I definitely feel
+like if if you put yourself out there
+vulnerable and you're authentic, I
+definitely feel like it it gets you have
+you have better connection and like the
+people that you lose were probably not
+the people you were interested anyway. I
+remember actually I got some feedback
+once on on on our coaching and then one
+student said what I like about the Wacko
+is that if he doesn't know he just says
+he doesn't know instead of trying to
+invent invent things right there's many
+times hey guys I don't know may maybe
+anyone else can jump in right and he
+said that like as a point and I was like
+oh wait this is not normal right do
+people do people not say that they don't
+know or like I I cannot know at all
+right it's hard to say you don't know
+especially as you're the coach someone
+asks you the question it's like well
+should I know should should I make
+something up says yeah it's hard to
+relinquish but also gives the person
+who's asking you some kind of
+credibility with you like all right
+doesn't know he says he doesn't know and
+then when he does say something it's got
+more credibility I got some friends who
+run a big business and they were taking
+on some marketing guys to run their
+websites and there was lots of things
+like we don't know this we don't know
+this like oh this is awesome these guys
+keep telling me all the things they
+don't know so when they say they do know
+something I'm like okay cool these guys
+are good at this
+We're not good at that things. So, yeah,
+but it is hard cuz the ego likes to have
+answers. I struggle with this. I'm I
+always like to have some sort of answer.
+At least I I struggle to say that I
+don't know. Stop. Stop. Full stop. I
+don't know. But and then I'll try to dig
+my way out of it. So, yeah, I can relate
+to that. But I think it's a it's a good
+a good trait to have. I have some rapid
+fire questions. So, the way this is
+going to work, I'm going to ask you the
+question. I want you to answer as short
+as possible and the first thing that
+comes to mind. All right. All right.
+Your favorite meal after a big poker
+win. Ooh.
+Carbs. Um, yeah. What carbs? Eddie
+carbs. Carbs refill. Player you'd least
+like to see on your left at a final
+table. Uh, I don't know if I want to say
+it. Final table. Probably I want to say
+somebody like Ponakov or Iketon maybe. A
+weird superstition or habit you have
+before playing. Uh,
+weird. Masturbating.
+[Laughter]
+Best purchase under $100 that improved
+your game of life. Um,
+$100. Best
+purchase. Maybe those red glasses. I
+really love them. Or like barefoot shoes
+recently.
+Great purchase. I've also recently
+joined the barefoot crew. One word your
+partner would use to describe you.
+Performer. I don't know.
+One word you would use to describe your
+poker game. exploitative.
+First thing you would do if you won the
+World Series of Poker main event,
+buy a few houses. I really want to have
+my dojoos like uh with Sona and
+Flotation Tank and everything. And I
+want to have one in Vegas, one in Costa
+Rica, one in Europe. So yeah, that was a
+thing. Amazing. If poker disappeared
+tomorrow, what would you do?
+Create probably a business in something
+that I believe in can make the world a
+better place.
+There's a big Hollywood movie about to
+be made about you and your life. Who's
+playing you? I'm not I'm really bad at
+actors. Um I have no idea. I'm too bad
+at it. Yeah.
+Um maybe Ryan Gosling. I'm I'm going to
+be humble here. Yeah. It's a Hollywood
+movie maybe. Pick a pick an Alist. All
+right. That's a rapid fire. I like his
+humor. Rapid fire is over. Just two more
+quick questions for me. What are you
+most proud of in your po career?
+Um, I'm very happy with where I am at
+right now performing at high stakes and
+coaching at the high
+level. So, I'm very satisfied with that
+right now. All right. And then finally,
+what is your main takeaway that you
+would love the audience to take away
+from this wide ranging conversation
+we've had today? H well, probably the
+main takeaway I think comes back to
+awareness. like you said and
+consciousness that you can actually
+whoever you are if you are already
+listening to this then it's 100%
+guaranteed that you can do and become
+anything you want in life you it just
+might take work and dedication and might
+take 40 years to become an astronaut or
+whatever but like really eventually you
+can do anything so if you want to be a
+top rushing high stakes it's a decision
+if you're not it's because you've not
+decided to be one and if you want to be
+one maybe takes you one, two, three,
+five years.
+What a powerful ending. Thank you so
+much for your time today, Thomas. We
+really appreciate this conversation and
+yeah, thank you so much. Thank you guys.
+That was that was a blast. It was a real
+pleasure. What a great conversation that
+was. Thomas, thanks again for coming on
+and sharing your journey with us. Adam,
+main takeaways of today's conversation.
+So many interesting topics that we went
+super deep on. when you guys were
+chatting about intuition and fear. I
+thought that was fascinating and Thomas'
+kind of approach to how to trust his
+intuition and we went down the rabbit
+hole of intuition versus fear and how a
+lot of spots it can be quite close and
+there's almost like two voices. One is
+an intuitive voice, one's a kind of
+fear-based one and trying to distinguish
+which one is which and then strengthen
+that intuition over time. I think we
+went on a really good deep dive into
+understanding that at a high level but
+also practically how to come past it and
+we kind of got to the point where fear
+is almost like protect from mistakes. So
+wanted it's a protection mechanism and
+understanding your tendencies when you
+have when he makes decisions the
+tendencies that you have. So for example
+let's say Renee for example will often
+overfold and spots when he's on a
+downswing. So that's a tendency based on
+fear. So learn to spot your own
+tendency. We came to that conclusion was
+good and then going against that pushing
+back on that tendency and strength that
+intuition. And then the kind of take
+home was learn to trust yourself and
+learn to go for your best efforts. And
+how Thomas was saying the difference
+between trusting your intuition and
+making a mistake compared to not
+trusting your intuition and making a
+mistake. And this I knew I should have
+did this but I didn't. I learned over
+time to get repetitions in of trusting
+yourself in making mistakes. But you go
+on your best assumptions and your best
+effort at that moment. I think we did a
+massive deep dive. I have to relisten to
+that myself to uh unpack it. But there's
+a lot into understand intuition in a
+very practical way. Next thing was how
+to make changes. We did a lot of things
+on how to upgrade yourself, how to
+choose your character, become the
+version of yourself you want to be. I
+thought that was very practical in terms
+of awareness of where you are currently.
+Having a kind of blueprint of what who
+you want to be going forward. So like
+mapped out the person you want to be.
+Accepting where you are currently as
+well. So you're not like kind of guilt
+tripping yourself for not being where
+you want to be. And then make take that
+next step. We talked a lot about the
+next step we need to take. The change
+starts now. It starts the next step. We
+can get overwhelmed as you were touching
+on Rene and that conversation. But also
+it comes down to simply what do I need
+to do now to move towards my my goals or
+to the vision I want to be which then I
+think Thomas did a really good section
+on beliefs as well and you really
+practically broke down how to upgrade
+beliefs because I think this is a big
+part of making changes. Yes, we can look
+at habits, routines but under the
+service we got beliefs which are the
+stories we tell ourselves which can
+influence every behavior we make. And he
+talked about becoming aware of your
+beliefs first of all. Then he talked
+about questioning your beliefs. Which
+beliefs are true? Which beliefs are not
+true? What what where this belief come
+from? And then changing your beliefs and
+really changing the way you tell stories
+to yourself and that kind of inner voice
+we have in our minds. We have the power
+to change it. And then over time you've
+got to have repetitions of installing a
+new belief system over an old one. Now
+this can seem if you haven't done work
+in this area can seem like, oh, does
+that actually work? But when you
+actually slow it down and you look at
+thought patterns, they're nothing
+special. This is the thought the mind
+comes up with based on an old story an
+old pattern and often we don't question
+them. we don't have conscious control of
+it and we end up living like kind of a
+programmed life in a way kind of
+conditioned from society conditioned
+from things around us based on our past
+experiences and once we sort of question
+it we're like ah I've been holding on to
+this story for quite a while now huh
+that was true when I was seven it was
+true when I was 10 not really true now
+and we sort of really push back against
+these stories and then we create new
+ones and it's amazing how many changes
+we can make in our life when we drop old
+stories give ourselves permission to
+have new stories and new beliefs and
+that can really empower things going
+forwards and then finally I really like
+the conversation around performance. We
+really got some amazing practical tips
+on that. But also, I love how he brought
+kind of performance and happiness and
+feeling good all into one package. I
+really like that because I feel like for
+poker players for it to stick for
+performance habits and to for health to
+be a part of their lives, they've got to
+make that connection for themselves with
+performance and feeling good and health
+are the same thing. Like over smaller
+samples, as Thomas was talking about, in
+the short term, it might not matter. No
+matter what you eat, no matter matter
+how you sleep, but over the long term,
+it it matters so much. It really really
+impacts every part of your functioning,
+your decision- making, how you feel, and
+how you perform. So, yeah, I really
+liked how practically he broke it down
+into uh you talk about cognitive
+athletes, which I I use that term as
+well, or poker athletes. And yeah,
+really starting to think about your
+overall performance and your body as one
+kind of entity and going how I show up
+is a lot of little factors will impact
+how I show up dayto-day. If I start
+thinking long term in five years, 10
+years, I've got to start looking after
+myself now. And then for you as an
+individual who are listening to this,
+think about for yourself which are the
+habits and behaviors you haven't got
+around to. Oh yeah, I should do this but
+I don't. And the question I think you as
+Renee, what would you be doing? What
+comfort zone are you currently in that
+you step out of? Or I think Thomas
+question was, what's one thing you
+should be doing that you're not
+currently to increase your performance?
+Is it going to bed earlier? Is it not
+scrolling your phone? Is it studying
+more? So think about for yourself and
+then bring it back to that practicality
+of one small change, one step now. Don't
+overwhelm it. Don't create a a
+three-year curriculum about a change.
+Make one change now and start that path
+straight away. So yeah, how about you
+renew for
+you? Yeah, you obviously you covered
+already quite a lot. I will focus mainly
+on technical the from a technical
+perspective. We talked a lot about
+studying the impact of the parameters,
+right? When you open the solver, he
+really used it to play around with it.
+He changed one parameter at the time to
+see hey how does this actually impact
+the strategy right and I think he gave
+the example of for example uh the
+imposition has initi bets but he doesn't
+three bet the flop enough and he
+suddenly saw that that had a huge impact
+on how much you can check race right
+because you're going to overrealize your
+equity so playing around with these kind
+of parameters you can learn a lot about
+how the game of poker actually works and
+in the end that is your goal when you
+study a solver, right? He even had a
+phase where he started to solver and
+started to play more GTO because a
+solver also shows you GTO strategies,
+but you shouldn't necessarily look at it
+to try to implement GTO strategies,
+right? You should look at it to
+understand the game of poker at a deeper
+level to understand poker theory and
+then from there okay it is useful to
+understand GTO strategies because we can
+use that information to figure out how
+people are likely to screw up right some
+examples he gave on this were uh okay in
+this spot it seems to be like the
+bluffering range comes from a lot of
+unnatural hands a lot of strong hands
+check back a lot of active hands check
+back and the blossom more complete
+bananas for example, right? Or on the
+opposite when he was the aggressor, he
+would look at the defend frequency like
+oh wow that's quite a lot of hero
+calling that our opponent has to do
+likely that he's not going to be uh able
+to to play this strategy correctly and
+therefore exploit it. That's more how he
+was using a solver. And when he builded
+this strategy that was kind of like
+laying the foundation, right? This is
+not where your strategy ends. This is
+not where playing poker ends, right? I
+think this is a very big mistake
+actually that a lot of players have is
+that they then go out and they think,
+well, this is my strategy. I'm now going
+to put in the hours. No, he used that as
+a baseline so he didn't have to think
+about that, right, anymore. So that when
+he went out to play, you could start to
+gather more information and from there
+make exploitative adjustments, right? So
+what this baseline strategy allows you
+to do is think more about the exploits.
+Um, and then last but not least, we
+talked a little bit about documenting
+and how important that was and how he's
+done it. Um, which was he kind of
+created the playbook for himself. This
+is how Thomas plays poker. It was very
+important that you summarize it at the
+end, right? Because then if you don't
+decide which strategy you're going to
+play or how it's going to look, you
+might get into spot be like, "Oh yeah, I
+know all this information, but I haven't
+I haven't structured it. I haven't come
+to a conclusion for myself." So that's a
+very important step about uh uh strategy
+creation. That's very important. Yeah.
+Overall, great talk. I think there was a
+lot of knowledge in there. Want to thank
+everyone who made it all the way to the
+end of the podcast. Leave a like.
+Comment your main takeaways down below
+and subscribe to the channel. Remember,
+if you want to work with me and Adam,
+have us help you make more progress in
+your poker career. Mechanisoft
+poker.com. Want to thank again the
+sponsors, Coin Poker GTO Wizard. Go
+check them out and I will see you guys
+in the next

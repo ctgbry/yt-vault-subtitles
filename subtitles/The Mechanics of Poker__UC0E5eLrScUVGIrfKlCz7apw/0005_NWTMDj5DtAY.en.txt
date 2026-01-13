@@ -1,0 +1,478 @@
+Kind: captions
+Language: en
+and this is the thing with the rngs if
+you're gonna roll dice or balance
+certain bluffing frequencies in certain
+scenarios
+you might fall into the trap that you
+start randomizing with a hand that's
+never a bluff
+okay that's one or you start randomizing
+a hand that's always a bluff
+hello and welcome back to the channel
+i'm here today
+for you guys with another video where we
+are going to look
+at bluffing but before we get into the
+good stuff
+remember that if you like this video
+give it a thumbs up
+also subscribe to the channel as we will
+be releasing more content
+in the future without further ado let's
+get
+into the example today
+we are dealt h5 suited great hands in
+the small blind
+we decided to raise it up and see that
+the flop turn
+was a queen we decided to check and
+villain checked behind and on the river
+falls on nine
+and it's up to us with a 5 and
+the question is do we bluff or don't we
+bluff
+as always i will consult biosolver
+for this question what does he consult
+us to do
+he will say that ace five is usually a
+check
+sometimes in bed in this case the
+batting will probably
+come mainly from the ace five of
+diamonds because the ace five of
+diamonds is unblocking hands that
+it will float to flop with unfold the
+river melee hands like ace loses spades
+h3 of hearts a's four of clubs etc
+so basically if we have ace five and
+diamonds villains fault equity will be a
+little bit higher than if he would have
+h5
+spades and in theory you know one
+percent more faults can make the
+difference between
+a bluff being plus v or bluff being
+minus v
+remember it's a solver everything is
+quite close
+[Music]
+so to blow over another block what to
+take in consideration well as
+i just mentioned blockers are we
+blocking villains calling range or
+folding range
+if we look at ace five here we are
+blocking well maybe king five off so if
+villain had that could check back to
+turn call the river
+a 786 if those hands you think will call
+we are indeed blocking some calls
+but like i said mainly we are blocking
+some i would say
+auto we are blocking hands that are sort
+of automatically folding the river like
+ace
+8 ace 10 ace 5 etc etc so i wouldn't
+necessarily say ace 5 is a great hand
+blocker wise to bluff with
+range advantage the stronger range the
+more and bigger we can bet
+this is also a general principle um
+which you should take in consideration
+if you are deciding to bluff
+in this case do we have a ranged
+advantage i think so we could still be
+checking strong in the turn i don't
+think it's very likely our opponents
+will check
+back strong hands on the turn in
+position himself
+in general when you're out of position
+you're more inclined to
+check strong hands because there's still
+a chance villain will bet then we can
+race
+whereas if you're in position you're on
+a turn if you check behind with a strong
+hand
+you have missed the opportunity to get
+two streets of value
+so i don't think finn has a lot of
+strong hands here
+and we can still check strong hands on
+the turn
+i think the nine we can improve the
+pocket nines which i think he will three
+bets we can have queen nine he can have
+green nine we can have king nine he can
+have
+king nine seven nine yeah for the rest
+is quite evenly divided
+so from that point of view yes we should
+bet what does my rng
+say aka how did heidi that role for the
+guys who don't know what
+rng is basically it's a random number
+generator
+and it's a concept i think it was
+popularized
+on the training side run it once and
+then mainly by ben
+solsky basically you know you're just
+mixing up your frequencies
+like a solver however do remember this
+is usually just an
+attempt to play balance at it's very
+hard in-game to know
+what kind of frequency a solver will
+make a certain play
+how high did that roll kind of comes
+from the dice like okay
+a number from one to six then six is the
+most aggressive action and one is the
+most passive action
+does my story check out question mark
+how much potential
+do i have what are you representing
+basically i'm usually a big fan
+of seeing poker or seeing playing a
+poker hand as a story
+you're trying to tell a story that will
+make sense for your opponent
+so in this case if my opponent has a
+seven
+i want to tell a story that i have
+better than a seven so
+i will take a line and use a certain
+sizing
+uh in this case maybe for example small
+sizing so i could be
+representing a nine which is very bad
+for a hand like a seven
+but these are all nice points to
+consider but actually i wanted to focus
+a little bit more on the last point
+given the trend or topic of this video
+are all these points above relevant
+given the tendencies of
+human beings in this case population and
+or my current opponent
+so if we take a look at the same
+example and we take a look at what
+villain is supposed to do in theory
+if we bet at three quarters bad fitting
+is supposed to fall 46
+of the time and here we can kind of see
+the hands that villains should be
+playing this way
+in this case blue is full and usually
+when you start analyzing
+a river spot in a solver
+it's always a good idea to take a look
+at okay which kind of hands is villain
+bluffing with
+which kind of hands is villain folding
+and then using your
+brain and common sense and knowledge and
+experience as a
+as as as a poker player to figure out if
+you think this is relevant so do you
+think
+it is uh
+do you think it makes sense that villain
+will will always call you with pocket
+deuces on the river
+i personally don't think so i think
+though
+that hand is most likely folding and
+again here you will see the blockers in
+play
+fives is a absolute stronger hand than
+pocket deuces but apparently
+if they're both bluff catchers and if we
+have deuces
+villain will have for example like a
+hand like ace five that he can bluff
+with so you would prefer to call with a
+hand like pocket deuces
+because it's not blocking any blast okay
+but given the topic of this chapter
+population versus the solver
+what does the population do if we take a
+look at the blind versus blind example
+and we take a look at the high level
+board
+we can see that the fault versus
+batching bad three-quarters
+is around 55 and they raised around nine
+point six percent
+whereas if we then compare what does
+population do compared to silver and
+basically you always have to make this
+comparison to see if a silver output is
+relevant
+or at least like if the population would
+fold exactly 46
+and raise exactly 13. 0.2
+we should always follow the solver it's
+very relevant however
+as soon as your opponent or your
+population starts to deviate
+uh the highest if you play would be to
+adjust
+and exploit your opponent
+so the question now is should we rng or
+roll a dice with h5 suited
+should we balance our bluffing
+frequencies with a hand like h5
+suited or should we take the fact that
+we have a poor blocker
+very high in our list of considerations
+that's my question to you do you
+if you said no okay or came up with a
+whole bunch of
+yes but think about them for a second
+and analyze it's relevant so
+should we rng or dice here if you said
+yes
+but blah blah blah i want you to kind of
+write down the bots now for a moment
+and think about them and see how
+relevant they are
+if you said something like yes but then
+i'll be over bluffing
+this is something that i hear quite
+often when i say okay i think ice fat is
+a suit here should be a bluff
+and then i usually ask them is that
+really a problem if someone is over
+folding think about this for a second do
+you want to play balanced
+or spoiler do you want to make an
+attempt of
+playing balanced gto or do you want to
+play
+a strategy that in a vacuum is highest
+ev a maximizing strategy
+i would say that if someone is over
+folding we should be over bluffing
+that's kind of the
+whole nature of how you can generate
+higher ev in poker
+so save yourself the overthinking and
+start with the last question first
+like i said yes it indeed had poor
+blockers
+we were maybe blocking we were not
+really blocking hands that would call we
+were blocking the men that would fold
+but in the end how big is the gap that
+we're playing with you saw the gap
+between what population is doing and
+what the solver is doing was quite big
+so a blocker is not going to be the
+difference between our bluff being
+plus v or minus a v
+in the end guys it's as simple as this
+as this folders are going to fold and
+colors are going to call
+so if you have a guy who is a happy
+caller he's most probably over calling
+if you have a guy who's a happy folder
+he's most probably over folding
+so if you would say that this is the
+response of
+our opponent which as we saw in the data
+is more likely i don't think pocket
+deuces will
+call i think all these low pocket
+players will probably just fold
+i think i had like a six suited will
+probably also fault
+basically i made him fold most of the
+six acts
+and some 7x i started to make him hero
+call
+and it's up to you to ask yourself
+versus the opponent that you're playing
+or
+is the population that you're playing
+how you think folding frequencies will
+look like and
+just just look at the hands and
+intuitively also for yourself
+would you call here at pocket deuces
+yeah i wouldn't cover her with pocket
+deuces
+[Music]
+so for the for the next time someone is
+in this situation
+exploit me i won't call you with pocket
+deuces i promise you
+and here we will see the correct
+adjustment so the maximizing strategy
+versus a response as shown here on the
+left which was
+equivalent to what population is most
+likely doing and now we can see that ace
+flat suited has become a pure bluff okay
+there's now a flipping point
+yes ace five of diamonds is probably
+still the highest ev bluff
+however not bluffing with ace five of
+spades right now
+is a less plus of b than bluffing okay
+so therefore we bluff
+and now i can already hear a couple of
+you guys
+what about balance okay what about
+balance
+balance can't be reached in game
+okay there's only attempt to play
+correctly and this is the thing with
+the rngs if you're gonna roll dice or
+balance certain bluffing frequencies in
+certain scenarios
+you might fall into the trap that you
+start randomizing with a hand that's
+never a bluff
+okay that's one or you start randomizing
+a hand that's always a bluff
+okay we cannot understand poker
+completely
+our opponent can never defend gto in
+this situation
+okay he will not on the fly see
+exactly how his range looks he will
+always be off by a couple of percent
+and a solver output a couple of percent
+will usually
+lean the strategy towards extreme left
+or right as we saw in the previous video
+if you haven't checked that one out in
+the bluff catching video
+where we went from a balanced calling
+range on the river to a zero percent
+folding range
+and if you start playing around with
+solver
+and adding in some scenarios that are
+way more likely in practice you will see
+this
+occurring more often and the last point
+i wanted to look at
+to listing considerations does villains
+show up with the hands that fall on the
+river
+and what i mean with that is let's say
+half villain indeed was folding loses to
+fives
+let's say videon already folds his hand
+on the flop then
+obviously we should maybe adjust our
+bluffing frequencies on the river
+because he will basically
+have way less hands that are going to
+fold okay this is a general concept if
+you start
+bluffing certain hands if you want to
+block certain hands on the river
+do make sure villain actually showed up
+to the river with those hands
+so main takeaway for you guys
+for this bluffing video i want you guys
+to prevent
+overthinking and start what with what is
+most relevant
+if you play 100 and l50nl etc etc please
+don't start rng and try to balance your
+ranges
+and in my senses you can already hear
+this i say try to balance your ranges
+it's impossible to do and a waste of
+time
+point number two you should think less
+and this is kind of a recurring one
+from the previous video from bluff
+catching as well thinking less about how
+your range should play
+on theory on the river it's obviously
+good to have a theoretical understanding
+of how this spot should be played
+mainly because then if in this case we
+are in the big blind
+and we know that h5 suited shouldn't be
+bluffing and we see someone bluffing we
+know that it's likely that he is over
+bluffing
+okay it's always and i've said this in
+the previous video as well
+it's never an excuse to not use a solver
+because in order to
+exploit someone correctly we first need
+to know what is right
+okay so definitely important to know
+what is theoretically correct in a spot
+like that
+and then from there we can see if
+population
+if you think your current opponents are
+gonna approach the spot in the same way
+and from there think more about what
+your opponent has try to figure out what
+the guy has
+and then figure out if the guy is
+willing to fold or not
+okay so in that example that we gave you
+think your opponent is
+likely to fall at seven and a six if
+your answer is yes please always bluff
+with h5
+if you think he's never folding those
+hands and you think you've all
+has already folded pocket press on the
+flop please do not bluff h5
+okay and last but not least
+again things are often not close in
+practice so blockers matter less
+again this is the whole example with the
+ace five of diamonds is probably your
+best bluff compared to ace five of
+spades
+however the blocker impact in practice
+is not going to make the difference
+between something being plus v
+or minus ev it's only going to increase
+or decrease
+the v of already that already was with
+that hand
+so i hope you guys like this video
+and start to bluff various spots
+in too high the frequency get called and
+afterwards send me a lot of angry
+messages
+wanting your money back as always we
+cannot be held responsible for you
+making certain plus and your opponent
+calling with hands that you should not
+be calling with
+so please be careful uh these are
+actually great spots that if you make a
+bluff and you think someone is folding
+but he didn't fold a certain hand
+probably good to reevaluate that
+situation if your
+initial read was right if you haven't
+done so
+and if you did like this video give it a
+thumbs up if you again didn't like this
+video
+give it a thumbs down make sure to
+subscribe
+here you can see all our social medias
+basically all the icons are here you can
+follow us and get in touch with us
+basically anywhere
+good luck bluffing everyone
+you

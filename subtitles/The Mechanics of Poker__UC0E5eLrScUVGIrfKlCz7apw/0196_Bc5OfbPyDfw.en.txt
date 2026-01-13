@@ -1,0 +1,4989 @@
+Kind: captions
+Language: en
+Let's Help transition a person's mind
+into thinking okay you know this GTO
+approach that I have is like the perfect
+way to play where that couldn't be
+really farther from the truth in my
+opinion I mean the more information and
+the more understanding that you have
+inside the game of all the different
+mechanics inside of it add so much to
+like that infinite spider web that the
+game is of Poker especially more when
+you talk about tournaments as opposed to
+like H 100 big blind cash over and over
+where you see all of these different
+scenarios with different players at
+different stages of the tournament and
+depending on even how they feel that day
+is going to determine how they play this
+hand so if you're just looking at you
+know the sheet in front of you you're
+missing a lot of the
+picture yeah know I like and I really I
+heard you talk a lot in uh actually we
+haven't really started the pot yet but
+just I I I I get excited because I heard
+you talk a lot about stuff like uh I
+feel like the energy at the tables the
+flow of the game maneuvering around the
+situations and actually there's a lot of
+alignment in philosophy have you ever
+read the book Art of War heard about the
+book yeah and like there's one
+philosophy in there from sunu which I
+strongly relate with and which is a big
+philosophy in my poker game and I think
+you would agree it's like the avoid what
+is strong and strike what's weak you try
+to you try to figure out okay when are
+people weak that's when you strike and
+you try to figure out when people are
+strong that's when you try to avoid
+that's really kind of what I got from
+hearing you talk about poker it's like
+yeah you you just try to pick up on as
+much information as possible which give
+you a more accurate idea about his range
+and then you can just look at your hand
+well how does my hand does against his
+range well I think he's pretty strong
+well I think he's pretty weak so let's
+let's follow it up accordingly right and
+then like you know the let's you know go
+through the stage of GTO everyone's so
+studied at pre flop poker so they're
+masters of pre- flop poker but now bring
+them like deep in the spiderweb on these
+turn and River spots that you know they
+couldn't have done enough study to
+really be sharp in this situation so
+it's like yeah of course you know I know
+that you you guys have it down of
+Defending ranges and the big blind and
+how to play these pre flop three betting
+spots but when you wind up in these
+strange ones that you couldn't really
+have gotten that far in like studying
+chart I think because I see poker is
+such like a infinite game with that you
+have to take every bit of information
+that you
+have yeah I mean you're you're clearly a
+puzzle solver right you try to get
+yourself into situation and you solve
+the puzzle whereas the new school poker
+players maybe a bit more studied in
+terms of charts and less good at solving
+the puzzle that's presented to them
+weird situations like what the hell is
+going on I don't know I haven't seen
+this I haven't seen this solution yet so
+yeah what do I do now like they take
+away like their power of creativity from
+themselves because now they just base
+every play that they make okay you know
+I'm going to go check it up after the
+tournament oh okay solver says it's
+right okay all done on actually use my
+brain at all and solve any problems then
+it just turns into a memorization game
+and then you wind up
+yeah deep in the spiderweb with some
+tough spiders and they're going to eat
+you alive I I love the Spider Web the
+spider web we definitely we need to get
+back all right let's let's let's let let
+me introduce you in the pot and let's
+start the pot before you know we ramble
+I'm sure we're going to talk about for
+hours without it recording what's up my
+fellow poker enthusiast it's Renee aka
+the wo here and together with my co-host
+Adam carmichel represent to you the
+mechanics of Poker podcast in this
+podcast we deconstruct high stakes poker
+players figuring out what it is about
+them how they think what they do that
+makes them so successful with an extra
+focus on the obstacles they faced and
+the skills they had to develop to
+surpass them over the years me and Adam
+have gained a lot of experience in both
+reaching high stakes poker for ourselves
+and teaching other players to do the
+same we have bundled all this knowledge
+together in our coaching program the
+mechanics of Poker which is the most
+complete poker coaching product on the
+market if you want to have a chance to
+work with me and Adam so you can get
+unstuck and make more progress in your
+poker career go over to mechanics ofp
+poker.com to apply but without further
+Ado let's learn from another high stakes
+player journey in today's episode
+welcome back to another episode of the
+mechanics of Poker podcast before we
+dive into another great episode I wanted
+to put out a quick announcement that our
+mechanics of Poker 2.0 coaching program
+is open for enrollment up until the end
+of this weekend this is your last chance
+to enroll in the mechanics of Poker 2.0
+before we will close the program
+permanently to make sure you take action
+you don't miss out we put it together
+the best promotion ever that's 25% off
+on the program and three bonuses Worth
+close up to €3,000 in free value so go
+over to mechanics of poker.com or click
+the link in the description below to
+work with me and Adam and make 2024 your
+best poker year ever introducing today's
+guests we will be chatting with the
+current number one alltime money list
+holder Brinn Kenny What drew me
+personally to invite Brin on the pot is
+both his polarizing character some might
+hate him some might love him I'm
+personally more in the love Camp myself
+his tolerance to risk constantly putting
+big chunks of his Network on the line
+and the confidence he has in himself
+regardless of his results I'm also very
+curious about his development throughout
+poker starting out as a gamer but later
+start to see poker as a great vehicle to
+learn more about yourself and about life
+he's also mentioned that we are all
+students of life and he's very
+passionate about learning and developing
+himself in our areas be it technically
+social physically or spiritually this
+personal growth has allowed him to be
+more present in the moment while playing
+poker so he can better listen to his
+instincts feel the flow of the game
+maneuver around the poker tables and
+make great decisions as always I'm
+joined with my co-host co- mechanics of
+Poker coach Mr mindset and performance
+Adam carmichel Adam ring comes across as
+a very intuitive player who follows his
+gut when we mention topics like
+intuition gut feel
+there's usually a bit of vake topics
+could you maybe clarify for the audience
+what a gut feeling actually is and how
+it can both help but also hinder the
+quality of your poker
+decisions I would class a good feeling
+as a access to knowledge which isn't in
+your kind of conscious reasoning and
+conscious thinking and this is often off
+millions of data points if you think
+someone like brins probably played
+millions and millions of Pock hands he's
+built a strong intuitive feeling of how
+spots feel so for example often you can
+see an opponent feels strong in the spot
+or he feels weak it's not like I've
+consciously thought through his range
+it's like the sample size I have
+intuitively is telling me he's either
+strong or he's weak here now where that
+can go wrong is we have something called
+biases which lead us in directions where
+our emotions that say we're risk of us
+and we have an intuitive feeling to fold
+but that might be coming from a fear or
+a fear or insecurity where you don't
+want to put chips in so we've got to
+navigate this space of how do we listen
+to our intuition how do we develop a
+strong intuitive feeling spot how do we
+still use our logic to make good
+decisions and then when does that keep
+us take us astray so yeah I'm looking
+forward to this conversation with Brinn
+we can go deeper into how he uses his
+own intuition to make decisions and I'm
+very interested in extracting as much
+knowledge as we can from
+him yeah me too this guy has a lot of
+knowledge really really excited to start
+chatting but before we start I would
+like to give a big shout out to our
+sponsor GTO
+wizard we are proud to announce a techn
+Tech ological breakthrough introducing
+GTO wizard AI this powerful technology
+can solve any custom poker spot in
+seconds to high accuracy unlike pre-s
+solved Solutions this allows you to edit
+the solving parameters that means you
+can modify the ranges change the stack
+and pot sizes customize the beding tree
+and automatically simplify and optimize
+your bet sizes brace yourself The Meta
+is about to
+change so sign up to GTO wizard using
+the link below GTO wizard.com mechanics
+get 10% off on your first subscription
+and join the weekly webinars of which
+one every month is with me looking
+really forward on coaching you guys
+there but without further Ado let's get
+into goodness of today's episode all
+right Brin great to have you on the PT
+man you have recently reclaimed the
+number one spot I saw on the alltime
+money list congratulations you you took
+down the 250k for 6.8 million not not a
+bad score I was wondering is being
+number one which you are right now is
+that something that you have always
+strived towards ever since you got into
+poker and if so what drives you and what
+gives you the confidence to set a goal
+because I can imagine a lot of people
+just start to play out poker and see
+well you know let's see how far I can
+take it and their confidence Rises when
+their results rise but you straight away
+said listen I'm going to be number one
+where how how does it work I don't like
+I guess it's hard where where does that
+come from because I just had this I
+guess innate confidence in myself I
+think I would say that it has to start
+from like your upbringing as a child the
+amount of like love and support that you
+get so I would shoot it all back from
+like really the beginning the beginning
+where I feel like I had an amazing
+family amazing parents who gave me tons
+of love and enabled my creativity I
+think that a lot of
+people kind of get their creativity
+stolen from them at different stages in
+their life either if it's their parents
+the system of school the system of the
+world and what it expects from you
+you're supposed to maybe fit into like a
+certain mold where I feel like it was
+instilled as me into me like to be my
+own person and to believe in that and I
+think that there's no way you can really
+have confidence in yourself like that
+unless if you're really in touch with
+yourself
+so I've I I think that um I don't know
+it was just like a match made in heaven
+I guess me and poker from the beginning
+is like as soon as I started playing
+poker I really loved the aspects of
+testing yourself uh always like being in
+continuous growth and trying to be a
+better and better version of yourself
+while competing against other people who
+are trying to do the same and see
+themselves as the top it made it really
+fun for me so I think that's another
+part of it like you really need to have
+fun I might be shooting it a little
+early but um like I I have friends that
+said right when I really got into poker
+at 17 years old that I was I was saying
+to them that I was going to be number
+one in the world and to imagine where
+that comes from you know now being such
+like a different version of myself than
+the 17 year-old version know this
+version would have to say on one side
+that a bit of a lunatic no matter what
+like a bit of a a a different screw I
+guess than others but then also just
+like a belief that I could make
+something that I see that maybe others
+would convince themselves that it's not
+possible you know let's you imagine that
+thought and we all have so many
+different thoughts and I feel like a lot
+of people are prone to not believing in
+their thought and saying that this is
+too Grand of a thing that you know how
+could like there's no way that I could
+actually accomplish this because at that
+point you know you see you're at this
+huge mountain and you're at the bottom
+you really just started on the mountain
+and there are so many people climbing it
+and you're saying in your head you know
+I'm going to be the one who reaches the
+top of the mountain at some point or F
+not really first because you know there
+were other people who played but I guess
+the reaching the highest point of that
+mountain I guess it is because since the
+number one alltime winner is always
+growing I guess the mountain also has to
+like grow so reaching the highest like
+level of that mountain you know a lot of
+it's very easy to tell yourself that you
+can't do it you know no matter what if
+you have like that thought but I I think
+it's the same to believe that you can
+and I don't know my my whole like
+experience because uh before I was
+playing poker I was playing Magic the
+Gathering and my goal was to be number
+one in the world and the 15 and under
+Group which is when I really played
+Magic the Gathering there was a pro tour
+and the jss junior Super Series they
+called it which was 15 and under and
+there were two different levels and I
+was able to reach number one in the
+world in that so I think that was like
+the preemptive belief that okay I was I
+already saw something that was that is
+this you know Grand thing to reach I was
+able to make it happen now this new
+thought comes into my head that I can
+reach it on a different mountain and I
+just had the I believe that thought
+and you know it never I would say at the
+same time though nothing nothing's
+nothing's given and nothing's easy you
+know you L you accept the I I see Life
+as like infinite possibilities so it's
+like when I started to climb this
+mountain of Poker to be the best I was
+given a certain type of Road of
+challenges that you would have to uh
+accomplish to reach like that top of the
+mountain and I think that it was much
+different than most other people
+experience in poker because you see a
+lot of the winners they kind of
+continuously win so they have this
+upward trajectory all the people that
+you're playing with really in high
+rollers they're winning in a yearly
+basis and they don't have you know the
+necessarily the leaks because kind of
+the guys who have leaks and betting
+Sports and other things they wind up
+like really washing off at some point
+because it's going to be too big of a
+leak to actually well I guess it just it
+compounds the difficulty of like the
+road that you're on so you know my leak
+was always
+staking spending a bit too much money I
+don't know if I wouldn't call it a leak
+so helping out too many people is
+definitely not a leak but if you look at
+it in terms of like what happened to my
+bankroll at different stages it was
+definitely massively affected by helping
+a lot of people but at the the same time
+I wouldn't call that a leak that's
+something that I enjoy doing and it's
+like I guess it's also who you help
+right yeah because that yeah well yeah
+exactly like the beginning you know you
+think you're helping other poker players
+taking them and giving them like a path
+to win and then you realize that that
+doesn't really work and then you then
+start gearing your help towards people
+who are actually making an influence
+with that help are able to use your
+resources to positively benefit more
+people instead of just this one person
+game but then at the same time you know
+because it's like um what was like the
+fire that kept me going so along this
+journey from when I started playing
+poker to reaching number one I went from
+millionaire to broke to negative
+500k to millionaire to making a bad
+business deal negative
+millionaire uh get back in like the
+green again build up a million again so
+it there was none of this like uh you
+know calm Road it was like a wild and
+crazy ride of like you know can you hang
+on to the roller coaster like when it's
+flipping you every which way and the
+thing for me that I think made it
+possible for me to even hang on the
+roller coaster at those stages is
+because I always equated My Success to
+uh enabling more happiness to others
+starting with my immediate family in
+terms of you know when I was a kid my
+parents had bills they had there were
+all these reasons why I wanted to be
+successful so that I could help my
+parents my grandma my siblings so all of
+My Success then equated to in my mind
+happiness for others and as as you're
+young you don't necessarily do it in the
+best way you're always learning you know
+you might be enabling people at some
+points where you're trying to help them
+but it might not be the best approach
+but at the same time you don't really
+have the tools in your bag yet to
+understand what the best approach is but
+it's like because of that no matter how
+bad of a spot I was in like I went from
+uh building starting uh the end to One
+Summer with 50k on Full Tilt three
+months later I had three and a half
+million on Full Tilt six months later I
+had negative 500k and lost it all and
+most of it like was from staking and
+then so I wind up in this spot where I'm
+negative
+500k and uh I was playing to get there I
+was playing the highest takes PLO I I
+just like hopped in PLO and started
+winning and once I get to this negative
+500 figure I'm starting to exhaust like
+the credit I can get from people and the
+ability really to operate so I've got to
+pull it all back and say okay well uh I
+might have been playing 500 a th000 PLO
+versus Ivy winning two months ago but
+now I've got to play $20 tournaments and
+just make two 300 a day just to to dig
+myself out of this hole so I feel like
+too A lot of times people get into a
+hole and they think they can get
+themselves out overnight where I'm very
+patient in those situations and I think
+good at making decisions back against
+the wall but it's like that fire of
+helping my family helping more than
+myself so it's like I would equate it to
+like a gladiator in the arena and you
+know sometimes you might have a leg
+chopped off you're going to be in a bad
+spot like sometimes you have to accept
+that though and whatever comes out of
+the other side know all you can do is
+give it your best but at the same time
+keep giving it your best until your
+final breath and yeah that ability to
+help people really resonates with me the
+most it's what I what I like the most
+really about this life experience that
+we have is positively affecting people
+and trying to share the lessons and the
+skills that you've learned or
+harness during this
+life yeah I mean sounds great but I mean
+that's also a reason why you agreed I
+guess to come on this spot right to
+share your your experience so I mean a
+lot of striving poker players or already
+professional poker players listening
+that probably have some of them will
+have the same ambition but some of them
+oh Kenny is now number one well I'm
+going to be number one and Kenny is now
+here going to explain me how I can have
+to believe in myself to actually become
+number one but it sounded like like your
+upbringing gave you sort of the
+permission to believe in yourself right
+you mentioned creativity and then I
+guess your experience in Magic at a
+young age kind of gave you that
+confirmation like hey I got the
+permission to be confident and I've with
+my skills I now actually have the right
+to be confident because I'm actually
+very good at Magic you then went on I
+think you mentioned you had 50k on food
+til went to 3.5 million I I assume that
+didn't happen over there how did you
+then switch from Magic to playing poker
+and when did you kind of could could you
+kind of call yourself a professional and
+how did that let's say first year of
+your professional career look like did
+that straight away go to this 50k three
+and a half million and back to that was
+a few years like into the into the
+career just since we were on like the
+mindset I I got into that a bit early
+but um so yeah like magic uh so I played
+magic really until I was 16 and was out
+of that jss thing I probably played some
+poker like in that time still but that's
+when I really I guess transition my love
+for games from Magic into poker and
+at that time I was just playing with
+some friends in high school we would
+play a sit and go in my grandpa's
+backyard and afternoon of some days and
+just play between friends and I wound up
+playing a bit more like between friends
+and at this same time uh it was when
+David Williams made his Deep Run in the
+World Series main event and Dave
+Williams being a magic player kind of
+had the magic players thinking like oh
+wow you know this guy just won I forget
+what it was maybe 2 million 3 million in
+the early days of I think it was in 2005
+so anyone who played magic was really
+like oh I must be in the wrong game and
+I this is the game for like higher
+Stakes so I got to jump into this one
+and then uh it was just like as soon as
+I started playing online I was really
+just hooked that at poker stars at the
+time just had decent size well for the
+state for that time I was playing 5 10
+20 30 tournaments that I would just hop
+in for and they kind of had that all day
+all throughout the night so my first
+year after high school was when I really
+got into it a lot and I was in pretty
+good shape uh when I graduated high
+school but I gained 60 pounds in the
+first year just playing poker all day
+every day
+ordering shitty food really all
+throughout the day um so then uh my
+parents were or my mom more was
+concerned that I should should go to
+college so I said okay you know I'll
+apply I'll go to this community colge
+right around the corner from us was one
+of the best community colleges in the
+country so it's like okay whatever to
+satisfy you guys I'll go sign up over
+here but I think it was in the first uh
+two weeks that I just really had no
+interest for it of sitting there through
+accounting classes and this that and the
+other it really just didn't peque any of
+my interest or creativity and I was
+already playing uh a bit of Poker but I
+hadn't really found any success and I
+remember it was during W coups in a
+September and there was a tournament
+that I really liked that I had to miss
+for class and I just after that I just
+left the class and said yeah I'm done
+and just priorties man
+priorities yeah yeah I get well that
+like belief because most people would
+then convince themselves no I'm supposed
+to go to school so like kind of safe
+route right continue like some something
+that they really lose all of their
+creativity where it's like um and that's
+why that's one of the reasons why I love
+poker I think it's it's it can be such a
+creative expression of yourself where
+there are so many different poker styles
+that you could craft a world-class
+strategy of from very tight to very
+aggressive and there's somewhere in
+there that you can craft a masterful
+strategy in there which means that the
+best way that you could play poker is
+how you feel like playing poker and
+there a lot of people that playing Super
+aggressive wouldn't really work for just
+their personality and the same for like
+the other side of the spectrum whereas
+now since kind of the approach and at
+the same time the way that the media
+portrays it is that this is a solved GTO
+game where there's a perfect way of
+playing the game and nothing else which
+I would say completely takes anyone's
+creativity out of it which now you don't
+have really any space
+to to make your magic let's call it in
+the in the way that works for you you're
+now following like a book so so for me
+that thinking is kind of going back to
+the same approach of following the path
+of going to school and getting a job
+you're supposed to do this and you're
+supposed to do that so then taking
+really the fun out of the game and if
+you're not having fun in it you're never
+going to be able to be your best either
+I think that was yeah I I I get that
+especially I can relate to it like in
+terms of like solver age where it's just
+like well now I'm just following what
+the solver says and everything kind of
+does what the solver does so I just
+follow the solver as well and then kind
+of the creativity gets drawn out of it
+and with that also the fun gets drawn
+out of it yeah and and now we're in a
+time where all of the poker programs are
+talking GTO everything and right play
+and wrong play and that you can't win
+unless if you play this GTO approach
+know if I was someone on the outside
+listening to this it sounds like the
+least fun game ever where like I see
+poker as like the most fun game ever
+where there's so many possibilities to
+craft like your own style now you're
+trying to sell something to people that
+has no fun in it most of the people that
+you're watching on there don't look like
+they're having fun either they're not
+saying anything doing anything and you
+know I I'm not someone that's you don't
+have to talk to people you know in hands
+and do X and Y but you know for me it
+was always like if someone you're in a
+high roller scene so you see a lot of
+the same people every day and you know
+if someone new comes to the scene
+usually they're a recreational person if
+a lot of people don't know them they're
+a recreational player and you know they
+want they're there to have fun you need
+to Poker needs to be fun to be able to
+attract those type of people to actually
+want to play so I was always the one
+that would talk to this person you know
+and I'm also very interested in people
+especially ones who had different
+experiences than poker but made it to
+the top of their field which now they
+can play these high roller tournaments
+for fun it's a whole
+different experience than the poker
+player one which of course I've done
+myself I'm familiar with so many people
+I feel like it's just uh something
+that's kind it's like a art of lost it's
+like a art that's lost almost you know
+you go into a casino and your host is
+going to welcome you you feel like
+you're welcomed into this space and you
+know you might go play a poker
+tournament and no one even said a word
+to you it doesn't seem like really much
+fun and then the unfortunate side of it
+too is a lot of the people who are even
+going to be friendly with you are going
+to try to invite you to their home game
+which is a a whole another horrible
+thing for the game which I've I've made
+a a lot of friends who are recreational
+players I've never made a home game or
+tried to invite them to my home game to
+make money off of them I see and I think
+this is a lot of people in the world
+just have this limited approach of
+what's best for me right now is the path
+that I'm going to take where actually I
+think that it's a horrible path the one
+that's trying to take advantage of a
+person that you fortunately meet in this
+scenario so you know you're in this
+scenario with clearly intelligent people
+that have found a route to make it to
+the top and a different one than your
+own and you're a poker player who thinks
+about all these things and the more
+information like you have the better you
+can make any decisions so I feel like
+why would you ever want to connect with
+a good person and try to make a
+short-sided move like how can I make
+money off of this person instead of like
+hey let me see if I actually have a
+connection with the person do we think
+alike in some aspects and wind up in in
+a situation where not not one of the
+either is looking to gain advantage on
+the other and a lot of times you even
+see it where I would see a recreational
+player ask a pro you know did I play
+this hand like well and they would
+really they would just lie to their face
+where you know there's so many spots in
+poker you can tell a person who's here
+playing for fun if they made the correct
+play or not not just to save your
+whatever you have in your mind for Ev so
+I think we've went down kind of a bad
+way recently where everything is thought
+of more and what's best for me right now
+and you're even seeing that in the
+industry of online poker giving as
+little as they possibly can and kind of
+always upping their side upping
+Administration fees and fees for
+deposits and withdrawals kind of milking
+the cow as much as it possibly can
+because we're on this like uh I'd say
+place that too many of us are thinking
+and not just poker in the world but I
+guess because I see poker players in a
+more advanced so poker players are the
+ones who you know accepted a life that
+has nothing guaranteed so already they
+jumped into something of belief in
+themselves and belief to do something
+different than the world tells you to do
+so and I think it's it's something where
+you learn these skills in poker but
+unless if you really reflect on the
+lessons that you learn and try to
+translate them to life you're kind of
+just going to miss the whole process of
+what you learned and the skill of
+problem solving that poker teaches you
+can really be applied to anything in the
+world because any decision that you're
+you're making anything that you're doing
+it's all based on the information that
+you have and making the best decision in
+the moment that you can so poker you
+know has you Cal in this setting where
+lots of pressure is under you and you
+have to make these tough tight decisions
+and you don't see many translating it to
+life um you know it's interesting life
+life is interesting and at the same time
+I would say that
+I uh rewind to me five years ago and all
+I thought about was poker I didn't apply
+any of these things really to life I had
+in my mind that um I was doing such a
+great job and had this balance in life
+and was at such like a great point where
+then F once I make it let's say a year
+out of that you start to think like how
+could you have possibly thought you had
+any balance the only thing that you were
+actually thinking about or doing was
+playing poker so and I think it it's
+like that you know life is such a
+humbling experience really where
+especially the harder you try the more
+difficult lessons that life is going to
+give you but at the same time if you
+keep rising to the challenge you know
+they'll keep coming and you can keep
+growing along this like ladder that
+we're on but at the same time if you're
+not willing to completely destroy like
+the thought of yourself and how you see
+almost everything you're going to have a
+hard time adapting to The Changing Times
+of the world because you know you're
+stuck in one kind of thinking and I
+just like I think everything relates to
+Poker it goes back to like poker too
+there aren't many people who really
+crushed for 10 10 15 20 years because
+they had a style that was good in their
+time and the game evolved and usually
+they didn't put in the word they kind of
+got to the top of the hill let's say you
+know a perfect example is Tom dwan who
+was killing everybody crushing heads up
+kind of got to the top of the hill saw
+and got a bit comfortable game changes
+and the way way that it changes a bit
+you know then comes like the jungle man
+a silder era where it's like a new whole
+way of thinking that took all of the
+ways of Tom's thinking and how he played
+and translated it to a new level and he
+kind of didn't work on his game he was s
+you know sitting at the nose bed games
+wasn't getting action wasn't getting to
+sharpen his skills while on the same
+time no silder was playing all day every
+day 24 hours a day sharpening his skills
+at the highest level so it's like then
+when uh he
+they reach like the same point you know
+silder was ready for it and Tom really
+kind of got lazy on the top of his thing
+and it's kind of it's we've seen there
+have been a lot of that through poker so
+it kind of just highlights more that if
+you're not willing to change with the
+times the times are really going to eat
+you alive if you know you stay stuck in
+this way of thinking and way of being so
+and then at the same time it's
+a h i I don't know if tough is the right
+word it's like a beautiful journey of
+growth life but it's a humbling you know
+rip your whole like thoughts of of
+everything apart you know wind up in the
+dirt have to pull yourself like out of
+it laugh at yourself for you know things
+that people might you know go crazy
+about but just like pull yourself back
+together and you know take all of it and
+use it like as a bag of tools for that
+next
+phase I mean your experience obviously
+you know you're sharing your experience
+the way you experience life but
+obviously you were the guy who said he
+was going to become number one right and
+you already mentioned yeah that's going
+to be quite a humbly road but in in the
+same time I think if you set very high
+goals this is kind of the benefit then
+you can also experienced the most amount
+of growth right obviously you've
+experienced a lot of variant in your
+life but therefore you've all also meant
+you you also manag to grow as much as
+possible whereas if a lot of people they
+just play poker just to get by think
+it's kind of a wasted opportunity like
+you said you can learn a lot about life
+if you set a high goal in poker like for
+example becoming number one now not
+everyone has to necessarily try to
+become number one but at least I think
+setting the goal makes you open up your
+mind to the possibilities well I want to
+become number one well what should I
+then try to be doing to become number
+one and then if you have the belief that
+you can actually become number one when
+these obstacles come you just see that
+hey these are opportunities to learn
+where if someone doesn't really have
+that confidence they might see it's like
+ah you see it's not for me and they quit
+and they go back into comfort and then
+they won't have the same experience that
+you have right they won't have had the
+same amount of growth yeah because if
+you're at if you accept comfort then
+you're never pushing your limits or
+pushing the boundaries that like you've
+set out for yourself that are never
+comfortable but yeah if you don't go
+through it then life is going to be that
+you know it'll be a comfortable one that
+there won't be much growth you might
+watch a lot of sports games and drink a
+lot of beer and kind of Coast through
+this life without learning much or you
+know take the one
+that know you might make it to the top
+you might make it to the top have like
+this high level of like trust in the
+community and integrity of yourself and
+how you act in all settings and you
+might have that just destroyed overnight
+in some way that you know you could have
+never imagined and you know you just
+your whole idea of your self what you're
+doing in life it's like back to the
+drawing board it's you know you make it
+to the top of this mountain and all of a
+sudden you know you're wiped to the
+bottom again so then it's a it's a whole
+another humbling experience
+because how you feel and how people
+treat you when you're at the top of
+anything and then how you feel or how
+people treat you when you're at the
+bottom is such a different reality that
+unless if you really have
+that
+acceptance of whatever happens and
+belief that it's all for like this
+greater good and that life
+always it's like life tests it gives you
+what you can it's like uh what What's
+The Saying life gives you uh what you
+can handle not what you want so you know
+you see yourself as this strong I always
+saw myself as a strong person that could
+you know carry others on my back let's
+say that's kind of how I thought about
+it that you know I would carry my family
+on my back whatever they need I could
+fight for them I was strong enough
+focused enough to like keep going up and
+then you know you you start carrying
+more and more on your back until one day
+you know it all crashes on you again too
+and this whole like experience that you
+could do everything and you could carry
+all these people on your back and it's
+no problem washes away into like
+something new and hey now how am I even
+looking at life and how do I how am I
+acting how how am I perceived by other
+people because you know that's a whole
+another thing in itself
+where I've always been since my since my
+dedication is so much I've always been
+very hard on myself to be better to grow
+not in the sense that I say bad things
+to myself but to the sense that I'm
+pushing my limits
+continuously while at the same time I'm
+doing a lot of good for a lot of people
+but while I'm while I was in this chasm
+and being from New York I speak fast I
+speak direct I see things in a a
+different way I kind of can hit to the
+Target really where it's like my
+thinking
+was oh I'm the soft person who enters
+like the room I'm always trying to help
+everybody you start to realize yourself
+later it's like no no you're this like
+crazy intense person that's hard on
+everyone yes it's because you're hard on
+yourself and you're only giving them a
+small bit of the hardness that you have
+on yourself where at the same time is
+that how you want to you know be seen in
+the world or can you harness that
+intensity and you know be able to spread
+the same message with calmness and with
+love instead of with sharpness and
+directness because since all of us
+especially are wired very differently
+there are some people that you know if
+you hit just straight with harshness and
+directness you'll never be able to touch
+any bit of like their of them actually
+listening to the message that you're
+trying to give them where it's like
+poker you have to come with a different
+approach in every setting that you're in
+and unless if you're Mindful and you
+even understand what does it mean to
+breathe like yeah I know how when first
+time someone who you know was a bit more
+advanced of breathing or a lot more
+advanced of breathing they ask me you
+know well like how do you breathe your
+first thought like is what do you mean
+what the [ __ ] what what do you mean I
+bre I breathe like everybody else what
+kind of like thought is that how do I
+breathe then it's like no no no you
+don't understand you're not actually
+breathing like you're not breathing
+through your nose you're like a mouth
+breather you you're not like taking an
+air a lot of times you're not mindful of
+your breath this whole mechanic that can
+work so well to your advantage of
+keeping your cool under intense
+circumstances and it's like wait you
+know I had no idea about this and that's
+the amazing thing about life there are
+all these different PODS of information
+gifts things that you can incorporate
+into your way of being to be just a
+better version of yourself so this was
+the thing right like if you if you for
+example set the goal to become number
+one and someone tells you hey you're not
+breathing right your brain is start to L
+wait so if I breathe better I can
+concentrate more I perform more Under
+Pressure hey I want to become number one
+hey that that seems like something you
+know whereas if you're just working in
+the supermarket you know and and you're
+you're you're putting in the bottles in
+the sh and someone says hey you're
+breeding like yeah okay like what what
+is breeding
+better can I feel the shell in a in a in
+a faster way what like why why why why
+would that matter to me but I would
+challenge you there because I would say
+that it all depends of the determination
+that the person that you run into has
+for sure because they can be at a point
+where they're stalking things in a
+grocery store but they might see themsel
+at somewhere completely different so
+it's like that's why life will kind of
+let's say give you but then they see
+this breathing as an opportunity for
+this bigger picture that they already
+have if they don't have the bigger
+picture they're not going to
+interpretate breathing as a way like
+sort of a path or one of one of the
+tools that they can use in order to get
+to that better life if you get what I
+mean oh yeah for sure that's definitely
+true which is then they would just go in
+the bucket of the people who are looking
+for comfort in their life
+and might as well count those people out
+you know if you're if you're looking for
+comfort you know it's probably the wrong
+podcast to listen to to be honest yeah
+yes no this is definitely not not not a
+podcast for Comfort if you want to
+talk something yeah imagine if you want
+to imagine Big Dreams and you know push
+your boundaries and believe what others
+might tell you is impossible then I
+might be the right cup of tea for you
+then this then this is the part to
+listen to you mentioned all the way in
+the beginning as well right that you get
+a lot of motivation out of uh taking
+care of your siblings you VI a certain
+amount of responsibility this can be
+very motivating obviously when it
+becomes too much I think like you
+experienced it can also just yeah the
+weight is too much then it becomes
+actually to like pressure I actually had
+the same when I was just you know living
+living a single life you know was
+playing a bit of Poker it was like ah if
+it all goes to [ __ ] I'll just go back to
+my hometown you know but then suddenly
+you know I I got married moved in
+together with my wife and I was
+supporting my wife financially was like
+hey wait oh [ __ ] I actually have to now
+do my best because I don't no longer
+only feel for for myself and I also feel
+for others I do remember this gave me
+like a certain amount of motivation that
+I think that I think you're describing
+as well I also wanted to touch on like
+the creativity part that you keep on
+coming back to if you want to become
+number one and you encounter a problem
+let's say you encounter a tough opponent
+he's in the way of you becoming number
+one if your goal is not to become number
+one you might just quit whereas oh if
+you want to become number one you have
+to go through this guy so it really it
+really helps you think on a whole
+another level it's like okay quitting is
+not an option how am I going to beat
+this guy that's when you really start to
+think and that's when you can really
+come up with more creative strategies
+and that's I think nowadays when people
+kind of think ah the game is solved
+anyway so there's no room well it's more
+like it's that mentality that stops you
+from being cre creative creative not the
+the like the game in the solver area to
+a certain degree does but it's way more
+how you come it's way more your mindset
+I think that limits you in terms of the
+creativity than the actual where poker
+currently is headed yeah and then but
+then I think also
+I the way that I saw it is that well
+let's start with uh this one mushroom
+trip that I had so uh I'm sitting in a
+place in Mount Chasta so it's kind of
+like in the woods I have this log
+cabinets during covid everything is
+locked down around the world but I
+created this kind of Haven for myself I
+set up gym like a nice setting to not
+really feel the intensity that the
+cities around the world were feeling so
+I was sitting there with uh one friend
+one day ate like a bit of mushrooms I'm
+sitting in the office office and it's
+happened multiple times where you know
+you're on mushrooms and something asks
+you if you have any questions or at
+least personally that's what's happened
+you know you feel something that the
+question is do you have any questions my
+response always up until that date was
+you know I'm I'm very happy with what
+you've given me so far you know just
+keep giving me you know what I what I
+need in the moment this time I for some
+it just popped in my head and I was
+doing really well in poker at the time I
+think it might have even
+been after I became number one so I had
+the biggest winning year of all time in
+2019 it was just unbelievable year where
+I won every big tournament even Main
+Event like Aussie Millions too so my
+question at this point and it was the
+only time I asked the question actually
+was why is it that others like in poker
+can't compete with me and the response
+that I got was because you're not
+competing so it made me think of that
+because when when you're then talking
+about you know if you're trying to
+become number one you have to run into
+this certain person it's true you're
+going to wind up at the table with this
+person but at the same time the best
+approach may even be to kind of tread
+water and not step in too much because
+you know you see this someone this
+person as someone who's very good and
+pots against you thinks well but maybe
+you think that their weakness is that
+they call too loose against weaker
+opponents you almost then can as long as
+is not stop stepping on any Minds you
+can almost just tiptoe around that
+person and just make it through them
+instead of feeling like you're actually
+in competition with anyone or you need
+because you're always W wound up with a
+situation to make a decision and it's
+only on you to make the best decision
+that you can so I guess that message
+that they were giving me in this trip
+was that my competition and my drive was
+always with myself I never thought like
+you know you have to out perform this
+person or that person or you know this
+is your Target and you have to beat them
+it's like no no you have you're at a
+challenge with yourself to be the best
+version of yourself always to make the
+right decision in the spot and sometimes
+that'll wind up in a hand with this
+person play the best that you can and
+sometimes you'll wind up in hands versus
+other weaker opponents where you can
+really maximize the advantages that you
+have yeah it's true especially in like
+tournaments like obviously this would be
+true in a heads up format that's more
+like King of the Hill you have to just
+go through someone but especially like
+you can be a better like someone can be
+better in an actual poker hand but if
+you construct your strategies if you
+maneuver around the table and if you're
+better at other aspects you might be the
+better player overall it's like
+something that that when you were
+talking about that it's more about
+yourself remember me of an interview of
+Conor McGregor where he was fighting I
+think Jose Alo and then they were asking
+about Jose Alo and he said listen it's
+not about Jose Alo you're not against
+Jose Alo you're against yourself in
+there in the ring he said who the [ __ ]
+is it's me against myself he said it's
+more like more like a meal game this
+kind of what what reminded me it's like
+you are kind of only playing against
+yourself if you manage to show up good
+you can beat anyone that's kind of what
+he was trying to say I just focus on
+showing up as my best version then I
+don't care who comes in my way I will
+just you know hit him with my left H
+and if you put in the work that you're
+more prepared than the person that
+you're in there with then you're going
+to come out on top over and over again
+so I think it was just kind of like that
+even though the obstacles of being a
+millionaire negative millionaire all
+along like that road of to be number one
+it's just like um you know you're you're
+then just in competition with yourself
+to pick yourself up to be better to
+perform the places that you show up as
+where I then think it's also important
+not overe exhausting yourself and having
+fun and making sure that you show up
+when you feel like you're ready to show
+up and not just showing up because you
+feel like you have to show
+up yeah I've sure many players can
+relate the days that you sit down
+because you have to sit down might not
+really show the same performance as the
+day you really feel like hey I'm ready
+to perform today it's like a lot of
+times you know I even so like uh when I
+when I would think about a super high
+roller tournament like let's let's say a
+the beginning days of that were 100K
+buyin that poker stars ran they were
+three-day long tournaments
+for me uh if you in a full three-day
+tournament like uh the Triton one for
+example uh it's so intense and you use
+so much energy at least personally
+myself to get through that that my then
+approach really was okay so I know that
+the time that I need to be my best is on
+day two and day three which means that
+if I'm not ready to play that that day
+two and three I'm going to be ready to
+play my best maybe sit out on day one so
+there were many tournaments that there's
+a big long series that's going on you
+might have ran deep in a tournament
+before that always the thought is okay
+I've got to jump right in that because I
+have EV to jump in and it goes along
+like the same GTO strategy and it
+doesn't really matter if you're
+following a Playbook of what you're
+supposed to do because then the Playbook
+says you know your exhaustion doesn't
+matter the amount of sleep that you have
+doesn't matter the amount of water and
+food like oh yeah all of these things
+are nonsense you know all that matters
+is that I've got this chart down that
+I've studied in my head and I'm ready to
+go to battle then I they think like oh I
+I have like a certain B 100 in the early
+stages and that's just a number and they
+don't it seems like you zoom out more
+and like well I have to kind of manage
+my energy over three-day tournament I
+think I we had a we had a podcast with
+Jon aens AKA online and he said actually
+the same thing in this tournament I
+might like late rack because things are
+quite exhausting and I think I heard
+very back in the day I heard I think it
+was Vanessa SS who was also talking
+about this like yeah late rag or in the
+in the first day I don't pay too much
+attention I don't want to waste too much
+energy I am there but you know if I get
+a couple hands just try to stack stack
+stack the recreational player and that's
+it day twoo I start to really focus use
+more more of my energy I think this is a
+a more holistic point of view that
+definitely I think is very very
+underrated by the especially the new
+school players who just look at the
+numbers in the chart
+yeah and think that they need to study
+between day one and day two and
+sacrifice sleep for it that was another
+thing that in my mind that's like one of
+the most ludicrous things that I could
+ever imagine like when I think of what
+do I need to perform sleep comes at the
+top of the list yeah every single time
+so it's like there's there's nothing you
+can study in in a break or in in end of
+day one to day two that actually going
+to give you an edge rest is always going
+to give you a bigger Edge
+yeah so I was so surprised that you know
+these guys that I saw as the same level
+as myself you know talking about how
+they studied for four or five hours and
+then couldn't sleep so only got two
+three hours sleep before day two and W
+like well I don't want to talk to you
+guys too much about this because there
+there was another time where um well I
+always had like a different thinking
+process and I think also that's why you
+know maybe other people who have this
+GTO approach tell themselves that I
+can't be as good or better than they are
+because I'm losing 0.1 BB by not
+defending Jack four off from the big
+blind and winding up in stupid spot
+where you're like getting bet PO on the
+turn with top pair and now have to wind
+up in this like blender spot instead of
+just where you think that you have a
+huge Edge in decision making versus the
+field that you're in there's a whole
+grade of Better or Worse to better of
+those people always you know you can you
+don't have to do anything for something
+and you know it it brings back like a
+time I forget what year it was it must
+have been in like 2013
+2015 and it was in Monte Carlo and there
+were a lot of high roller players like
+it was the time where uh of the Germans
+like eigor and filbo were like at the
+top and like the the like Tobias Ranken
+day and there were like 15 guys who were
+playing uh high rollers at the time and
+uh Phil Bor just says this story of a
+Han that he played in maau in some
+tournament and everyone's just on the
+same side of yeah you know I would have
+played it the same way so I'm like well
+I would have actually played it this way
+so the start is everyone's like no h you
+know I don't think so as I started to
+explain my thought process and why I
+would have actually played this hand
+this way I shifted the whole room into
+thinking wow like that makes perfect
+sense like I think that's the right way
+to play it and that's when like a light
+bulb kind of went off my head also of
+like you know that's the end of this of
+like giving away the I'm not sharing I'm
+not sharing anything anymore yeah yeah
+so I kind of like became that you know
+lone wolf in the high stakes Community
+like there are all these groups of
+people who study together swap together
+talk poker together and then there was
+just me showing up like myself not
+talking poker to anyone teaching a few
+few people poker at certain times always
+just playing learning never studying
+like also studying just not something
+that relates with me you know you tell
+me that this poker Journey means that I
+have to study all these hours to make it
+to like number one I would say ah wrong
+person wrong game like uh not interested
+not fun let me find something else that
+like is actually fun but I mean if you
+learn a lot if you for example let's say
+you go out and play and some people will
+learn from good plays others make and
+mistakes that you make let's say for
+example you make a mistake or you see
+one good play that someone else making
+put you in a tough spot you're like hm
+you might pick that up straight away and
+add it to your game whereas for example
+me I might have to make the mistake five
+times and I have to face the situation
+five times before I learn it so it could
+be that you're a very fast learner would
+you say that's true in the in in
+practice like when you when you're being
+too put in tough spots you're like hey I
+can probably use this or when you make
+mistakes well like one one of the best
+compliments I think that I ever got from
+like a person was this guy Connor drenan
+who was Blanco negro online like uh and
+what he to he said that he always would
+learn like he would learn a lot from me
+and he thought the skill that I had was
+that I adapted to the new style of play
+and was always ahead of the curve before
+others were ahead of the curve so I
+guess I had that well I really immersed
+my whole life in it I played poker all
+day every day didn't really have much of
+a life apart from that so I thought
+about poker all day every day also like
+just my whole Focus was being put on
+being better improving so it was always
+like adapting in these Changing Times of
+the game so I think it then comes down
+to because I put so much focus into it I
+was more present in the way that the
+game was shifting than other people who
+were putting less focus on
+it yeah now that actually makes a lot of
+sense you actually also mentioned was
+interesting about what what you
+mentioned about the jack for offand
+where this is just like you follow the
+chart but for example you may taking you
+were taking in consideration that oh
+let's say for example the best guy who's
+left in the field opens the button and
+you have Jack for off well maybe your
+defend range when you're in the big
+blind versus the best guy who opens on
+the bottom should maybe look a bit
+different than if the worst guy in the
+tournament opens on the button right we
+have the chart and this is just like a
+start place that gives you an idea well
+you know given the variables that play
+given the equity realization given your
+you know your Showdown ability how
+effective your Bloss are going to be on
+latest Street Etc this is the chart but
+obviously you have to estimate for
+yourself well for this guy who's way
+more passive I can probably realize more
+Equity Therefore I Play More hands oh
+this guy's very aggressive G to put me
+in tough spots maybe you know if I look
+ahead like you said Jack for off face
+pop bet maybe I'll just fold straight
+away yeah exactly let's just not wind up
+like in this spot instead of just like
+in no man's land making a yes on the
+turn versus a guy who's very
+capable and the other thing you know I I
+would love if you've got an answer for
+me okay so let's say you're playing High
+Roll super high roller tournaments
+probably the biggest winner in the field
+let's say has a 20% Roi or something
+person who's playing the best like in
+the time if you believe to be the best
+or one of the best in the field let's
+say that you have between 10 and 20% Roi
+why would you be taking High Varian
+spots where you're winning 0.1
+BB I mean that that that depends how how
+how certain you are that the play is
+good because obviously I think in your
+mind it's like well it's very but
+there's yeah there's a whole different
+thing of like good and has enough value
+for the situation that it's going to put
+me
+in yeah but I mean if you always make
+the correct play this is the thing right
+it's it's in his
+confidence that he will actually make
+the correct play in all these situations
+because and also it depends on let's say
+for example the maximum you think you
+can gain by this hand is 0.1 BB but if
+you screw it up it's minus minus one
+then best case scenario you're and you
+have to do it always right you win 0.1
+worst case scenario you uh you lose one
+then obviously that's not a fair return
+right course so you always have to look
+at kind of your your risk reward in this
+situation but I would say if someone
+taking on that spot is because he
+believes that that's actually a plus of
+spot and he doesn't care if it's 0.1 or
+0.5 he just feel like hey I'm being delt
+hand but if I it is it is true to a
+certain degree that if you take on so
+this also depends kind of if you look at
+your table and how much future like plus
+a spots will be taken in consideration
+because 0.1 brings with it a lot of
+variants and it could actually knock you
+out of the tournament so I would argue
+that if the rest of your table if there
+is more plus one BB spots then you
+should probably avoid the 0.1 one PB
+spot because it it increases your risk
+of ruin
+and you future spots I think a lot of
+people Miss exactly what you said right
+there I don't need play tournaments that
+of I should help me do the tournament
+work of course there's there you know if
+you want if you put yourself in a spot
+that you think that you're playing with
+you know that you're one of the five
+best players in the world and you're
+playing with the other four best players
+in the world you know you have to take
+every plus zero .1 BB spot that you
+possibly have but that's never really
+the case so even if you wind up in a
+table you know with one weak player in
+your mind two weak players in your mind
+and you're taking these big blind spots
+that are winning 0.1 BBS but the
+opponent that you're up against is
+betting pot like almost all the time on
+the turn you know your like Risk ruin is
+nightmare in my mind to get such little
+of an edge oh yeah especially in
+tournaments like again you can go back
+to like a more bigger picture approach
+and I would say that's definitely true
+like for example in a cash game that
+doesn't really work like that to some
+degree you could make an
+argumentation is gonna play for an hour
+and you know I want to get more as much
+hands in with the recreational so this
+could be true so you could actually pass
+on minus slightly winning EV spots pre
+flop just to get more hands recreational
+yeah that that is that is an argument
+but I agree with you that in a
+tournament you have to probably zoom out
+uh way more so I agree actually with
+with your with your philosophy here it
+really depends on what other
+opportunities there are to to make money
+but exactly what what you're describing
+here is just like the chart expects a
+certain amount of equity realization and
+for example if you give if you make a
+pref up chart and you give the turn a
+pop bet or an overb or if you limit that
+to three quarters well guess what if you
+limit it to three quarters we can now
+suddenly defend more hands because we
+don't face that pop B so it sounds like
+you're you're really good at kind of
+mapping out looking ahead in hands but
+also in the whole tournament like not
+even this hand but like future hands so
+you kind of look around and see what the
+opportunities are and try to maneuver
+yourself in these more plus of
+opportunities and kind of avoid the
+marginal highrisk to Rune spots that's
+kind of how it sounds like yeah because
+then you know another thing it goes back
+to that you can relate poker to life
+always it's like in this poker
+tournament you have a limited amount of
+resources that there's exactly what you
+have right there so you have to use your
+resources like in the way because your
+goal is that you can't run out of
+resources so if that is you know winding
+up in lots of tough spots it's going to
+be very tough because yeah you might
+make some good decisions some bad ones
+but if you wind up kind of trying to
+steer away from those like ruined spots
+versus people on your level or close or
+maybe confident at that time or feeling
+good that day you know another thing
+I've never heard anyone else talk about
+in poker is you know I would walk into a
+high roller tournament and what I would
+do is really map out the room before the
+event even starts and I would have a
+feeling of who's confident who's winning
+who's losing who you should go after
+that day who you should stay away from
+and before the tournament even starts
+I've got like a strategy versus
+different people in my head now your
+table formulates and you have these
+people and now you have this approach of
+based
+on the presence that the the presence
+and calmness that the p and confidence
+that the person is in that day and then
+how you want to steer your own you know
+ship in which direction but but if you
+think about it this it this to me makes
+perfect sense because what you're saying
+is a more let's say for example you play
+versus me when I feel more confident I'm
+going to play my aame that means I'm
+going to take up better spots if I play
+against a hand to you and I keep on
+making better decisions that's going to
+cost your a v so your defend range or
+your vpip range or whatever range the
+range that you're going to play against
+me should look different based on if I'm
+confident or not because that's going to
+determine how effective your plays are
+going to be and how much pressure I'm
+going to be putting on you because if
+I'm underc confident and might be giving
+up more Rivers for example therefore you
+get to call down with lower pairs
+because you get to Showdown more often
+right yeah yeah plus then like since I
+allowed my like creativity to to run
+wild let's say there are many more
+possibilities of things that you can do
+and maneuver with that you know someone
+else might dictate as you know that's
+just inherently wrong where there are so
+many actually pieces to that to say
+something is right or wrong because
+you're not in a vacuum you know exactly
+but when when he says it's wrong it's
+true the lens and the variables that
+he's calculating in his head that make
+up for a plus if or minus if you play
+where for example in in the jour German
+where where you kind of throw your
+examples out you probably threw some
+variables out there that suddenly shift
+his range to a completely different
+range that they were perceiving and like
+ah given this information that you just
+gave and these variables and his range
+actually looks like this you're probably
+right this is a better play yeah well
+plus because you're at War too so you
+know any way you can almost influence
+your opponent's thinking in the wrong
+direction the better you're going to do
+in war so you know I think I've only
+spoken about it one time before and
+maybe you heard of it
+um D I lost my train of
+thought well we're going to war you said
+I'm very curious what's going to
+follow I like fell off let's hope this
+doesn't happen when you're actually at
+War oh okay I got it again I knew I'd
+get there again okay so you know for
+example for a long time people were
+playing online and they use poker
+tracker so the way that they thought was
+really based on the numbers that they
+saw that you played it was the early
+days of Poker tracker they didn't have
+all these intricate numbers that they
+have today it might not work you know
+what I did in the times of today but
+what I would do is anytime I was playing
+a buyin that was the smaller size of my
+range I would play this absolutely
+insane game to just throw my numbers
+completely off of how often I open how
+often I three bet like uh my numbers
+were just like so skewed in the opposite
+side which was just like uh trying to
+make people think incorrectly in the big
+spots that they wound up having against
+me where then when I graduated to live
+poker and I was playing 250 million bin
+100K bayans what I would then I I still
+continued the same approach in the 25k
+tournaments I played some of the most
+insane hands ever and people just had it
+then in their mind that they've seen me
+do this in in this spot versus this
+person in this exact same scenario and
+then I just wind up tightening my range
+in like the higher stakes and just have
+it over and over again when the stakes
+are four to 10x the size so it was like
+your advertisement budget
+yeah and I you know you if you look at
+everything right in front of you you're
+looking to make and then you know of
+course everything in poker relatable to
+life you know it's like if you're
+looking at it right in front of you and
+trying to make the most TV in the moment
+that you're in right now you miss out on
+the big picture and what you could
+actually gain from the situation that
+you're in where if you know you take a
+step back pass on some of these plus EV
+potential spots for a bigger picture for
+a different
+reason you wind up maybe navigating your
+River
+easier this is uh this is this some some
+very smart stuff what what what I used
+to do and like the guys that I used to
+play with what we would do if we would
+figure out okay we're playing against
+someone who's also very exploitive us a
+poker tracker instead of like basing my
+decision on his hot stats I would then
+look at my own hot stats and based on my
+own hot stats figure out well if I play
+against myself would I be more likely to
+do this for Value as as a bluff and then
+you can kind of well I know that I don't
+do this and I know that you look at my
+game so actually I'm now gonna do this
+because I never do this and vice versa
+so then you get whole and the other
+guy's just he's just look at just say
+like n he never blow ha fault but like I
+looked at my stats and I know I never
+Bluff here therefore I Bluff because I
+know you're looking at my stats it's
+like you know and he like now now
+there's probably some more news kit
+solver kids listening it's like oh yeah
+I didn't know the Go the game went
+deeper than uh than than just following
+the charts yeah yeah I hope I hope you
+know we're triggering you know we're
+having a more creative conversation I
+hope we're triggering more fun in people
+uh I want to I want to quickly um bring
+it back to you mentioned that now you
+prioritize sleep your health right
+because I guess you realized that yeah
+you perform better when your healthy
+surprise surprise but the first your
+poker your first year of your PO career
+mention you were very overweight right
+you're just clicking clicking buttons
+when when was like the first big success
+that you had when you started your
+professional poker career so I think you
+mentioned you played for a whole year
+online uh you you missed the W CP event
+you were like [ __ ] this school is
+messing up with my w CP schedule I'm out
+when was like the first big success that
+you had in poker like actually right
+away when I started playing on Poker
+Stars I
+uh the first night actually I ever
+played on Poker Stars I deposited $50
+and by the end of the night I was
+playing 100 200 limit hold him with like
+uh 4K it was the biggest game on Stars I
+had 4K in my account and you even had it
+was the time where uh you had to request
+to play in the game and you would get a
+call from Lee Davey really who is Poker
+Room manager at the time kind of vetting
+you to see that you could you know
+afford the swings of 100 200 100 limit
+so he gets me on the phone he's like hey
+you know with this 4,000 balance you
+know it can go really fast in the game
+and I was like oh you know don't worry I
+got lots more where that came from where
+you know that was all the money that
+that I just you know threw a random 50
+bucks on there that I you know before I
+ever made any money so I wound up losing
+that that night in 10000 the next week I
+deposited a little bit again I won a $3
+Reby I think for
+3,000 or so within the
+next six months I was back to 100 200
+limit spinning like a a roll from
+nothing to 250k and losing it all so
+that was I was probably I started at say
+at maybe 19 was the time I did that
+where I spun and lost like
+250 uh the first time and then I I
+played a few tournaments that I could a
+Turning Stone tournament in Upstate New
+York it was just a 1K buy I was 19 years
+old that was my first Cash ever for
+30,000 or so I think in the next year I
+went and cashed the WPT and Niagara
+Falls uh but it was the first time I
+spun up a million dollars playing poker
+I was 20 years old uh that was gone
+within the
+year uh then i' I think by the time I
+spun up that the next one might have
+been that three and a half spin up that
+I think
+was like
+22 maybe I was and I was just like kind
+of lingering around like from then kind
+of just had
+this build up to something lose it all
+go back from scratch build it up again
+lose it all again just like uh keep
+having fun and keep
+playing I hope you guys are enjoying the
+podcast quick reminder mechanics of
+Poker 2.0 coach coaching program is
+currently open for enrollment and we've
+put together the biggest promotion ever
+25% off on the program and three bonuses
+Worth close to €3,000 of free value
+enrollment is open for the first couple
+weeks of January before we close the
+program permanently so don't miss out go
+over to mechanics ofp poker.com sign up
+now and let me and Adam help you achieve
+your poker goals in
+2024 uh I'm very curious Adam when was
+the last time you turned a million into
+zero and went back to a million again
+never for me as well never so may maybe
+we haven't taken of enough risk in our
+[Laughter]
+careers yeah it's not it's not for all
+yeah I'd love to dive in here because I
+feel like your story is so unique and
+normally I try to pin pinpoint like one
+rock buttom moment and we try to focus a
+bit of the conversation on that but for
+you there's just rock bottoms everywhere
+and I really want to talk about how you
+navigate these because I think it's
+gonna be super important for the
+listener and you mentioned something H
+can you hold on to the roller coaster
+and I want to dive into that so for you
+we've got these massive Peaks making a
+million losing a million making a
+million losing a million and this is
+happening a lot like it's never happened
+to me never happened to Renee probably
+never happened to most people listening
+but for you this is quite a normal thing
+and you mentioned you are good at
+digging yourself out of a hole so I want
+you to talk to us about how you deal
+mentally and what you do on a practical
+level
+when you do go from plus a million to
+negative a
+million yeah so actually it it pops up
+into my mind like and I'll I'll try to
+navigate through an exact like scenario
+and how I was feeling and how I got
+through it in the time this was maybe
+the third time that I went from
+millionaire to negative to then built it
+up again and lost it all again I was in
+London and it was kind of crazy actually
+because I started that year I'd lost it
+all started that year with a very small
+amount really just grinded through it
+and by the time that time in September I
+was looking at maybe a mill maybe
+exactly a million dollar role again and
+I had a friend who was doing um some
+business that kind of convinced me that
+it was you know something that I should
+get
+into uh and the business was actually on
+paper doing really well the person who
+got me into the business I think didn't
+really manage it fairly
+and took advant you know a lot of people
+are out there to take advantage of you
+unfortunately so I wind up in that spot
+where uh so at this time I was actually
+on a high from poker I had like a
+million dollars I was winning and I had
+on paper that this other deal was
+supposed to go through and on this other
+deal I had another one and a half
+million that was coming to me but I had
+to guarantee like some of it and the way
+that it was managed by the person who
+set up the deal
+was I can't imagine any way that other
+than it was set out for with bad
+intentions you know but at the same time
+I put like my word and my name on it so
+I wind up that I I find out that the
+deal that the deal just went bad so not
+only am I not getting the one 1.6 mil
+like that was coming to me from that
+deal but I vouched for like uh a big
+number of like that deal so then I had
+to go from okay I'm on this High I'm
+winning in poker I'm feeling
+great now it all really crashes down I
+now I'm in a spot where the million that
+I have it's if if I'm going to honor
+what I agreed to do I've got to pay the
+whole million and I'm
+in I have to I think I was maybe
+negative a million and a half to two
+million or something was the thing that
+was agreed on so uh I'm in London at the
+time and you know it I would never say
+it wasn't devastating it was complet
+completely devastating so you know not
+to not to downplay it and say oh you
+know piece of cake whatever frush
+through it but the thing that I did do
+was you know I said to myself that no ma
+and I have this approach that I say to
+myself that no matter what whatever's
+happened has already happened and if you
+want to progress and move along this
+mountain you have to accept that you
+can't let it hanging over your head you
+can't let that dictate your
+existence and your opportunity to attain
+higher levels of yourself and life let's
+say so I said to myself I was in this
+flat in London and I said okay the deal
+is uh when you leave this flat you have
+to just accept it and forget about it so
+during that week I really shut off my
+phone I just wanted to disconnect from
+everything I you know ordered some Nando
+some like you know nice delivery Foods
+in London I smoked a lot of weed I
+watched just you know movies things to
+take my mind off of it and I would say
+that I was able to leave that apartment
+and instead of looking at it as
+something that's you know like a thorn
+in me or something that's dragging me
+down use it as armor and take it with
+you to make you stronger so that
+happened in uh early SE early October of
+that year so know there was a bit of a
+period where you know you need to
+decompress a bit there were no
+tournaments or nothing that was going on
+because W Coupe just ended there was
+nothing really for the next month and a
+half so I wind up in um I think it was
+the first Triton that I ever played in
+Manila um remember the year
+2016 it must have been yeah 2016 it was
+and I flew over to Manila I actually
+flew the night of my birthday I spent my
+birthday November 1st uh with my family
+in New York my flight was on November
+2nd at two in the morning from New York
+to go to Manila I got there I wound up
+getting second place in the main event
+there but um so not many people really
+knew what had happened to me
+because I kind of keep to myself like in
+poker I don't broadcast like um myself
+or things that are going on much so most
+people don't really
+have an idea about me they might think
+that they do but unless if they've
+listened to like my way of thinking in
+this podcast they probably are way off
+so I'm hanging out with one of two
+friends that knows about what happened
+and in Manila he just looks at me and he
+says he's just like he pounds me and he
+says you know uh if you would asked me I
+would have been sure that you come here
+you start complaining about this and
+that and in this like type of mood it's
+like as soon as I saw you when you got
+here you just had like kill in your eyes
+like you just had Focus I didn't hear a
+single word about you know this bad
+thing that happened to me so I think
+that uh people
+recreate uh trauma or difficult
+scenarios that they go through into
+their present moment and it kind of
+haunts their whole existence and unless
+if you really if you're on this journey
+that you trying to be the best version
+of yourself hoping for you know great
+things in whichever way you want
+them it's
+gonna you're going to have to have like
+you know that strength that armor to
+make it through the tough times and if
+you just you know a lot I would say a
+lot of people give their power away
+claiming to be a victim of Life instead
+of grasping their own power that exists
+in life and if you go that that route
+and blame your environment you blame
+people you blame luck for the reason why
+you're not at the place that you want to
+you're going to have no there's no
+chance that you're actually going to get
+there but if you can just hone it all
+except that you're going to continuously
+make mistakes you know not let them
+drown you but allow them to enable your
+growth into a better version of
+yourself then you can uh you can
+probably go on this road
+there's a level of acceptance there
+which is fascinating and I wonder for
+you is this been something that you've
+throughout your life being good at where
+things go badly you've been able to just
+go okay this is it can't change it and
+move on quickly and then you've been
+able to transition that to Poker or is
+it something that you picked up during
+the swings during the down swings
+because the way you described it there
+sounds perfect just put it to bed leave
+the room and go right the million's done
+on to the next thing and try to be
+present in the moment however for most
+people who try that they will hold on to
+the story they'll hold on to the baggage
+they'll take that negative energy from
+what's just happened the victim mode
+that you talked about and they'll try to
+forget about it but they can't really
+accept what just happened because it
+feels unfair to them but for you it just
+feels like you're able just go back into
+the moment as your friend notice than
+you you have the killer more than your
+eye have you always been able to accept
+when things go bad in
+life um I think that it's because I I
+don't really see it as going bad because
+I've been so blessed always like even I
+have like this root of myself that is is
+just kind of always been happy with life
+with how things are I feel like I have
+like you know no trauma or difficult
+things that happened as a childhood so I
+see like the difficulties that I go
+through I see them
+as softer than like you know
+some difficulties that some people go
+through and I think then what I what
+like popped up
+was um you know like life giving you
+what you what you can manage uh so I
+think that from a young age like my
+whole reality was very intense uh like I
+come from amazing upbringing but there's
+five of us I'm the oldest and my parents
+and I would say that everyone's very a
+very unique and intense individual and
+we all grew up in a small space so
+things were even though there was lots
+of love around there was intensity so
+it's like my I was
+um or like I
+um I came in contact with intensity at
+like early age and I didn't shy away
+from it I accepted it where if I said
+you know this is too intense life
+wouldn't really be able to continue like
+that ladder of intensity so I feel like
+because I accepted intensity was focused
+on growth even through that storm life
+as it progressed knew that I could take
+higher and higher levels of
+intensity so it's like since I you know
+accepted it's um was it Choose Your Own
+Adventure my adventure is like the
+intense adventure for sure even even
+something like when I was in high
+school um I was not well-liked by the
+other guys in the school and it was
+really nothing other than I dress
+differently than they did and I was
+confident in myself and just comes to
+the you know people hate what they don't
+understand so I feel like know it's a
+whole different experience for everyone
+I feel
+like I get a bit of that I've always
+gotten a bit of that you know from High
+School from you know being the top of
+anything with having confidence that
+some people would you know look at
+confidence and say well why does this
+person deserve to have confidence when
+I'm sitting here like feeling terrible
+about myself but at the same same time
+you know if you want to change your
+reality you know you should you you want
+to actually focus on okay well what can
+I learn from this person instead of okay
+I want to try to bring them down with me
+that's why you see people who are
+winners in life they don't badmouth
+other people real people who are
+confident and are confident in
+themselves and they don't Focus or
+really you learn not to care what other
+people think about you so then that's
+like then there's a whole different
+level of that so I had that as a child
+where you know I was just confident in
+the way that I was myself that even
+though these people were projecting this
+other feeling towards me I did I let's
+say created uh something that I didn't
+let it get to me so I was able to know
+manage that well and then just in the
+same way you progress in levels so it's
+like uh then that was the point of you
+know people saying something to your
+face maybe talking behind your back then
+because I progressed through that level
+and I guess for whatever humbling reason
+reasons that it needed to happen and
+that it was meant to happen it's like
+then when I went through when I went
+through that time where Martin just
+blasted me on the internet that's like a
+whole new level of that same type of
+story where you know here can you now
+it's a whole different picture you know
+before it was in your high school hall
+rooms there was people in this small
+circle that knew you it was people in
+some small community now like the whole
+world who have has really no idea about
+you because you don't really talk much
+and keep to yourselves now this new
+picture has been put out which in my
+opinion couldn't be farther from like
+the picture of reality but then you have
+to go through this period also
+where you know you're at like a higher
+level of this difficult game that you're
+in and you know it's you can't say it's
+anything other than [ __ ] you know the
+the things that because for me okay to
+go for to be someone that existed in
+negative Bank roles there has to be a
+reason that you're able to get into
+negative Bank roles my whole reason that
+I was able to to get credit to stay in
+action when I didn't have money is
+because people trusted me trusted my
+Integrity knew if I won that I would pay
+them instantly I might have made them
+money like playing or them buying a
+piece of me and something and it was
+able that was like how I could maneuver
+my credit line my whole existence always
+from poker has been okay the most
+important thing is your integrity and
+your word and staying like true to them
+not just because where it's going to get
+you there these are the things that were
+just really always important to me I
+think I I really self-examine myself a
+lot you know sometimes you're warp speed
+into some way that you don't really see
+it for like a little bit but really try
+to be introspective and at the same time
+uh willing to take constructive
+criticism from from the people around
+you so know now I'm in this spot where
+the things that I deem the most valuable
+and held myself the most accountable to
+now I'm being run through the mud that
+I'm this other person and because a lot
+of people like to equate or like to
+imagine that the reason why someone had
+success is because they were taking
+advantage or they had some they were
+cheating or doing this and the other
+which then the crazy thing comes is even
+though the allegations that he said
+against me there had nothing to do with
+my playing and any of the money that I
+actually won from
+poker it branded that okay now it's you
+know Brinn Kenny the the cheater and
+alleged cheater is everything that I
+heard every time that it came on and it
+doesn't matter if you know it came from
+one source and you dealt with a thousand
+people in your life and you know if you
+grilled tons of successful poker players
+they'd say that I ran an aboveboard ship
+for my whole life and never asked anyone
+to do anything but then it doesn't
+matter really after you know all of this
+it really doesn't matter because it all
+just like crashed on you so now like to
+explain yourself and to try to prove
+yourself innocent is really you know
+something you're like fighting with the
+wall again so it's like okay well how
+can I just like even though it's
+something that's difficult to accept how
+can I accept that this happened reality
+is different than it was yesterday and
+what can I take from this experience and
+learn from it and like
+because my whole mindset has well the
+way I see it is you learn the most in
+your most difficult times and I always
+saw it that way in poker so it's like
+okay can I take those lessons in poker
+now and kind of translate into life and
+accept now it's like the higher level of
+also it's like all of those things
+interjecting at the same time like the
+level that you're at of acceptance of
+what's happened the level that you're at
+of you know being of people talking
+about you all of these different like
+levels that you've reached the point
+that it could hit here somehow hits for
+a reason for I would say for a humbling
+experience for you to be able to because
+I would say what it what it then does is
+since the real truth of things is you
+can focus on yourself you can't really
+focus on anyone else and if you focus on
+yourself and you prove the person you
+are that's you know you you don't live
+to the standards of what anyone can see
+so then it's like but can you live the
+same type of way when it's all you know
+Firestorm around you and it's like
+another it's like another thing it's
+um it's difficult you I wouldn't I
+wouldn't wish it on anyone at the same
+time I wished it on myself I guess while
+you know ask asking for this like
+Rocky not rocky road but different road
+that makes it
+to somewhere that has much more
+challenges but amazing wow it's so so
+interesting listening you speak it's uh
+so inspiring to hear how you navigate
+life and how you deal with adversity
+yeah so fascinating how you are able to
+use adversity to as you mentioned armor
+up and it's all in this big Quest just
+become a better version of yourself and
+playing this leveling game which yeah I
+think is super fascinating
+well it's like Life's a video game right
+so it's just like you know and why not
+be the and I I think I fail so much I
+guess that's too why like life is also
+always humbling even for the people that
+are trying the hardest because when
+you're in in the moment you see things
+in like this vacuum almost that it's not
+till you can pull yourself out of it
+that you really see yourself and see the
+way that you
+are
+yeah yeah the bigger picture yeah of
+what it's all for and yeah I love how
+you mentioned as well like everything
+happens for a reason and life's hitting
+you at the point you're at to give you a
+test that will either humble you or
+you'll learn from and it's exactly
+what's supposed to happen at this moment
+there's no avoiding it this is it and
+it's pass fa and you either move on to
+next level or you stay where you are and
+as you mentioned with your kind of
+Journey these kind of why am I keep
+going negative a million there was
+lessons that were happening during that
+that allowed you wanted to deal with it
+to learn from it but it was a kind of
+something you had to learn from to to go
+to the next level so you didn't return
+back to that that point for sure and
+then I don't want to get into it too
+much right now but then there's like a
+whole another thing of I see something
+of where I want to be in the future
+so all of the things in the past are for
+a
+greater good in my mind yeah so it's
+like because I have this and then then
+to like throw in the same since I have
+this experience that if I see something
+I can turn it into reality you know
+everyone has a different experience my
+experience is that anyone can say
+whatever they want about that but you
+know I saw it in Magic I made it reality
+I saw it in Boker I made it reality so
+for me it's like that's just really
+truth so if I can see something down the
+road even if it's something that's so
+big I've harbored like that belief from
+the experience that I have that nothing
+really is to too big and now it's just a
+new road that life put you on that has
+all of these different twists and turns
+to see if you can hold on to the ride
+and until where it goes love it and like
+then it's like the fuel too that's like
+the fuel to get you there since like
+that end for me
+personally equates to helping as many
+people doing as much good as possible
+then that means that if I give up up no
+matter how difficult the situation that
+I'm in right now it means my real dream
+and goal of this life is impossible and
+then why did I do everything that I've
+done to get to here to give
+up so powerful yeah I love that so that
+was amazing I listen to you speak about
+your journey and it reminds me of the
+hero's journey I'm sure you're familiar
+with that concept and for you the
+journey is quite clear to get to the top
+of the mountain and be like the number
+one player in the world and for you it's
+about leveling up your character to to
+get to that end point and I think it's
+really fascinating as you mentioned that
+every time you're at a certain level
+life challenges you life challenges you
+to grow to get better and you've got to
+improve to almost like past that level
+to get to the next one it's like the
+video game analogy of leveling up your
+character and for you I think what's
+been very interesting to listen to is
+how much you were aware are you even
+aware now but as the journe is unfolding
+you aware there's a bigger Journey going
+on there's a bigger Mountain I'm
+climbing and this is all part of of the
+bigger picture I I think people really
+struggle with this because they get so
+absorbed in what is happening now and
+the current moments the mood of the
+current moment the intensity of the
+moment becomes the narrative for the
+bigger picture but for you it seems like
+you can always zoom out and detach and
+see where you're trying to get to long
+term so what allows You In the Heat of
+the Moment to detach from it a little
+bit and to see the bigger picture you
+mentioned as your your childhood you you
+were around intensity a lot so you got
+used to being around intensity but it
+seems like this ability to have a wider
+perspective and to see this as part of
+the path is has been strong for you so
+how have you been able to develop that
+or this being a natural trade of
+yours no it's just like anything it
+really had to develop like over time and
+I guess let's let's go through another
+uh mushroom experience that I had uh on
+the beach in Miami so uh this time I was
+just like having a good time and the
+thing that that came to me was that my
+life was three parts of like a whole
+let's say three different shells that
+phase one of my life was me as a poker
+player phase two of my life was me as a
+businessman and phase three of my life
+is me let's say charity man or giving
+back like U so everything that I do
+every part of this like intense
+experience it's like like you really
+said it's like towards climbing that
+mountain that's in the background that
+even though you know others might not
+see it or imagine that it's there and
+only see what's like in your present
+right now it's like everything in my
+present the way that I see it is part of
+that like future of the way that I see
+it and it's like that road that I'm on
+that I asked for so you know what's I
+guess you know since since I've had
+crazy dreams before you know the way
+really my dream is to run the biggest
+charity in the world and one that's like
+really a version of a charity that has
+you know probably people that are poker
+minded towards like the let's call it
+the board of that company the ones who
+fa let's say hold resources and are
+tasked to do as much good as they
+possibly can with the resources that
+they hold so you know a lot of
+unfortunately the way charity exists now
+like you guys know I'm sure it's a lot
+of big corporations that pay a lot of
+people and a lot of the money that is
+collected by them doesn't actually make
+it to the people that are in need and
+that need help so I kind of see it as
+okay you know poker that's like the
+first part and I'm I need to take the
+skill so there's a reason that life put
+me as a poker player as that first part
+of the journey to learn the skills and
+to translate those skills from poker to
+business to life
+[Music]
+to then make it to so then it was really
+another hum insanely humbling experience
+you know of transitioning from myself as
+a poker player to a businessman because
+there I am at the top of this mountain
+in poker now I jump into business I have
+no idea about business you know the only
+reason I really could even imagine doing
+it is that I'm just incredibly
+determined and I don't look at things on
+paper and say okay well what do I have
+today and is it even possible that I
+could take what I have today into what I
+want so you know if we if we start like
+the the Journey of me creating four
+poker it wasn't called four poker in the
+beginning but so what wound up happening
+is in
+2018 uh I meet with the guys at GG poker
+and my first interest was that I wanted
+to open a skin on their Network I
+thought that they had good software and
+I thought that there was a big hole in
+the industry I was telling people prior
+to that that I thought it was very ripe
+to make a great poker product that you
+could challenge the people that were in
+the space at that point Poker Stars
+really wasn't doing anything it
+was was kind of taking candy from a baby
+scaling up like that GG like offering
+from when I start so I didn't open a
+skin because I I would have needed to
+run customer support payments get a
+license and at that time I was in my
+mind one step away from number one all
+time and the only thing that I thought
+about was to be number one all time but
+what wound up happening from that is a
+few months later uh they offered me just
+to be the the face of the company I
+accepted it just thinking that I would
+get paid a decent amount of money to
+represent them I liked their software I
+liked what they were talking about what
+they the way they thought about poker
+and growing it actually in those early
+days when I
+started their biggest tournament was a
+$500 tournament with a 10K guarantee I
+really uh I architected their whole um
+maybe not low stakes offering but any
+offering from $100 up I architected
+really the whole whole schedule I scaled
+the guarantees I got the whole Community
+to sign up so I get to this point where
+um I have I don't maybe it wasn't the
+biggest but I'm pretty sure it was the
+biggest agency in the world like uh now
+I'm I was just wound up become I never
+thought of myself that I would become an
+agent but I wound up becoming an agent
+for GG I think I built it uh there might
+be some guys who built something bigger
+than me but it's with like a whole train
+of sub agents so you know they might
+have built something that has 40 sub
+agents and there's 100 agents like in
+their scheme that maybe equals out to
+bigger than what I built myself but I'm
+very sure that no one built something
+like as one agent the size of what I
+built so at that time I had a friend in
+Dubai who um I thought knew a lot about
+software development and he was seeing
+uh what I was doing with that and he
+just said wow you know you need to build
+your own so you know the crazy person
+that I am I'm like oh yeah you know how
+hard could that be uh even even though I
+had some people telling me you know
+you're crazy for like uh doing this how
+hard it is is is crazy so the way that
+it started was with this one friend and
+he was going to hire a team of
+developers in India and they were going
+to build me this game that I wanted um a
+year into that I found out that this
+person that I thought was my friend was
+really
+just make like uh making up stories
+pretending like he was putting amount of
+time into the project like I would then
+connect with the team over there and he
+just wasn't
+so I wind up in this spot I have to
+break free of him I know nothing about
+business I know nothing about technology
+I all I know is about poker so I have to
+break through this person but at the
+same time I connect with someone else at
+a at a poker table who kind of has the
+same experience whereas if I would have
+if I would have not met this other
+person I would have had to just shut
+down what I had because I had no idea
+idea how to build anything how to manage
+a team so I was able to actually bring
+this guy along bring in some he was
+actually closing down his business and I
+brought him in and his company and there
+was there were so many different points
+of I wouldn't say highs and lows it was
+like different points of lows and lows
+it was like it went from low to lower to
+lower to lower to lower where I'm like
+this lunatic who's just carrying this
+thing on his back has no idea like where
+he's going doesn't have anywhere close
+to the necessary resources to like
+actually make it to a point that could
+bu that anyone could do anything or
+build something of like the level that
+you're imagining so because then it
+comes down to the other point if you
+look on paper of what existed then and
+you look on paper today of what exists
+today you would say that it's impossible
+to get from A to B or not a to let's
+call it a to z because there were a
+whole different of letters that hit
+along like that road of different people
+and things that had to be shut down
+moved out fire this guy like be and then
+it's tough too because you build these
+relationships with people in business
+also and then next thing you know you
+kind of have to like let them go and
+before you know you were buddies hanging
+out and now you're this young kid who's
+like letting go of people who have been
+in business for 20 30 years and that's
+another like tough thing on on them so
+it's like if I would have looked at it
+on paper I would have shut it down a
+million times all over somehow I made it
+to a point where I didn't have a single
+strong I I started at a point where I
+didn't have a single like let's say very
+strong poker developer that was on my
+team and somehow I was able to make it
+to the point now where
+I would say if you did a a survey of the
+best Engineers that ever existed at
+poker stars I've got like eight of the
+let's not be too cocky I've got at least
+five of the best like 10 maybe eight of
+the best 10 that have ever been there
+fortunate like all really came from the
+person who was the leader of that
+engineering team at the time and him
+believing in the project and having just
+enough really pieces together that made
+it attractive enough for him and then to
+bring the people in that he respected
+and also that respected him so it's like
+um all of these like impossible things
+happening that just somehow happen at
+these inflection points where it's like
+okay well you know I just have to
+believe because there's nothing else
+that I could do that the right person is
+going to walk through this door tomorrow
+next week next month to be able to pick
+up the pieces that we have rearrange
+them a bit put them at a better point
+and move it forward like to the next
+place so it's been so it's been really a
+humbling experience especially to go
+from you know I had in my mind and I
+don't know why I would think this but
+because I had this like crazy like
+tumultuous Journey up that mountain for
+poker I was like okay you know
+everything should be a bit more calm
+it's like ah you know I thought too
+quick kid you know I thought this was
+tough let's move you into like this
+place because you know in your old place
+before you know if you were in a tough
+point it was only you and yourself and
+as a poker player and you didn't have
+all these hanging things like around now
+you start a business you have 50 people
+100 people working for you every single
+one of those people rely on you their
+families rely on you so it's like then
+taking that same thing of the not give
+up mentality not letting the things like
+drag you down no matter like how tough
+the storm is and just like keep moving
+forward when you can and it's just I
+think it's just a belief of our of our
+ability to make magic happen but at the
+same
+time we can't determine like when
+something's supposed to happen we can
+imagine like a dream set ourselves out
+on the path the way that that's going to
+unfold you have no way so and then I
+guess the other thing that I come back
+to is you can think that things are
+difficult in a moment moment but you
+have to also remember that you can only
+see a very small bit of the picture
+that's unfolding and the story that
+you're in so the story that you're in if
+you believe everything is for your
+greater good these difficult times are
+actually necessary to get you forward so
+like you actually if you don't accept
+them then you know why did you why did
+you ask for
+this difficult thing to to re like this
+difficult mountain to climb if you
+thought it was going to be you know you
+know an easy one that you could sit down
+all along the
+way this is so powerful for anyone
+listening and I think for yourself like
+it's so clear that you dream big and you
+set this dream as like the goal
+destination to go for and you stay the
+course you stay the path and you don't
+know how it's going to unfold and
+almostly the harder it gets the more
+you're like well this is just tpping me
+up you mentioned armoring up a few times
+of get me stronger this is exactly what
+I need I've got a question of do you
+ever doubt the dream do you ever think
+wait a second Maybe the dream I had for
+some of the poker site maybe that was
+just a bit too far out maybe that wasn't
+the path for me and I can keep going and
+not get there was there any any doubt do
+you ever have doubts with the the big
+destinations that you set for
+yourself I think like well it's
+interesting because in the beginning
+when I really didn't like map this out I
+just went with the belief that it could
+happen and that it was possible I
+couldn't have any doubt I didn't have
+any understanding even of what it meant
+to run a business to build like software
+I was just like jumping straight in
+fresh as like a a newcomer then also the
+other thing to like include in that is
+there are Al there are always going to
+be times
+that you that the idea not even that you
+think that but all these ideas always
+come up in your head some of them you
+grasp some of them you don't because
+some like you relate to and some you are
+just like ah you know that's not for me
+to think but then if really believe that
+everything happens for a reason when you
+wind up in a situation where things are
+very tough you have to just like
+surrender to what's supposed to be so
+like life kind of not like makes you
+like ask for Mercy almost but
+um so so where I was going with that was
+like um you have to get to the place
+like that you surrender really so things
+are so tough like you have to Just
+Surrender with with like what is so
+there were definitely points through it
+where it was like well you know since
+you have to you you accept everything
+that is you know if this doesn't work
+then it's not meant to work and even
+though that you saw it and you felt it
+and believed it you know it's maybe you
+were wrong this time it's like okay well
+I guess that's another humbling part of
+like life maybe you know it's not always
+like that that you know what you see you
+can actually create and know maybe you
+have to accept that some is bigger than
+you wasn't necessarily meant to be there
+at like the time so it's like a mix of
+belief because then it's weird too
+because it's like the belief and the
+surrender is almost opposite but almost
+intertwined
+completely yeah I can relate to that and
+I think people often struggle with the
+word surrender because it seems passive
+or even acceptance because it seems like
+it's passive but I think for yourself
+it's very obvious that you're
+surrendering the how it's going to
+happen you're surrendering when it's
+going to happen you're surrendering the
+the destination of what's going to how
+it's going to unfold but the vision the
+belief is right there so you're
+surrendering the path you're like life
+take me away I'm going to go whatever
+way I think I think you're taken me
+there I think that's the destination
+maybe you've got a different path and we
+end up somewhere else but I Surrender it
+all and at the same time it's also you
+show up daily I think as well this is a
+another part where people miss the part
+of the equation where surrender doesn't
+mean you just leave everything to chance
+you've got to show up in the Melting Pot
+every day and put the work in that's
+needed to just that next step as you
+mentioned you don't even know what it is
+some times but being in the fire of the
+moments and just move trying to move
+forward trying to move the situation
+forward and this brings me to uh another
+skill of yours which we haven't went
+into yet the skill of being present and
+I think in these scenarios especially
+when the sky is fallen so to speak it's
+very hard to be present because life
+pulls in you there's a lots of
+emergencies I think pocket players
+listening uh on a downswing you're
+losing a large part of your role you
+want to stay present in the moment but
+life has kind of compounded on you a
+little bit so for you I'm curious to
+know um how you you stay present in the
+moment when life is unfolding in a a way
+that's not to your liking let's call it
+not a bad way so let's say you're one of
+your massive swings or building a pocket
+site and you then have to be present of
+super highroll of tournament but there's
+things generally on your mind or
+situations unfold on you how do you be
+present when life is
+chaotic well I think one thing too
+that's interesting is sometimes you know
+you if you hold yourself to this like
+um this that you're supposed to be
+present and at your best all the time
+you're guaranteed to fail I think
+sometimes along that Journey you know
+you're going to wake up in days where
+you have really nothing you have no
+energy you have really no ability to do
+anything at that time and it's just like
+surviving is what you need to do so it's
+like sometime like when you're going
+through the mud you really just have to
+survive sometimes try to grasp as any
+type of fun or laughter that you can
+bring into it but also just like except
+that it's going to be draining sometimes
+and sometimes you're not going to want
+to get out of bed and you don't have to
+say you know I have to be my best every
+day because you can't be your best every
+day but at the same time I always I
+think call on
+myself to rise to like rise to the
+moment that we're in which means like
+yeah just no matter what like you're
+given you just do the best that you can
+like in that time you just get through
+it uh sometimes really well sometimes
+you know you might have to be dragged
+through the floor just to get through it
+and it's like that humbling experience
+of it all too is where it's like if you
+think you know it's going to go this
+certain way it's just not you know life
+will probably even like laugh at you
+just because you think it's it's going
+to go this certain way it's going to
+push you somewhere else just to okay
+yeah you know you thought you knew but
+sorry kid
+um and then I think that it's just
+like I get to the place that we like
+this is the one whatever else that
+exists you know afterlife pre-life like
+the one thing that we know is that we're
+in this life right now and the
+opportunity that we have is right here
+and that's
+all that's really for sure anything else
+unless if you see it feel it may maybe
+it is maybe it isn't but this is what
+you have so it's like uh I think that
+same part of using your power in your
+favor instead of like and it's like
+power it's words you know if you're
+using words to talk bad about yourself
+to be negative it's really just going to
+drain you and at the same time if you
+have people around you that are being
+being negative like it's going to be
+very hard to uh step up to the next
+level because unfortunately a lot of
+those people are trying to drag you down
+with them and make you feel the way that
+they feel
+so
+it's I don't know if tough is the right
+word it's extreme because you know like
+many people say the road to the top is a
+lonely one and you know I think that
+it's
+that's true because especially in this
+time people like to use crutches or
+medications or something that's going to
+fix them instead of working on fixing
+themselves so if you're really dedicated
+to this life life of growth because you
+know when when we say you know going the
+ladder for me the ladder has nothing to
+do with how much money you have the
+ladder is of personal
+growth uh and you know you can highlight
+a place like Bali you go to Bali there's
+tons of people who are happy and smiling
+and you would look at them in another
+context and say that you know that they
+are poor and have nothing but then I
+would ask you you know who has nothing
+the person who's happy with nothing or
+the person who's miserable with
+everything and you know not too many
+people really reflect on the important
+things of of life and of like what makes
+you happy in life you know so many
+people take that happiness out of the
+equation and they'll in use those
+external things like oh I'll be happy
+when I have a certain amount of money
+when I own a certain house when I have a
+certain car but that's just like
+something set to fail like you're
+guaranteed to fail because everything
+you're doing now is contributing to
+unhappiness it's driving people away
+from you it's not having real substance
+in your life and it's like one of these
+people that I really like he
+says um if you're content with food
+shelter and
+companionship you tread lightly on this
+world and quick quickly get to a place
+that you want to give something in
+return and I think for you know people
+and that's like another part of you know
+people see me they see you know that
+I've eaten at expensive restaurant
+stayed at five star hotels like lived on
+private or like not lived but flown on
+like private jet lived like a
+extravagant lifestyle but at the same
+time you know I I can be very happy with
+the happiest that I am is when I'm just
+with people that like laughing I don't
+know and it's it's it's like that truth
+of the food shelter companionship and
+you look at a person like people in Bali
+those are the important things to them
+food shelter and companionship you know
+maybe their shelter is not the way not
+what you want but they have people to
+share it with like and love all around
+them and it's like in this fast-paced
+Western life everyone's looking for a
+quick fix and thinking that they can
+almost Buy
+anything where you know the it's like
+what is like the the best things in life
+for free which really couldn't be more
+true know the material things that you
+have they mean nothing to you if you
+don't have anyone to share them with you
+see the most unhappy people with the
+most things and that tell you know what
+have what have those people been focused
+on they've been focused on attaining
+things to bring happiness and it it's
+almost a guaranteed failure you know
+bring happiness to bring happiness you
+know what can you do to smile in the
+morning you know what can who are the
+people that inspire you to be better who
+are the people that you feel great when
+you're around them like um and we spend
+so little time thinking of these most
+important things that really exist in
+our existence and we're just all pulled
+towards it's like the consumerism life
+we're all pulled towards these shiny
+things that have no substance
+yeah and it's like we lose track of the
+bigger game and the bigger game is
+always to be happy it's always some form
+of living in the moment experiencing joy
+and we get sold on the illusion or the
+fantasy that we need to do stuff to get
+to a point and then we'll enjoy the
+happiness after it's almost like the I
+need to earn my happiness I need to
+battle get my kind of armor my stripes
+My Success my accolades and then I'll be
+happy because I've earned my happiness
+not thinking that happiness needs to be
+the starting point now I'm really
+curious to know um when this shift
+happened for you cuz I'm imagining
+someone very ambitious working really
+hard almost obsessed with poker trying
+to climb the the mountain to be the
+number one earn the history of Poker and
+it seems like at some point I'm not sure
+when it was on this journey you had an
+infraction point or a new way of
+thinking about life in maybe more
+holistic way where the bigger picture
+start become more and more important so
+can you picture when that time was for
+you and what changed when you started to
+think about maybe your overall happiness
+your overall lifestyle rather than just
+having success in Pok
+okay so it was um it was the summer of
+20 18 so in 2007 so uh we touched before
+on like that diffic the that difficult
+time I went through in 2016 we didn't
+really touch that uh in 2017 after that
+tournament that I was in in um in Manila
+for triton I had the biggest winning
+year of anyone in the world in 2017 I I
+cashed for like 8.5 million and really
+didn't play many tournaments I had my
+biggest cash then I won 100K in Monaco
+for three million or something there and
+just really did well that whole year uh
+so but that mostly just got me out of
+the hole that I was in so then um
+towards the middle of
+2018 I just got like even with the
+person who that was the business deal
+with and as soon as I could I said you
+know I'm done with you I want nothing to
+do with you ever again I got away from
+that person shifted into getting a a new
+a staking deal with someone else uh
+someone who actually had no interest in
+staking but they were playing a lot at
+the time and said that they thought that
+I was the best in the world so there was
+no way that they couldn't stake me in
+their mind um then in
+2018 I was having a losing
+year um and it comes to the summer time
+the summertime of
+2018 and uh I met my now girlfriend then
+and we so I actually plan I was in Vegas
+at that time but I planned that I was
+going to leave Vegas and go do something
+else but we just connected and we were
+hanging out every day
+eating lots of
+mushrooms
+and you know that's when I started to
+shift but at the same time I was
+very sure about what I was sure about
+because through my experience like uh
+what worked for me like was like in my
+perspective worked so far so to get me
+to even pull out of that I would say
+that she is uh very
+patient uh to and I don't think that
+there are many people that could have
+actually uh like in I don't think that
+there are many people in the world that
+have like this skill set and composure
+that could actually help me navigate um
+where I was to where I am right now and
+started little by little um making me
+more aware of breathing and what I was
+eating and getting some exercise like
+throughout my day and you know hey this
+is the way that people see you because
+you said things like this is this how
+you want to actually be it's like oh man
+like whole like so and then it's like
+the whole other thing so this experience
+not that it was like ego white but at
+the same time when you reach like this
+high point of yourself and you're so
+sure of these things it's really it's
+hard as as especially the first time
+it's hard to just you know wipe that
+away and say okay well we're let's take
+the these this still exists but let's
+you know what exists here let's put the
+pieces down and try to recreate it like
+back to the person that I want to be
+it's a whole like um I would say that
+was like the beginning
+of like that hero's journey and dropping
+of like the ego that I created that I
+believe was probably necessary for me as
+a poker player but not necessary for me
+as a person whereas like in my poker
+experience if I didn't have that comete
+confidence playing at the highest level
+pretty much myself against all these
+other groups I don't think that I could
+have reached the top but then at the
+same time as you then trans ition to a
+different phase or person of yourself
+you know maybe what was serving you
+before isn't necessarily serving you in
+the way that you want
+to be or be seen like by others so I
+think that and it's interesting too that
+you said uh hero's journey one of my
+good friends um that's actually that's
+how she described my last year said you
+know you have all this power you know
+you were on this track that was very
+intense you know it could have went and
+I think when she met me she so this per
+she she's a very uh gifted person she
+said that when she met me she was
+actually uh scared because she saw the
+amount of like power and intensity that
+I had and saw that it could go in either
+direction let's say me as a tyrant or me
+as like a Healer the one that I really
+want to be and like relate to it's like
+someone who helps others so it's like
+this ego and this idea of myself had to
+really be wiped through the floor and
+that's like uh it's like that
+[Music]
+synchronoscope okay well so you know
+whatever all this you know
+intensity that you know you might not
+ask for that's what's in your your cards
+your stars like for whatever reason so
+it's like you know do you want to accept
+that or do you want to fight it and if
+you fight it you know you can't change
+grow with the times and you'll be stuck
+as you as the way that you were so it's
+like um I see myself like always um even
+even uh the
+the tough thing I guess is when you're
+on like that thing of growth you'll
+listen to a like a conversation a
+podcast that you had a few months ago
+and you're like who is that person you
+know why did why did they say this like
+what are you talk you're like
+embarrassed for yourself it's like a lot
+of times I actually don't like watch
+them I think this is a very good one I
+think this might be the first time or
+one of the first times that I could look
+at it maybe in six months and say okay
+you know you were you're speaking well
+you know clear you you said what you
+wanted to say and I think that's all
+like the growth of it too it's all like
+it's all humbling experience you know
+and then it's also difficult because
+since a lot of people or I mean I don't
+think that there are many people in the
+world that are in like this intense
+growth cooker that I've kind of been in
+so they don't really they couldn't
+understand this experience because it's
+like uh it's not for them or it's like
+it's not the like the path that they've
+been on like for life so you kind of
+have to accept that you know what you
+have is unique to you and all that you
+can do is keep trusting like your
+instinct that's been working for you so
+far and know keep like giving the best
+that you possibly can and even though
+these things are tough to navigate
+through they were there for you and
+they're there for you for a reason
+and try to take with a smile I couldn't
+say that I'm you
+know to you know I'll be I'll be
+completely honest because that's what I
+like I don't I don't want to give
+anything else and say that you know even
+when you make it to like a high place of
+yourself you know your yourself is still
+just going to be destroyed in this like
+place of growth so it's like I feel like
+these last two years have been or like I
+would say two and a half years for me
+have been like the toughest most intense
+like uh time of of my life but then you
+could actually look at it in another way
+where if you then say okay well all of
+the huge transformation that I've had
+was in these most difficult times of my
+life I must be on the right track if I'm
+now in the most intense time of my
+life yeah so much to dive into there
+it's almost like life's leading to
+growth and all the challenges you go
+through leads you to grow you mentioned
+also almost like the death of the ego
+and like being reborn in different parts
+of yourself and I think it's when you're
+on the growth path and like a fast
+growth path as you mentioned you can
+look back on yourself months ago like
+half a year ago and be like who is this
+who is this guy what was he doing and
+that's a good sign that's a good sign
+your moving forward and I think people
+struggle with that because they create
+such a fixed identity such a a strong
+narrative they'll say something two
+years ago and they'll want to stay
+consistent with that over and over and
+the people around them often expect them
+to stay consistent as well whichs their
+grow that's a that's a per that's a
+perfect point right there and that's
+like the even more difficult thing about
+it because like as a lot of people exist
+like in a a confined box they see you as
+you were not as you are so even though
+you're going through this like intense
+growth people are going to see you as
+your old self and almost life is going
+to try to drag you back to your old self
+it's just like that belief that you're
+on like the right track of whatever
+noise that you listen to like in the sky
+or whatever know it tells you the way
+that you are because it's like that if
+you don't have that insane confidence in
+yourself I think in the world that we
+live
+in you're going to be dragged down at
+some point when you're when you climb
+like on that mountain so it's like you
+have to Harbor it's why life wouldn't
+give it to you unless if you uh have
+like learned and harbored these skills
+that you need for that Journey it's like
+you know life wouldn't be so cruel to
+put you on a mountain that you couldn't
+actually
+climb you might not like how you're
+going to climb there but if life gives
+you it that means that you can handle it
+yeah I love that so I want to just
+quickly piece together that kind of
+period of your PO career and your kind
+of growth so you mentioned that kind of
+Summer 2018 was very pivotal and you
+started to look up your lifestyle more
+Brea in diet everything around your
+overall how you felt about yourself and
+then I think 2019 was I think still one
+of the best years if not the best year
+ever in terms of profits and poker no
+one will ever be no one will ever beat
+that year I think it's almost impossible
+because it has like the 20 mil cash
+that'll probably never happen again and
+then even if that happens again someone
+would have to win that tournament and
+cash for over 10 million apart from that
+tournament in the year it's like you
+know they they say that no records are
+unbroken but unless if they start with
+bigger buyin than a million-dollar Buy
+in regularly this is going to be an
+impossible one really for anyone to beat
+but yeah since we since it like jumped
+ahead I'll give a bit of that story then
+too because okay so I have a amazing
+time like that summer like uh I'd say my
+mind like opens a lot more but
+throughout the rest of that year I
+couldn't really I couldn't win it was I
+I'm pretty sure it was the only losing
+year that I ever had in my career so now
+I have this new stake deal with someone
+and I was in well the buyin were so big
+so I was in three and a half million in
+makeup but I was playing 250k buyin like
+100k Reby tournaments so it's not really
+out of the norm to get in like that much
+makeup so at the end of that year
+actually um the person who was aking me
+says like hey you know I think the
+number is too big I'm willing to just
+like wipe it clean and start from zero
+again but in like that Integrity that I
+have myself one thing that I always said
+and that's how like life's interesting
+how it tests you so one thing that I
+always said that was that I would never
+intentionally make a bad deal for anyone
+so as soon as he's saying these words to
+me that's what's ringing in my head like
+wait wait if if you like accept this
+thing that means that this deal was
+horrible because if adversity happens
+you accept like that it's too big for
+you and you know it's was also someone
+who had a ton of money so you know you
+could easily be sitting in my shoes like
+oh you know this three and a half
+million means nothing to this person
+like and it means a whole lot to me I'm
+like no no no what matters to me is the
+deals that I make and the word that like
+I give and when we made a deal for a
+high stakes like stake there was nothing
+in there that if it hits negative 3.5
+you're going to like just call it even
+so I said to them I said don't worry I'm
+going to be number one in the world
+again next
+year and then just somehow that's
+exactly what
+happened wow yeah and that's amazing and
+as you mentioned a few times Integrity
+being one of your core values and core
+character traits that allows you to make
+these decisions and I'm curious to know
+like during this point so you 3.5
+million in makeup and you're still
+playing these really super high role as
+did you have a kind of limit in your own
+minds like how deep you could go before
+it affected you mentally do you feel
+calm through this process and yeah tell
+me for like how you were managing that I
+I would say I was really calm just
+because I was I was having fun in life
+still I was having like some type of
+balance and even in
+2019 it's not like I was hammering every
+tournament I was playing tournaments
+that I wanted to play so it's like start
+of the Year Aussie Millions I loved
+going there so it was just like I was
+having fun I remember you know I was a
+long like I don't know if you guys have
+ever been like uh there at the casino
+but there's a nice like um like River
+and walkway I was just hanging out and
+walking that every day eating healthy I
+was smiling I was in the most negative
+that I've ever been in my life but I was
+happy and it actually you know because
+um person who was taking me since I was
+in like that spot they would loan me
+like some life money too so I wasn't in
+I was in a spot still that I could still
+do the same things that made me happy
+and didn't need you know money to
+validate like who I was so I was able to
+to you know
+win lots keep none of the money but be
+very positive for it and like the
+direction that I was going in and I
+really didn't I really had no doubts
+like that year I guess I was so sure
+that I was going to be number one in the
+world again like somehow even though I
+just I'm at the end of my first losing
+year ever I'm in the most negative that
+I've ever been in I've got I owed
+another I think half a mill on the side
+which means since like staked at 50/50
+you need a million to cover that so I
+needed to win like 4 and a half million
+just before actually no I owed million
+on the side at that point half and then
+another half I was at a point where I
+needed to win five and a half million
+just to get even so that's like another
+um well actually so we fast forward so
+when I was in that London thing the
+thing that when I was in like that last
+experience in 2016 in London to get out
+of that room like staying confident the
+thing that I accepted is that it might
+take me three years just to get my head
+above water but the thing is whatever
+you just start climbing and do like what
+you can and somehow as reality has it
+you know I wound up in negative again
+but nine months later I was at from this
+point that seemed like it would have
+been a good three years to get out and I
+got out in nine months and then was able
+to you know some pull myself out of it
+again and I think that balance and
+laughter and value for things other than
+at the poker table allowed me to have
+fun and enough calmness and creativity
+to have like that massive year in
+2019 I hope you guys are enjoying the
+podcast quick reminder mechanics of
+Poker 2.0 coaching program is currently
+open for enrollment and we've put
+together the biggest promotion ever 25%
+off on the program and three bonuses
+Worth close to €3,000 of free value
+enrollment is open for the first couple
+weeks of January before we close the
+program permanently so don't miss out go
+over to mechanics ofp poker.com sign up
+now and let me and Adam help you achieve
+your poker goals in
+2024 yeah I think this will be a great
+time to uh go deeper into how you think
+about risk so there's almost like two
+sides of this one some some people be
+listening going wow BR is so reckless he
+was willing to lose it all then he got
+lucky spun it up and works out nice but
+he could have easily went 10 mil on the
+hall and his Backa and him himself was
+in a bad situation but for you it feels
+like obviously during this point you've
+already built a tolerance for swinging
+Millions so you're used to that get
+those money that doesn't scare you which
+feels normal you're playing super high
+rollers so it's in Bion it's not crazy
+amounts but I'm wondering how you think
+about risk to reward I know as po
+players we constantly even every pot
+your in there's a risk to reward
+calculation going on how do you think
+about so for you we've got the dream of
+being the number one player in the world
+but the the negative side of that the
+risk is I go 10 million 20 million into
+a hole and I can never get out of it so
+um how do you navigate risk and thinking
+about the risk of Rewards or do you just
+have so much confidence over the long
+term that you're not really overly
+concerned yeah I'm I'm curious to know
+how you think about I think I think it's
+that last one that I have so much
+confidence in the long term but also
+that I relate it to like that mountain
+that's in the future that's always
+present but not present let's say
+because okay so if my goal is to is to
+do good in the world you know let's in
+in the early days of myself that was I'd
+say the the mindset my goal is to build
+something that I could do good in the
+world with so for me it was like okay
+you have a million dollars what are you
+going to do with a million dollars you
+can't do anything you might as well
+gamble it and try to build up like
+something bigger and I've actually seen
+some poker players talk about it uh I
+think it was pads who talked about how
+you should take lots of risk like as
+you're younger because the value of if
+things go well is so exponentially
+higher than taking risk like in later
+stages when things are more like
+developed so I think I just innately had
+like that mindset that because I had
+this skill in poker and for me it was
+always that I I would I could always win
+it back I've always won it back I
+consistently W in poker even when I got
+into these holes it wasn't from me
+playing poker it was from me staking
+people me doing a bad business deal me
+spending too much money in life like the
+norm was that I consistently won so
+having that like Supreme confidence that
+even no matter where I find myself in I
+can pull myself out of it and then at
+the same time you know because you have
+these goals that need much more
+resources than the ones that you have it
+makes sense to gamble heavily with the
+ones that you have to try to to reach
+the ones that you
+need I think it's I think it's even like
+a to be hon I think it's really a
+selflessness too and it comes almost to
+the detriment sometimes I think of of
+like my girlfriend
+unfortunately
+because it's like having the it's G to
+be from anyone who hasn't had this
+experience it's a super intense one and
+it really you're willing to risk
+everything like for this greater belief
+where most people are so risk tolerant
+that they're not really they're they
+couldn't imagine like risking
+everything so it's like then it comes
+that's all even like the the higher
+levels I think that you reach in life
+the more intricacies that come with them
+and the more that life uh almost Demands
+a higher level of yourself at all times
+to be able to navigate through like
+those rough
+Seas so you said you're willing to risk
+everything for the belief that you have
+in that future that that mountain that's
+in the background and you mentioned also
+pad saying that when you're young taking
+a lot of risk is exponentially worth it
+because the compounding effects when
+risks pay off is there a point where
+when you're navigating life you want to
+almost recalibrate a bit of your risk
+tolerance so if we look at you right now
+if you're always willing to put it on
+the line is like the not like an
+inevitable 30 million down that knocks
+you from your next points or do you feel
+like you don't really think about you
+don't really care about ever losing
+everything because you can make it back
+so do you feel like for yourself for
+your own growth has there been a
+recalibration of how you take on risk
+are you still willing to risk it all for
+the dream if the dream's strong I think
+that's that's like the yeah that's like
+the part that life asked me I think in
+this last bit are you still willing to
+risk everything for what you believe and
+I would have to say that I stood up and
+said yeah bring it give me
+it so uh yeah
+somehow I would say because it's just
+like
+um okay so it's it's very different
+though so I would say for anyone
+listening you have to uh you can't think
+of things the same way that I think of
+things because I have a special like
+talent and special gift I think if they
+ran like a competition in the world of
+people starting with $1,000 or $10,000
+or
+$100,000 and who over like the long run
+comes out like with the most bankroll at
+the end of the year I think I'd be in
+the top
+0.00001% of the world so I have this
+skill that I can
+turn very little and spin it into
+something big with like there's always
+poker games everywhere I've I clearly
+have like the poker skill to win I've
+I've won in every version of Poker I've
+won in heads up and PLO in eight game
+and tournaments sit and goes cash games
+every single version of Po live poker
+online poker I've you know I've never uh
+I've never really got lessons from
+anyone in any game when I started
+playing PLO I just you know hopped in
+and played the first downs of PLO myself
+never even watched any training videos
+I've just whatever skills that I have I
+think that they're perfectly suited for
+poker so since I have like this ability
+that's very rare I would say to spin up
+nothing into something I can take these
+risks that I do whereas at the same time
+if I was giving advice to someone else I
+would definitely tell them that they
+should not take like risks to the same
+extreme level as me because the value
+that you always have is the resources
+that you have and for most people in the
+world it takes a lot of time to to grow
+and scale these resources and if you
+lose them it's very hard to come back
+from nothing uh poker like a rare
+industry that you could do it that
+Stakes exist that people will are
+willing to stake you you there are many
+things in the world that you can like go
+to zero and build something back up
+again so it's like uh use Extreme
+Caution with this and you know please
+don't try this at home you know it's not
+it's it's I'm sure that it's not for you
+you know maybe there's a person that's
+listening that that this is for them and
+they say you know exactly the way that I
+feel is the way that they relate to life
+and they want to give everything that
+they can to be a better person to help
+as many people as they possibly can then
+I would say you know put it all on the
+line you know but that's also not a you
+know a comfortable ride you know except
+that that's a crazy one except that
+life's going to give you it it's like
+that um that saying be care be careful
+what what you wish for because that's
+what that's how I see it too you know
+know be careful what you wish for
+because that's what's coming and it's
+like are you sure that you even want
+what you wish for and that's that's
+where a lot of people kind of miss the
+boat because they think that they want
+something but they actually haven't done
+the thinking of what that means for
+their life because like everything has
+positive and negative it's the Yan and
+the Yang of something so you could say
+Okay I want this thing because what I
+gained from this is so big but did you
+think about what you lose from it you
+know maybe it's time maybe it's relation
+ships like there's so much into like
+that picture and that's why it's like
+unless if you're if you're trying to do
+something unless if you like
+self-analyze and are always willing to
+like go back to the drawing
+board life's like going to eat you
+alive yeah very interesting and as you
+mentioned the tolerance for risk is very
+unique to you and maybe some people
+relate to that I think what is a Common
+Thread throughout this conversation is
+going after to the dream and climbing
+the mountain your own mountain now you
+set the mountain super high you were
+like Mount Everest top peak other people
+have the smaller mountains that are
+trying to climb but we're all our own
+Journey trying to level up ourselves to
+get to our destination now what I
+thought was really interesting is how
+you spoke about kind of what's going to
+make you happy on on that Journey where
+you're trying to get to and most people
+kind of don't know and I've been I've
+had hundreds of conversations with poker
+players and it's been quite surprising
+for me as I've gone into coaching to
+realize how many people don't know where
+they want to be in life they haven't
+chosen their path and they hav Clarity
+they say they want more money they say
+they want an ex Financial want more
+freedom if you give them Freedom they
+wouldn't know what to do with it and
+they haven't mapped out this vision of
+where they want to go what what life's
+about and I always feel like Life's a
+game where we can be anyone we want
+character-wise we can achieve almost
+anything we want and we' just got to
+choose we've got to choose and stay the
+course and this is very interesting how
+many people don't choose for you I'm
+much it was a conscious process it
+sounds like you have drives internally
+things come to you ideas thoughts and it
+feels strong and you go with that and
+that's just the path to go other people
+have to sit down and actually map out
+like kind of think through their
+thoughts Journal going Retreats do
+things to actually get some clarity but
+the main thing is like going with that
+kind of vision and having it strong
+enough that it drives everything else
+that's going around you even when things
+are pulling on you whether it's people
+whether it's situations you've got that
+strong path now I want to stick a
+backgrounds before I forget to um what
+allows you to be successful in every
+game of Pok you play every format just
+jump in so I'm trying to think what's
+the common Trend or the common themes or
+traits that allow you to be a big winner
+you mentioned you got skills that are
+just nail tail made for poker so I'm
+curious to know what allows you with
+confidence to jump into a new game a new
+format online live high roller whatever
+and be a winner what what allows that to
+happen um I guess it was always like fun
+for me is the thing so like magic almost
+shaped the way into thinking about poker
+like a competition and the chips being
+play chips and you're just trying to
+like accumulate chips however you can so
+you know you're okay then losing chips
+you're okay learning I think the thing
+that enables me I believe to be super
+successful at it is the willingness to
+be completely open-minded and not write
+off anything so you know of course like
+when you jump into a game for the first
+time and you said a bit of this you know
+what will you do you're going to look at
+the other people who are winning in this
+game and you're going to try to
+incorporate some of the moves and
+thinking that they do inside your own
+game so without even realizing it you
+know you might be playing a certain game
+like you know you start out playing
+mixed let's say and five years later
+you're still playing mixed you don't uh
+consciously realize it but part of your
+game is from so many different people
+and things that they did so you know one
+move that you make you don't realize
+that you know maybe you saw John henigan
+do it five years ago and you were like
+oh this MO move is like sick and I'm
+going to bring this into my game and 5
+years later you know you wind up in a
+similar spot like like that and I think
+it's kind of similar with life too where
+what is it another one of the things in
+life is you become like um like a mix of
+the five people that you're closest to
+so I see it all like I see us as energy
+so like the me that's here right now I
+feel like is all of these different
+pieces of different people that have
+like touch my life in different ways of
+like their way of thinking their way of
+being the way that something that maybe
+they taught me something that they
+allowed me to realize in myself so it's
+like some of the words that I say even
+aren't my words they're like they're
+someone else's words that resonate with
+me so it's like um I think that the
+thing that I'm very good at
+is
+um being confident but being open minded
+which okay so the way that I see it is
+personally I believe that if you're not
+open-minded that you're not in my terms
+of intelligent you know you might be
+intelligent on like paper you might be
+able to whiz like a test or something
+but if you're unwilling to change like
+the way that you're thinking and the way
+that you're being you know it's in that
+like you know you're going to get swept
+away with the times so since I was
+always confident but also so willing to
+re-evaluate my thought process and my
+way of playing it allowed like this
+massive creativity that maybe didn't
+exist for others because they lived in a
+certain parameter that you know this
+play is either right or wrong like it's
+all on paper the other variables like
+don't exist but for me it's like all of
+these other V for personally all these
+other variables do exist everything's
+always interchanging it's all based on
+completely different scenarios that you
+might even see two scenarios that I see
+completely different as you know oh
+those two look like very similar but I
+would have a reasoning for why I see
+them as completely different scenarios
+and I think like that open-mindedness
+has really been the thing that's like
+propelled me to the top of any game and
+willingness to like learn from others so
+even if you know I'm playing let's say
+for instance I'm you're playing with
+people in high rollers you know some of
+the things you don't agree with but the
+thing is they're also very good very
+smart people so if you then say like
+okay you know I'm just the best and I'm
+the best you have no chance like of
+actually being the best or staying the
+best maybe you were at the top of the
+mountain for a small bit but unless if
+you're taking parts of the things that
+other people are learned and things that
+work for them so you know I think a lot
+of times okay so there are some people
+in poker that have won for 15 years or
+something that a lot of other winning
+players would say you know this guy is
+bad I would look at it completely
+different it's like what do you mean
+this guy is bad he's been winning
+consistently must be doing multiple
+things right yeah you might be looking
+at things in a vacuum and saying this is
+bad maybe it even is bad in his game
+because everyone has leaks and I think
+that I'm good at figuring out where
+their weaknesses lie and how to exploit
+those but at the same time you need to
+look at other successful people see what
+they're doing and put it into your own
+thinking so you know some you know you
+might the this person maybe you look at
+20 different things that they're
+thinking that they do and maybe you
+think 19 of them are right are wrong but
+maybe there's a genius in one of them
+and if you
+discredit that person's skill or ability
+then you also discredit that one genius
+that you can accumulate to your own game
+so that open-mindedness if you don't
+have will be your
+demise and then it's like also you know
+if someone is closed-minded they play a
+fix certain game my game is okay I'm
+going to I'm going to think about how
+you play and I'm going to build a
+strategy that's good against your
+strategy and then you know I thought
+about poker so much I got I think in in
+the times where I was playing my best
+the way that I would think about it is
+okay what's the best strategy against my
+own strategy because you know you you
+have to like be in that forward thinking
+you have to think ahead of okay how can
+someone combat this and is there a way
+that if they figure this out that
+they're going to be able to exploit you
+in all these different ways and I think
+one of the first eure moments I had was
+like okay the best strategy against my
+strategy is to keep pot small and stay
+away and the people who don't do that
+wind up in the blender and you know
+you're going to wind up in tough spots
+over and over again and you know if you
+keep going after you know the other
+toughest people in the jungle you're
+going to get cut and bit sometimes but
+if you know you can navigate through you
+know see you know I respect this guy
+over here you know sometimes you're
+going to wind up in a pot with him but
+you're also not going to go out of your
+way to try to be in a pot with a person
+who's like on this level and you know
+it's that's like the ego that I feel
+like gets a lot of people to and
+probably
+because so like you know what what that
+said to me on that time of like not
+competing uh what the what I got from
+that is that there are probably a lot of
+people that I competed against that felt
+like that they were competing against me
+and that was like an extra layer that
+made them unable to compete against me
+because it's almost like I'm clear in
+that space they're like congested
+because they're thinking okay they have
+to get past me I'm just like no no I
+just have to like make the right
+decision get past myself so it's like
+then you know you you're navigating the
+river becomes all that
+harder yeah I think going into this
+conversation some myself included might
+wonder like how you got to the top the
+very top of the game without studying
+like you know generic study and so to
+speak but listen you speak get so clear
+how you learn and how you grow as a
+person and you mentioned like being
+openminded and so I'm picturing you
+going into a new format and learning
+from imitation you mentioned as well
+like kind of mimicking people if you
+look at our childhood like before six
+years old we literally pick up language
+we pick up skills we pick up motor
+skills we pick up how to walk talk just
+by watching we literally no one gives us
+a book to read we just watch people we
+learn stuff so we learn from imitation
+and you mention like absorbing
+information and you talk about like
+energy getting absorbed so imagining you
+being like an open vacuum absorbing all
+the information around you mimicking
+things that are good that you think that
+could be working but also radically
+open-minded to what could be explored
+where other people might fix themselves
+off strategy wise you this creative
+bundle of energy you're absorbing all
+the good points then you almost got your
+own ingredients to mix around and you
+allow yourself to be creative you
+mentioned at the start of the
+conversation actually which I I wrote
+down our creativity gets stolen from us
+Often by Society by people and if feel
+it for you you've never allowed your
+creativity to be stolen you've always
+allowed yourself to come with your own
+strateg come up with what works for you
+so yeah really really intriguing and
+yeah I think that's it shows how your
+mind works but also how you're able to
+be a good winner in every game because
+it like success leaves Clues and you
+you've been a long winner for a long
+time um in all games you've played for S
+such a sample size that it's impossible
+to say it's being anything other than a
+skill so I think for you for the
+audience listening understanding that
+yeah this open-mindedness I think that's
+the thing as well where it's easy to
+talk about being open-minded but we
+often have fixed views on something for
+example I like being right I like my
+view being this is I'm good at this if
+I've got to open my mind up I've got to
+go I could be wrong that what I just did
+there could be awful what this guy did
+there which I class is bad could have
+actually Max exploited me and I could be
+the idiot not him oh that feels
+uncomfortable I don't like sitting with
+that maybe I Lael him an idiot and I'm
+the genius ah I'm the jior C the perfect
+all right back to my cave and life goes
+on so I think we can talk about that but
+it's harder to do in practice um so yeah
+hopefully anyone listening has been
+refreshing to hear what it's like to be
+openminded and to uh yeah try on
+different viewpoints and perspectives as
+well all right I want to bring in Ren
+now because I r waiting patiently it's
+not me waiting patiently on the
+sidelines uh but we went deep into mind
+how you think about poker how you think
+about life your holistic philosophies
+and I know Ren is very keen to go into
+your how you think about strategy and
+how you've improved your technical game
+so I'll pass it over to you Ren yeah I
+mean you already actually touched on a
+topic that I actually was very curious
+in diving into because he also mentioned
+it like you w in every format of Poker
+and this is also something that Adam
+already touched on I was curious like
+from a technical perspective what are
+like some Concepts that all poker games
+SL formats have in common that you need
+to understand in order to be successful
+in all these games like there's some
+underlying mechanics in all games of
+Poker that you know that translate well
+into all the games could you maybe think
+of a couple yeah well like first so the
+f I got one amazing piece of advice or
+especially for like the way that I like
+to play poker when I was 20 years old I
+met this guy who was a big winner at the
+time playing 25 50 on like stars like
+maybe in the same days as you maybe a
+bit before he was monkey 101 on stars
+like back in like maybe
+2006 he was like the number one winner
+on there yeah I think that sounds like
+2007 and um I was hanging out with him
+on one trip in at Commerce Casino I was
+20 or 21 years old and um he kind of
+opened my mind of saying that his whole
+approach is based on like what the other
+person has so it's like my mind exploded
+like at the time I was playing this game
+that was you know focused on what I had
+what do you you know I'm like oh okay
+you know it's like it all just like got
+wiped out right there it's like okay so
+this game is actually focused on what
+your opponent has how to exploit them
+the most and how to navigate like
+through this sea the most so and then I
+think it's it's a lot of taking some
+type of mechanics that you learn from a
+different type of game so like for
+example when I jumped into heads up PLO
+i' played heads up no limit before so I
+some of like the mechanics of heads up
+poker are similar even though the game
+is completely different the way you
+think about it and the way that you
+approach it so now it's like you take
+those pieces that you have that apply to
+this while at the same time being
+willing to like open your mindset and
+thinking of how heads up in this game is
+different than the other game so it's
+like taking the L the skills that you
+have translating some of them and also
+just ex being okay with being a beginner
+at something and just be with being
+willing to pay the price that it costs
+to go from beginner to the next phase
+which I would say then just went to bus
+like you know even though it's not on
+the topic it's like then the same thing
+you know in any type of mountain it's
+like you know can you can you go from
+like
+um ex or EXP maybe not expert but
+someone with an high Advance something
+to then you know going to like a next
+thing accepting that you're a beginner
+and then paying the price to become
+something bigger so it's like when I
+went into business I was a beginner you
+have to pay the price to graduate from
+beginner to anything else would many
+people have jumped into business the way
+that I did almost certainly not
+but I was H since my whole like exper my
+whole thing is experience and I learn
+through experience I'm not going to
+learn it through a book I'm going to
+learn it like in experience and how it
+works for me so it's like I have to pay
+the price to be the fish in the
+beginning to then be able to level up to
+the point where you know you go from the
+fish to holding your own to now maybe
+mastering like what field that you're in
+and being okay with being the fish I
+think is a necessary trait in those
+because if you think that you're going
+to go into any of these games and be
+like okay you know I'm great at Omaha so
+of course I'm going to be great at you
+know mix games for some reason what do
+you like the two don't go in two
+together at all but there are some
+things in poker that you know Concepts
+that you use and ways that you think
+about it's kind of like the same way
+where uh you'll see people who have no
+idea how to play mixed hop into like the
+50k in the summer and make runs or even
+win the tournament just knowing
+tournament strategy
+and when to push like the gas and when
+to hold off like which is interesting
+too as well you know someone um like M
+rocki I think is a perfect example who
+won the PLAYERS Championship multiple
+times I think if you asked other high
+stakes mix game players how his mix game
+is in a vacuum they would probably say
+that he shouldn't be playing at the
+highest level with others but then at
+the same time because he has other
+skills that translate to success in that
+format even without understanding that
+maybe some of even basic R basic like
+understandings that these other experts
+are so deep into he's able to with his
+skills like navigate that and then
+others you know will probably will will
+look at it and say you know oh you know
+he's lucky know sure maybe like luck
+exists sometimes but when it when it's
+consistently happening and like regular
+basis you know I think he won the
+PLAYERS Championship twice I think he
+final taed it another two times in the
+past like 20 years and this is a
+five-day tournament that's so like deep
+and long and you play so many hands of
+so many different games so if you look
+at things like buy a textbook you say no
+it doesn't make sense which is then why
+you have
+to not Jud it's like don't judge the
+book by its cover before you know what's
+inside
+and actually that's uh that's very
+interesting what you touched on like you
+could let's say you play a tournament
+and it doesn't really matter if it's BL
+mixed game no limit hold them but indeed
+like reading the situation like oh this
+guy is under quite a lot of pressure I
+should apply some pressure here or all
+my stack at this moment is quite
+valuable maybe I should s it out these
+like overline principles that whatever
+game you play they will apply in this
+tournament format so if you're a good
+tournament player you could probably
+play p no limit hold them mix game a lot
+of things will transition I guess it's
+more difficult then when you play or I
+guess if you're play a cash game player
+if you're a cash game player and you're
+used to playing deep stack lot of the
+deep stack Concepts will translate if I
+play PLO or no limit hold them if we're
+deep we're deep some some Concepts will
+apply and if we're short we're short
+some Concepts will still apply yeah for
+sure but this aha moment actually that
+you felt said was I think was very
+interesting where you said like oh it's
+not about my own cards I have actually a
+very similar aha moment twice I think I
+remember there was this girl called from
+Norway and 15 or something if I recall
+correctly that she won a tournament
+without looking at her cards that was
+like the story right it was like what do
+you mean won a tourn but you need your
+cards right I was like huh so then I
+remember I was playing like some some
+multiable sit and goes on food tilt back
+then and I also started to understand
+like oh these shcks are stored they
+cannot bust basically I understood ICM I
+didn't know what ICM was but I was like
+wait but they're short I can put
+pressure on them and then I remember
+it's like oh I would put my hand like
+above my cards and then next next time
+if this spot comes I will just Jam any
+two and I would literally put my hands
+on my car I can apply pressure to you
+guys you know I had no clue what I was I
+had no clue about ICM but I understood
+ICM in a certain way I was like I can
+put a lot of pressure here and thought I
+would just be jabbing like Jack three
+offs from the hijack because just you
+know I was just Levering pressure I
+didn't care about the cards you know
+yeah exactly that's actually when you
+start to realize that like oh wow it's
+not about my own cards I remember it was
+a very big breakthrough for me as well
+yeah
+um you did actually end up deciding on
+mtts for I guess your most professional
+career I don't know how much other games
+but that's I think what you're most
+known for and that's also what you're
+number one in what is it then about mtts
+that makes that makes no limit MTS that
+makes it well actually it was just like
+when I lost that like um when I spun up
+the 50k to 3.5 million it was all in
+cash games I'd never played an MTT
+before then then when I like lost it all
+I got to the point where I think when I
+started when I lost it all at first I
+might have been playing still like some
+1020 2550 when let's say I was at like
+500k roll to like
+negative roll or so and I kept trying to
+play cash a bit the pro I realized
+though that because I was playing such
+high stakes and such a high level that I
+couldn't
+really bring my presence into these cash
+games at a low level and I was I was
+almost like pushed in the the direction
+of okay well the thing that you you know
+you're negative 500 in the hole you're
+not playing well at 510 what can you do
+to get yourself out of
+it and you know mtts just kind of like
+popped
+up and that and that that started well
+you were like okay but Strate from like
+a strategical perspective do they intrig
+you more than for example C games I
+enjoyed it so much more than I started
+to see like mtts like um like fun and
+cash games like a job like cash games
+for me seemed like clocking in at work
+had a lot of similar like aspects where
+like in mtts there were so many
+different scenarios that kind of kept
+things fun for me always so it's like I
+I just had fun in them and kind of
+really just didn't look back actually I
+can relate to that like I don't play
+much tournaments I may play cash games
+but I do say that if I hop on a
+tournament especially live uh you sit
+down and I'm just there to solve the puz
+bow I get like all these new situ
+situations and scenarios that I don't
+really I'm not used to and I like it
+really triggers the creativity and
+brings really back the fun I can
+definitely relate to that I'm curious
+like we talked a bit about uh solvers
+decisions like obviously for a solver to
+come up with the correct correct correct
+decision quote quote it needs like
+certain information right it needs to
+take things to consider relized who's
+the in position player out of position
+player what's the spr of course what are
+the ranges because the ranges will make
+up the equities which is you know pretty
+important in poker any game you play I
+believe yourself you're not so much into
+solvers if I understood that correctly
+but you obviously make great decisions
+what information do you find is most
+important to look for and to process in
+order to make the correct decisions I'm
+kind of I kind of want to know what kind
+of what variables do go in the mind of
+the bring Kenny solver you know that
+that you need to take in consideration
+in order to make a good decision okay so
+I would say like uh it's starts with
+like uh in like the high rollers where
+I've had like the most success it starts
+with like how's the person feeling that
+day at what stage of the tournament are
+we in uh then it comes down to like when
+you're inside of a hand you know you
+wind up in like a big river spot and you
+then have to Recon so now like in this
+big river spot the person's representing
+a certain hand then you start to
+construct the hand from pre flop to
+River and say you know it does the story
+check out of this person the way that
+they usually play or the way that you
+know do they actually have this hand and
+it's I guess it's looking it's
+continuously looking
+for things that don't make sense that
+like kind of ring out so it's like you
+know someone's trying to rep a hand on
+the river and you you get to like the
+Flop on it and it just doesn't make
+sense to you that this hand that they're
+now trying to rep on the river that they
+actually had like on the Flop or pre
+flop or on the Turner so so it's like
+con deconstructing all the information
+that you have and like putting the
+puzzle back together and trying to solve
+like I guess their way of thinking so
+mine is all about trying to understand
+the way that the other person thinks and
+I feel like I'm better equipped to wind
+up
+in rare
+situations than they are with the tools
+that I have and I I guess I welcome
+those new situations and I'm comfortable
+in them yeah you're you're more
+comfortable I would say from what I'm
+hearing is like problem solving on the
+Fly basically yeah I would I've said
+exactly that before for sure I mean this
+is this is very important and I've I've
+heard this before and this is something
+that's currently a bit more overlooked
+because solvers really make you focus on
+trying to play a good strategy from your
+perspective but as you as you learned
+from from this guy that you mentioned
+he's only thinking about what his
+opponent has and in order to know what
+your hand can do we need to think about
+what our opponent has and like current
+modern day thinking is way more focused
+on oh I should do this I should do that
+and that's very solver driven where
+you're clearly way more focused on okay
+I'm trying to figure out what the hell
+this guy has and if my hand can call
+like sometimes people might fold the
+hand to say oh this hand is low up in my
+range I don't need to call this hand but
+like yeah but that's maybe the wrong
+questions you want to ask yourself can I
+call this hand based on what I think my
+opponent is up to and it's that way if
+you think if you think can you might
+sometimes fold your range or you might
+sometimes sometimes call your range
+which you know is probably a more uh
+accurate way of going around things and
+then I I think that I like think ahead
+to whereas like okay the way I think in
+some spots is let's say we wind up like
+on a
+flop uh and we don't have anything but
+this is like a board that we that versus
+our select opponent here we can very
+safely bet like quarter pot quarter pot
+shove for pot on the river and they're
+just going to go call call fold so
+whereas like someone else is thinking
+okay like I'm bluffing so I want to bet
+big here and get him off it on the Flop
+I'm taking like the suicide like not
+suicide but I'm taking the very high
+risk approach of okay I'm sure that
+actually because this guy's going to
+fold on the river to my all-in shove I
+actually want more and more chip so
+actually even though I'm bluffing I'm
+actually value betting the Flop and turn
+because I know I'm stealing it on the
+river yeah you're you're investing in
+your bluff I like to call this inves in
+your bluff you're like okay let let them
+call let them call because I'm gonna
+steal the PT later anyway exactly yeah
+this is I think also it's understanding
+how how much or your B sizing how that
+influences your range and when kind of
+your desired job is complete so you
+might fire out a very big bat on the
+earlier Street and expect him to already
+fold most hands and then to Fire Keep On
+firing is kind of useless because you've
+already kind of pushed his range towards
+hands that they're now only going to
+call you so it's kind of understanding
+when what what job you're trying to
+accomplish and when the job is completed
+sort of speak do you do you associate
+with that yeah definitely and then like
+because yeah there's so much creativity
+that you can really do so like another
+thing pops up to me so we're playing
+like a 100K tournament in
+Vegas um opponent in the is uh David
+Einhorn you know super successful hedge
+fun guy like plays poker for fun uh
+plays on the on the tighter side I would
+say so we wind up in this spot where
+um the the we've got like 910 off suit
+the Flop is like uh 1044 he check calls
+the big
+blind um the turn comes like a a
+three um like he check raises the
+turn we call because doesn't really make
+sense as anything the river completes
+the flush on the river with a queen so
+he checks and in this spot like uh
+almost everyone would check behind uh I
+saw it as okay he tried some like
+strange Bluff on the turn that he like
+Checker something that like has nothing
+he doesn't have a flush here you know
+maybe he's got a random Queen but most
+likely he doesn't so I just go for like
+the 10 to 15% pot bet on the river only
+to induce a raise knowing that we're
+actually never getting called and
+winning uh only inducing a raise he
+wakes up with like a raise with his like
+ace2 off or Ace five off or something
+and uh he's he's just like he's standing
+he stands up and he's just looking at
+the board like in
+disbelief and uh another guy like comes
+up behind him and he tells him he says
+you know good good bluff wrong
+[Music]
+customer I mean good bluff I mean you
+would never you would never make
+basically your bed there is only
+designed to get raised so I don't know
+how how how how great the bluff is but I
+I completely agree with you here most
+people are like well uh well I'll check
+behind I win quite often he probably
+doesn't he's going to call it anyway so
+yeah hand hand is over there but they
+little inj on the river I really like
+this play man it's a good yeah like it's
+like that creativity you know since
+everything's possibility you just wind
+up in that spot at that exact time and
+the correct play is only how you can
+extract the most
+value you could say whatever for any the
+best thing that you could do in every
+moment is either extract the most value
+or lose the minimum in like spots that
+you just can't win the pot and you know
+you know there can also be times where
+you just got lucky to get into that
+maybe it wasn't but if some you know for
+me personally if I was someone
+competing against myself and seeing you
+know these type of crafty
+plays I wouldn't equate any type of luck
+with
+it no especially like even even on how
+can I say let's say even it's a short
+even it's a small sample if you see a
+hand like this it shows some sort of you
+know without boosting your confidence a
+bit too much it shows some sort of
+Brilliance you know like you have to you
+have to really think on a on a on other
+level to come up with a play like that
+it's it's not it's it's not within the
+standardized Playbook well because yeah
+it's like the thing of what is it you
+master something in 10,000 hours and
+when I like thought about it I've spent
+about 100,000 hours like playing
+poker you you probably read Mastery 10
+times then according to this
+rule we saw we saw a little piece of
+Mastery right there with it's it's
+normal that's what's like supposed to
+happen really it's like you dedicate
+like your life and your craft to
+something and you I hope that you have
+some Mastery in there not to say that
+you're perfect because I'm far I'm very
+far from perfect but willing
+to rewrite the drawing board because
+like place place that are bit more out
+of the box they're usually also on a
+thin line right between brilliant and
+and like what the [ __ ] was that so you
+also mentioned like bring presence I I
+wrote down you bring presence how
+important is then bringing presence to
+if you play this type of Poker right
+which I I I get you you're a bit more
+intu if you follow your guts then if if
+you're if you're if you're not present
+and if your gut is
+wrong you know you're balancing a quite
+Thin Line there yeah and if you're not
+feeling good that day and your whole
+like thing is about like your instincts
+and your instincts maybe are just off
+that day because like you're not
+thinking like in your most clear way so
+then you just have to get back to the
+drawing board and be like okay well I
+can't let anything that's going on
+outside of the table affect me at the
+poker table and if it's going to I can't
+play poker
+then that makes sense so I I've also
+heard you talk about the the the flow of
+the game which variables do it exist in
+like within the word the flow of the
+game what are we talking about because
+flow stage stage stage of the tournament
+and like stack distribution of the table
+so like you know when you're hitting
+these points of getting close to the
+money close to the final table there's
+sometimes you know like you like you
+were touching on you can raise with any
+two cards without looking at your cards
+but at the same time if you're trying to
+do that same style and you've got strong
+players on your left you know good luck
+like you're going to wind up like in a
+tough one so that's why like poker is
+like a
+bit it's good to be humbled in poker
+because you know just because you're
+playing tight in a certain like
+situation that you're in doesn't mean
+that you think that anyone's better than
+you it just means that you think that
+that's the right strategy to come so you
+can think that you're the best in the
+world and you can also wind up at a
+table at a certain stage of a tournament
+and your mind is like okay I'm just GNA
+fold like everything and then not to let
+it also affect like I no what do you
+mean I'm bet I'm the best like I have to
+you know do something and and make
+something happen so you know really you
+just have to like sit back take a breath
+and it's going to come to you yeah this
+is also kind of like it's a thin thin
+line again between forcing spots and
+trying to see spots that are not really
+there or to really and again I I I agree
+with you like presents because those
+kind of spots you feel that are right
+but sometimes you feel that you're kind
+of trying you want them you want the
+spot to be there but you actually deep
+down inside you know it's not the one
+right yeah but still then you still go
+for it it's always like that thin line
+really and that's why like you need the
+confidence and that's I guess also why
+you spend so much time nowadays more on
+like being happy being present being in
+the moment instead of forcing more hours
+on poker study because it wouldn't
+really translate into more win rate for
+you yeah what what is something in your
+opinion that like current modern day GTO
+players uh fail to understand about the
+game of
+poker
+they see it like inside of a vacuum that
+the that the situation is like you know
+just there as it's presented to you and
+doesn't like change at all
+and I mean I couldn't disagree more with
+like the whole approach of GTO I don't I
+don't know if it's like just because the
+way that I think it doesn't relate to my
+own way of being at all or that it's
+really something that's robbing everyone
+of their creativity I'm sure that there
+are some people who are very robotic
+thinkers
+that their way of being is like kind of
+memorizing and playing like this certain
+style but personally I believe that it
+takes the fun and creativity out of the
+game which you'll never be able to be
+your best without expressing some type
+of creativity and having fun and I think
+that that yeah that's why like poker is
+amazing because it's like an a perfect
+expression of your creativity but then
+at the same time it's so funny too it's
+like life you know like there are so
+many ways to express your creativity in
+life but all the things in life are
+telling you that you should be like this
+like this mold fit in this box you
+should do things this way and the people
+who there are you know tons of people
+that go that way I'm just in the way of
+thinking like you know actually infinite
+possibilities exist you know have fun
+while you're doing something you know be
+able to to laugh at yourself
+and yeah so actually I hate it to be
+honest you know how the rhetoric
+non-stop is about how like you know if
+you don't play GTO and poker you can't
+win like okay maybe this is also like
+from the way people talked to you about
+GTO and how you got into touch with GTO
+because I would say that I've Sol a lot
+of GTO but there's so much room to be
+creative but it all comes down to you go
+sit with the solver and if you go in
+there and you say solver tell me what I
+have to do yes it will rub you from all
+your creativity but if you sit with the
+same solver and start to play around
+with it and ask it hey solver what can I
+do in various situation if this changes
+if this changes if that changes then
+suddenly you will see oh wow if I play
+around with these variables change this
+then solver is one of the most creative
+cre the market person yeah I wouldn't
+call that that person like a solver
+player I would say that they're using
+the tools that are available to their to
+enhance their game people forget that
+the solver that the outputs that they're
+looking at it's just a toy game it's
+just a toy game for the situation with
+the input that it's been given it has
+nothing to do with reality yeah I think
+what it is is too many people Bunch
+together too many things that are
+similar but not the same and then say
+that they are the same and then see them
+as that same way instead of the approach
+that you can have with the solver so I
+think that probably 99% of the people
+are in that Bunch group Bunch things
+together do less work than they could in
+the approach that you're saying I think
+the approach that you're saying is very
+similar to my Approach in a different
+way mine is just doing it while playing
+Non-Stop and yours is doing it while
+like tinkering with numbers non-stop I
+think both of those can get to the same
+place but for sure like if you're text
+booking it and bunching them together I
+think that it can yeah so instead of for
+example what I would then recommend
+let's say people would study how to play
+button versus big blind then they would
+study how to play hijack versus big
+blind then they would study MP versus
+big blind in my opinion you're wasting a
+lot of time because if you would sure
+focus on button versus big blind and
+then just focus on hey I'm now in a
+tight range formation what will change
+out of that you get a concept oh in
+tighter ranges I will play like this or
+I don't know you were starting a spell
+at 40bb what changes if I play BB out of
+that you get certain Concepts that you
+can apply to your game hey in general
+stack size will impact my strategy in a
+certain way but you don't have to learn
+restudy the whole tree and actually the
+robbing of the creativity we had
+actually a guest on in the previous
+podcast with Nikolai and he touched on a
+block of Stefon you're probably not in
+touch with the current online street but
+Stefon 1112 is a very creative Russian
+poker player considered one of the best
+and he actually wrote in his blog that
+it's he didn't like poker he saw it as a
+job but but when he started to see poker
+as an expression of himself and a place
+where he could express his creativity
+that's when it all changed and like and
+you said exactly the same so I had to I
+had to remember of the previous podcast
+for the people check it out go to the
+Nikolai podcast yeah I have to see it
+yeah I love that thinking yeah he made
+he made a block pass I put it I put it
+in the description of the Nikolai
+podcast I I will send it over to you uh
+after after our podcast it's it's h yeah
+really really good poker player what is
+something that that you actually learned
+from new school players because you have
+played a lot with like the new new
+school GTO players and I'm sure they've
+put you in spots and you pay attention
+to what other people players do that's a
+part of how you learn what have you
+learned from like the new school the new
+school era I think the new phase was
+like uh people squeezing like bigger
+like in out of position spots where like
+in the past there was a lot of like
+clicking in small raises where it's like
+really turned into like big raises in
+like these similarish type of spots so
+it's like um it's hard to say that
+definitively because like through out
+like all those phases you know you see
+something that like chidwick is doing
+and you like it and you incorporate it
+into like your game and you try to like
+pick those like pieces from everyone so
+since it's like a an always Chang my
+Approach is like always
+changing thought process it's always
+taking what others believe to be what
+other smart people believe to be right
+or a good play and analyzing it in your
+own like calculator and saying okay you
+know maybe actually I'm gonna use this
+for this and this and this or maybe you
+don't even realize and you just wind up
+in that spot and you've seen someone do
+that and you like it and you make like a
+similar play and that and it's just like
+it's with you without you even realizing
+that it's with
+[Music]
+you I want to kind of take this moment
+to to reflect and you know you're
+currently at at the top of the mountain
+even though the mountain keeps on
+growing right this is just one of the
+mountains what has been the most
+important lesson that poker has taught
+you accept things as they are and not
+wish for something
+different yeah this is also this is kind
+of the key to not being frustrated
+because usually when we're just
+frustrated and angry it's we haven't
+really come to terms yet with how
+current reality looks right because then
+you could you could say it even like in
+a more poker way of you know you've got
+to accept the cards that you're getting
+dealt and not wish that you had
+different ones I mean to be fair how how
+how how many people and how much brain
+power do you waste and like oh that's
+such a bad River oh that's no it's just
+a river like why why why do we have to
+label it that this is not great oh oh
+I'm in such [ __ ] situation yeah ex but I
+do get I mean it happens I'm sure it
+happens Happ s to you some or I I the
+only human one here because sometimes if
+in the wrong side of mind it does still
+happen to me right they like of course
+no everyone has like those thoughts and
+like even thoughts that don't like
+resonate with you are going to like pop
+up and you know they're still going to
+exist like in that
+space you know I wanted to start closing
+off this conversation what would you
+like the main takeaway to be that people
+get from I think we've talked over three
+hours qu quite quite a long podcast but
+you know you're a very wise guy so we
+tried to extract as much wisdom out of
+you as possible what what would you want
+the audience their main takeaway of this
+conversation to be so they're gonna
+close up the conversation they're gonna
+be like
+wow um one of these things I guess it
+bridges into the other and one of these
+songs that I like it says if you think
+of something it is so I want to like
+what that would mean to me is something
+more like no dream dream is too big
+unless if you tell yourself that it's
+too big but
+for great things to happen you have to
+believe in yourself if you don't have
+that belief in yourself then you've
+already stacked the deck against you so
+it's like believe in
+yourself and just keep
+going you know don't let yourself keep
+going don't yeah don't let anyone or
+anything stop you
+from what you believe to be
+true W but then
+also allow yourself to be
+humbled Adam would you like to add
+anything to to to the takeaway well I
+have one unanswered question so I want
+to really just dive in with that so you
+mentioned earlier what you need to
+perform at your best and you said number
+one was sleep I was curious to know
+what's number two to five for Brin to
+performance as best let's say you're
+going to a super high roller final day
+what are some of the things that are
+really important to make sure you show
+up as your best self okay so my biggest
+winning year was in that 2019 year and
+it was a bit different than like all my
+other years like in those years what I I
+would say the most important things were
+um eating good clean food rest taking
+proper like supplementation to be
+prepared like in that moment some of it
+was like brain pills some of it was like
+this like a green energy drink that I
+would
+bring um
+and bringing laughter and balance like
+in my life I think are so such
+underrated things and especially those
+aren't really things that I had in my
+earlier years in my career making like
+the storm tougher to navigate but uh if
+you're going
+through intense times if you can bring
+like fun and laughter like into your
+life it'll make
+those much more manageable to get
+through amazing thank you so much for
+your time we'll wrap it up there and we
+appreciate you spend the last three
+hours with us yeah for sure I think it
+was a great combo loved having it with
+you guys all right what a great
+conversation that was wrapping up
+another great episode bring Kenny thank
+you very much for sharing all your
+wisdom Adam any main takeaways I mean
+there must be so many main takeaways but
+you know not to repeat the whole podcast
+just a couple ones yeah the main ones I
+want to dive into or just reflect on are
+dreaming big and having that big picture
+dream I think anyone listening to brain
+could be inspired by his ability to
+think outside the box but to set a goal
+that's scary ambitious but it's it's big
+thinking being the best poker player in
+the world starting a pokker site
+anything he does he he allows himself to
+think big and have a big dream then we
+talked about like kind of having the
+belief and confidence in yourself to uh
+to keep going to keep going and some
+very challenging things for a lot of us
+to relate to even myself in terms of how
+he thinks about risk being willing to
+put everything on the line for the
+belief in a better outcome or belief in
+your kind of dream vision and for him
+he's got that so um entwined that he
+always will sacrifice everything almost
+to get that to where he wants to go this
+can lead to Big Ups big downs but also
+it leads to him always being on the path
+and always uh backing himself to find
+answers so this relinks to climbing the
+mountain I had the analogy I mentioned
+the hero's journey as we going through
+it but climbing the mountain and
+leveling up your character every step of
+the way so he's trying to get to the
+best Pok player in the world and he's
+constantly learning lessons and one of
+the things that allowed him to
+continually grow and level up was this
+mindset of acceptance accepting
+everything that happens and having this
+holistic view of everything is happening
+for a reason life has given me this
+challenge to learn from it to grow
+therefore I accept exactly what life has
+given me and I will move forward which
+links into him being very present in the
+moment he always thinks about being uh
+in the moment and trying to act from
+that lens not getting caught up in the
+narrative trying to give himself
+creative permission to uh be himself and
+express himself but yeah the ability to
+move on except I thought was really
+powerful you also mentioned surrendering
+surrendering to life and we don't know
+how life's going to unold we can set a
+direction like might have other plans
+and being okay with that and then I
+think what we didn't really speak about
+as a concept I thought was a theme
+throughout the conversation was
+resilience he's very good ad he
+mentioned digging himself out of a hole
+and this is the ability to things get
+badly continue to move forward he
+mentioned holding on to the roller
+coaster when the roller coaster crashes
+and miling into the hall and he's
+definitely either had a lot of
+resilience but most likely he's built
+resilience through adversity he's went
+through more downs and swings than
+almost any of us will be able to relate
+to like the amount of times he's went
+negative a million is quite crazy to to
+think about but he's built resilience
+that that's normal to him he can handle
+it and he says when things get badly I
+back myself to take that as armor take
+that as fuel and to get back to it in
+keep marching forward so yeah I think
+those are amazing life skills I think
+yeah anyone listening would learn a lot
+from that so any about the main topics
+he wrote
+down what really fascinated me is that
+he really takes in consideration a
+couple things actually he takes in
+consideration the human aspect of Poker
+and he really zooms out and really sees
+it in the bigger picture so he doesn't
+really look at the EV of the hand in a
+vacuum he every time mention things that
+are like bigger picture EV wise right
+and then he talked a lot about
+maneuvering so I remember he talked
+about oh yeah should you really defend
+Jack for offit where it makes 0.1 BB he
+also understood that okay what you see
+in the solver in the charts and the EV
+it's in a static model where in the real
+world we don't play in a static model so
+what we have to do is figure out well
+okay in which kind of scenarios is Jack
+four offsuit going to be plus 0.5 or
+minus 0.5 and that's he mentioned like
+oh if you play against a guy who's
+winning all the tournaments feeling very
+confident he's probably goingon to play
+very good he's gonna follow up with a
+lot of aggression so probably we should
+not be defending Jack for offood versus
+this specific opponent so he's talking a
+lot about elasticity in your prefab
+ranges and maneuvering around the table
+right playing more versus guys who are
+weaker maybe low in confidence and
+playing less for the guy who's winning
+all the titles is probably uh not a
+great idea I also talked about like
+creativity and giving yourself the
+permission to be creative also Stephan
+talked about it so if Stefan and both BR
+talk about it both online and live
+Geniuses there's probably some truth in
+it let poker be an expression of your
+creativity and how do you do that you
+have to go in not with the question of
+what do I have to do here but what can I
+do here because in can I do lays I don't
+know how many possibilities right we can
+start playing around with the variables
+well what happens if this changes what
+happens if this changes then suddenly
+poker becomes very creative and becomes
+a lot of fun okay so focus on the impact
+certain variables have on strategies
+instead of just copying the strategies
+blindly this actually a topic where
+we've touched on before but also what
+brim really talked uh about and I think
+opens up our mind with all the
+information that's actually available
+right I never thought about walking in a
+tournament room and seeing who's
+confident and based on that staying out
+of his way right but it's a piece of
+information that he has that he knows
+will determine the EV of his play right
+we can talk about Tails both physical
+tells timing Tails Etc these are all
+pieces of information that we can pick
+up that gives us a more accurate picture
+about what his range really is and
+that's when Brin is really good at like
+trying to figure out people are too
+strong too weak and then try to maneuver
+himself towards Victory like he did in
+many many tournaments all right great
+conversation great podcast wrapping it
+up I want to know your main takeaway
+write them down below in the chat GTO
+Wizard or sponsor will pick one of you
+lucky guys and you will win one month
+free GTO wizard go over to GTO
+wizard.com if you want to go check that
+out or click in the link down below I
+want to thank Adam for coing this
+podcast with me and I want to thank
+green for coming on I want to remind you
+guys that it's the last opportunity to
+join the mechanics of Poker 2.0 program
+we are closing at the end of this
+weekend if you want to have a chance to
+work with me and Adam now is the time
+we've put it together the best promotion
+ever you get a 25% off on the program
+three bonuses close to €3,000 of free
+value and it's the last enrollment that
+we will do for the mechanics of Poker
+2.0 so this is your last chance to join
+the program before it closes permanently
+work with me and Adam make more progress
+in your poker career in
+2024 wrapping it up like this video
+subscribe to the channel and I'll see
+you guys in the next
+episode
+[Music]

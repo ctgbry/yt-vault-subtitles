@@ -1,0 +1,134 @@
+Kind: captions
+Language: en
+how easy would poker be if you could see
+your opponent's cards only easy
+decisions right but what if I told you
+that if you pay close attention to the
+following you might be able to do just
+that as in this video I will show you
+guys how to pick up on TS of your
+opponents use this information to your
+advantage alter your strategy and make
+higher EV decisions let's go I want you
+to take a look at this hand played by
+one of our mechanics of Poker students
+in one of the member
+[Music]
+reviews I do mostly range breting when
+uh in fre position the free FL rer
+unless the board is too connected what
+did you think pretty straightforward
+stuff right let's look at this again but
+this time pay very close attention
+[Music]
+did you see
+it he snap called your three bat now why
+does this matter you might be asking
+yourself well the timing reveiews
+information about villain's range and
+ranges determine the equities and in the
+end it's the equities that dictate the
+appropriate strategy when he snaap calls
+your three bat in this situation it is
+very likely that he has a hand that was
+never going to fold and never going to
+forbat which makes his range go from
+something like
+this to something looking more like
+[Music]
+this when his range looks more like this
+do you still want to be seting range on
+107 du probably not as against the first
+range while being slightly behind we at
+least still had the nuted advantage and
+therefore it's okay to start seab
+betting however against the second range
+we no longer have disadvantage and are
+even further behind in equity overall
+and generally speaking it is not a great
+idea to open the action and start
+putting a bunch of money in the pot when
+you have no advantage to back this up
+when we informed the solver about the
+information our opponent gave away about
+his range he quickly adjusts his
+strategy and basically stops seab
+betting allog together now I would not
+recommend checking back Queen Plus in a
+situation where it's very likely that
+your opponent has a worse pair than
+yours and him not being aware of the
+fact that your seab betting range is
+only Queens plus but I think we can all
+agree that seab betting Ace King is now
+no longer such a great idea when hero
+mentioned his General approach for this
+spot he most likely used the first GTO
+range I showed you he then went into the
+aggregated frequencies for seab betting
+in position as initial razor and he
+maybe looked at some population ten es
+how they respond to cat to come up with
+an overall simplified Baseline strategy
+and while this process is very valuable
+he forgot one very important thing your
+opponents are giving away information
+about their range all the time therefore
+we must always remain on the lookout
+stay adaptable in our strategies as with
+this information we can make adjustments
+which will significantly boost our win
+rate this can be specific information
+about player Tendencies bet sizing tails
+and betting patterns or as in this case
+a tail in
+timing I will give you guys another
+example we're reviewing our student and
+he is playing button versus big blind he
+see the Flop and checked back the turn
+stuck either way here between bat and
+check Nosh which I prefer he snap checks
+to river which is weird man now our
+opponent naap checks to us on the river
+if we look at the GTO strategy we see
+that we don't want to bet a lot and if
+we do it's for a smaller
+sizing now how much and how big we get
+to bet is determined by the equities and
+the equities are determined by the
+ranges so let's take a look at what the
+range looks like in theory we can see it
+checking quite some acex and 3X towards
+us and therefore our Equity is decreased
+however to check an Ace and especially a
+three or better usually require some f
+so it's way more likely that he has a
+hand that was never interested in
+betting in the first place so his range
+instead of looking like this will likely
+be looking more like
+this which will have drastic
+consequences to our strategy so in this
+B check b line we now go from betting
+not that often for a small sizing to
+betting way more often bigger and
+thinner for Value as the range we likely
+face giving his timing looks way
+different than in solver land so while
+there is great benefit in working with
+solvers studying certain notes and
+building Baseline strategies we must
+never forget the underlying mechanics to
+the game and why in GTO or in our
+Baseline Strate
+we decided to play a certain strategy in
+game when the opportunity arises we must
+rise above our Baseline strategy process
+this new information no lock in our hat
+and move beyond the
+solver if you liked this video give it a
+thumbs up subscribe to the channel if
+you want to know more about how to work
+more effectively with solvers go check
+out this video here next see you guys
+there

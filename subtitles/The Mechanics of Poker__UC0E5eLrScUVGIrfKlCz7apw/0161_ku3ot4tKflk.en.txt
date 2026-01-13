@@ -1,0 +1,4111 @@
+Kind: captions
+Language: en
+[Music]
+foreign
+[Music]
+what's up my fellow poker enthusiasts
+it's Renee aka the weko here and
+together with my co-host Adam Carmichael
+we present to you the mechanics of Poker
+podcast in this podcast we deconstruct
+high-stakes poker players figuring out
+what it is about them how they think
+what they do that makes them so
+successful with an extra focus on the
+obstacles they faced and the skills they
+had to develop to surpass them over the
+years me and Adam have gained a lot of
+experience in both reaching high stakes
+poker ourselves and teaching other
+players to do the same we have bundled
+all this knowledge together in our
+coaching program the mechanics of Poker
+which is the most complete poker
+coaching product on the market if you
+want to have a chance to work with me
+and Adam so you can get unstuck and make
+more progress in your poker career go
+over to mechanics of poker.com to apply
+but without further Ado let's learn from
+another high stakes players journey in
+today's episode
+[Music]
+of the mechanics of Poker podcast we are
+very excited to start chatting with
+today's guests but before we introduce
+him a quick announcement because the
+long anticipated 2.0 update of our
+coaching program the mechanics of Poker
+is now available for application next to
+updating the original content the
+monthly live Q A's and thriving Discord
+Community we have added over 12 hours of
+new content which include a better
+understanding of GTO and how it
+translates to practice the bluff and
+Bluff catching system and tools to
+analyze your game for leaks and variants
+one-on-one coaching sessions to review
+if you are applying the knowledge
+correctly we only have room for 10
+students to join the first release of
+the program so if you think you have
+what it takes to master the mechanics of
+Poker go over to
+mechanicsofpoker.com to apply and we
+will get back to you now our guest for
+today after are our most popular episode
+with Mr munostar we're returning to
+Russia to have a chat with high stakes
+poker player Victor inlight good enough
+Victor is the fastest riser to high six
+poker we've had on so far as it took him
+four years to get to 5knl cash games
+beating Tobias AKA dot who needed five
+years to get there now we are very
+curious to find out what made him get to
+high six that much faster than the other
+players we have had on one thing he has
+in common with many of our previous
+guests is his background in competitive
+Sports and gaming starting at a young
+age with playing football Trend then
+transitioning into strategic computer
+games like Warcraft and DOTA and through
+cybersports rolling into the world of
+poker now it's not been without its ups
+and downs and one of the main reasons he
+wanted to join the Pod is for you guys
+to learn from his experience to increase
+your chances of becoming a successful
+poker player but most importantly help
+you to be become a happier person as
+always we're joined by my co-host Adam
+Adam I bet you think it's interesting to
+see that his main motivation to come on
+is to help our listeners become happier
+instead of richer
+it's a beautiful motivation and you
+think about it very often we try to
+Achieve Personal success we try to climb
+our own Mountain to get to the top and
+then when you get to the top of the
+mountain a lot of successful people want
+to lean backwards lead out of hand and
+help other people on their Journey so it
+shows a lot where Victor's after his
+current part of his life and he wants to
+help you the audience to be happier
+people and on the way you'll learn a lot
+of stuff to be successful as well
+hopefully we'll be able to unpack a lot
+of nuggets that you guys can use yeah
+it's a really good motive to want to
+help you guys to have happier more
+successful life so again we're looking
+forward to it and he's already shared
+some of his kind of trials and
+tribulations that he's faced throughout
+his political career I won't spoil those
+for the audience we'll be diving into
+your him going broke hitting rock bottom
+moments and all the challenges he had to
+face to become the high stakes Crusher
+that he is today
+yeah it's going to be a great episode
+I'm sure but before we start I would
+like to give a big shout out to GTO
+wizard for sponsoring today's podcast
+GTO wizard has made studying poker
+accessible for everyone and in my
+opinion is the best place to go if
+you're serious about improving your
+poker game next we're having access to
+all GTO solutions for every spot and
+having the ability to upload your hands
+and let wizard find it for leaks you get
+access to weekly coaching webinars in
+which various coaches including myself
+educate you on the most important spots
+to start crushing the game go over to
+gtowizard.com mechanics to get started
+and you will get 10 off on your first
+month that is GTO wizard.com
+mechanics now without further Ado let's
+get into today's episode with Victor
+Mr good enough thank you for coming on
+the podcast it's great to have you
+yeah thank you for invite it's a
+pleasure to be here
+well I wanted to start off uh at the
+beginning which is starting to become a
+trend actually on this podcast which is
+a background in competitive Sports and
+gaming now you mentioned that you
+started playing football already at a
+young age now many people who are
+listening me included I've played
+football when I was at a young age I've
+played video games however it was more
+of a fun activity than something that I
+was actually doing competitive and I was
+wondering what made you take Sports and
+later video games so competitive
+yeah I mean I started to play football
+series uh because of my coach it was
+like uh pretty funny story because we
+was just uh friends who was playing uh
+on football field uh close to our school
+we was playing every day and one day one
+guy came to us and asked it uh do we
+want to try to play professionally uh
+some of us told yes and he made like
+small team from us he started to coach
+us and then he
+signed up uh some like some sort of
+contract or I don't know what it was
+between them but we started to play like
+in a small gym in our city and this guy
+he was uh I mean he was like 40 years
+old not 40 50 something and he was
+ex-professional player he even played in
+uh USSR team so he started to teach us
+and also
+you know I played much more than ours
+because
+I was pretty obsessed by the game it was
+very interesting to me so like my
+routine was I go to practice with team
+when I go home I do something and then I
+go to play with friends then friends
+going to home and I just playing alone
+trying to do some tricks or something
+like that uh I I can't even say why I
+loved football that much
+but I was just obsessed for it I was
+like any time when I have some free time
+when I don't don't need to do school
+things or something like that I was
+playing football
+all right so it was that it was mainly
+like the coach that kind of saw
+potential in you and your friends that
+kind of planted the idea in your head
+like hey guys you could maybe do this
+professionally as well uh you also
+I think the biggest point for him was uh
+like it was Breaking Bad and hard times
+in Russia and a lot of young people was
+drinking smoking and doing stuff like
+this uh and he just wanted us to have a
+normal life better life for us I think
+it's like not about potential he wanted
+to
+give us a chance to be healthier to be
+more successful because like he suffered
+a lot of people who are ruining their
+lives around
+so like I think it was more mental side
+for him to try to make uh live around
+him better
+okay that's very interesting so it was
+more like he also gave sort of a
+community service you could say to like
+try to give kids a certain perspective
+or an option a career path that they
+could follow so they don't end up on the
+streets
+yes yes
+this coach is there if you think about
+back about this coach is there any
+specific teaching that stuck with you up
+until today
+uh yes that was like for example in
+winter it's like Windows 20 minutes 25
+degree we always had uh outside uh
+trains so we was playing on the snow and
+stuff like that and he always was like
+uh
+I don't know how to say it like we never
+got called from that it was pretty good
+for our health and also he was um uh he
+never tried to hold players like uh when
+I started to play a bit better than
+other players in team he told me a few
+options in our teams where I can go
+I can never try to hold us uh with him
+he always was like if you can go
+somewhere and it will be good for you
+you can go
+it seems like a very good guy to to have
+around so he was clearly having your
+best interest in mind not necessarily
+his best interest in terms of gathering
+good players around him
+yes yes he was like it's not only gosh
+he was like Guru for us I don't know how
+to say it correctly yeah you know I
+understand
+he always was like open for
+conversations he always was asking uh
+about our mood about our living about he
+always was telling us like even if you
+like football very much you need to
+think about school you need to teach
+well learn well you don't need to ignore
+school because football is hard you
+might not get in professional teams and
+you need to be educated so like here he
+always put us on first place
+personalities
+but it seems like a great guy to to to
+have around starting at a young age you
+you mentioned you wasn't really sure why
+you liked football so much I've heard
+that coaches say like some players are
+more a coach on the pitch you know they
+really think about the game
+strategically but you also mentioned you
+know if you were by yourself you would
+just be doing tricks and stuff do you
+think it was also like the Strategic
+aspect of of football that attracted you
+so much yeah yeah definitely it's like
+it's very complicated game and uh
+I like the like trying to do something
+uh something hard
+in uh football like hard tricks uh hard
+shots but it's not always Market but I
+practiced it a lot to do something
+it's like it's always interesting to me
+to make some goal and try to learn it
+like go fur further and further in that
+so you already had a sort of reflecting
+mentality then from that young age what
+is something that that coach also taught
+you like okay you did well but how can
+you improve was it something that you
+naturally had like okay I'm looking I
+now made this goal or now made this
+trick but how can I do it better next
+time was that something that this coach
+taught you or was it something that
+already came natural to you or maybe
+someone else
+I think it was natural in me and I I
+can't even imagine from where I had it
+like
+I had almost all of my life maybe from
+some books like our brain works like
+really strange like we can uh learn
+something pretty long
+and don't understand it well but
+sometimes we can just see some words and
+book or some conversation in film and
+like some conversation in real life and
+it will hit our heart and uh like
+improve our way
+so I can't remember from where I get it
+but somehow I was just trying to improve
+yeah it could be as easy as you watch
+the cartoon when you were little you
+cannot remember it consciously but
+unconsciously you know that made an
+impact on you it was like oh so this is
+how you improve you know it's like what
+you said the mind the mind has a weird
+way everything you get in gets a place
+somewhere unconsciously or consciously
+and yeah that kind of forms your your
+character
+yeah but like also it didn't work for me
+everywhere like in school
+uh I was I was improving only if it was
+interesting for me
+so like uh in some parts of my education
+like if someone didn't inspire me it was
+almost unreal to me to improving in that
+because I easily getting bored and like
+like okay it's boring I don't want to do
+this and it's like it's super hard for
+me to doing something what I don't like
+yeah I think many many players can can
+relate to that right the the focus that
+we suddenly have for a video game or
+football or for poker it's completely
+different than the focus we had at
+school where they were just teaching us
+stuff that they thought we should learn
+but that wasn't necessarily we weren't
+necessarily intrigued by by the lesson
+so your teachers were not like your
+football coach that you were like oh wow
+I really look up to this guy this is
+something I can learn from those
+teachers you didn't have in your
+education yeah most of them wasn't like
+that yes like I
+think only a teacher of History was like
+that and I liked history a lot and maybe
+a
+maybe literature but nothing more
+so if you take something very serious
+did you then notice at some point that
+maybe the joy for football will become a
+little bit less if you were forced to
+play too much or you think your coach in
+this case also made sure that everyone
+had the right balance between improving
+but still having fun in the game
+yeah it's like in in everything it's
+easy to burn out or to like
+get very close to you to your cap gap of
+your skills and then you like uh easily
+losing motivation because you think uh
+it's super hard to go over over the gap
+and it's like you need to spend
+unrealistically a lot of time to get
+better and it's most hard thinking uh
+like in life I think to recognize can
+you do this or not but most of the time
+if you're still enjoying what you're
+doing you just you just keep going you
+don't stop on this line because you're
+like okay maybe it will work maybe not I
+will just go
+and you also I guess just enjoy you
+enjoy the challenge I assume as well
+yes yes of course
+so you went uh you then transitioned
+into
+video games correct mainly playing
+Warcraft and DOTA you wrote down how did
+you get in touch with that when did you
+decide to move from the football pitch
+to yeah indoors to play video games was
+it the -25 that you were like okay I'm
+tired of playing in minus 25 football
+weather let's play video games it was
+like
+uh there was in the time was pretty
+uh popular internet cafe on Russia
+because uh like very low amount of
+people had PC at home and the internet
+at home uh and I started to missing
+school a lot with friends we go to
+internet cafe play Counter-Strike uh uh
+Warcraft and our games and like this was
+period of my life when I didn't like at
+school at all I started to miss it
+really a lot and I was just going to
+internet cafe because it's like it's a
+best place where you can't get count
+because if you go to play football
+somewhere someone see you they know what
+you not seek or something like that and
+you will have drug problems so easiest
+way was go to internet cafe and then I
+started to play uh video games and uh I
+like it Warcraft very much because it
+was very complex and hard game too and
+it was super competitive there was like
+big ladder and I started to play a lot
+of that and I I didn't was so pretty
+good at work after I maybe was like in
+top thousands of ladder or something
+like that and uh but still was
+interesting to play but then why my
+friends shot me Dota and I started to
+play this much more
+all right all right so what what is it
+about then the the Strategic games like
+Doda and Warcraft that attracted you
+more for example you could have also
+played FIFA indoors right stick with
+football but what is it then about
+Warcraft and DOTA that attracts you so
+much more than other type of games
+uh you know I think it's uh because uh
+it's more complicated like uh
+it's clearly strategic games and you
+need to think a lot about what you're
+doing uh like one friend of mine he's uh
+played DOTA a lot and he is also a great
+chess player Ian nipponishi uh and he
+told what like this there is a lot of
+similarities between DOTA and chess he
+was like even saying what DOTA is new
+chess uh so yeah I think it's like it's
+interesting games to play it's pretty
+ties your brain like I didn't I wasn't
+thinking about that when I played it
+that times I was just playing because
+they're having fun but uh when I watch
+on that from retrospective I just
+thinking what I always was looking for
+something to keep my mind working
+because when I stopped to go to school
+and uh also I like when I stopped to
+play football I was dreaming and like
+was living pretty bad life you can say
+uh but um
+uh from young age I uh was reading a lot
+so I was like my mind was ready to new
+information and even when I was drinking
+and doing some random stuff outside it
+was trying to keep busy maybe because of
+that I was attracted by computer games
+just to get something uh hard for my
+mind
+something interesting for my mind and
+then in in our questioner before the pot
+we always ask that question as well how
+easy was school for you and you you
+wrote down very very easy so there was
+school was not an environment in which
+your brain got stimulated to learn and
+therefore you looked for external things
+like football like video games uh to to
+kind of find that challenge so you could
+actually bother to try basically yeah I
+think I was good like until
+like 13 years I think at school it was
+uh had very good so
+results there but uh then like I had a
+couple of strategies in my life my
+mother died and like it was very hard
+times in Russia uh so I was just
+I was always almost always in pretty bad
+mood it was hard times mentally for me
+and I just was looking for some place
+where I can be like not in life like not
+here something like that I think it was
+plain reason why I stopped to go to
+school because I didn't want to be
+somewhere whereas a lot of people and
+when people forcing me to do what I
+don't want to do
+and I was just trying to find like some
+sort of peace and silence for myself
+like of course I I didn't recognize it
+then but I just can't say it back on the
+time when I'm watching from now
+and then times yeah so it's kind of like
+you go to this internet cafe to this
+community there and everyone is just
+focused on the gaming and it's like a
+whole cyber world where you can just
+sort of forget about life outside of
+that yeah yeah definitely yes
+very interesting you you mentioned that
+through the cyber world so probably
+through this internet cafes you also got
+into touch with poker this is where you
+first got into touch with poker was it
+something someone within the DOTA
+environment or in the warcraft
+environment that started to play poker
+and was like hey Victor we should go
+play that game instead uh no it was like
+uh a lot of uh games and uh daughter for
+example was played on platform what
+called gariana
+and uh I think Buckle was just very
+paper at the time in in this Guyana you
+can uh buy a premium account to get
+access to some semi-private slot there
+but have less players and work better
+and you can make this account by payment
+or by winning chips in poker for play
+money so I was just playing poker to get
+account mostly I was just like I didn't
+really read rules almost I just was
+blind the links from several accounts
+somewhere I get enough balance and buy
+premium it was like it was my first time
+I played poker but also some yeah some
+players from internet cafe and from
+daughter community
+uh started to play poker and I just
+watch it in that like in chance to get
+out from poor life
+and uh like uh Russian DOTA Community
+had like a few pretty good players
+like antojis X dotta player he played
+like 5K blues and like in that days it
+was like 2013 or 2014 I think there was
+already a bunch of players who played
+like up to nl1k
+yeah but I I first time I tried poker I
+think in 2014 or something like that I
+get uh
+point of strategy fifty dollars
+uh played and won something then lost it
+and uh retired from Portugal again like
+I just played two days and then decided
+to
+keep uh keep my daughter carrier
+but
+like in Dota it was a bit hard for me
+because I can't go to learn events I was
+like couple of times I was winning with
+my team uh slot on some event in Sweden
+or something like that and I just can't
+go they took someone instead of me they
+go to play there they show okay results
+some organization might even give them
+contract but I like there was pointless
+to hold me on the team most of the time
+and like when I heard this situation
+like two or three times I was super
+stressed and I decided to
+what I should finish my career and like
+I played very last uh the alignment it
+was like pretty big event back on the
+days it was a big event and we like we
+played in first division we lost there
+and I just killed daughter and decided
+to try Poitier again I just downloaded
+few poiker books it was like I decided
+to play it online and so I I don't know
+why I just I didn't was in touch with
+any poker players
+so I decided what the lines is like more
+competitive I downloaded a couple of
+books like it was Jonathan little it was
+Harrington and something like that and I
+just started to reading these books and
+make notes because like I had I think
+eighty dollars or something like that to
+deposit and I understood what I don't
+have a lot of chances so I just started
+to studying before playing
+but it's very interesting because most
+people you know they just start playing
+up poker and they kind of learn from
+there but you realized from straight
+away from the beginning like I need to
+be careful with this 80 that I have I
+need to invest it well so let me first
+study up on this game so I actually know
+what I'm doing
+yeah yes something like that it's very
+very very responsible did you did you
+find any similarities between playing
+Warcraft DOTA and poker you mentioned
+that your friends who played chess he
+called DOTA like the new chest
+could you call poker uh also like the
+new the new DOTA new Warcraft are there
+any similarities
+uh yes like it's it's both strategic
+game and uh
+uh I
+unlikely for me I understood it's pretty
+late but uh this game both of these
+games have very hard mental state
+because like you you need to really be
+mentally prepared it was it was my
+biggest mistake by far in poker because
+I ignored mental side of Poker for a
+long time like when I recognize it what
+you need to work on your mental side I
+even started to text my friends from
+DOTA like like this who I have friends
+who playing can play it in viltus Pro in
+one best of the Airlines and I started
+to text him like bro you need you really
+need to say you need to hire
+psychotherapist for your team you need
+to work on this like you need to try
+this because this like a very big
+similarity between these games because
+you need to be in very very good mental
+shape to have good results
+I can imagine and this is the mainly
+like what is it that is so challenging
+about like I I don't have any experience
+playing DOTA Warcraft but is it also
+like the very inside of it
+yes there are some side of variants of
+course and like uh
+variants always uh hit more uh the more
+opportunities you have and in daughter
+you have a giant tree of opportunities
+and you have five players on your side
+and five players on the other side so
+like three is really big and uh there is
+just casual uh variants like on some
+routes or some some stuff like that
+critical damage and our stuff but there
+is also like hidden variants what like
+some of your players might make mistake
+because of something or you can make
+mistake because of something like uh uh
+you didn't watch data but uh like great
+example will be like last major
+tournament when one Chinese team who is
+like their Superstar they're very good
+but on the grind finals they just killed
+it they just killed it and left the game
+what they can play more and it's like
+it's solid but it's a mental state and
+uh both uh DOTA and poker it's like it
+can snowball you it can like put you on
+more and more and more pressure and you
+need to practice a lot to not fall under
+that
+you mentioned like the variance of for
+example your teammate screwing up right
+so DOTA you said you play five against
+side so it's clearly a team a team team
+effort how was it for you switching from
+like a team sport with football DOTA to
+something way more individual like poker
+it was super good for me because my very
+last team was uh
+it was free young guys like I was
+20 for them unveil us like 16-17 and it
+was
+very hard to play with them because they
+was super young super ambitious
+they was like there was a lot of absurd
+things there like Russian uh daughter
+teams it's super unprofessional in many
+aspects like you know maybe some maybe
+it will watch some people who understand
+the DOTA so I will say just I even
+played uh one against one
+versus my teammate to decide who will
+play which position it's like it's total
+absolute for professional team but we
+had this because like this young guys
+was like talking too much we was talking
+too much [ __ ] to the shower there was
+like no supportive
+uh site on our team like if we was
+losing game we was always discussing who
+played bad whose mistakes was more and
+something like that it was never like
+okay guys we lost we need to practice we
+need to be better it's always like oh
+you're fighting the idiot you're in it
+our game and stuff like that so like in
+poker there is only one [ __ ] idiot
+so yeah okay yeah so you you
+it's it's easier because if you screw up
+you can just point at yourself
+uh yeah and I think what what it sounded
+like there if someone screwed up they
+like to point at other people it also
+sounds like there was a lot of ego
+involved in this environment
+yes of course it's like it's much much
+further so did did I mean you have a lot
+of experience with that
+what kind of qualities do you think DOTA
+playing DOTA and Warcraft uh made you
+develop that gave you an edge starting
+off in poker
+um
+I think
+first of all is discipline to practice
+and same think a lot
+like in daughter you're playing like I
+was playing in other it's more than 100
+euros and some days I was like playing
+just one hero straight every day like 10
+blues games
+so and it's like it's very needed skill
+in poker to do same thing a lot and also
+in DotA
+if you're playing good you need to it's
+uh
+you can look at game like it's very
+casual style you can play DotA for fun
+you can play semi-professional you can
+play professional like there is a lot of
+levels to dive deeper and I think it's
+totally the same in poker like you can
+just bump hunt you can regular like a
+lot of uh thing to go deeper and deeper
+and deeper so you can just like uh
+put your opponent on the hand you could
+put your opponent on the Range you can
+think like uh a lot deeper and poker and
+it's like spread is similar to in DotA
+interesting you also mentioned that both
+in football and in video games you
+looked for inspiring people yeah you had
+this inspiring coach was there any
+players specifically or someone who you
+started playing poker with that inspired
+you a lot you mentioned for example on
+Doha maybe it was an example of someone
+showing that you can be actually
+successful in poker
+um
+it's it's pretty funny because I
+remember like uh
+uh I started to follow to look for some
+kitchen project in poker and baking and
+there was like uh I invited to some team
+and there was like a guy with results he
+like won 1.50 gate his career uh
+something like that he was so he was
+like actually winning like 20K yearly
+and I was showing his results to my
+girlfriend who is my wife and was
+telling like book yeah I can make that
+much money if I will practice a lot so
+it's funny what first what inspired me
+in poker was someone who was making
+money but now it was pretty fun like
+when I was in Cyprus in Brighton series
+and we was like people was having fun
+from me because they play like
+degenerate
+and one guy told me like look uh this
+guy he's playing poker like he playing
+DOTA he totally don't give a [ __ ] about
+anything and it's I think it's true like
+I'm not playing poker for money but
+first pink what inspired me when I came
+to Poker was someone making money and
+it's like it's pretty fun
+because also you mentioned in football
+already your coach kind of installed
+this right that this could be a way out
+so I think from a young age growing up
+in Russia in the environment that you
+grew up that was something that was
+planted in you to think about like hey
+think about safety you need to think
+think about a way that you can make
+money you mentioned it were tough times
+so it makes sense that you saw poker as
+an opportunity to make money but when
+you start to make money like the
+competitive gamer in you took over and
+was like oh how can I improve what is
+the next level what is the next level
+and then you don't give a [ __ ] about
+money anymore
+yeah yeah something like that
+um you started out you said you started
+up playing mpts because you thought I
+think I think you mentioned that you
+thought that that was more competitive
+why did you decide to play entities
+besides was that purely because that was
+your perception or was that that for
+example the examples that you had were
+playing tournaments as well
+oh no I just I was just thinking it's
+more competitive and more interesting
+but it wasn't it was big mistake yeah so
+so it was interesting uh what what made
+it so interesting about it why was it a
+big mistake in hindsight uh
+uh because cash is much better I I mean
+mpts is fun to play I still love to play
+into this I still love to play life and
+it is more than live cash much more
+but um
+an MTD
+it's I think it's like more boring
+comparing to cash and also
+and also if I find out what it's less
+competitive because on MTG you like
+the only loss of entity what you can win
+it in cash game you can you can't win
+you don't have end point and in the
+alignment you haven't point you win the
+lime and Tower you good in case game you
+don't have it but on the other side like
+cash and cash much more interesting
+because even like because it's deeper
+you have more opportunities to move to
+do something
+it's interesting because most probably
+if I speak to a lot of entity players
+they actually call Cash games boring
+right they say ah it's so static blah
+blah blah uh how do you like why do you
+because in in tournaments there is a lot
+of interesting phases right to have
+different phases during the tournament
+you have different strategies Stacks get
+shorter then you have ICM Etc so I think
+a lot of players would actually make the
+argument that entities or cash games is
+way less boring but what makes cash less
+boring for you than tournaments it's uh
+it depends on how you watch if you match
+like which is like wider and reduces
+wider a lot more more spots and but uh
+cash game is much deeper than indities
+because you can like you can think
+pretty deep there is like more trees
+what you can use uh there is more sizes
+you can use like uh you can have much
+more tricks in your pocket and in empty
+this like if you go 20 or less big
+blinds deep you like you can't go
+something crazy without burning your
+money
+and it's like uh and also ICM like a lot
+of
+shallow Stacks HCM it's uh things what
+um
+handle you from doing something
+interesting you like you have just
+opportunity to play correct or burn
+money and in cash games when you play
+like 100 deep blinds deep and you play
+three-handed or heads up so range is
+wide uh you can try to do some exploit
+things and even if it's not very good
+it's hard to make super big regret if
+you're not going like totally out of
+line think
+and it's like it's giving much more
+space to improve I think
+and then I guess also it has it has it
+has two sides right yeah like you said
+in ICM you can either screw up or play
+correct whereas in the environment that
+you described like 300 big Blends cache
+you have actually an opportunity to do
+something very good right whereas in ICM
+and in tournaments with shorter Stacks
+often you're a bit handcuffed and you're
+kind of restricted what you can do yeah
+the guy goes all in and you can either
+make the correct play or make or make
+sort of a blunder by folding a certain
+hand that you should call for example
+calling a certain to use a fault but
+other than that that's it right yeah
+you're just a bit more handcuffed so
+that's kind of what makes it a bit
+boring for you yeah yeah
+so you then saw the light at some point
+after playing entities for two years you
+switched into Cash games any um do you
+recall any difficulties because I'm sure
+you yeah you adapt to certain habits
+that worked well in mtps were there
+certain things you had to unlearn when I
+play cash games right I can say like
+uh maybe uh like uh I was pretty unlike
+in a lot of periods of my calendar I had
+huge downswings but I was very extremely
+lucky in people around me like I
+switched to cash games because I uh I
+meet one guy from rostov who played
+poker he played cash and um we like hang
+out a few times uh when he told me what
+he have
+he apartment rate what he was finishing
+rent and uh we decided to leave some
+time together so he moved to my house
+and we played sit into each hour he
+played cash I was playing kimchi this uh
+and this guy was Stefan actually like he
+played an L200 in that time and every
+day he was telling dude stop stop
+playing this [ __ ] game go play cash
+like it's much better it's much better
+he was playing snap 200 on edited at
+times
+and like uh he was forcing me to try to
+play cash I played like a couple of
+sessions and I found what it is it's
+interesting so like he forced me to
+change discipline uh then like second
+time what I get super lucky I uh go with
+friends to Cyprus
+it was Gypsy team Poker series like uh
+made by a Russian Forum biker Forum uh I
+played there's some cash games I play it
+Santo lineman there and then uh that
+time was going got the international its
+biggest data to alignment uh so I
+decided to take laptop and go watch this
+alignment on Lobby on big TV and guys
+joined it to me we started to have
+conversation and this was like invoker
+and one guy who was crashing Zoom 500
+and then walk here in that times he was
+like holding Lobby of 5K plus and we
+where we started to hang out and he
+uh uh I I back home he invited me to
+play DotA uh I joined party and uh
+antoch had joined it out party and I
+recognized what I know him for like
+seven years or something like that so
+they uh give me caution so like I was in
+the in that way I was super lucky there
+was just uh most
+most of the time I had some people who
+was always ready to help me to give me
+some explanation of what I'm I can do
+but uh also I think it's a pretty good
+to say I was never
+go over the Trust on me so I never was
+spamming like every hand I play I never
+was like trying to get a lot of
+attention from there
+I was always trying to like
+I think what I can do something in poker
+like some strategy I play a lot of hands
+doing this and I came to to them with
+like big text of my idea and examples I
+never was just asking them to give me
+something I was trying to uh
+help me to find the way how to improve
+because it's like
+it's uh one of my big problems with when
+you're communicating with people because
+some people just trying to
+uh get a lot from you without putting
+their own work
+and it's like I think it's big mistake
+for both sides
+and I think also especially if you like
+I used to say the the quality of a
+coaching session for example if someone
+wants to do a coaching session with me
+like the quality of how how valuable
+that coaching session is going to be is
+depending on the questions that he's
+going to ask and if you explain to in
+this case I'm DOA invoke or Stefan which
+is quite an impressive lineup uh if you
+give them your thoughts they can
+actually correct you at a very uh
+important point in your thought process
+he says hey this strategy works really
+well only you're missing really one
+important thing and then they can add so
+much value because you asked the right
+question because you lay down your
+thoughts right so they cannot correct
+you on the play that you made but on the
+underlying uh thought process behind
+your actual strategy which is going to
+be so much more valuable do you still
+remember like one big aha moment you had
+with either one of these three where you
+filled out the whole [ __ ] like hey guys
+I'm approaching like this is my strategy
+do you recall one big aha moment where
+one of these three guys gave you
+feedback like hey if you want to
+progress to to the high stakes and play
+with us this is something that that you
+have to correct
+like one of these moments I remember one
+super funny moment uh when I was like
+falling asleep it was like two hours a
+night and then dog has started to call
+me at Skype
+uh I took the call and he like instantly
+started screaming called me ah you
+[ __ ] you you think I didn't see this
+and he showed me some hand what I played
+from our player database who he was
+teaching and he was like total random
+clicking by me and he was like why you
+didn't show me that hand you played this
+like super garbage and it was like
+supervisor he like found in in our
+players database can't play play me
+super bad
+and start like uh treating me but it was
+like they had I think like 15 maybe
+20-year players collection group
+and uh they was uh I don't know I still
+don't know it was trolling or not but
+Ray was telling what they trying to like
+uh make from me Butler who will play in
+like lower Stakes than than their uh
+with players against who they play like
+for example like they've played five cup
+plus with some guys since this guy is
+playing Tucan in 2K and I will like uh
+play in 2K against these guys a lot
+something like that but they was
+understanding what I will anyway go to
+play like like that against anyone or
+something like that
+was there any uh big contribution that
+you think you made to their game where
+there were there any times where you
+send it over this document with your
+with your thoughts that they were like
+hi this is actually very good I'm we're
+actually going to implement this in our
+own game as well
+yeah yeah there was some like uh good
+ideas but I bring it to them uh like
+some sorts of uh spam super small
+sizings uh something like that but on
+that days
+um I was just I I can't even remember
+what I was bringing to them because I
+was
+like thinking too much I think I was
+thinking too much about strategy and I
+wasn't thinking about mental science so
+I like I had a lot of uh trying to play
+different styles I was switching my
+strategy too often
+like
+I had even like paired when I played in
+Zoom 200 with
+fall to free but like 17 or something
+like that
+yes one seven okay yes and like uh and I
+was still like winning like 12 big
+blinds Red Line something like that and
+losing on blue line so like had a lot of
+different strategists and I think now I
+think every strategy from that was uh
+pretty bad almost everything something
+was uh a bit close to what Stefan doing
+now
+could you maybe maybe give an example of
+something obviously throughout my career
+I've experimented with various things a
+lot of things indeed didn't stick
+especially also I think you started when
+you started there were already solvers
+or no oh yes yes it was solvers I was
+working in that but uh I was always
+thinking what exploit will work better
+before
+before the time when I started to be
+extremely paranoid what people will
+start to exploit me back
+okay because because I remember for
+example I started playing way before
+solvers as well so you were just trying
+out things and then when Silvers came
+out it turned out certain things were
+indeed GTO yeah they know that they were
+approved and certain things weren't and
+as you mentioned there were certain
+things that in hindsight were actually
+very good in certain majority of things
+weren't that good what was one of these
+things that indeed you still do today or
+things that Stefan is doing today that
+you'll be like hey yes we came up with
+that a long time ago
+yeah I think one of this thing is like
+uh adding to your bluff wrench uh random
+unblock your hands it's like it's think
+what soldier sounds also do like for Big
+Blocks you like with some frequency you
+have like hands but uh don't have almost
+don't have Equity have unblockers and uh
+it's um
+it's only not not only correct play
+because of solver it's also a good play
+from uh like uh image side because when
+people seeing what you Bluff in like
+totally random hand they might uh
+understand your Ranch wrong in that spot
+at all and it's super good
+okay interesting so and like the reasons
+behind it were for example I might have
+done certain things in the past and that
+the solver also did it but I did it for
+wrong wrong reasons but I ended up
+making the right play what was it the
+same in this case or you were
+consciously thinking about no I'm
+unblocking the folding range so you know
+this makes a good Barrel even though I
+don't have Equity because back in that
+time Equity was like you know the
+standard oh I'm starting play like
+little late enough to
+I I always had some Soldier practicing
+when I play it like even when I started
+attemptive solvers was in already so
+uh and I was
+uh my first time I was more focused on
+flab01 solvers because I was telling
+this to everyone who I coach what I
+still think what uh you always need to
+start work with flabzilla Institute of
+solvers because when you put everything
+manually
+you remember better
+your brain uh like uh more attracted to
+think what you do and you will use it
+more easier later so you like always
+need to do as much manual process as you
+can
+that's actually a very good point what
+what would be something that you were
+doing in flopzilla
+uh I was just
+um uh doing a lot of uh
+work to see how
+um
+how dark and River cards affects ranges
+uh and how ranges work and was it was
+like it helped me to understand some
+solar things like uh for example uh
+donkey on super Blanc in like uh like uh
+something like Ace X6 board you're
+playing check call darn this Deuce of of
+suit and solder is starting to lead from
+big blind and like working with
+flopzilla helped me to understood why
+it's happened just because like uh open
+razor can bet almost full range you
+check call not full range and on the
+black turn your range of two column is a
+head of range of bed
+and like if I never use Club 0 it will
+be much harder for me to understand
+things like this I think just because
+with flops you I was just
+I do I I like I did a lot there I was uh
+reviewing hands there I was reviewing
+cow ranch uh play against Ranch on
+different type of textures I I don't
+remember where I found but I had some
+like text files with this uh persons of
+how often uh different board textures
+appears something like that like top 10
+uh of board textures
+and I was just to work and with
+different ranges on the textures and uh
+put it my tools on text file and it
+helped me a lot to understand how Equity
+uh changes on different runouts on
+different situations how it floats
+yeah you you became very range aware it
+seems and obviously if you arrange aware
+like the ranges and the equities the
+equity distribution obviously is a Big
+Driver behind certain strategies right
+the range setup is in a certain way like
+ux AI like you explained on the ASAP
+board yeah he see that range check
+calling generates a certain Advantage
+therefore we don't have air you can have
+air and we dunk out this is a
+consequence of understanding the
+mechanics behind it where I think a lot
+of new school players who just try to
+copy the solver they're not they they
+start with the end products whereas you
+start with the mechanics right you start
+in the beginning and that leads you to
+think like okay well if this is how the
+game works then the strategical
+consequence must be that we will have a
+dunk there whereas people who thought or
+learned poker before that they might
+have learned like yeah you always check
+towards the Razer it's just a roux which
+works most of the time but then you know
+you you don't if you don't understand
+why we're checking towards the razor
+right which is because of the equities
+the the range distributions you don't
+know when the exception will actually
+occur
+yeah it's also like um
+what I wanted to say
+uh I think it's much better to like
+spend 10 hours on one spot when spend 10
+hours on 10 spots like most of the time
+just because
+uh
+you need not not unique like I think
+it's much better to try and to
+understand what solve you're doing what
+he's doing except of just uh to remember
+like what to do because if you're trying
+to understand what the machine doing you
+will
+play better in sports what you never
+solved
+yeah because you're trying to learn for
+you're trying to learn why it's doing
+what it's doing and if you understand
+the mechanism behind that play you will
+also translate that knowledge into a
+future spot which you haven't looked up
+but given the fact that you know the
+mechanics behind the game you you've
+studied in for example flop zero the the
+equity Distribution on the board like
+this and you know what kind of
+strategical consequence an equity
+distribution like that will have
+yeah yeah
+and also it's it's makes uh
+uh if you're studying like this I think
+it makes Parker more interesting because
+if you're just trying to remember
+something
+um it's not super cool but if you're
+trying to understand something it's like
+uh
+[Music]
+they don't know the word like you're
+just trying to watch on different sides
+you you put much more brain work to that
+and it's like
+uh you can also have can have
+uh Happy from from yourself if you find
+correct answer because if you just
+remembering something it's okay
+okay you did the work but if you find
+the answer to question what you was
+looking for you got your dopamine and
+you got happy because you think okay
+maybe I'm smart maybe I'm not an idiot
+like after watching on same like screen
+for like 15 hours and then you oh yeah
+now I understand what it what uh so
+you're gonna do this and you start to
+feel yourself better
+yeah and I think this approach also
+allows for more strategical creativity
+right because if you understand why then
+you also understand the why not so you
+can actually adjust in various spots
+which makes it very satisfying
+yeah yeah I mean
+uh if you if you're doing this you can
+like
+I think amplifies correct but you can
+amplify how it will change if you are to
+do some logs if you are these some
+different ranges something like that you
+will be like uh
+easier to move
+like Stefan is pretty good example he
+like sometimes he can do something just
+because he want to do it like you don't
+give a [ __ ] he he breaks you quickly
+recognize
+uh words sight of what he's doing and if
+he understands what it's not will be
+it's not be terrible he will try just
+because he curious to do it and I think
+it's pretty good like I and most of the
+time I'm like doing the same if if I
+wanna just try something
+I can like spend a bit of time to
+understand what it can be super bad and
+if it's can't I okay I can do some EV
+mistake but I try and I will see result
+and uh it will it can can help me later
+like a friend of mine with Skype the
+work most of the diamond Theory uh he
+told funny thing like yeah he thought I
+can never station people on uh big pots
+because they can just review your
+database and see the ranges
+because like
+if I want to call a call
+that's true that that's usually how it
+goes
+hi guys Renee aka the weko here with a
+quick mechanics of Poker 2.0
+announcement because we are currently
+open to receive 10 new players in our
+mechanics of Poker coaching program in
+our program you'll get access to 80 plus
+hours of content in which we will
+explain you all aspects needed in order
+to become a more successful poker player
+now one of these of course is the
+technical aspect of the game in which
+I'll be explaining you all the mechanics
+behind poker strategies we'll be talking
+about GTO exploitive play with an extra
+focus on the why behind certain
+strategies and why the population has
+certain leaks and to increase your win
+rate even further we've recently added a
+River Bluff and Bluff catching section
+so you can increase your Envy when those
+spots become very big our mindset and
+performance coach Adam Carmichael he
+took care of the mental game and
+performance section of this program in
+which he will teach you everything you
+need to know in order to break through
+limiting beliefs better handle your
+emotions break free from tilt and play
+your A game more consistently and last
+but not least we've added the management
+and optimization section in the program
+in which we will give you various tips
+and tricks to make it more likely for
+your poker career to succeed and how to
+continuously improve as a poker player
+now on top of that this concept is
+continuously evolving based on feedback
+and suggestions we get from our
+community next to all this content you
+will have access to our exclusive
+Discord Community monthly live q a calls
+and one-on-one coaching session in which
+we are going to be reviewing if you have
+been implementing the stuff that we
+teach you in the mechanics of Poker
+correctly so do you think you have what
+it takes to master the mechanics of
+Poker and will you take one of the 10
+available seats go over to
+mechanicsofpoker.com and apply for the
+program and maybe you will get a chance
+to work with me and Adam and make more
+progress in your poker career but for
+now without further Ado let's get back
+into more goodness in today's episode
+so you you
+you've kind of walked through how you
+switch from empties to cash and how you
+kind of walk through uh yeah basically
+your journey that was always very
+important that you have people around
+you right that that helped you yeah that
+was a very very big contributor uh Adam
+I know you've been silently waiting on
+the sideline uh I think this is a a
+habit of successful people or a pattern
+with successful people right that they
+that they don't try to do it alone
+yeah I think it's a very uh common Trend
+we see where successful people very
+often find their way to be around the
+right people and as Victor was speaking
+there it's very often a very uh
+um good relationship for both ends where
+you're not just sponging off people
+you're actually contributing a lot when
+you were speaking there Victor I could
+tell the people who were around you were
+probably gaining as much as they were
+given and so even you're maybe below
+somebody on your journey you still need
+to be contributing to uh to their kind
+of their success over time so yeah I
+think you found the right people at the
+right time to encourage you to learn
+from and yeah it seems to be a very
+common thread line on our podcast that's
+people who make the top often don't do
+it alone they find the right people and
+that helps them a lot so as I was seeing
+you were speaking of Victor I noticed a
+trend of you uh seeking challenges that
+you want to do hard things and what's
+came across to me listening was that you
+like to pick your own challenges so uh
+for school maybe not you don't pick the
+kind of learner path but for the games
+you're playing and poker it was
+enjoyable for you because you seeked
+your own Challenge and you you basically
+directed where you are going you
+mentioned that poker in games in
+particular keep your mind working and if
+it's interesting and complicated you
+find it challenge you find it rewarding
+so for you when things are complicated
+why do you feel like you like that
+because most people do the opposite it's
+like wow that's complicated let me do
+the easy stuff but for you A lot of the
+things you were speaking about you seek
+complication and try to solve that so
+why do you feel like that's enjoyable
+for you
+yeah if you like it's so it's just
+always interesting to uh
+see how far you can go somewhere and
+also when you trying this a lot trying
+to find your your top uh you just
+starting to ignore like part of
+challenge you just going to do something
+because you uh a lot of times try to hit
+your top like as I said I was practicing
+same hero a lot and DOTA uh I was trying
+to practice same tricks a lot in
+football
+and a time when I started to play poker
+I like I don't even
+most of the time I don't even think
+about challenges is like a challenge I
+just I was doing this because it's
+interesting like for example I started
+to play cash like probably in late 2016
+and in 2017 there was a master's league
+on Stars it was like two limits until
+200 and an l2k and uh it was a react
+games only without Drake with
+leaderboard and uh I didn't I didn't
+even waste the time to think do I want
+to play it or not I just started to
+Green to this every day and I I want
+smallest small one to 100 and I was
+playing this just because it's
+interesting
+um
+and I I never made any public challenge
+because I think it's like uh it I don't
+need extra pressure for myself so I was
+like always if I try and do something I
+maybe discuss this with friends
+but I never trying to find something
+some side bets or something to I was
+understanding because I can improve my
+UV because of it like for example in
+2020 I was thinking to challenge to play
+one point five million Health on 1K plus
+but I like I decided what it's we will
+be very bad idea to make public
+Challenge and also I failed it like in
+September I played
+uh almost million hands but I decided to
+stop challenge because I was too tired
+so I can tell you somebody who likes to
+follow your interests and that very
+often leads you into challenges you also
+describe yourself in a questionnaire as
+a bit of a gambler at heart so you've
+got someone who your kind of character
+traits are generally going to lead you
+to take on a bit more risk than the
+average person which brings us to the
+time when you were aggressively reg War
+into five kids on a 70k roll which led
+you to go broke and have to rebuild your
+role so could you tell us a bit about
+that period of time what was your kind
+of thoughts going into uh that shot
+ticket five kids when you started reg
+war with uh your 70k roll
+yeah it was like uh so I switched it to
+cash games I started to play from
+greatly from now 200. I beat it Zoom 200
+I was playing like uh like first thing
+like we from what I need to start it was
+uh what I was fully in poker I was
+playing at least 10 hours daily and our
+time I spent to hand review or to
+educating so like you know while my
+timer was spent in computer
+it was like I think it was at least uh
+250 hours every month at biker something
+like that so and
+in that time I was uh in group with uh
+invoice in collection group I beat it
+until now 200 uh I once this starts
+challenge
+I started to play an l1k A bit uh it was
+work well too and I
+uh took third place in some life event
+and such it was CPT or something like
+that a small one one cable in uh so I it
+was first time when I get a decentral
+because before that I played uh in uh
+baking project and mdts and like I was
+spending gold money to
+have better life because I had like
+I started to in pretty bad
+[Music]
+in in bad life so I was spending no
+money and it was first time when I had
+some role and I just
+I probably I didn't understand how hard
+it will be to make it back so I just go
+I tried I was in it was interesting to
+me to play 5K and I just decided to take
+a shot I lost like a couple of binds
+there not much
+uh but uh
+uh biggest problem on that was what as I
+told my mental part of working was
+pretty big like for a pretty long of
+time I was thinking about all what you
+need to do in poker you just play better
+and if you will play very good
+all will be fine I was ignoring select
+always I was playing to many friends
+hours too I was playing like
+a lot of time I played uh four table
+Zoom 200 and 3 tables up to 100 so it's
+actually was like seven table in Zoom uh
+which is not very good too and uh so I I
+didn't even recognize how crashed I felt
+when I lost to these guys and then I go
+to upt Barcelona
+uh I play it without IGM I public Main
+Event so I just decided to play it on K
+without selling can you think
+uh
+uh lost this played series with zero ATM
+came back and have like maybe a 50k roll
+or something like that and when I got
+huge downspin on Zoom 500 like uh
+it was like nearly 80 miles under review
+run which is I think it's like it's not
+super rare for Zoom 500 because I never
+selected it I like if it run I play and
+uh most of the time it was pretty bad
+Zoom 500 so big downswing there or I
+think it's pretty common
+but I feel myself like pretty crushed in
+that period
+so it's always through that periods you
+how do you rebuild so we've gone from
+one stage to playing 5Ks and shot taking
+I'm guessing that was a very exciting
+time we've been studying OTB and other
+players you're probably thinking rights
+this is it this is the big break I'm
+gonna play amongst the big boys and then
+not long after you're grinding 500 zooms
+and and you're losing 80 buy-ins and
+your role is just going down and down so
+over a short span of time we've gone
+from On Top of the World shot ticket
+high stakes to uh wait a second where do
+I build my role from so tell us through
+that law point when you were 80 by his
+beloved 500s how would you rebuild
+yourself your confidence and what were
+some of the issues you were facing
+during that time
+yeah I like it was do I did it like step
+by step uh first I recognized what I
+need to stop playing Zoom 500 and go
+lower when after that and I go to EPT
+Prague
+I uh this time myself
+uh so this is for some tournaments uh I
+play it with zero itm and there was the
+alignment like
+and 5K buy-in uh uh not gpg but uh yeah
+ipt series when it was played by Patrick
+Walker and I was just going with friends
+who is MPT Rex we go to that it's what's
+in in our Casino we go there uh they see
+field and Fields like was super bad it
+was like
+80 or 90 players and like two
+recreationals and something like that
+and my friend joked like oh it's like
+feels like you like like you laugh you
+need to play this and they give me free
+roll like uh I played for their money
+for like 13 or something like that I
+I finished at fifth five or something
+like that so got like 50k here or
+something like that uh uh I put this
+money into my roll and uh decided what I
+need to play from someone's money I took
+banking
+uh it was like January or something like
+that and until
+probably like until August I was going
+up and down like I some sometimes I was
+feeling something I took this money for
+Living so I wasn't building bankroll and
+also
+like I want something if you split money
+then I go to zoom and I'm still playing
+like seven tables so variance was like
+insane they go up and down it was fun
+because like I even uh solved some
+conversations on a two plus two when
+where some people was uh uh thinking
+what I'm semi-fish and some of our
+people was thinking what I am using KK
+like because of my digital strategy uh
+so and this time
+it was like 2018 I first time recognized
+what I need to start work on my mental
+health so I found Psychotherapy and he
+told me what like I was working with him
+a lot and we recognized what my main
+problem was what I am playing and I
+almost don't have anything from that uh
+just competition because I like I didn't
+bout myself fall or something like that
+I had like super old phone and then like
+a friend of mine told me dude you
+winning money in poker you're making
+good money just okay if you can buy if
+you don't want to buy I give you my
+phone and like one of the first things
+what my therapist told me what you
+should go and buy something for yourself
+to feel happier just to feel what you
+playing for something not just for
+competition
+and also this period of time was uh
+pretty hard because my wife was pregnant
+we was waiting for kid uh and I read it
+a lot of literature about uh state of
+mind uh and uh from that time I decided
+what I need to start to be more
+professional I I decided to took break
+for like one month I was just splitted
+like 60 of time I was working on mental
+side forty percent of time I was working
+on Theory and uh when I decided to start
+to play zul 100 just to
+play a bit weaker field to just feel
+myself better from like crushing people
+I even wasn't sure what I will crush but
+I mean I was sure but I will crash but
+uh
+in skill variance there and it from that
+point it all worked well from me because
+I crushed it zoom 100 with like 14 BB
+something like that when I crashed the
+zoom 500 for like one month when I moved
+to finally I moved to regular tables and
+uh solve good results there so like I
+started to grind in uh end of of just
+2018 after this break after I fixed my
+mental problems and I finished it that
+year at an l1k was shot in Canal today I
+was still in baking but I was in big
+plus so I just decided to play until end
+of the year and uh after a split I had
+like 50k plus bundle something like that
+like in 2019 I I had sun already I
+decided to
+just uh be a bit more calm to play a bit
+less at least try play a bit less I was
+uh and like it was still good for me
+I just I just don't don't show how much
+I need to play because I like from that
+point I can tell about world my career
+but maybe you have some questions I
+don't know
+yes it feels like a very interesting
+part of your career which I want to just
+reflect on so yeah you're basically shot
+taking these five kids to begin with and
+at that time you thought it was just a
+strategy game just play a good strategy
+and everything will work out and as you
+run into more problems you had the
+self-aware awareness enough to realize
+wait a second my mental game isn't good
+enough I'm playing too much volume I'm
+I've got leaks in my approach to pocket
+which is potentially holding me back and
+what I really like about your story
+there is it sounds like you were able to
+problem solve it without the ego very
+often like the ego gets involved and we
+kind of build a constructive way we're
+better than this we're a high stakes
+player we shouldn't have to work through
+this but it sounds like you just went
+back down to say playing 200 NL kind of
+rebuild you saw some help in a
+psychologist to kind of get to the root
+of your problems and you realize wait a
+second mental game is what I've not been
+working on I've been doing all strategy
+and that's now my league so you said you
+went for a period of spending 60 of your
+time on your mental game so yeah I'd
+love to uh you to share with us what you
+would do even during that time what were
+some of the things that you were working
+on in terms of your mental game
+yeah it lasts I was reading books about
+psychology I was working with secretary
+best I started to meditate and uh yeah I
+did a lot of this and then I understood
+what like even uh reading some not uh
+focus it on mental side literature it's
+helping to you to just watch wider on
+different things like as I as I don't
+like like when we was talking about
+entity and cash games I was talking
+about like MDT says why their cash is
+deeper but uh you need to watch both
+deep and white you know like you need to
+not if you are super focused it might
+sometimes be too hard to not
+you know start making mistakes on our
+sites so I just decided I was just
+reading like a lot about how brain works
+uh how to fix this then I started just
+to read random letters or just to
+put some foot for my brain which is not
+pointer
+for your entities
+yeah it sounds like you had to go from a
+bit of a gamer maybe a amateur
+semi-professional attitude to treating
+poker more professionally and you will
+learn about the brain you started to
+meditate more and to get a little
+calmness I'm interested to hear how that
+impacted your poker career what are some
+of the changes you noticed during that
+time when you're becoming more
+professional and you'll work on your
+mindset how would that transition into
+your game
+yeah I mean it helped me a lot it helped
+me to recognize what helped me in poker
+because like there is a lot of types of
+inner motivation what uh helps poker
+players like some players play to
+protect themselves to like better for
+better life to get money some players
+love challenges some players uh play
+because they
+um they wanna not like be famous just to
+show people how good they are in
+something and like my motivator like my
+most motivator was inner angel I was
+like uh trying to
+Crush every enemy
+I mean I was like I am still I still
+love this it's it's pretty fun about
+high stakes because a lot of a lot of
+players have like same driver I think a
+lot of players
+like when we in same table we're enemies
+and we are like can be friends in real
+life like with Stefan for example we
+have like huge trash talks while we're
+playing we hate each hour in tables but
+we are friends still friends
+and like it's same story was some other
+players
+so I was like you did some reflecting
+and you understood yourself better and
+you become more of what's driving you
+and yeah I think it's very common for
+high stakes players often differ from
+the rest of the Bookout worlds where a
+lot of players want to make money have
+success I would lead to their peer
+groups and then when you get to a
+certain level like yourself playing the
+very high stakes very often just being
+the best being the best version of
+yourself and challenge yourself against
+really tough competition and singing who
+comes out on top and I love that about
+poker and about sport where you can be
+very strong rivals in the context of
+Poker trash talking each other wanted to
+beat each other but outside of Poker
+doesn't mutual respect because you're
+very similar personalities who want to
+win you want to get better but in terms
+of a sport environment or a poker
+environment you guys clash and you want
+to almost kill each other at the poker
+tables but it's in a healthy way so I I
+like that I feel like it's a it's good
+for yourself to have understood what
+your driver was and once you've got
+Clarity on that very often the path
+becomes a lot easier in terms of what
+you're trying to achieve so what were
+some of the changes you made during that
+time so anoa leads that point you were
+playing a lot of volume you were seeing
+a psychologist who was highlighting this
+fact for you how do you differ your
+approach to poker after finding out what
+your inner motivation was
+yeah just just naturally uh helped me to
+better understand my weaker and my
+better side sites like uh I was uh in
+the start of this journey I was trying
+to play less volume to like I was even
+starting to try to bump hunt I was
+trying to skip rig wires but then I
+understand but like uh big volume and
+uh a lot of time playing and playing
+tough lineups it thinks what uh it's my
+best science it's things that I'm doing
+well like I never had a super big win
+rate like in
+2019 when I fixed my problems I had
+pretty big period of time when I had
+like eight or nine nine BB per hundred
+but it was time when I was um
+more I had nearly 50 50 of educate and
+complaint
+but uh most of the time I was just I
+feel this time it was just preparing to
+reflect more and to start grind again
+like I was still 100 almost 100 percent
+in poiker but I was like I Was preparing
+myself to hard times so I I will be more
+familiar when it happened and also
+in that time I was it was fun because I
+have the good results in 2019 it was
+like one of years where I almost didn't
+have any big downswings uh it was like
+pretty uh good graph uh but I was
+extremely paranoid what people start to
+exploiting me because I was I winning I
+was feeling red line I was the big
+station a bit too much I needed I had to
+like reflux and I decided what I need to
+rebuild my strategy and also I was
+understanding what I want to grind a lot
+and so I wanted to build strategy what I
+can be sure what it's working so because
+when you're playing like total exploit
+you need to be super confident or you
+will like feel yourself very bad in hard
+times because you will think what you're
+making too many stakes and you will need
+to make a lot of
+job in in your own hand review to
+understand what you played well or not
+and you will like steal this time from
+an hour opportunities to education so I
+decided to make like a challenge and uh
+well to
+almost 12 2019 I was just rebuilding
+strategy like at summer I think I played
+like
+60 or 70 hours for three months and
+spent on education 500 hours or
+something like that
+and like and then next year was as an
+adult I played like almost million hands
+on an l1k plus it was 2020.
+and uh like I think what I must to say
+we dealt we was talking about people who
+told me like Stefan and Morgan
+but my main supporter was my wife
+because we had child this time and she's
+doing every routine for me because like
+as I told previously it's super hard for
+me to doing something what I don't like
+so like
+you know and she doing everything paying
+that side like she's
+she's super
+a lot of water very much yeah yeah
+amazing it's okay to have a wife who
+supports you in that way you know
+obviously she's got the child to look
+after her whilst you're playing poker
+and to be there for you to uh make your
+life easy so that you can do the things
+that you're interested in which is
+learning poker at a high level so it was
+amazing to have that support at home and
+I know a lot of people would gain a lot
+of benefit from that what I really found
+interesting from you sticking there was
+you had a strategy that was working so
+you were going for a very exploitative
+style of player but you already started
+to realize if you kept going down that
+route at some point you'll get
+re-exploited and this got you a little
+bit paranoid you could see it but at the
+same time it got you to go deeper into
+thinking how can I rebuild my strategy
+you know as he was speaking it reminds
+me of a Tiger Woods when he was the
+world number one golfer and he was by
+far the best player in the world and he
+decided to do something very
+counter-intuitive that he would
+completely redesign his payoff he would
+completely redesign it if you're like
+you're the best in the world what are
+you doing like you play offs are really
+good like you don't need to start your
+drive learn to drive again but he
+realized that in the future he needs to
+be able to hit the ball further off the
+T and other players were going to do
+that so he spent months and months
+rebuilding his swing whilst being the
+number one player in the world so for
+you you were rebuilding strategy in
+advance because you thought that the
+players would catch up or exploit you
+based on your your style so yeah I think
+that's a really high level way of
+thinking you're almost thinking moves
+ahead and the chessboard kind of analogy
+and yeah it shows like the kind of high
+level thinker you are and you said
+you'll spend like 500 hours on
+rebuilding strategy compared to playing
+so yeah really really uh amazing to hear
+that and then it sounds like that set
+you up for 2020 which is what I really
+want to dive into so uh 2020 as you've
+told us was the year you played a
+million a million hands at 1K plus now
+this came with a consequence and you
+describe this in your questionnaire as a
+rock bottom moment where you hit a
+burnout so first of all talk us through
+what this kind of yeah overall like
+playing this much volume and how did you
+set out your days and weeks to
+implementing to execute on a million
+hands of the course that year
+yeah it was like
+uh
+it's I can like say it easy one day I
+was waking up
+playing I got coffee some small
+breakfast uh playing for like uh four
+hours or something like that small
+session when I sometimes watch one
+series of something is my wife spent
+some time with my child and went play
+like uh eight to ten hour session like
+so I was playing every day at least 10
+hours
+I had one
+one break for like uh
+something like 10 days or something like
+that but I played Without weekends I was
+playing cavity day uh playing 10 hours
+plus uh
+I was reviewing hands mostly when I
+trying to fall asleep just because after
+such sessions my brain was too hard to
+get to sleep fast so I was just watching
+conform hence what someone sent me
+watching hence what uh I marked
+and I was just playing playing and
+playing and
+at some point
+uh I understand what I just uh tired too
+much I I wasn't
+I wasn't completely burned out maybe but
+I was understanding what the
+it's not public challenge it's no
+pressure on me
+and I'll say it's like fun but I ignore
+it again uh I had the
+like four four months in a row I had a
+pain in my neck what like I wake up with
+pain on my neck and it's going up and up
+and like in two hours I start to head
+pain in my head but I was just uh use uh
+some tablets like what
+I don't know how to say like against
+headache so I didn't like I ignored uh
+pain for like almost half year I just
+didn't do anything about that when I
+like when I recognized what it's super
+stupid but I go to doctors only after
+half year I think and it was like in the
+end
+uh I was it was in Freedom I moved to
+three doctors in my hometown I did MRT
+and finished it in full checkup at
+Moscow and uh they find out what I have
+something like called musket depression
+or something like that it's like it's
+depression but you don't feel yourself
+upset you just have a physical pain
+something like that yeah
+for you to change your ways and you're
+taking painkillers and headache tablets
+to relieve it and pushing through so uh
+yeah one understands what your mindset
+was this year because it sounds like you
+were a bit obsessed you're playing 10
+hours a day playing weekends why were
+you so driven this year what were you
+trying to achieve in 2020 that made you
+uh almost ignore signs of pain and just
+play player through anything yes well
+one of my it was like uh
+different type of goals first one this
+was like trying to find the gap of what
+I can do like try to find my limits uh
+second was uh one was uh what we
+decided to stay in Russia we was like
+thinking to move somewhere but then we
+decided what we love our hometown so I
+decided to build house of my dream
+which is now sounds like big mistake in
+situation what happens in the world now
+but we decided to do that
+so I played like for myself for like fun
+and find my limits and for building
+House of my dream
+and also like uh
+it's like funny to say like I think I'm
+gambler but I'm I'm gambler but like I
+like to think a lot about what I do and
+why I do this so a big part of this
+challenge what was I was understanding
+what if I want to build house of my
+dream and go up or on limits I need to
+win a lot because I don't want to stock
+and at the nail like 5K and lower to
+green and to have just good life and
+build house I wanted to uh be ready to
+play with anyone in higher Stakes so I
+understand what I need big role for that
+and it was like one of drivers too and
+maybe it was one of reasons why I born
+burnout before this because I had like
+uh in that time was running some big
+games like 40K 100K 200k and uh I
+finished this year I play it million
+hands with like
+uh five something give ebb and uh
+3.9 real real 100 per
+month birthday and uh it send it up like
+I had nearly a million under UV and it's
+while it's also like big pressure
+because I understood what I'm
+I can't play wall carrier like that like
+24 7. uh so it was like uh putting extra
+pressure on me also maybe it uh it was
+one of things what uh burned it out me
+faster I I didn't feel like oh I'm so
+unlike or something like that I was just
+uh understanding what uh it uh took some
+opportunities from me
+um but it's okay so it sounds like you
+took on this challenge very consciously
+you had a very clear objective which was
+first of all to find your limits find
+what your cup of your potential is and
+where you could go on poker and then you
+had building your dream house so with
+these two things fueling you you just
+want to play all hours of the day every
+hour available you want to put volume in
+so uh as we can we're going to talk
+about a second this led to you hitting
+the burnout moment and you talked about
+in 2021 so that yeah following this
+million hands that you've played you had
+a badge start the year January to me you
+said you lost 500 care and this yeah
+basically came as a consequence of
+potentially grinding so much so tell us
+through like how you were first of all
+getting through that time so say 2021
+when you went on this downswing were you
+still playing at the same kind of volume
+or and how were you pushing through this
+kind of turbulent time
+yeah it was it was a bit fun like uh
+2020 or like at September I feel like I
+almost burn out uh so I like I play in
+class until November when uh November to
+December I played a lot again and backed
+my passion to the game and decided from
+2021 to play less start to learn crypto
+uh start to put more time with my family
+uh and uh then started huge downswing
+and
+some like right I think it was like
+pretty big amount of this year when I
+planned same or more than previous year
+so like plan plan was to play less but
+when I was on downswing I just decided
+okay [ __ ] I need to crush them it was
+like it's clear
+ly it was was the more ego film I just
+uh I was feeling what I want to come a
+bit but I can't count when I'm uh not on
+Peak like uh because I still was super
+competitive like I'm still super
+competitive I just wanna play
+mm-hmm yeah so it sounds like when your
+box against the wall things aren't going
+well for you you double down you want to
+work harder you want to get yourself out
+that situation a video that meant you
+have grinding a lot of hours you said
+before that one of your strengths is
+playing high volume in tough lineups and
+very often when life gets tough we
+revert to our strengths what am I good
+at how do I get myself out of this and
+yeah it sounds like for you that led you
+to play a lot more volume than you
+planned on playing in 2021 which at
+first had a bit of a downside you
+definitely had a tough uh five months
+January to me but then you managed to
+get it all back as you get it all back
+so tell me for that time in what changed
+when you started to go on on that kind
+of upswing was it just variance or did
+you make any changes when you went back
+in the upswing too
+like well this unit was just pure swing
+gear I lost a lot because it was huge
+downswing when I won a lot because it
+was upswing and it was like uh
+um
+it's funny I think because uh like a lot
+of discussions on like who is best
+player who is good who is bad and like
+maybe it's like my PSG or something like
+that but I always telling what you can't
+uh say anything about someone's game if
+you never stop human huge downswing
+because like anyone can play good one
+here are good I mean not not just sound
+random like he run correctly to Evie
+it's uh it's much easier when you have
+like super swing periods yeah so I just
+I I had good upswing in wall summer and
+this summer was super dry there was
+almost like I think 80 or 90 percent of
+red wires or something like that I just
+I just win a lot from them
+and okay and uh like after I did this I
+decided to put more time on crypto and
+put more time on traveling I go to Vegas
+played a couple of events there go to
+Disneyland with family I played uh some
+big events on Cyprus it was super hero
+your ball I think so I just uh from
+after I reached my peak of uh band crawl
+and uh of my self-confidence I talked
+with few friends and uh like all of us
+we think what you're now it's like on
+state where you can to break your long
+break and then you need just like months
+or something like that to get in good
+form again
+if you are good now because game is like
+it's not solve it but it's not uh
+changing very hard it's like only small
+changes only small
+you know New Phoenix so from like uh end
+of September oh it's like even it was
+from start of September to may I almost
+didn't play any hand I was I was still
+doing some reviews just because it was
+interesting to see what guys doing when
+I'm not playing
+like I I was
+it was funny it was like watching some
+hands from our games like watched
+streams of friends and I was waiting
+like okay maybe they show some new
+tricks so I will be like oh [ __ ] I need
+to go back to Poker faster so I will be
+not like uh super far behind but nothing
+like that happened
+likely for me what I found interesting
+about your story there is as you said
+like you find a lot about poker players
+in terms of who's a very good player in
+terms of how they deal with downswings
+and how they respond how they put the
+Game responds to that and also how they
+show up during those times for you it
+sounds like you really double down on
+playing and studying whilst you are in
+the kind of peak down swing and then you
+got out of that downswing it's very
+interesting that at that kind of peak
+moments say financially are coming out
+of the the bad patch then you start to
+get a bit tired and bored with poker and
+I feel like for you you're the way
+you've spoken us today and it sounds
+like you don't like doing things unless
+you're interested unless you're killing
+serious so for you when you decide to
+take a step back from poker it sounds
+like you've spoke with some friends to
+make sure like all right am I made the
+right decision is this suicidal am I
+going to be care so tell me for like how
+you felt removing yourself from poker
+because as you've talked to us today
+you're someone who wants to be the best
+you pride yourself on being like at a
+high high level so when you took a step
+back from poker through being tired and
+burnt out how would you deal with that
+mentally in terms of feeling the value
+of that pocket you need that head for
+you all right so I I was just pretty
+Curious by crypto it was pretty
+interesting I started to dive deep a lot
+I was like I read it everything but I
+couldn't confound I found groups of
+people who work in their uh so yeah I
+just found another thing called to be
+obsessed off but uh in the end like why
+back to poiker it's because
+after like half year and Greta I
+understood what is
+it's good thing to make money it's a
+good thing to improve our world but it's
+not interesting like at least for my my
+mindset it's not very interesting so I
+probably will like instead of Market
+land like now I will edit focus it on
+poker when I will maybe like mix it and
+some parents I will work only on crypto
+I think but probably I will just uh for
+my
+Leaf I will play poker or do something
+like that because crypto is like it's
+more like job
+it's there is some interesting things
+uh and also you need to be in to don't
+miss something big and interesting maybe
+maybe crypto will change and some new
+things appear what will be interesting
+too but for now it's like a bit boring
+and the biker is not getting bored like
+like I wasn't right on it's it's super
+new level it's like very interesting to
+be there even if you're tired from uh
+online games you can came to something
+like that and you like will be super
+inspired and super interesting to play
+because everything there was super good
+um so this stage your career after you
+took that break did some of your crypto
+stuff you realized crypto maybe didn't
+Engage The Mind in the same way pocket
+did for you so for you right now like
+what is it about poker that makes this
+game so fascinating you're already
+playing like as high as you can play it
+what makes this game still get your mind
+intrigued and interested and want to put
+time into uh to learn more
+yeah because
+I still have a lot of questions when I
+play it's like still a lot of things but
+uh you can dive deeper you can think
+more
+and it's super
+super interesting like after I played
+life and to meet uh a lot of high stakes
+guys it started to be even more more
+interesting to play against them because
+you see how smart I am and like uh most
+of them are younger than me and it's
+like it's funny feeling because I
+probably one of oldest player who
+playing a lot now and in same time I
+started to play poker later than ours
+like most of them playing like 10 plus
+years but younger than me and it's uh
+it's making it even more challenging for
+me because I think like I'm a little bit
+underdog
+by a lot of terms but uh I think I still
+can
+be competitive
+comes back to this kind of thread line
+that's been going through of you seeking
+challenges and you find it interesting
+to compete against other high-level
+people so a lot of players might get
+intimidated when they go to uh meet
+other Live players and play high stakes
+games you realize everyone's really
+smart some of these guys are really
+young and got a lot of potential but for
+you it's actually the opposite you're
+like all right this is what I'm this is
+what I'm made for and like again
+strength you said high volume in tough
+lineups that's what you've found out
+about yourself so I like that over over
+time you've learned to uh kind of trust
+yourself trust your instincts of what
+you should be doing and when things are
+interesting for you you just go on that
+line you go in that direction so yeah
+really really great to hear it's also
+the thing like uh when we was talking
+about downstairs and I forgot to say
+like uh people uh asking seeking for
+different cues from Downstream and like
+for me it was always just to put more
+work on like if I'm like in every a lot
+of people playing more than their Ryan
+good and play less than the way you run
+bad and like when I run bet I just put
+more and more work on myself like I play
+more I review more I watch more I try
+more it's like I think it's not super
+good because for mental state better to
+play when you run good because you like
+have much more dopamine you're happier
+when you play and but as I told like my
+driver is Andrew so
+I feel I think it's not super good but
+it's it's really super hard to change
+myself and I don't want to do it
+I just try I'm just trying to not feel
+bad about that like I'm not fifth I am
+not feel bad from that I when I have
+downswings I am not like sitting like
+that and trying to go [ __ ] help me I
+just okay I will fight
+I would say it's a very positive
+character traits because if you think
+about it like you said everyone could
+play a great poker when they're winning
+but when things are getting bad when
+you're in a downswing that's very often
+when people cave they do less they still
+feel helpless going into a victim
+mindset but for you you do the opposite
+you work a lot harder during downswings
+so if we play that out over the course
+of your career every time things got
+tough and hard you still ignore you've
+played more you did you learned more
+during those times so it's almost like
+if you look at your growth as a poker
+player every time things went hard you
+got better you got better and better so
+this almost makes you kind of
+bulletproof going forward because when
+things get hard you do more you show it
+more obviously when things are going
+good yes we could argue that you could
+maximize your EV more by putting it
+along hours when you're in a good
+cognitive state but in terms of like
+growing and proven the fact that you've
+doubled down when things get hard is a
+great trait it's a huge huge upsizing I
+definitely wouldn't worry about that I
+actually see a lot of players need to do
+the same and work on how to develop that
+attribute it doesn't always mean during
+the dance when you play a lot you might
+actually just Deep dive deep into your
+game and try to improve but at the same
+time finding ways to work harder when
+things aren't going well in order to get
+yourself going in the right direction
+again so yeah really really good yeah
+all right sorry sorry one more thing
+it's like it's uh What uh I find out not
+that long ago but uh in a situation like
+mine you need to understand what the you
+need to be very focused on your mind
+because uh when you work more in dance
+Fields it's uh you're like your passive
+brain part might start to think what you
+really unlike it because you put a lot
+of volume when you run by bed and like
+your brain recognizes that okay I run
+bad breach a lot but it's it's just
+because you put more pressure on and you
+you can't ignore it because you will
+have you might feel your self unhappy if
+you just ignore that think
+a very good point very good points so
+yeah what you're saying is when you're
+on a downswing your vision's a little
+bit clouded and you can almost assume
+that you're running back because things
+aren't going your way if you put lots of
+volume in junior downswing you might
+deceive yourself into thinking that or
+you might deceive that situation as I'm
+running about I'm getting lucky like I
+bet you're having many conversations
+with pocket players who almost feel a
+bit disheartened by the way things are
+going they're playing more pocket than
+ever during a downswing but because
+things just feel bad during the
+downswing they almost magnify their
+problems and think things are going
+worse than they are and see I think it's
+definitely good to be aware of how your
+mind's responding to uh that's during
+the downswing and also like some players
+play more volume is the solution other
+players is like no like work more in
+your game but I think the kind of
+overall kind of theme of put more work
+in junior downswing try to solve the
+problem what's going on why is this
+downstairs occurring sometimes that
+means going internal reflecting on
+yourself other times that means about
+any strategy but the times that's been
+showing up consistently and being at the
+tables to uh level up the variance but I
+think it's very very good to think about
+the problems that can come up as your as
+you're trying to go through that
+hi guys Renee aka the weko here with a
+quick mechanics of Poker 2.0
+announcement because we are currently
+open to receive 10 new players in our
+mechanics of Poker coaching program in
+our program you'll get access to 80 plus
+hours of content in which we will
+explain you all aspects needed in order
+to become a more successful poker player
+now one of these of course is the
+technical aspect of the game in which
+I'll be explaining you all the mechanics
+behind poker strategies we'll be talking
+about GTO exploitive play with an extra
+focus on the why behind certain
+strategies and why the population has
+certain leaks and to increase your win
+rate even further we've recently added a
+River Bluff and Bluff catching section
+so you can increase your NV when those
+spots become very big our mindset and
+performance coach Adam Carmichael he
+took care of the mental game and
+performance section of this program in
+which he will teach you everything you
+need to know in order to break through
+limiting beliefs better handle your
+emotions break free from tilt and play
+your A game more consistently and last
+but not least we've added a management
+and optimization section in the program
+in which we will give you various tips
+and tricks to make it more likely for
+your poker career to succeed and how to
+continuously improve as a poker player
+now on top of that this concept is
+continuously evolving based on feedback
+and suggestions we get from our
+community next to all this content you
+will have access to our exclusive
+Discord Community monthly live q a calls
+and one-on-one coaching session in which
+we are going to be reviewing if you have
+been implementing the stuff that we
+teach you in the mechanics of Poker
+correctly so do you think you have what
+it takes to master the mechanics of
+Poker and will you take one of the 10
+available seats go over to mechanics of
+poker.com and apply for the program and
+maybe you will get a chance to work with
+me and Adam and make more progress in
+your poker career but for now without
+further Ado let's get back into more
+goodness in today's episode
+alright so ready for yourself have you
+got any Peak Rock moments I'm not sure
+if I'll ask you this before but any
+moments in your career look back on and
+go up that was the toughest part of my
+career
+where do you want to start Adam
+the peak the peak the Peak Rock Bottom I
+would say the big rock bottom I mean I
+went broke many times not many times
+Maybe
+that I can now recall twice and I fought
+one of the hardest ones was
+and actually this was actually a
+question that was also going to ask
+Victor so it's a it's a good question
+that you asked me is like when things
+were not going my way went broke but in
+the same time in my case I was living
+abroad uh uh I was living in Brazil I
+was married to my wife I had to take
+care of my wife also financially as she
+was just focusing on her studies so that
+added a lot of pressure to having to
+perform well in poker and obviously when
+you're trying to play and there's more
+pressure on it and you're not playing
+while we're in a downswing that really
+that that's not really a great I'm gonna
+say a great environment to stimulate
+good performance and I was wondering uh
+how because Victorious Praise his
+girlfriend for always being on a site
+how did she respond to you going broke
+for the first time for example my wife
+she's definitely very risk averse and
+obviously also spoken players we
+understand the game a little bit better
+we understand that statistically you
+know it's very unlikely but it can
+happen uh how did she respond especially
+when she's pregnant and I assumed that
+she was relying on you for a source of
+income how did she respond and how did
+you respond
+um with the pressure of having to take
+care of someone so your poker
+performance people are relying on your
+poker performance where before I was for
+example married if I would screw up I
+would just screw up for myself and
+that's fine but now you're suddenly
+screwing up for both your wife and your
+future child how did you cope with that
+extra pressure or did you feel that
+extra pressure
+yeah this time was pretty hard
+like but I
+uh most fun thinking that with my wife
+she like she don't know much about
+Parker I mean uh just last in this year
+I was or last year I don't remember
+probably last year I won like EPT and
+such or something like that and it was
+first time when she watched it uh uh TV
+translation and it was like first time
+when she recognized what time like sort
+of known somewhere uh because we don't
+discuss poiker and something like that
+and what I had
+hard times I was very stressed
+I was thinking what I'm failing for my
+family and for myself
+and like my wife
+I don't know how to explain it
+she was like she was Stone Cold cow he
+was like I told I talked to her I told
+like what I don't know uh what it's
+super bad what happened and something
+like that and she thought like okay you
+will be good anyway like she's like She
+Believes In Me much more than I believe
+in myself or someone believed in myself
+and when I recognized it
+like it's more when someone can give me
+she just like she just believed me in
+100 she like she's super sure what uh
+any bad thing what can happen I can
+handle it and I can go through it
+yeah that's I think yeah that that's
+that that definitely releases the
+pressure right in moments when you're in
+doubt about yourself that someone is
+there to re reconfirm like Hey listen uh
+we will be okay just you know to ease
+your mind I think it's huge because from
+that from that moment you know you can
+calm yourself down a little bit and
+actually start to play a good poker
+again I I even watched like a little bit
+mad because I was telling her okay I
+lost a lot of money we're building house
+we have trouble and she's like so what
+like you will make it back like what's
+the pro and this was like I was okay
+like everything greeted everything is
+bad I don't know what's going on and
+like she was super calm like like she
+asked me like do you think like you
+can't handle it yeah of course I can
+like I will handle it why you like
+Andrew why did you why you mad all will
+be good and I was like okay [ __ ]
+I don't think she will believe in uh
+anyone she doesn't believe in anyone
+else okay okay good point yeah
+that's how it's supposed to be that said
+loyalty right
+um I'm curious you were talking about at
+that face when you were trying to jump
+up to like the real high stakes the
+nosebleed Stakes that you had to you
+went to the process of rebuilding your
+strategy you mentioned studying for 500
+hours it's quite a lot uh I'm curious
+how does rebuilding your strategy look
+like and what do you spend 500 hours of
+studying on just out of curiosity yeah
+yeah most of the time I just uh uh
+watching different spots on solver I was
+trying to watch it pretty deep and
+making lots of uh what I see there what
+I think it's working like that also when
+I saw something called Verde I was just
+trying to make some
+uh how to save
+uh like some tests uh when I just put
+something uh what can never happen so
+like extremely small range extremely
+weird ranges just trying to see how
+solver uh changes his mind in some
+different spots it's like uh I think a
+lot of players so long stakes and like
+still have this uh film uh in their mind
+what they must do something they like I
+you might hear this a lot like I must
+call this hand because if I'm not
+calling here I am ever father but like I
+always telling to these guys okay just
+put your opponent like range of set plus
+and you always have left catcher and
+your opponents have only set plus so
+they're never called you you didn't must
+do anything you need just to play a spot
+like it is and uh
+this story oh yeah I forgot remember
+it's toy game it's called Thai game yes
+so I was doing toy games I was uh doing
+a lot of uh solder stuff with knots and
+uh also like most of my work now it's uh
+reviews of my opponents
+yeah I think this is uh especially
+important when you reach very small Boos
+and nosebleeds where everyone already
+has a certain level of strategical
+knowledge right everyone has studied the
+solver and at some point The Edge that
+you can gain by get studying even more
+solver at some point it's just so
+minimum compared to if you indeed study
+certain tennis is your opponent and come
+up with uh more exploitative game Planes
+around it or we even had we had I think
+it was Jam Big Joe who we had on who was
+really trying to pay attention like
+who's cheat who's a bit tilted this
+month right and how does how does a
+downswing you mentioned playing one of
+those things how do people react how do
+their games change when they're in a
+downstream compared to an upswing for
+example so you kind of know what to
+expect a bit more is this kind of stuff
+that you're looking for as well
+yeah yeah it's like uh when you if
+you're going to get up onions it's like
+it's pretty interesting because like you
+see so
+so like some mistake on him you're going
+to solver you put in you see how you
+might exploit him but uh the next thing
+you do it's your put your exploits
+against GTO to see how fragile your new
+strategy will be so you you always need
+to understand like uh if you're Expo why
+it will fall uh wanted will be worse for
+you comparing to do nothing and it's
+like always like uh some ways to double
+check how it will work and it's very
+interesting and also when you're
+reviewing components like you're doing
+the same thing you don't just watch on
+frequencies you're trying to watch on
+frequencies plus showdowns plus their
+General strategy to understand how he
+thinks
+you don't trying to like okay this guy
+fall to free bed five percent smaller
+than GTO so I will free bet him while
+you know you're just trying to
+like put yourself in his head
+yeah it's very interesting what you were
+referring there to was kind of you're
+estimating the risk reward of your
+exploit like how much does my exploit
+works if it works but if it backfires
+how much does it loses and does the risk
+balance out the reward sort of
+yeah I think it's like it's think what
+you you must think you you can't think
+of your opponent's idiots you like you
+you can tell them what they are radius
+you can't threshold but you never need
+to underestimate them
+have you learned this through the hard
+way
+yes
+could you maybe give an example
+uh like the first time was when I
+crashed the no not crash when I lost on
+5K when uh in like 2017 and uh when like
+uh like I see just
+a couple of It's Always couple of
+showdowns you know like for example I
+was still playing a lot against munis
+and uh like
+I was think what he is or folding a bit
+and when like in two sessions in a row
+he made break your light calls against
+me and okay okay it started to like
+change something
+yeah at some point also analyzing
+especially it's interesting when you
+analyze people's games
+especially if these players are also
+analyzing your games then it's almost
+becomes more worthy to analyze your game
+to kind of expect how they're gonna play
+against you instead of you because their
+game is kind of a accumulation of
+exploits that they make versus various
+players so they don't really represent
+anything whereas if you think at some
+point I did this as well a lot when I
+was battling high stakes to be very
+aware of your own statistics and if you
+know that someone is a bit more an
+exploitative player you can actually
+kind of already ahead think of okay if I
+will be playing versus myself
+would I be over bluffing in this spot
+for example like you mentioned that you
+uh you tended to be a bit too much of a
+station right you're a red line too much
+so you could already think okay if I
+would be playing against myself and this
+guy is an exploited player is he likely
+to over Bluff me well most likely not
+right
+yeah but like it's also a fun thing
+because
+like you can be stationed in different
+spots you always need to think about how
+deep your opponent of Nola is you
+because like for example you can be
+stationed in most of sports but some
+spots you have your fault against
+population and your opponent might see
+this and you always need to
+like it's really a lot of levels of yeah
+how deep you can dive
+you know so yeah it's always spending a
+lot of time to see what people doing
+against each hour and what people doing
+against you personally like uh there is
+like
+a lot of people doing a lot of French
+researchers now in hand to notice like
+super good too and uh one day I
+understood what I I I I don't I don't
+think I first who did this I but I did
+range results only through my database
+to compare how different uh reactions in
+most of sports people doing against each
+other and against me and I also did like
+uh then I did some researches against
+different type of fields playing to each
+hour and our stuff like that because
+it's as you told you need to understand
+how people playing against you against
+each hour against our players and how it
+affects their stats and their strategy
+that's that's very interesting indeed
+like sorry sorry it's it's almost part
+of answer to Adam question about why
+Porter is still chairman for me because
+like still a lot of questions like this
+yeah because it's not yeah it's not
+necessarily for example GTO looks at a
+spot in isolation in a solver whereas
+indeed if you mix in player profiles and
+how they perceive certain spots like for
+example people who study a lot of data
+they will have clear uh clear spots
+where okay on this type of
+um
+uh scenarios population tends to
+overbluff under Bluff then if you start
+to kind of flip your strategy you start
+to under Bluff in the over love spot and
+start to over bluffing on the blood
+spots yeah then you get then you get to
+a whole nother level and you get that
+indeed like you know certain players
+make sure to reach okay yeah this is at
+some point when you play against very
+good players they know okay yeah this is
+a classic overblock spot
+now what do I do you know I cannot
+overblock because he knows it's declare
+over plus one so he's never gonna fold
+but then if he sees you every time
+giving up there's like okay he's not
+he's not he's not bluffing the classic
+overbluff spot and then there you get
+exactly the levels that you were talking
+about and this is I guess what keeps
+what makes you keep coming back
+yeah this type of metagame flows super
+interesting like it was I was I started
+to notice this when I was grinding Zoom
+200 because it was like I remember like
+like a couple of months everyone playing
+with super high seabed uh when people
+started like uh people check race switch
+it from like eight on the Flop to 22
+then some people started adding uh mean
+free bets on the floor when people just
+decided okay I just started to see but
+less and this like going like it's like
+flow
+it's going in now people changing
+strategy and like it's it looks pretty
+beautiful it's pretty interesting
+what is the you you're describing like a
+trend where you see population using
+strategies and then population is trying
+to use counter strategies and then
+another counter strategy is being made
+right and that's kind of the flow that
+you're describing what is uh a current
+flow that you are experiencing
+throughout poker this year
+uh now people
+uh I think people understood pretty a
+good borderline of uh solder calling
+hands so people stationed pretty well
+like uh there's a lot of people who call
+pretty correctly and uh also
+a lot of players under Bluffs uh in most
+of spots because they uh just they just
+see what people focus it on Collins part
+and so you like most most of goal of
+Bluffs is you to get caught wide enough
+so people going to under Bluff now and
+it's uh
+it's uh funny to see like different
+players uh trying to attack different
+spots like uh no one can play just like
+super neat everyone trying to keep Bluff
+frequencies but they like split and get
+differently and it's pretty fun because
+it make some unbalances but these
+unbalances like not super exploitative
+but it's uh uh very hard for brain
+because if you wanna play better than
+field you need to focus on uh every uh
+opponent what you play
+because like everyone in general if you
+watch on stats uh it might look like
+everyone playing the almost same game
+but they just have small small tricks in
+their pockets and it's always
+interesting to try to find it yeah it's
+what you said right just a stat just the
+frequency doesn't really it doesn't
+include the texture it only shows the
+frequency it doesn't show the range
+composition of exactly the frequency in
+that spot so is it to Value heavy is it
+to to to to Bluff heavy you know are you
+going to be bluffing in spots where no
+one ever Bluffs is you know or do you
+just keep on bluffing in the obvious
+blast spots yeah it's uh it's it's
+indeed a level I I have to say I did
+also if I can say one Trend that's
+different from in the past it's now is
+indeed that that most players that I
+face station or at least you know the
+trend is that people are fighting more
+for pots over the years uh whereas in
+the past a couple years ago the trend
+was more that people tend to fold so
+aggression was the way to go then and
+the bus had to be very aggressive then
+the pool response and now everyone
+starts to become a station and now you
+have to kind of find nuances within when
+do I station you can just be be a
+station for the sake of being a station
+is it then also like I'm curious in
+terms of
+players what do you think sets sets a no
+split rack well let's say let's say 10K
+and L plus uh rag apart from like a 1K
+to 5K wreck for example
+um
+first one will be discipline I think
+like discipline to play in uh in same
+state for a long time
+uh and also in biker part it's uh
+understanding of ranges because uh like
+people who play lower they
+they just uh count combinations for
+slower and they just
+don't understand Equity well enough I
+think
+so they just make and uh
+they may make it like call not because
+they understand the EV or this action
+just because they see like okay he
+probably Bluff uh enough and that's
+already the reason for these players to
+call they and they sometimes putting
+themselves on spots they're like their
+belief catcher not good enough about
+against range because Bluff have high
+Equity or something like that uh they
+don't understand realization of equity
+pretty well but uh for now a lot of
+players of 1K and an L 500 uh pretty
+well playing pretty well and there's
+like also big difference between uh
+uh young players who playing these
+limits and uh players who play there
+just because they're stuck and don't
+want to go further because young ones a
+lot of young ones have been playing
+pretty well they just don't rolled
+enough and they just don't experience
+enough maybe they have mental problems
+maybe they just most of them just need
+time to move to the dots
+yeah there's no uh there's no shortcut
+to the top right if you if you if you go
+faster then you're allowed at some point
+you will experience something and you
+will get knocked down kind of what you
+were experiencing right when you were
+taking the 5K shots I remember also from
+uh from a more from a confidence
+perspective I feel like you have to
+grind a certain stake for a certain
+amount of time and put a win rate for
+you to confidently say like I belong at
+this Stakes where if you go too fast you
+might mentally identify yourself as a
+500 Zoom rack and you're suddenly
+playing in a 5k game then your
+confidence at that stake is just too
+fragile whereas if you start losing a
+little bit you don't really feel like
+you belong at that stake yet so you will
+be forced to move down and like I said
+yeah the only way is with time right
+people have to learn to be a bit more
+humble as you mentioned the ego granted
+in a way you're like okay you can you
+can you can Trash Talk people you have
+to learn to manage your money you have
+to make certain mistakes in order yeah
+to to yes also
+depends spread your heart on personality
+like on how you
+how you recognize poker at all like as I
+told like for me it's just an hour game
+so I'm easier to short easy to feel
+myself stupid easy to understand what
+I'm not good enough somewhere and I'm
+not
+I'm not feel myself
+super stressed when I'm not good enough
+like once
+I had like birthday and I decided what
+like best what I can do is give myself
+20K to
+go regard and gay just because it will
+be interesting like so I just told
+myself okay you can lose 20K on 10K bar
+it was like Lino Smith Stefan in
+glucoplay something like that and I just
+I just was super easy I finished it
+around Break Even but uh I already
+was counting what I left this panel on
+the table and
+most of the diamonds like that for me I
+just uh when I played playing I'm just
+focusing on the game and I don't feel
+super stressed and also afterwards like
+if I shotting something I'm losing uh I
+don't
+I don't lose it by confidence after this
+I can I always like think I but I will
+repair this even in hardest times
+and some people for some people it's
+just too hard I like even do the uh he
+was on your podcast and he told but for
+him it will be super hard to go to
+higher Stakes If part uh buff will be
+harder but it just depends on
+personality
+so what are some of the personality
+traits you think that made you this
+successful
+um I don't know I think maybe it's it's
+always like a lot of different
+businesses so like some people people
+who are around me like some pretty
+unhappy
+childhood
+and like a lot of things in my life
+um made me like stoic a bit so like I'm
+I'm not focusing on hard times I mean
+I'm not
+[Music]
+um
+I'm not feeling too much pain I can say
+from some bad things
+I just I can't say what I'm extremely
+happy you know like some people they're
+like super positive or something or
+something like that I'm not super
+positive and hard times I just okay I
+know it's hard times but I I just must
+go through it and that's all I'm not
+trying to
+show myself more happier than I am or
+something like that I just always
+telling but
+said said things or happens it's life
+what what else can I do if I will focus
+on how it's hard or how I am unhappy it
+can't help me anyhow so I just need to
+go further and
+trying to do my best
+just keep doing what I'm doing
+yeah there's a definition of stoicism
+here you acknowledge you accept the
+situation for what it is then you
+realize okay it's only perception how do
+I how do I handle this situation that's
+like you know the concept of focus on
+what is in your control in this case I
+think throughout the podcast I heard you
+say many times when it comes to
+adversity and shitty things happening
+you you said it was fun fun thing
+happened you every time live with it as
+fun right and also with the downswing
+you kind of saw downswing also as like a
+motivator or as a necessity right to
+study more in your game so this is what
+I kind of mean with the perception how
+do you perceive a downswing are you
+gonna try to learn from it are you going
+to try to use it as motivation right in
+this case you get angry because you're
+competitive you don't want to lose you
+know which you know can have this
+you can have his good side it can have
+his dark sides uh but you know it does
+it does enable you to use a situation
+like that and actually view you and make
+give you energy in order to improve
+yeah yeah it's like it's mix of all of
+this and uh I also like always when you
+watch uh retrospectively you understand
+what uh almost every bad thing what
+happened in your life uh hell but you
+helped you to become stronger and the
+main thing it's like to understand in
+momentum what when you're in [ __ ]
+situation what if you do well if you
+don't break you will be good anyway so
+like uh you just need to accept but it's
+new challenge it's new part of your life
+like every second our life is changes
+you're in New State and you just need to
+try to be focused on doing good things
+and also it's like I think it's work or
+in outside world too you just all you
+need to do is focus to be a good person
+for yourself and if you're a good person
+for yourself you will be good for each
+hour for other people's you might help
+them you like to help people like I
+think everyone inside want to help our
+people be happier because when you see
+how in our person smiling it's always
+good for you yeah you mentioned actually
+that this was also one of your
+motivations to come on the podcast you
+know you try to educate other players
+share your experience so maybe their
+Road becomes a little bit easier but the
+main thing that I thought was very
+interesting that you said I want to help
+people become happier this is like
+often when we begin in poker we're just
+so focused on you know reaching success
+we want certain things materialistic we
+want money at what point did you realize
+in your career like actually the the the
+end goal of life is to have a happy day
+today when did that moment sort of Click
+for you
+uh what I understand what I can do
+things what I love for quite a long long
+period of time and it won't affect me in
+uh Financial part
+so like if I want to travel and I can go
+travel if I want to play I will play and
+if I want to spend like a lot of time
+with my family and I still want to go
+broke or something like that and uh also
+when I understand what I can
+use
+use time how I want to use it
+this time how you want to use it so it's
+it's kind of Freedom that you're
+describing
+yes yes be able to do whatever you want
+to do whenever you want to do whatever
+you want to do it
+yeah yes yes exactly and also like
+a very big part of why I love uh poiker
+as work not just this game but his work
+it's what you can uh
+contact only with people what you like
+you you don't you don't forced to like
+be good for your boss or something like
+that you you just can pick up people
+pretty wisely you can
+spend time only with people but uh
+interesting for you and what uh
+you have you have a really great time
+with people but around you yeah you
+don't have to deal with people my wife
+for example she's an orthodontist and
+she sees patience all the time and she's
+sometimes tells me story about people
+flipping out and stuff I'm like okay
+very happy I don't deal with deal with
+people on a daily basis yeah so that's
+definitely an advantage if you're an
+online poker player yeah it's like it's
+weird feeling because
+in general
+I love people but it's mostly until I
+contact them
+okay
+yeah I I I mean like when you hear all
+these stories from casual work or from
+some bureaucracy or something like that
+and then you like
+going to chill because why you can just
+do normal things but on our way like I
+was reflecting a lot about this and I
+understand like super hard to be
+uh very happy when you most of the time
+you forced to do something what you
+don't want to do even if you like it
+like you even if we talk about book or
+someone might love poiker but uh
+if you must play something or do
+something it's much harder to be happier
+and also like uh what your players have
+a great great privilege to control their
+time so you have some free time to
+meditate to read something to discuss
+something with smart persons deeply not
+small dog but like big conversation and
+it's this thing is like Priceless I
+think best what we can have in our life
+to share experience and read something
+it helps you
+to understand
+better what's going on around you
+both mechanics of love life and
+all of this
+reflecting on your your poker career
+what is something that poker being a
+poker player taught you that you did not
+expect
+[Music]
+um
+in better good sight both in yeah in
+that side it's uh emotions like
+biggest trouble after 2020 when I
+grinded a lot it was uh it was super
+hard for me to feel happiness I mean in
+general I had I I like how I live in and
+all this stuff but I mean like uh
+it was super hard to get Happy from
+random stuff
+and uh
+I break this when we was in uh
+uh Disneyland
+and I was watching called my son who was
+watching show there
+so I was like like it was great show and
+I find myself what people watching on
+the show and I just watching on my sound
+reactions and I was it was a big moment
+of Happiness what helped me to start to
+feel happiness again
+and um
+good thing about boy periods time of
+course because you can
+you can use it much more wisely because
+you can make your own scheduler you can
+make breaks you like you can even
+if think in things like reading when you
+put your player and you find good book
+you can stop playing for a couple of
+days and read this book deep enough when
+you're working on normal job you come
+after job and you know the state of mind
+when you like reading something and five
+pages you just understand what you don't
+remember what you just read you just do
+your brain is too hard and when you put
+your player you can skip this pairs
+because you can just take breaks and
+it's like it's think what I think
+everyone is need
+just some some time for yourself what
+whatever you're doing okay I I think
+it's big mistake of a lot of people
+trying to spend all the time correct try
+to spend all their time to became better
+like sometimes you can just uh lean on
+your bed doing nothing and this will be
+the best thing what you can do now
+yeah which can sometimes be very
+counterintuitive right if you were
+trying to progress to a certain goal or
+you want to get out of a certain
+situation doing doing nothing from time
+to time can make it better quite
+restless but as you have experienced you
+know you there's a certain at some point
+you need to take a break you else you
+will sort of burn yourself out
+um Adam I'm I'm curious like I think
+struggles with emotions in general right
+I think in society men have more trouble
+with dealing with their emotions than
+than women right just as a stereotype oh
+we have to be men we cannot be emotional
+and then poker kind of enhances that
+even further because you cannot show any
+of your emotions it's kind of the the
+yeah the the the the the status quo of
+being a poker player any any tips for
+players how to deal with emotions shoot
+without emotions in should we close
+yourself up promotions how do we deal
+with emotions
+um well I find it very interesting that
+Victor phrased it as emotions were the
+bad side the bad side of the lessons
+learned through poker and I feel like a
+lot of players can relate to that when
+they start playing for a living and
+professionally all of a sudden all these
+emotions come to the surface that they
+haven't experienced throughout their
+life almost like why am I feeling
+insecure why am I feeling anger why am I
+feeling Rich when they're generally a
+calm person who obviously the cocktail
+of the pressure of Poker or your
+identity being being tied to being good
+at something and probably just the
+perfect breeding ground to bring
+emotions to the surface now the problem
+most poker players face is they don't
+want to go through this process of
+learning to deal with emotions and they
+want to numb them or push them aside so
+you end up going for a fears where you
+try to be quite robotic a lot of players
+will and you try to numb emotions that's
+almost like a kettle that's boiling and
+putting your finger or blocking the top
+and the baquel's boiling at some point
+that's gonna blow up all right emotions
+when they suppress the bubbling below
+the surface and at some points it will
+explode also when you go down the route
+of numb and emotion or trying to
+experience less of it exactly what
+Victor says all of a sudden you struggle
+to find happiness in small moments so
+all of a sudden you need something big
+like winning the big tournament or
+having your best of a day to feel happy
+when the little things like watching
+your child smile or go and have a nice
+meal with your partner which used to
+bring you Joy stops bring you Joy so now
+in this awful situation where you're
+like I want to keep these emotions down
+but when I do I'm not experiencing life
+as I want to so then it comes through
+the kind of the kind of solution to the
+problem is to allow yourself to
+experience a wide range of emotions now
+like grenade touched on for us men
+that's very difficult we like to
+suppress we like to go to the minds we
+like to kiss there from the heart and I
+think feeling based and go to the mind
+to use logic so I think the kind of
+biggest gift pocket gives a lot of
+players is to teach you that you have to
+learn to deal with emotion all right now
+we've got a whole cocktail whole
+spectrum of what emotions you will go
+through but the main thing is to allow
+yourself to experience them but at the
+same time staying in control all right
+so uh in the first like kind of solution
+to the emotion problem is to map out
+which emotions you experience I watch
+cocktail emotions you've experience
+something will experience very high in
+one they're high and ones like tilt in
+anger and they're very easier spot
+others just feel a little agitation or a
+little bit insecurity or lacking
+confidence so you've got to get a kind
+of profile of what your emotions are
+then you've got to go internal all right
+you've got to get an introspection so I
+like that Victor talked about meditation
+as a kind of tool I used to kind of go
+into the minds and meditation is very
+good for emotions because it creates a
+bit of space between our thoughts and
+our experience so when you meditate for
+a period of time all of a sudden you get
+a bit of space where you can sort of see
+emotions all right now emotions have
+signatures they feel a certain way in
+the body and the mind generally tells
+you stories about how you're feeling all
+right so as you go through your life and
+in particular you have to get good at
+experience in original emotions while at
+the same time staying in control right
+so the first thing is to build that
+level of awareness and the second thing
+is to allow yourself to experience them
+now this is the hard part it's almost
+like a car is going very fast down the
+motorway and you're holding on the
+steering wheel the goal is to build
+experience a wide range of emotions and
+stay in control now at first that's very
+challenging a lot of players will reach
+out to me and go Adam I've got this tilt
+episode I feel really angry when this
+happens anger is a very hard emotion to
+deal with because that's like a full
+speed emotion and very often your
+logical processing has been shut down so
+you acted very emotionally and
+reactively so you've got to build a
+profile of what emotions you're dealing
+with you've got to realize the stories
+you're telling yourself that it leads
+that emotion and then in a kind of hard
+to explain way you've got to get good at
+like letting the heart Express emotion
+all right it's not suppressing not
+numbing allowing things to come to the
+surface and allowing yourself to
+experience emotions now this becomes a
+challenge because we could argue that
+being a robot with zero emotion in
+theory could play out better because you
+would not get any till episodes you
+could just play the same game over and
+over but in terms of being a human and
+experience a life you don't want to go
+down that route you want to be allow
+yourself to experience more emotion so
+as if any players looking to work on
+this start to get very comfortable with
+the emotions you're experiencing start
+to realize what things are leading to
+those emotions and it will lead you down
+a path which will very often lead you to
+the mind which is telling you a story
+about the situation all right so the
+emotions generally the reaction because
+the mind doesn't like what's happening
+all right so we're in a situation I
+don't like that I've lost I don't feel
+comfortable that I'm not winning so
+obviously your mind's telling yourself a
+story about the events which just leads
+to this emotion so you've got to go into
+the operating system understand the
+stories you're telling yourself and
+allow yourself to feel the emotion while
+at the same time change that story
+narrative all right so if every time I
+lose it poker I call myself an idiot and
+I suck and I'm not worthy oh that's a
+very strong story so every time I lose a
+poker that emotion's gonna come to the
+surface so for me to work on that first
+of all I've got to realize what is the
+insecurity coming up what's the emotion
+and the intensity of it how is that
+feeling in my body and then I've got to
+start working on what is this story I'm
+telling myself is it true is it accurate
+and then you start breaking down that
+story if I lose the book does that
+really mean I'm an idiot no it doesn't
+so you're gonna start on what wrapping
+the story so and the two Avenues one is
+understand how it feels in the body and
+come to feel the emotion I think most
+sport players shut the process off and
+they go straight to the minds the now
+the Mind tried to fix emotions without
+any feel is very challenging because
+it's almost like they speak different
+languages and you can't logic your way
+through emotions so I say players who
+need to learn how to feel emotions then
+also learn to get comfortable and with
+the stories that you're telling yourself
+to uh kind of work through them so yeah
+I'm interested Victor for yourself so
+who says emotions were the bad side of
+the game but I think for the audience
+and myself and Randy listen to you it
+sounds like you've got a pretty good
+control right now of your emotional
+state you sound very stoic you sound
+like you don't have much of your
+identity attach your results so what are
+some of the things you've had the
+learner tips of managing your own
+emotions in the public context yeah I
+think like as I told my uh biggest
+driver is probably Andrew and it's like
+it can be told as a path like first I
+was not even understanding what is my
+driver and what uh my main emotion when
+I recognize what it's uh Andrew I just
+uh tried to separate it and I was like
+okay I can't just talk to some people I
+was like I was a lot of times I just
+rushed out to someone when I apologize I
+just I try to explain people what I'm
+doing it's not a bad purpose but it's it
+was helping me to play Easier like so
+when I didn't understand about Andrew I
+was just sometimes when I angry enough I
+just played bad uh next step is what I
+was when I was Andrew I still played
+okay but I just stretched out and uh my
+final point now it's when I feel Andrew
+I just go study my opponent to brush him
+next day so like for now uh I I
+understand manager I understand my like
+what we can say like bad emotion or
+something like that I understand why I
+have it uh how to understand it how to
+find it and I just uh when I feel it why
+I'm playing I just delay this delay this
+to when I go to my work
+so when I just opening database of my
+enemy I like I mean I mostly use the
+volume to randomly for my friends
+in real life so I just using it like
+this and I think it's it's think what
+helping me a lot
+perfect the actual payment application
+is exactly what I was talking about
+where first of all build awareness of
+the emotion itself and how it's
+impacting you so first of all you found
+out that being angry was causing you to
+play back play aggressively then you
+realize that isn't a very adaptive
+response and you need to change that so
+then you worked on just trash talking
+people and the next step was you have
+that fears but then ultimate base was to
+use that same emotional state so to not
+try to hide it to not try and suppress
+it when you feel that emotional state of
+anger you now work on crushing your
+opponents and that makes sense you into
+the lab and working on it so you're
+you're now fully embodying the emotional
+experience that you have in but you're
+using it in a very adaptive way and
+that's like I think that's the Ultimate
+key because now if you look at a lot of
+people try to suppress emotions so what
+happens is they feel uncomfortable when
+they when their bodies experience their
+emotions so they try to limit the kind
+of range of emotions they experience
+with what you've done you've widened
+your range of emotions that you can
+function experience in and Italians
+you've got to play around with that so
+it's almost like you start with when I
+feel heightened emotions I can I can
+play well with a certain National states
+that caused me to devious strategy or
+make mistakes and over time you want to
+bring in more emotional states that
+allow you to to play at your best so uh
+yeah I think with emotions it's very
+important to really strip them down to
+their Core Essence of what's happening
+but also the person one by one every
+emotion is different and has a different
+kind of end results so for you you could
+see the kind of chain of events that was
+happening from this and you work
+backwards and you over time you build
+more adaptive strategies that over time
+now when you feel that emotion you work
+to crush people that's amazing so like
+every time don't get you angry say
+Michael Jordan in the Last Dance is like
+um I really like that a Netflix
+documentary one of the things that I
+learned from that documentary is do not
+get Michael Jordan angry because he will
+crush you he will use that fuel of anger
+and he will play the best game of his
+life so if you're an opponent playing
+something like that you're like all
+right that's just walk on eggshells
+Michael Jordan do not get a man great
+he's provoking you trying to get you to
+spark him he's going to use that where
+other players would get angry let's
+follow up the game the player really bad
+and they wouldn't believe Eliza so yeah
+I really like that you found a way to
+use a kind of heightened emotion which
+most people count as bads you use that
+in a positive way so that wraps up the
+emotional summary which is great Renee
+have you got any uh last questions to
+wrap us up yeah well it's funny that you
+mentioned that because he said now when
+I'm angry at someone I'm gonna study and
+I'm like okay if you play against Victor
+probably don't make him angry just say
+every time when he joins the table now
+everyone's like hey Victor how's your
+day going lovely to see you everyone's
+gonna treat him like a god like don't
+get it don't get Victor angry I don't
+want him to start studying me I didn't
+even didn't do anything wrong uh
+um
+the last point I wanted to touch on
+before before we're gonna
+close off is you mentioned that you uh
+kind of you know I'm curious where you
+where you see poker going from here you
+you said actually that you don't expect
+a lot of strategical involvement if I
+understood that correctly in the game
+right you think that we have reached the
+point where it's not gonna you can just
+take a break for half year and come back
+you also mentioned that you started
+playing some Triton Events the the high
+rollers and that really triggered again
+your passion and your interest for poker
+I was curious like
+what are you currently most intrigued by
+in poker is that indeed like the live
+poker events where I think we already
+talked about this uh of pod as well
+where you get to meet like a lot of nice
+people
+um where you know you play against the
+best of the best is this something that
+you're looking to do more in the future
+uh I don't like all of this I can say
+like for now I will focus on online
+because it was it's a bit funny I I
+don't think it's only because of that
+but uh I meet the Linus couple of times
+and I was like a little bit trolling him
+like dude why you don't play are you
+good are you still good enough and
+something like that uh yeah because like
+he wasn't grind a lot and I now I
+understand what he just find passion in
+our way it's not like because of me but
+uh now he's grinding gelotti and I'm not
+playing can I feel a bit ashamed because
+it was always because I was trolling him
+to play and uh now I took like break
+because of moving
+somewhere so I wanna do play more online
+and feel this pretty interesting now
+because like there's a couple of
+different Crews who work with each hour
+and have different strategies it's like
+it's dutch crew it's kruka Brian uh and
+Kevin
+and it's like Austrian crew it's Darrell
+Linus uh Marcus and some other guys uh
+it's uh some it's Russian Guru of Aurora
+and Munoz it's stefanosh per me like
+separate we don't work with the shower a
+lot uh and it's Spanish guys nacho and
+Davey and uh every almost everyone is
+playing differently and it's very
+interesting so I think my brain will
+have a lot of hard food
+but that's what you like right yeah yeah
+it's I think it will be a very
+interesting time and uh also I want to
+go for next right and if it will be in
+Asia because I'm going to Thailand soon
+yeah so I could use for both uh online
+and your life and also
+it's uh as a adult like in hard periods
+so I always want to focus on work and
+it's like hard period for a wall water
+now and a lot of people experience a lot
+of outside stress and of course most
+hates people from Ukraine and Russia and
+uh it leads me to put more focus on my
+work too because I I just uh
+I don't wanna I forgot how to not not
+Doom switching it's like when you're
+always reading bad news because almost
+every news is bad and a lot of people
+just dive into this serrated Hall and uh
+I understood pretty fast but it's very
+bad idea to do this so I will just focus
+on my family friends and do my work for
+now yeah there's I completely agree I
+don't follow follow any type of news
+because as you said it's all very
+negative and 99 of the time there's
+nothing I can do about it anyway so then
+it's like okay yeah okay thank you for
+this for this news now and I'm just
+stressing out because the world is
+[ __ ] right and I compared to in the
+past like in the past people didn't have
+access to news around the whole world or
+they might only have access to news
+within their country or even within
+their city now if there's nothing going
+on within your city they will look at
+okay is something bad happened in your
+country no in the world okay we will
+find something and there's more bad news
+and some people like have other views on
+this maybe they think you know you
+shouldn't
+close yourself off from the world per se
+I personally agree with you I think it's
+fine to just uh close your off you're
+not acknowledging that you know you're
+not pretending that the world is a fairy
+tale but you don't have to get reminded
+of all the [ __ ] that happens in the
+world all the time that will not make
+you any happier
+yeah
+um any uh any any last words that you
+would like to say to our audience
+anything that you would still like to
+discuss that we haven't discussed so far
+before we wrap it off no not much I
+think we've had great pretty great
+conversation and like
+or what I can say to like if some young
+players will watch this it's like
+try to be happier when you play like try
+to focus on feeling good emotions while
+you're playing like feeling negative
+emotions can be a good weapon in some
+points you can turn an angel to be more
+productive or something like that but uh
+if you try to focus on like happy
+emotions
+it will help you to be in the game much
+longer if you will be happy from winning
+pots Happy from good sessions and things
+like this so I think it's best it's best
+what you can do to improve your
+living
+like your player
+because
+I think
+not only me a lot of players who players
+who play high stakes they driving by
+negative emotions they like doing
+through challenges but uh you you don't
+need to be high Royal to
+Leaf had your life and it's like it's
+main part what a lot of players need to
+recognize what if you're stuck on some
+limits it's not meaning what you've
+given up or something like that you just
+uh your main goal is to live good life
+you as I told like when we was talking
+about solvers you don't must to call
+something because like it's gdr and same
+with life you don't must do something
+because it's like
+everyone doing this you didn't must try
+to be high stakes wreck or because some
+people did this you just you need to
+reflect more on yourself and try to be
+happy
+very wise words yeah I think being
+actually what you said like
+acknowledging and accepting any type of
+current situation that you're in is very
+important because if you don't like the
+situation that you're in if you don't
+accept the situation that you're in you
+will only increase the stress you will
+increase a lot of negative emotions and
+that can often just spiral and only
+getting more of the same whereas if
+you're just very happy uh with with the
+current or at least if you're not
+negative towards the current situation
+and if you just try to enjoy the process
+often you will experience more emotions
+than you will sort of attract more
+positive things happening to you in the
+future so it will actually make it way
+more likely that you actually end up
+reaching your goals Evan you probably
+have something to say around this before
+we close off this seems like a topic for
+you yes it's very much in my field of
+expertise or at least interest and yeah
+I think your emotions have EV to some
+degree so when you're in a heightened
+emotional state feeling good you're
+generally going to to play your best
+poker and have a higher EB as well as a
+higher enjoyment of the game in the same
+time when you're playing and compromised
+emotional states whether that's anger
+rage frustration you have a lot of EV
+for that session like um Victor was
+talking about overall like what is the
+goal like what are we doing this for and
+sometimes we get so fixated on the short
+term of making money playing certain
+Stakes that we lose sight of the bigger
+game to be happy to live a meaner for
+life and to enjoy the experience of
+being a human so yeah I think sometimes
+we've got we get so zoomed in on a
+Pursuit where reality take a step back
+reflecting and going why am I doing this
+and if ever you find yourself doing
+something because you feel like you
+should do it and you're forcing as the
+corner you need to take a step back and
+reflect and go and why am I feeling this
+way why am I putting a gun to my own
+heads and make myself go I can remove
+the gun I can reflect and I can decide I
+want to do this I move ahead and if you
+don't want sometimes that means taking a
+step back and I think Victor's story
+throughout this has been a really good
+example of not just going One Direction
+and just take a step back reflecting
+when you're feeling burnt out or tired
+from poker just take a break take a step
+back and reflect and realize what you're
+doing it so yeah I think it's a really
+really good lesson to put yourself into
+a good emotional state whilst playing
+you can use negative emotions to drive
+you but they should be short-term fixes
+and short-term action steps to drive
+Behavior change but the main part you
+should learn to enjoy the pursuit of
+sure not playing poker and over time
+you'll find you play your best in those
+States and you'll have a much longer
+career because you're using a kind of
+long-term fuel source of height emotions
+to drive you so yeah really really good
+uh kind of lessons there and perfect end
+to the conversation from my point
+wrapping up another great podcast
+episode thank you a lot Victor for
+sharing all your wisdom Adam main
+takeaways from our conversations with
+Victor for you
+well what a great guest I think he
+shared a lot of wisdom and his story was
+very compelling motivated and he shared
+a lot of character traits that I feel
+like are very useful for any player to
+develop and the five character traits
+I've picked out through this episode
+were his skill of perspective all right
+so he's developed a skill to uh look at
+situations both from a long-term
+perspective but also how that
+Situation's helping him he's very
+objective about plan ahead and seeing
+how things that are unfolding aren't so
+detrimental and this allowed him to uh
+move downstairs quite easily without ego
+it allowed him to shot it higher Stakes
+when opportunities arose and he never
+really lost sight of what he was trying
+to achieve and once he over time he
+learned how to develop that perspective
+skill to become a better poker player
+next to carry that trailer picked up
+from him was resilience I mean anybody
+who listens to this episode or doesn't
+think this guy's resilience needs to
+re-listen but yeah just basically any
+challenge that came up he found a way
+for that to make him stronger to learn
+from it and he always rephrased
+challenges as something that was fun or
+enjoyable I never really got beaten down
+by anything thing that book out through
+his web so any challenge that came up
+almost battled hard on him and he came
+back even stronger third character trait
+I picked up was work ethic this guy
+works hard like so we talked about 500
+hours of redesigning his game we talked
+about 70 hour work weeks every single
+week for a full year a million hands in
+2020 playing 1K plus that's extreme work
+ethic really really uh yeah high level
+work ethic that he's learned to develop
+at the same size he pushed it he pushed
+it too far at times and he burnt out he
+had to learn to uh how to use that work
+ethic in a good way without burning out
+and pushing himself too hard then the
+next one's self-awareness you always
+seem to come back to uh try to
+understand himself better I found it
+very interesting when he thought about
+poker being a strategy game at first and
+over time he realized he had a lot of
+mental leaks that he was ignoring he had
+the self-aware awareness enough to see
+coaches seek advice in order to find out
+basically what was holding them back he
+also found out a very big strength of
+his which is to play high volume in
+tough lineups now for most players
+that's suicide when I volume himself
+lineups the most players you're gonna
+broke but for him that's what brings him
+alive that's what he enjoys that's why
+he still plays pocket today because he
+wants to be in those tough lineups to
+challenge himself to learn and get
+better and the final character trait I
+picked up was discipline and he for his
+discipline as doing the same things
+consistently over and over even when it
+gets boring so walking in mind for me at
+the start of the conversation was when
+he was talking about most people get
+good at something and then they stop
+letting the cap out he said because the
+the amount of effort to put in to get a
+slightly bit better becomes
+exponentially harder so this is called
+the law of diminished returns so if I'm
+going to learn a new skill whether it's
+poor girl something else you get a big
+increase like you spike up like zero to
+80 is very quick but maybe six months to
+a year but then that final 20 can take a
+lifetime so the peace have been proven
+the pace of learning is a lot harder so
+you don't get the immediate
+gratification you don't get to see
+yourself getting better in big chunks
+like you do with stars so now you're
+going to learn to be consistent and
+almost do the same things over and over
+for a smaller and smaller return in
+terms of getting better so yeah I think
+those character traits really Shone
+through really enjoy the conversation I
+think he's a yeah really high level
+thinker in many situations and yeah use
+it probably shared some wisdom that you
+guys as the audience can relate to and
+take on board going forward how about
+for yourself for any what are some of
+the main things that you took away from
+this conversation
+yeah like like all other other guests
+this characteristic traits you know this
+is not a coincidence we see a returning
+pattern right uh he also mentioned again
+surrounding himself with the right
+people he said that he was lucky to have
+the right coaches that gave him the
+right mentality you know he started with
+his coaching football then the people
+that he surrounded himself uh with in
+like the internet cafes then he ran into
+uh Stefan he ran into I think it was
+invoker if I'm not mistaking so always
+looking for people when he started to
+get troubles with his mental gaming
+hired the psychotherapist to better
+understand what's going on and in all
+situations he acknowledged that the
+situation was [ __ ] he accepted it and
+from there he just he didn't spend much
+time on like oh look I mean I'm in a bad
+situation he he never had a victim
+mentality right he also said yeah you
+know this is just how I grew up where
+I'm from life is hard to deal with it
+right and yeah the kind of kind of the
+yeah what does it kill you make your
+stronger mentality was definitely was
+definitely installed in him I also wrote
+down don't make it make him angry
+because then he will start studying you
+and try to beat you don't get in those
+anger side okay everyone from now on be
+very nice to Mr Victor if you play
+against him
+uh again a trend that comes back from a
+technical perspective let go of what you
+have to do right have a more Curious
+approach towards studying solvers why
+does it do certain things try to
+understand the mechanics he mentioned
+that it's very important to for example
+use the program called flopzilla in
+which you can just build uh ranges and
+see range distributions how equities
+favor on a certain board and in that
+process because you know a solver
+basically already did everything for you
+but in that process he says you learn
+things and that actually makes you stick
+and if you learn to understand like
+certain range constructions or certain
+Equity first Equity what kind of
+consequences consequences that would
+have to a strategy you will start to see
+patterns which become like sort of the
+mechanics behind strategies and you can
+then translate that to other spots that
+you haven't studied okay this guy
+actually what we explained in our
+coaching program as well that's why we
+call it the mechanics of Poker right
+it's built around certain mechanics and
+they'll come back in every spot learn
+the mechanics and you can basically play
+every spot okay
+and he also indeed talked about
+how certain things in a solver or
+motivations behind the software right he
+said yeah we Bluff because our value
+needs to get paid if you have a range it
+doesn't include Bluffs in the solver and
+a lot of gloves you don't get paid off
+so your value suffers and it's the same
+with no you don't have to call here
+understand that you usually only call to
+make sure your opponent cannot start
+over bluffing you so you basically call
+for realization and there's many things
+around solvers that people copy but they
+don't actually apply in the real world
+actually in our update that made a whole
+chapter I think it took two hours it's
+called solver World versus reality where
+I explained all the reasons behind the
+the strategies of solvers not
+necessarily from a mechanics point of
+view but more like why certain things
+are very important like indeed bluffing
+like indeed Bluff catching like
+balancing like you know all these type
+of things and then we're gonna reflect
+on how this actually applies in the real
+world so if you're interested in that
+reminder
+applications for are mechanics of Poker
+2.0 are now open okay there's we're
+taking on around 10 students so if you
+think you have what it takes to master
+the mechanics of Poker go to mechanics
+of poker.com and apply and then we'll
+review your application and see if
+you're the right fit for our program
+okay
+I want to thank everyone I want to thank
+my co-host Adam for providing all his
+knowledge again he went on some good
+Rambles about the Motions today I think
+it was very good stuff very definitely
+worth listening back to that as I think
+it's a struggle point for most players
+um yeah most men as we discussed I want
+to thank the audience again for tuning
+in make sure to leave a comment if you
+like the episode leave your main
+takeaways how this podcast is going to
+help you in your career if you're
+listening this on Spotify Apple Leaf
+five star review leave follow
+etc etc etc it's really good for growing
+the pot and that's going to be it for us
+and see you in the next episode
+[Music]
+foreign
+[Music]

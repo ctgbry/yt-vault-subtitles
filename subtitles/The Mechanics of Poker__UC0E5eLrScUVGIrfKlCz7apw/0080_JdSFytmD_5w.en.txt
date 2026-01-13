@@ -1,0 +1,561 @@
+Kind: captions
+Language: en
+if you make a mistake in poker it can be
+a technical mistake because you like
+technical knowledge
+usually then even after you play the
+hand you know you're not sure
+or it's like oh i think i played his
+hand fine but mental mistakes kind of
+happen when
+directly after the hand you already know
+ah [ __ ] why why did i do that then you
+clearly missed something
+and that's what you have to analyze how
+do you do that
+[Music]
+do you want the best of our proven cfp
+program without the long-term commitment
+then go over to the site
+pokermission.com
+mechanics also make sure to join our
+discord channel and
+sign up to our newsletter so you don't
+miss out on any
+new promotions hi there fellow poker
+fans and welcome back to another video
+here at the poker ambition channel
+in which today i'm going to be reviewing
+a hand that i played on stream where we
+made
+very nitty nitty nitty hero fold for
+which we played the chicken song for
+ourselves
+and i'm going to make a small analysis
+to
+kind of see if the hero fault was
+correct that's one
+and if not kind of try to figure out
+why or where in my thought process i
+went wrong that made me made a wrong
+hero full
+and as always guys if you like this
+video give it a thumbs up leave a
+comment down below and
+follow the channel and without further
+ado let's get into the hand
+so here we have the hand we
+are streaming on the waco show for
+people who have never been to a weka
+show it's live on twitch
+and we flopped and we flopped
+as i just stated in french sorry french
+people
+don't mean this in a bad way i just like
+saying
+when i have two pair i just like saying
+de pere yeah it's just a thing
+thing that we have what you gonna do
+what you gonna do when you have to pair
+i'm gonna call
+and you know it's usually poker is quite
+easy when you don't have a hand because
+it's just like
+do i blow for do i not bluff but when
+you have a good answer do i slow play do
+i check race
+do i do this so we decided to go for the
+check call
+okay it's go again and turn you can
+still be
+value betting worse in terms of maybe
+ace queen
+maybe some a stance suited
+so yeah as i just said he's going to
+turn i don't think check raising
+is going to be a thing we started to
+handle a little bit deeper which
+is important uh as this was also i think
+one of the reasons why i was leaning
+towards a
+fold on the river people are now like
+what the [ __ ] wacko did you fall to bear
+i've seen you stationed quite hard yeah
+i know i don't know what's happening
+either i was in a very nitty mood
+so let's see what happens so i think
+also if you get check race maybe at 100
+bb i think it's a fine check race
+you know you can make him fall like i
+don't know i had like
+10 9 or something but it's only a gutter
+um
+you know you can now get maximum value
+out of ace 10 a screen maybe get caught
+by a flush draw
+so i would say 100 bb i don't mind the
+checkers on the turn
+easy call not sure if
+he's gonna value bad ace queen on the
+river though so that's gonna be
+interesting
+so this i think is the first interesting
+spot you hear me say i don't think he's
+going to value that ace queen on the
+river so i'm clearly looking okay
+he's still gonna bat um do i have a
+bluff catcher is he still betting worse
+so this is like the first the first
+point where you can see my thought
+process going i'm already not that happy
+with the spot
+he goes in the tank and eventually
+shoves for 126
+pot
+i am not happy as you can clearly see
+this is not really a spot that gets
+bluffed all that often
+so the first birth point was i don't
+think he's value betting as queen
+anymore second point is i don't think
+this is a spot that gets blood very
+often
+for multiple reasons
+jack space check you can clearly see i'm
+not playing
+i'm not playing gto here as we have a
+very good blocker to
+obviously his value bats that's
+significantly reduced
+um and we're not really blocking his
+main blocks which like i said are
+probably gonna have to be
+a frequency through that preflop like
+108 off suit or something
+jack suit do you have ace queen
+i'm actually going to make a very neat
+default i'm not really feeding this one
+i am not really feeding this one
+so the weka wasn't really feeding this
+one and now obviously the question is
+well how can we figure out what was
+indeed the correct play
+first step is always let's look what is
+gto just to confirm i don't think it's
+ever going to be a fault but
+let's just look at what gto is supposed
+to do
+so here we have the sim let's start off
+with the root
+it's kind of my call range small band
+versus a big blind three bet
+with something maybe four bet these
+hands that's why it's at a frequency
+same with these holdings i would
+sometimes forbade
+we check and this is his strategy
+you can see actually we're not see
+betting as the big blind
+at a very high frequency it's around 50
+actually the sizing that you use is
+actually also not the preferred gto
+sizing but if you would use this sizing
+this is kind of what the strategy should
+look like
+and we can see in terms of bluffs the
+big blank in general
+three bet a little bit more of a
+polarized range than for example if you
+would play color versus
+mp okay then bluffs usually are kind of
+in the region of like some trashy aces
+some trashy kings
+some middling hands like these that have
+okay
+ish playability post flop and like some
+suited hands like
+10 10 x jack x 9 x that
+are not so good as like 8 6
+because a6 just it does very well as
+calling so it usually goes like one step
+to the right for a bit more trashy hands
+and then obviously we have the value
+region and in this region like some
+people prefer to three by these hands
+some people don't
+so usually i like to work with
+frequencies same with the bluffs like
+i'll just give i think like 35 percent
+frequency to all of these hands so that
+we don't get into a post-op scenario
+where
+for example if i always give him 10 off
+or never give him 10 and off
+which in this example for example would
+be quite a relevant difference
+that will really screw up the tree right
+so approximately
+18 percent extreme bet which i think is
+reasonably gto
+so he starts up with a bat and in gto we
+are mainly calling h3 so
+on the flop we played quote quote
+correct versus
+the correct strategy we call
+turn is the king of clubs i actually i
+seemed the hand already at a deeper
+stack size and i made the sim only use
+the sizing that our
+villain would be using for example again
+the one third and now the three quarters
+i don't think it's the
+preferred bad size scheme in gto
+probably we would see bigger here and
+after half potting maybe like a big bet
+on the turn
+but after one third i think if we're now
+in this scenario we would definitely
+prefer to bad pot
+so let's see what kind of hands he
+should be picking
+and let's see if that's relevant you
+should actually sometimes strap aces
+trap king jack this you know
+aces i guess could be happening i think
+if people trap aces unless they decide
+that they're just going to arrange the
+bet
+they probably trapped the flop though
+king jack i see most likely people are
+barreling
+um h3 offsuit actually is the hand
+that's in there and this is actually a
+little spoiler alert one of the hands
+that i didn't consider
+when evaluating the hand same for the
+king jack i was clearly
+i thought that i was in a bluff catch
+scenario in a spot that i didn't think
+would get bluffed enough
+if we look also at hands we see like
+some seven six
+in the mix which is completely nothing
+okay this is actually also something
+that i considered in game that i thought
+a lot of his blood should come from a
+lot of
+yeah the yolo the yolo bluffs like the
+seven
+six and again you know i don't think
+your average opponent
+finds uh finds the seven six all that
+often
+logical bluffs for for for the turn for
+villain would be indeed like the queen
+and after 10 and of the 108.10 seven off
+type of holdings
+probably often with a club as you can
+see the club is the dominant barreling
+hand as we can jam a little bit more
+rivers and we block like some folds so
+we have direct fault equity a little bit
+more often
+so he bets we are always calling
+never raising as i suggested i don't
+think we will do much raising on this
+turn
+and calls and remember is a deuce
+actually a deuce is not a blank
+okay as four or five suited now makes it
+straight and this
+is going to be the strategy of
+imposition so he's going to be jamming
+for
+around 100 big blinds because like i
+said we're a little bit deeper
+he's never betting a screen so that
+estimation was indeed correct
+his bluff should now mainly come from
+the
+10 9 10 8 and 7. the problem though is
+that
+we usually only barrel them with a club
+and people usually like to give up clubs
+on the river
+so if people are not aware
+of this they might if they only barrel
+clubs on the turns of the tenant and off
+the queen enough to clean it off with a
+club
+and don't fall bluff clubs on the river
+they will end up having no bluffs
+basically this is a problem
+combinatorically narrows his value range
+of taunton um
+could create a bluffing imbalance if
+he's not very careful
+we can see the five four being in there
+again the five sixty six seven and seven
+eight are gonna be bluffs at the highest
+frequency
+also the ten five to ten four this
+probably has something to do with the
+fact that it's uh
+uh probably that we are always calling
+h5
+due to blocking a straight for example
+ace five is four yeah these are
+dominated
+are our primary calls in terms of ace
+x so blocking our calls would make
+the bluff work a little bit more often
+that's why 10 4 and then 5 are so
+dominant
+and we can now see that
+ace 4 a3 so actually h4 is making around
+2bb a little bit less
+and a3 the two pair is actually making
+around
+okay so apparently the suits are quite
+important nothing in practice this
+really matters all that much so let's
+say the average
+we made around 4bb on a call so i would
+say actually the call
+maybe some people are now like oh
+actually i expected us to make way more
+so you can see actually already in gto
+to call
+you know it is a call but it's not like
+we have
+uh um oh actually king jack the two pair
+is actually a very bad call
+it doesn't really make much his queen
+also doesn't really make much yeah it's
+not it's not an ace jack where we make
+uh
+40 bb okay so the goal is already
+marginal ish
+another very easy way i like to
+just evaluate a river call is to use
+a program like equilab or poker ranger
+which is this program over here
+i already put it in our hands i put it
+in
+bluffing combinations and i put it in
+the board and
+it's as simple as on the river i'm gonna
+i'm gonna cheat now
+he's uh he's betting over the pot we
+need 36
+equity to call and in this estimation i
+have around 38
+equity so you could say that then we
+have to call
+and i gave him king jack i let him
+sometimes check the flop with kings
+and again like i said the blast has to
+kind of come from these hands so it's
+also very dicey
+if he's always three betting this hand
+then if he see bets them then if he
+always barrels them then if he bears
+there's a lot of ifs right but
+you know starting off with eight combos
+and then
+two combos jamming the river i don't
+think it's that unfair like i said the
+10 510 for suited always jamming
+especially the diamonds and the clubs
+um five four suited got there like i
+said the deuce is definitely not a blank
+guys
+um and obviously the h3
+so then you could see that we have a
+break even-ish call
+um in-game i kind of estimated the
+situation to be more like this
+then we have 33 which is three percent
+not enough
+so then we actually would have a fault
+um
+but i don't think this is true obviously
+he has
+he's gonna have history off some of the
+time he's gonna have king jack suited
+some of the time
+so this is clearly a spot
+that i've i think misplayed i think it's
+a call it's not
+as slammed on call as people might have
+thought
+uh let's say for example the hand was
+just on the bb we only have to be right
+uh you know significantly less so then
+it's a
+an easy call but due to this text size
+and due to the fact that i just think
+this spot is not really spot that people
+it's a spot where people i think easier
+lean towards under bluffing than over
+bluffing
+i made the tight fold but there was
+clearly a mistake in my thought process
+so if we conclude that technically
+you know it was clearly a call it's
+apparently a mental mistake and i want
+to kind of go
+through how to get to the root of a
+mental
+mistake if you make a mistake in poker
+it can be a technical mistake because
+you like technical knowledge usually
+then even after you play the hand you
+know you're not sure or it's like oh i
+think i played his hand fine
+but mental mistakes kind of hand happen
+when directly after the end you already
+know ah
+[ __ ] why did that do that then you
+clearly missed something
+and that's what you have to analyze how
+do you do that
+you do a mental health history this is a
+concept popularized by jared tender
+a very excellent mental game coach
+worked a lot with him
+and he's helped me a lot in my poker
+career including this process and this
+is something that i often do with hands
+so basically you're gonna go and analyze
+how your thought process was and look
+for where you made the mistake
+and look if that's a tendency or
+a way of thinking that often leads to
+mistakes so we can correct that and
+prevent more mistakes like this in the
+future so step one describe what went
+wrong in the hand aka what is the
+problem
+well the problem is that we made a fault
+that was incorrect
+okay as well in gto as well as in
+practice
+the second step is because we always
+what we do in game okay we're not gonna
+go uh gordon
+why do you do this [ __ ] all the time all
+the
+[ __ ] time i teach you don't do those
+gay bets
+why do you have to do it why
+i don't get it why instead of shouting
+at your students maybe there's a coach
+walking you have to ask yourself okay
+i'm interested
+what were you thinking while playing
+this hand that made you make this
+decision
+at the moment okay unless you really
+have a self-sabotage from another level
+you do things because you think it's
+correct you're not gonna make the wrong
+play on purpose
+okay so why did i reacted this way in
+this situation
+why did it make sense for me at that
+time
+why did it make sense well that's what i
+explained i thought it was an
+underbeloved spot
+and i thought we had a bluff catcher
+okay
+step three what is the flaw and why is
+it flawed the flaw
+is that we were not bluff catching as
+villain would sometimes bet a worse hand
+for value
+this is the main correction to the flaw
+this was just something that i missed
+now obviously in these hands
+particularly you can say yeah okay yeah
+you missed that
+but let's say for example you suddenly
+find out that you do this quite often
+and i'm not really surprised at the
+mistake
+because i've been in this kind of
+situation before where i make a big hero
+fault and just forget that he can
+sometimes have
+a worse hand for value so for me this is
+actually a recurring mistake
+so in my decision making process next
+time when i play
+i try to have a more top of mind that i
+think
+okay does my opponent have worse that's
+kind of where my decision-making process
+should start whereas we could clearly
+see on the turn
+and wherever i was going in a very
+negative
+projection of his range
+step four what is the correction what
+did we miss when did we go wrong
+kind of already gave that right we
+missed the fact that he could sometimes
+though you bet a worse hand step five
+why is this correct and what can we
+learn from this
+this is exactly what i also just said i
+went ahead of myself and the steps
+what we can learn from this is in the
+future keep track of his range a little
+bit better what is the bottom of his
+value range
+and do i beat that do i beat a worse
+hand usually in bluff catch scenarios
+if he's sometimes better in the same
+hand or he's sometimes betting a worse
+hand it's very
+very rare that you still end up having
+to fold
+so i think this is uh this is the main
+flaw in my thought process in this hand
+so this video shows you a little bit of
+a different insight i think this is a
+very
+valuable five steps that jared has
+provided the poker world with
+in order to fix their mental game
+mistakes so if you in the future play
+the hand
+that you already knew afterwards what's
+wrong go through this process i
+personally have gained
+a way better understanding of certain
+mental game leaks that are in my thought
+process
+and i've done a very good job in my
+opinion to correct those
+now if you liked this video give it a
+thumbs up leave a comment down below and
+make sure to subscribe to the channel
+take a look at other videos that we've
+made
+i'm sure you will like them as well
+follow us on instagram facebook twitter
+and twitch
+and make sure to join our discord
+community so you can stay up to date
+with new content new promotions that we
+have running here at poker ambition and
+if you want to know more about poker
+ambition and our services go over to the
+site
+pokerambition.com thank you guys for
+watching and see you in the next
+[Music]
+video
+you

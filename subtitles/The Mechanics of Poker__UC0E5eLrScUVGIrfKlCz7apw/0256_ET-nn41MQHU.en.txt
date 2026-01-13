@@ -1,0 +1,2304 @@
+Kind: captions
+Language: en
+All right, chat is working. How about
+audio?
+I think we should be good or at least
+audio wise.
+All right, chat is working. How about
+audio?
+I think we should be good.
+All right, this good
+All
+right. Now you can also see me.
+I my audio a little bit as suggested.
+Better now
+audio wise.
+How are we all doing today? We love you,
+Wacka. That's uh that's good to hear.
+All right. Great.
+So, uh, what we're going to do today is
+we're going to take a a deep dive, as
+it's stated right in the title, in the
+thumbnail, into, uh, into the data that
+I gathered on my the hands that I played
+during the Cash World Championship,
+40,311
+hands. It ended up being
+one close to 10 BBB 100, up 20k, and
+ended up finishing 11th. Unfortunately,
+I couldn't play like the last three or
+four days. I think when I quit, I was
+like seventh. And in hindsight, I wish I
+would have approached it a little bit
+different actually from the start
+straight away. I kind of, you know, I
+hadn't like if you listen back to the
+podcast for example that we did with
+some of the competitors, especially you
+know the winner, shout out to the winner
+Nikita Wars of Flop 45. like when he
+heard about the challenge basically a
+couple weeks in he was already
+scheduling and he was basically making a
+plan how to win this thing right whereas
+I was like first day I was like oh let's
+check this out a little bit second day
+so I took too long to dedicate uh to the
+goal and uh yeah I didn't have enough
+time to make up for for that delay
+basically for really tuning in and and
+trying to take this as serious as
+possible. Um, so yeah, that's a bit
+unfortunate,
+but uh, yeah, welldeserved winner. Um,
+obviously you guys only saw kind of
+snippets of the full conversation that
+we had with him. U, but yeah, overall
+definitely deserved winner. Great stuff.
+So, what are we going to look at today
+is indeed these hands. We're going to be
+using um, hand toote our mechanics
+league finder popup.
+and I will show you guys a tool and how
+to use it. And yeah,
+but before we get into all that good
+stuff, I want to quickly um ask you guys
+a question, which is
+how do you guys improve as a poker
+player? That's the question that I have
+for you guys.
+So you can just write it in the chat.
+What are some things that you do or
+maybe also that you find effective ways
+to work on your game, make progress,
+up your whim rate,
+you name it. any area that comes up, any
+habit that comes up, any
+ritual. Ritual sounds a little bit too
+voodoo, but uh I hope you guys get get
+what I mean.
+So, how do you improve as a poker player
+videos and play one table focused? So,
+you watch videos.
+Hope it's videos of the Wacko. It's a
+good source good source of videos. Play
+one table focused. So, when you say
+focus, you mean your focus on something
+specific or how how do you focus? How
+does focus actually work? It's actually
+quite an interesting topic.
+Shim poker says, "Look at the same sim
+and bash your head thousand times on the
+keyboard until you figure it out." Okay,
+that that's that that is a way to do it.
+It's probably going to take you a little
+bit long to reach mastery, but uh get
+your pil as a coach. That seems like a
+very very GTO way to improve as a poker
+player.
+Making sure the wine storage gets
+refilled on time. How do you improve as
+a poker player? I don't already see the
+the link there, but review hands,
+identify biggest mistakes, drill those
+mistakes, and repeat. H, that's uh I
+like it because this shows he didn't say
+one thing. He showed a process. And in
+the end, guys, a process for
+improvement, you know, doing the same
+things, the the most efficient things
+over and over again is in the end what's
+going to make you a better poker player.
+So, I like that from Ramsey Romero. Very
+good stuff. He reviews hands and then
+identifies his biggest mistakes. Then he
+drills those mistakes and repeats it.
+Watch the full mechanics of podcast
+poker poker podcast playlist. I
+definitely agree. Make the best
+questions to get the best answers.
+Understanding the underlying logic, the
+questions creates the frameworks. It's
+actually very deep stuff. Uh it's kind
+of very in line actually with my
+coaching philosophy.
+Like I like to to look for the
+decision-m process and what someone
+considers because usually if we make a
+mistake, it's because we were forgetting
+to focus on something or we were focused
+on the wrong thing, right? It's usually
+the things that we look for. Um that's
+where kind of the error occurs. The
+things that we take in consideration or
+forget to take in consideration. So the
+decision-m process up to the mistake.
+Get a slick back hair like yours. It's
+my second best guess. That would
+definitely improves your win rate as
+well. not necessarily at the tables
+though. But hey, there's more important
+things in life as well because
+memorizing every situation is not
+possible that I definitely agree with.
+I uh I wrote some points here and
+actually a lot of points I think have
+been mentioned right someone said watch
+videos you can watch videos of YouTube
+uh you can watch plane explains here I
+wrote right I think training sites like
+run at once you can watch uh yeah some
+very good pros also actually free on
+YouTube there's plenty of good plane
+explains out there um someone already
+mentioned GTO wizard joining the
+webinars of wacko at GTO wizard someone
+said I'm his favorite coach shout out to
+you I do my best. So yeah, GTO wizard
+definitely a great tool, right? Has
+endless possibilities. We can train, we
+can can watch sims, we can create
+nowadays custom reports, we can solve
+multi-way.
+Very very important tool. Uh we can
+study MDA, something that if you've been
+following the podcast series, Sherry
+Sweet mentioned that he was quite big on
+as well and that was actually a big big
+turnaround point for him. Studying
+solvers, we could do hand reviews.
+Something that I think it was Romero,
+right? Yeah, Ramsey Romero pointed out
+obviously also very important drills and
+trainers also someone said or it
+actually was part of the process you can
+listen to the mechanism poker podcast
+that was also said you can meditate it's
+important person you can get a personal
+trainer right you can hire coaches
+one-on-one coaching it can be either man
+mental or technical you can binge wackos
+content very good you can uh yeah like I
+said training site or you can do for
+example database analysis right all ways
+that uh yeah that you can improve as as
+a poker player. Now, you're probably now
+and this is actually a question that's
+that's often been asked like what should
+I do, right? What is the most effective
+way? Well, to be fair, I think all
+points here mentioned, yeah, are are
+valuable, right? But how do you how do
+you first prioritize,
+right, what works and most importantly,
+and that's kind of the point that I'm
+that that I want to get to that is not
+necessarily what of these things you do,
+okay? But it's how you do it. It's how
+deliberate you are going about doing it.
+So we can sit in the trainer and drill
+like someone said or we can watch we can
+look at a solver. Um but it's about how
+you use it that's going to determine the
+output. I like to always give this
+example that some people actually say is
+a bad example but I still give it. You
+know if you give me the best ingredients
+of the world I'm a lousy cook. Uh and
+even if with this great ingredients
+right and the great the best knives in
+the world I still can't cook, right? I
+will still make a shitty dish. So, it's
+not necessarily the tools that you have
+and what you do, but how you use them
+that's going to make that's going to
+determine the output.
+The best way and the place to start if
+you want to improve as a poker player,
+right? And in order to become
+deliberate,
+in order to improve, you must first know
+what's holding you back. This is always
+the start, right? If you don't know what
+your your strengths are, your weaknesses
+are, you're just going to uh watch do
+all these things very scattered, right?
+You see a plane, explain, you learn a
+little trick, but where does that go in
+your complete strategy? And is that
+actually one of the most important
+things to work on or is that just
+another shiny object? Uh, one of the
+most uh effective way to do this is with
+data. Data is awareness and awareness is
+power. It all starts with gaining
+clarity. It all starts with awareness.
+Any any any road to improvement starts
+here. So data analysis is one of the
+most effective ways to build awareness
+nowadays. I think this is quite uh out
+there, right? Giving you an unbiased
+view of what you are actually doing and
+not doing. There's been many of times
+that I fall victim to this that I
+thought that I was doing something uh
+and then I looked at my data and I
+actually wasn't or the other way around.
+And for example, to talk about the
+Kashkin World Championship and the
+value, for example, I heard actually
+plenty of guys who were on the live
+stream during the Kashkin World
+Championship or that only looked at that
+data after the championship is over.
+That's that's in my opinion an epic
+fill. Okay. I obviously you need if you
+want to do a deep analysis like we're
+going to do today, you need a little bit
+of a bigger sample. I will look at the
+40k sample, but I'll also look at a
+bigger sample of mine like around 200k
+hands from from last year. Um but even
+in a week period I would reflect on my
+performance in the CAS game world
+championship. So, you know, am I
+actually doing what uh what I what I set
+out that I was going to do? And for
+example, one week in, I actually course
+corrected a couple of things. I was
+like, hey, this isn't this is an
+attention point. This has been sneaking
+in, you know, and my my in case it was
+not being aggressive enough pre flop um
+with four bats and squeezes and three
+bats, which is a general tendency that
+I'm I'm aware of. And uh yeah, like it's
+very important to also on the short term
+monitor your data to see if you're
+actually doing what you set out that
+you're doing. Also, I wrote down what is
+working versus what isn't. Um this is
+actually something that we're going to
+dive into as well. Something that I
+think se separates what we made apart
+from the rest. So in general, right, why
+do we do data database analysis? Well,
+it's to raise awareness, gain an
+unbiased view of your tendencies. I I
+almost like to see it as just a tendency
+checker, right? What are your
+tendencies? Actually, an unbiased view
+and find it very unlikely and surprising
+if someone would do that and he would
+not find things that he did not expect.
+Um, it raises your performance and
+specifically your BNC game. Okay, if you
+do database analysis and you kind of you
+might say like, okay, yeah, well, my my
+pool, you know, plays different or I
+adjust towards my opponents. Sure,
+there's plenty of notes where you're
+going to make a read in game, right? And
+you're going to do something different
+than what you would normally do. Uh, but
+that's usually the exception. So, what
+you see in your data and what you see in
+your stats, that's kind of your BNC
+game. That's how I like to see it. So,
+do you have certain tendencies that are
+present in your BNC game that just cost
+you money in the long term, right?
+Deviations from GTO that are not on
+purpose, but simply usually bias driven,
+right?
+So we're not necessarily with this
+process focusing on becoming or raising
+our agame. We're trying to solidify the
+thing that we fall back on, right?
+We're trying to increase efficiency
+because if we do database analysis and
+we figure out what our biggest
+weaknesses are, we can now become
+deliberate in terms of for example
+someone mentioned training or you know
+looking at the solver instead of just
+looking at whatever spot interests us at
+that moment uh or where whatever our
+attention goes towards because you know
+we might feel uncertain about something
+we can actually zoom in on that where
+we've identified we have the biggest
+leaks. So basically what we're trying to
+do is become more efficient with our
+time. So we can increase our efficiency
+by only focusing on what really drives
+the highest return.
+Something that's very interesting and
+that kind of comes in the later points.
+This is kind of more like mental game
+focus and engagement sort of extra
+benefits or side effects of working on
+your game. You'll start to become more
+focused and engaged. Someone said uh
+playing one table and I'm very focused.
+Focus usually also comes from curiosity
+and curiosity comes from being taking a
+look at your game and be being curious
+for it. So you're enga you will have
+better focus. You'll be more engaged and
+therefore you'll stop autopiloting
+because you have new things to work on.
+So autopiloting is actually something
+that your brain automatically does to
+save energy. it spots a repeating task
+like playing poker and if you have
+nothing to work on if you don't give
+your brain anything it will just
+identify this as a repeated task and
+basically it will go into the mode the
+same mode that if you would be brushing
+your teeth it's done that 100 times so
+it's like I don't have to think because
+I'm brushing my teeth um so think about
+it if you don't go into a poker session
+having something to work on your brain
+is in the same mode as if you are
+brushing your teeth you think this is as
+good for your poker game probably not so
+that's like a little side
+side effect of working on your game,
+you'll become a sharper and more present
+poker player. And actually, this will
+actually be way more satisfying. Working
+hard on your game and trying to become
+the best version of yourself is actually
+way more satisfying than and way more
+way easier in a way than it sounds,
+right? You might think that it's very
+hard to become very good at poker. But
+if you have the right system to follow,
+then this will actually be quite
+enjoyable for you if you know what to
+do, right? You're kind of in that flow
+channel where you know your skill level
+and the challenge, they're they're just
+right because you know what to do. And
+then what happens is you actually start
+to enjoy working on poker because you
+feel in control, right? And I feel like
+a lot of players nowadays, they're very
+motivated. you know, they want to put
+their time into something, but they're
+not really sure where to put their time
+in, right? And that kind of demotivates
+them in a way.
+Resilience, uh, you become less
+resultoriented. Poker comes with ups and
+downs, right? And in the end, it's the
+person who shows up most consistently
+that will win. Okay? In the end,
+longevity and consistency are the skills
+that in the end all comes down to. We
+could talk about many things, right? But
+in the end, the person who shows up
+consistently and for the longest. over
+let's say a 20 20 20 year period, you
+will probably win the most, right? And
+how do you do that? By being process
+focused. So you're you're focused on the
+process. You're focused on improving
+your game, not necessarily make the most
+amount of money right now. The money
+will be a consequence of you uh working
+on your game. All right,
+stat checkers. Okay, you've probably
+heard about them. Leak finers, stat
+checkers. Basically, what we're doing
+here is we're going to review data of
+hands that you played. And this is, like
+I said, the best way place to start if
+you want to improve as a poker player.
+Hand tootee stat and pop-up packages.
+You know, you can buy many, like I said,
+stat checkers, leak finders, etc.
+They're used to review performance, find
+leaks and tendencies in your and your
+opponent's game. You can also use these
+type of tools where you either analyze
+your game or you can look at analytic of
+your opponent like someone I think in
+the chat pointed out. uh how do you
+study MDA? Well, you can do it basically
+with the same tool. That being said,
+certain tools are more specifically
+weighted towards analyzing your game.
+Doesn't mean that they still cannot be
+used to analyze your population. Uh but
+there is a a small difference there.
+Actually, most tools out there don't
+really make a distinction um because
+they kind of wanted to be able to be
+used for both. But actually there I
+think you know by trying to uh trying to
+serve both purposes you kind of miss
+excelling in one in my opinion. So what
+do these tools allow you to do? Usually
+you know they have a stat for every line
+in the game tree. You know if you go to
+for example the handote store and you
+find all these type of uh packages that
+you can download. One says they have
+2,000 stats other one has 5,000 sets.
+Other one has 10,000 stats. Uh but
+usually what they all do is they break
+down every line and spot in the game
+tree. You upload your hands and then you
+can see your stats, right? Stats are
+nothing without a benchmark. So nowadays
+most of these tools they have GTO
+benchmarks that you can compare it to,
+right? Because in order to identify if
+something is good or bad, we need a
+benchmark. And the best benchmark that
+we can go for is GTO. Now this doesn't
+mean that if your stat is higher or
+lower that it's a leak per se, right? It
+just means it's a deviation from GTO.
+And you have to now reflect on that if
+that's on purpose, right? And that's why
+I said raising awareness. Oh, I deviate
+from GTO here. Do I have do I have a
+good reason for that? Do I think the
+pool is doing X or do I think the pool
+is doing that? If so, and we we also
+check, we can actually also see if
+that's indeed effective.
+And usually they then also kind of color
+code so you can identify straight away,
+oh, I'm too high here, I'm too low
+there. That's usually what most uh tools
+allows you to do. To give you an idea
+about how long I've been working with
+this type of uh this type of process, as
+you can see here, this is a this is a
+photo that I made of a whiteboard that
+uh was basically in my office. I shared
+an office with three other poker
+players. And here we can see end of 2016
+was a goal. So that's nine years ago.
+And basically I did what we now nowadays
+we have twos, right? But back then we
+did not have as sophisticated tools. So
+a whiteboard was my to go to and work
+like using this process to work on your
+game. Like I said something I've been
+doing at least since 9 years ago. And
+obviously that has evolved right in the
+past was just a whiteboard then it
+became Excel sheets then it became uh
+hand toote then it became GTO benchmark.
+has evolved and so has my approached
+right but still it's very very very
+efficient right in order also to uh to
+see if you've done well by the way I was
+a big nit 46 more 41 was a flop shame on
+you um but hey we made improvements
+because we we worked on it deliberately
+right we identified it which was step
+one like hey my one was a flop is quite
+low well what can I do about it let's
+break that down um
+so yeah now a day so this is kind of
+where it for me started And this is
+where we currently are. We have the
+mechanics leakfinder which is a hand
+toote stat and pop-up package. And
+they're actually included in our new
+program, the leakbuster program. All
+right, probably you can see somewhere on
+the screen out now. Mechanics leakbuster
+program info link in description with
+this tool. Okay, we take leak finding
+tenency checking that's actually more
+how I like to to see it as well to a
+whole another level. And how do we do
+that? Uh like I said earlier, actually
+this is the last point, but I want to
+kind of start with that. It's not
+necessarily more stats, right? U maybe
+actually it has more stats, but every
+stat that's in our league finder is
+there for a reason. And I thought about,
+okay, I have years of experience league
+finding myself, years of experience
+coaching of hundreds of students. What
+do I usually look for? And what are
+really important stats that if I see
+them make me alter my strategy, right?
+So it's not I'm not here saying that
+okay well we have more stats than others
+that's not necessarily uh where the
+value is where some of the value is and
+that I think are kind of points that are
+very different is we focus a lot on
+detecting variance so I think a struggle
+with a lot of poker players are that
+they kind of lose their [ __ ] right they
+either become overconfident when they're
+winning too much and they become
+underconfident when they're losing too
+much actually something that I first uh
+made in my CFP like five years ago or
+something I Actually, that was I made it
+in Excel. Surprise, surprise. You could
+basically with all the manage you could
+filter your your win rate stats and for
+example, how often you would flop a set,
+turn a set, and how how much money you
+would make with that. And then basically
+in the short term, you could see like,
+oh, how much variance was impacted on my
+game. So, for example, I know that some
+people they don't like to work, for
+example, with win rate numbers over
+short samples because they're variance
+sensitive. But that's actually the whole
+point, right? If we have the GTO
+benchmark of what a set is supposed to
+make in terms of win rate and we saw
+that in a month that we did very well,
+first of all, we didn't flop a set as
+often and when we did flop a set, we
+actually lost a head way more often and
+we have a very negative win rate. We can
+at least give a diagnose on the reason
+why we've been losing. Same the other
+way around to not start thinking that
+you're now the best poker player in the
+world when you finally had a great
+month, right? by uh by thinking okay I'm
+the best now when you just saw that your
+prefro win rate all in was like four
+times what it should be aka you just got
+your premiums in very often and you won
+right so detecting variance and I will
+show you this in a second right I played
+40k hands during the cash game world
+championship so that's obviously a
+sample in which variance is going to
+play a very big role most probably if we
+look at the winner right one was a flop
+obviously he played great poker but
+probably if we look at for example his
+pre flop or win win rate I can almost
+guarantee to you. And this is usually
+what you see if you grab data of bigger
+winners over a shorter sample. They
+usually outperform massively in pre-flop
+points. That's just a very big part of
+an upswing, right? Um so this actually
+something that's uh that's very
+different. Evaluate how your strategies
+are performing in game. Now obviously
+you can just look at frequencies, but
+what we did is and like I said this
+comes from a reflecting of okay, what do
+I think is important? Seeing how often
+something actually works. So think about
+success stats. Think about equity
+realization stats. So how often are you
+facing aggression? Obviously we can look
+at Putin and see oh on average the P
+does it this but what about versus you.
+So in our in our league finder uh we
+will have actualization stats. How often
+you face certain aggression? Let's say
+for example you call the turn how often
+on average do you face aggression on the
+river? Now why is this important? Well
+if we know that on average we will face
+4% less aggression on the river. We can
+actually call turns lighter because we
+get to show them more often. Like I
+said, every step is in there. Um because
+there will be a strategical consequence
+if it's either too high or too low. And
+actually, this is also where I come in,
+right, as your coach. Uh I will not just
+give you all these things and say, "Hey,
+good luck with it." Which is what most
+people do. No, I will show you exactly
+how to use and interpret the data.
+Take a sip of water.
+frequency is broken broken down in range
+composition.
+When you see a certain frequency that is
+outside of the norm, so outside of the
+benchmark, you can say, "Okay, it's a
+high to low." But why? Um we have like
+bet size breakdowns, hand class
+breakdowns with GTO benchmarks. And this
+is very important obviously in hand to
+note for the people have used uh a
+something like this. You can click on
+it, you can see the hands, but you have
+again if you have no benchmarks, you
+don't know. Okay, I'm folding middle
+pair 36% of the time. Is that good or
+bad? I don't know. So what we done is
+actually broken down every hand class
+with GTO benchmark so you can
+immediately which hand class is causing
+the the error in frequency. Same with
+the bat sizing.
+Now not all spots like I said can
+actually be benchmarked with GTO. Think
+for example multiway limp pots. We
+actually also added um population
+benchmarks and even stats of like bigger
+winners so you can compare your game not
+only to GTO but also do that of other
+humans. Okay, so this is all great,
+right? Like I said, stat checking, leak
+finding, however you want to call it,
+tendency checking is very important
+because it all starts with awareness.
+But guys, awareness is not enough. If I
+was just here because I had a great
+popup and uh and that's the only thing
+that I could bring you guys, I would not
+be going live. I don't think that is
+something that I could contribute to the
+poker community that I think delivers
+way more value. uh than there currently
+is. Like I said, I do think it's better.
+It's more it's uh uh but I don't think
+that alone would justify that we are
+going live here on YouTube. It's not
+it's not necessarily the standard that I
+set because awareness is not enough
+because true knowledge is when awareness
+survives pressure. A very big confusion
+that people have when they do stuff like
+this, right? They go to hand to note and
+they look at their stats. They think
+like, oh yeah, okay, I saw that I'm
+overfolding. So now that I'm aware of
+that, you know, I can now go and play
+and I will not be overfolding anymore.
+No, that that's not how it works. You
+became aware, right? But knowing is when
+awareness of ice pressure. So when
+you're six tableabling in a down swing,
+you know, and the spots come up, do you
+revert back to your leaks? And I'm
+pretty sure that a lot of people are now
+like, "Yeah, I'm aware of a lot of
+things, but I cannot help myself,
+right?" But they they seem to keep on
+coming back and it keeps hindering me
+from moving forward. That's the things
+that I'm interested in fixing. Okay. But
+obviously in order to first identify
+that we have to go to step one which is
+finding the leaks by using um like a
+stat checker, leak finder, tendency
+checker, however you want to call out,
+right? Because these tools they are
+great and like say I've used them a lot
+but they are actually just the beginning
+and it's only the first steps towards
+achieving your goals. And this is
+actually where most products tools they
+give you this and they kind of tell you
+well this is it. But this is not it
+guys. This is just the first step. I'll
+show you this in uh in the process that
+I've used over many years in my own pok
+career taught to a lot of my students. I
+usually call it the feedback loop. It
+all starts with a goal. So you insert
+your goal here and we start by becoming
+aware, right? Because awareness is
+power. You gain clarity and from there
+you can start improving. these hand to
+note stats and pop-up packages is step
+one and that's where most tools programs
+they they end where okay so you get all
+this information congratulations you
+found out that you have at minimum
+probably 50 uh 50 leaks that you can
+work on now what right uh this that's
+why that brings us to step two which is
+how do we learn to prioritize what to
+work on right and if after you done that
+we have to come up with the diagnose
+what is actually the root cause of this
+problem and this is actually something
+where it often goes wrong like I said
+I'm sure many players maybe maybe
+actually we can uh we can refer to the
+chat here is there any mistake that you
+can now think of that you are aware of
+but that keeps on coming back
+all right so we've gained awareness by
+step one I'm sure many people here in
+the chat they've done this type of work
+right and they they might they might
+have followed the the process of what
+Romero said, right? They went to the
+driller, they did they tried to do
+everything, but it's still it still
+keeps on coming back. There's certain
+leaks, you know, you you you remain too
+curious. You keep making those stupid
+hero calls in the river or you keep
+punting your stack off or you keep
+overfolding despite that you know that
+you're doing it. like I've actually had
+many coaching sessions which was also
+one of the reasons this kind of this
+program came alive and then I said so I
+would review people's game right step
+one and then like yeah I know but I
+don't know how to fix it
+right
+MDA demon is a new one so he's referring
+now to uh to one of these tools any any
+leaks for example I can share maybe a
+leak of myself like under bluffing
+rivers in position due to uh no actually
+let's not go too into jutu but under
+bluffing rivers in position or
+overfolding versus raises or like I said
+earlier I think earlier in this
+presentation under aggressing pre flop
+all like things that if I don't pay
+attention to that or if I don't work on
+resolving it at the root cause right we
+can manage symptoms very good at that I
+was actually very good at that in my pok
+career as well um we can manage the
+symptoms but we're not we're We're not
+fixing the root cause.
+Heroing. Yeah, this is a very classic
+one, right? Heroing. Out of piling,
+being a unable to focus, loss of
+determination. This is also a classic
+one. Um definitely something that uh
+that we will discuss as well. Hero
+calling under bluffing river is common.
+Yeah. So basically uh yeah I mean I
+don't want to go don't want to make this
+a whole course on um or a whole
+presentation on how to fix this but
+these are all indeed leaks that you went
+to step one right you analyzed you
+became aware but now we have to go to
+this probably step three right might
+make the correct diagnose what's causing
+the problem uh and then for example to
+take the autopilot thing yeah okay then
+what do you do well you drink an extra
+coffee or you zip an extra rebu or you
+tell yourself to focus more but probably
+you've tried that uh procrastinates too
+much. Funny, it's actually probably in
+the same category. Uh if we think about
+root causes, uh that that's again that's
+managing the symptoms. You're not you're
+not fixing the root cause. Um
+afterwards, we have to train. Then we
+have to think about game time. Okay,
+what do we do before we play? How do we
+perform in game? Uh then we have to
+evaluate our process, monitor our game.
+Like I said something earlier that many
+players weren't doing during the KZ game
+world championship that for me I course
+corrected very quickly. I saw that some
+things were flawed in week one. I
+immediately course corrected it and I
+started to do better right after that.
+And repeat uh this is a very important
+one. It's like getting getting good at
+poker or getting good at anything
+mastery right trying to reach mastery it
+never ends because basically you always
+you always need to improve. Okay there
+is no stagnation. You either go
+backwards um or you go forwards. It's
+your choice. So this is only step one.
+Now the league buster program
+is what I designed in order to fix this.
+So many tools help you find it, but they
+don't help you fix it, right? And that's
+actually where in my opinion the value
+is. And this is what I kept on seeing
+over and over. And this is kind of how
+this his program came together. So, what
+we're doing with the League Buster
+program is turning awareness into an
+actual win rate increase, right? Turning
+your data into actual action points that
+we can do in order to actually improve
+as a poker player. So, with the league
+buster program, you don't just find
+leaks. No, you will fix the leaks.
+That's the difference. Now, the leak
+finder, the tool for hand to note,
+right? Uh is basically the best way to
+start. Uh that's also why there's so
+many tools out there, right? It's just
+part of it. But in my opinion, even
+though I think it's clearly clearly
+better than the rest, right? I would not
+launch something that I don't think is
+superior. Uh it's just a part of it,
+right? It's step one. It's analyze. But
+what about all these other steps, right?
+So what we give you with the league
+buster program is a step-by-step system
+towards continuous improvement.
+We will help you fix the root causes
+instead of managing the symptoms. So for
+Mr. procrastination with the autopilot
+and not being focused. Not necessarily,
+you know, drinking another red boot to
+make sure they get focused more, but we
+go to the root cause. Why you're why
+you're not engaged, why you're not
+focused. Learn how to interpret the data
+effectively. This is something that I
+see wrong all the time, even from guys
+who actually promote these type of
+tools. Uh they make pretty big blunders
+here and there. So data again, it's not
+necessarily what you do, but it's how
+you do it. So how do you interpret the
+data? How do you work with this data? So
+I will teach you that as well. I will
+give you tips, tricks and exploits for
+every node. Like I said, not every
+deviation is a leak. So what I will do
+is I will go through every tab of the
+tool and I will show you guys my game.
+So I will go completely naked, right? So
+if you ever play against me, you want to
+know exactly all my frequencies in every
+spot and all my tendencies, well get the
+league buster programs, join me at the
+tables and you can basically get all
+your money back straight away by
+exploiting me. Um maybe actually this is
+not a great idea. Please please don't do
+that. Um but tips, tricks, and exploits
+for every note. So like I said, I will
+show you why I prefer certain
+strategies. I will show you guys how can
+we evaluate if certain strategies are
+working, yes or no. I will tell you why
+we should be deviating in certain notes.
+So it's not just here is the tool and
+here's the GTO benchmarks. No, you
+actually get expert guidance, right?
+Something that I think is often missing.
+Stop autopiloting for Mr.
+Procrastinating too much. Stop
+autopiloting. Play sharper and enjoy
+poker again. Actually, we are very wired
+to enjoy progress. Okay. But why don't
+we then shoot for something higher,
+right? Because we think it's difficult
+or we don't have a clear path. And I'm I
+want to give you the clear path.
+Increase your confidence and belief that
+your biggest goals and dreams are
+possible and more attainable than ever.
+I think a lot of players, they kind of
+give up because they lack the
+confidence, they lack the belief, and
+they don't have that clear path. And by
+giving you the clear path, giving you
+all the the tools that you need, all the
+knowledge that you need, you will feel
+more confident in your abilities, right?
+I can teach you how to how to play
+poker, right? But I think the most
+important skill a poker player can have
+is the ability to continuously improve
+and evolve, right? I could teach you a
+certain strategy, but maybe a couple
+years from now, that's not that's not
+great anymore. Then then what? Right?
+You need to get to another coach. This
+is the most important skill a player can
+have. All right?
+understanding uh how to apply the system
+of continuous improvement and do this in
+in the correct way because if you
+consistently do the right things,
+success becomes inevitable. All right, a
+little belief breaker here. If you don't
+think uh or if you're not looking at,
+yeah, wacko, but that's you. You know,
+you're this talented guy from the
+Netherlands, you know, good-looking,
+nicely hair, slick back, right? But
+that's not me. Uh well, you don't need
+all of that and luck or talent, but a
+systematic approach to getting better.
+And that's the thing that I give you
+that has worked for me. uh hundreds of
+students that I coached and basically
+it's daily habits and routines that
+compound over time. That's what makes
+success. Okay? Not luck, not talent, a
+systematic approach to getting better.
+All right,
+I will now go into the leakinder.
+Like I said, this is only part of the
+full program. So, if you already have a
+lot of experience with leakfinder,
+with leak finding yourself, if you use
+hand toote a lot, etc., Uh but yeah, you
+still find yourself stuck and still do
+the things that you know you shouldn't
+be doing, right? Uh league buster
+program will definitely be able to fix
+you. I will now dive into my hands from
+the Cash World Championship using the
+tool. And this is kind of what I said,
+right? If you look at my Cash World
+Championship, I was off to a rough start
+in the beginning. What is going on and
+how did we turn it around? Monitoring
+versus analyzing. Like I said earlier,
+analyzing is something that we do over a
+big sample, but monitoring is very
+valuable. Don't just say like oh this is
+a low sample so I should not look at it.
+You should definitely look at it because
+after this like first 10k hands I wanted
+to know what's going on. I wanted to
+have a diagnose. Diagnose gives peace of
+mind right. So what I did I went to uh
+the leakfinder tool which I'm going to
+now open for you guys.
+Let me see. Let me also get up to date
+with chat before we get into that.
+You also need the NDA of population
+though a lot of stuff that would look
+bad on your stats compared to J would be
+good for population. Yeah, that's
+exactly uh what we dive into as well and
+what I will explain as well. But it's
+not necessarily like you can obviously
+look at population but then you still
+don't know how your game is actually
+performing and that actually I will show
+you uh to give you like an idea for
+example, right? How much aggression do
+you actually face? Do you face more
+aggression on average than other people?
+How effective are your bets? Right? Is
+your exploitive strategy working? Stuff
+like that. Right? I'm getting a little
+bit ahead of ahead of myself here.
+Um, hello. Can you tell us how it's
+different from other products on the
+market and what makes it better than
+something like Moi stat tracker? Uh,
+actually just explained that maybe you
+just checked in. Uh, like leak finding
+and a tool like this is only step one
+and that's basically where everyone
+ends. This is just the tool that helps
+you raise awareness. Now, I think we do
+a better job of that, right? Uh, but
+after that, what do you do with this
+awareness? That's I think where most of
+the value is. So most of the value is
+not necessarily this tool that I
+definitely think is great used a lot and
+like I said has evolved over the years
+but more the how to then go about fixing
+it. That's where the the the real value
+is. So look at my game. All right we won
+at 9.4 BB 100. Uh we can see it here
+breaking down five six and three to 400.
+This actually been a trend throughout my
+career. Usually in battles I do better.
+Um but this is obviously a very low
+sample. So this is obviously uh purely
+purely variance. But for example, if we
+would go to a bigger database of last
+year, this is mainly 2024.
+Uh this year I hadn't haven't really
+played much poker. We can see the same
+over 55k hand sample. I'm winning at 3.5
+BB. The win rate that you see here
+behind it is actually from population.
+So on average population usually loses
+in battles. Uh whereas I always have the
+opposite. Battles. I like battles guys.
+I play better versus uh versus pros
+versus recreationals apparently. But
+this is also again this is more of an
+focus and engagement issue, right? If we
+talk about diagnosing the mistakes, uh
+it's not necessarily that I'm a better
+player playing three to fouranded. No,
+I'm on average more engaged. I'm more
+focused and therefore I play better. Um
+a little spoiler for Mr. Procrastinate
+too much. Right? So in order like to
+make the diagnos of why that is, there's
+many areas where this can be in actually
+something that we touch on. Let me see
+maybe if I can show you this as well. If
+I go in the actual course, this is
+actually the diagnose and redesign right
+after you've analyzed your game. Like I
+said, we run through every tab.
+Then we have to prioritize. I explain
+everything about that here. Then we go
+into diagnosing and resigning. Usually
+mistakes can fall into three categories.
+Little spoiler, you have knowledge. And
+this is what I mentioned, focus and
+engagement. The reason why I do better
+in battles is not because my opponents
+are are are are better, right? No,
+usually the opponents that are battling
+are better players. Uh but I then also
+become a better player because I'm more
+focused and engaged. So, uh yeah, this
+is usually like the mistakes and like I
+said, I'm going to basically go deep
+into all of them here. So, like I said,
+this is specifically if you for for
+these leaks that keep on returning. Like
+obviously there's some easy things,
+right? Oh, yeah. Pre flop. I'm not
+defending enough. Okay, I will start
+defending more. But there are certain
+mistakes that just cannot really be
+fixed in that way which I'm sure many
+many players will have experienced. Um,
+so that makes you switch back to the
+casum world championship, right? Or
+actually let me actually show me one
+more thing in in the food database. So
+big blind win rate, we will see that as
+well. It's usually one of my one of my
+strengths actually big blind defense and
+what we can for example see and why why
+that is that way. I'm already loser pre
+flop for that reason. But why am I loser
+pre flop? If we go to single race spot
+out position pre flop caller. Uh so
+that's us. We can see that on average
+how often things perform. So what is
+outperforming if we can see the betting
+on all streets. So we called from the
+big blind and we for example dunk bet
+the flop which for people follow me know
+I like my dunk bets. Well that's because
+I get a how much is this? 7% overfold uh
+with a flop dunk, right? I get a 5%
+overfold. And this is not like, oh,
+let's look at population numbers. No,
+this is actual my strategy, how my
+strategy is performing. Well, I'm
+getting a 5% overfold there on the turn.
+And I'm getting another 7% overfold
+there on the river, right? Especially
+for his block bet, for example. We can
+see here it should be 27. I should only
+get 27% success, but I getting 41. Uh,
+how often do I get um raised? How often
+do I face a bet? All stuff that we can
+take a look at. For example, on the
+river, I'm facing a bet only 30 where it
+should be 34. So, I'm overrealizing 4%
+equity. So, if we think about that,
+well, if I get to the river and I get to
+show them more often because people are
+uh not bluffing me, okay, well, I should
+probably get to the note more often,
+right? So, we can kind of reverse
+engineer that way.
+Let's go back to the Cash World
+Championship sample. So, what I was
+mentioning earlier, like things in the
+beginning, uh, didn't look that great,
+and I was like, what the [ __ ] going
+on, right? Assuming, you know, that that
+that that I'm a I'm a decent player. Uh,
+but even a decent player can over a
+short sample show up and not perform,
+right? So, I straight away looked at
+like a kind of a first a first overview
+of pre flop, and what I straight away
+saw is that my squeeze, I believe, was
+at like 6%. Uh my three bet was I think
+at 10%, my four bet was at 12% or 11%.
+aka I was being very passive pre flop
+like you now see after the 40k hands is
+over I up my three bet I up my squeeze
+up my four bet because I became uh I put
+my focus on it right so I used the to
+monitor my tendencies right um also I I
+could check okay was I opening enough
+like these games were no rake and also
+with anti so these are like the
+benchmark for like a normal six max
+cache game I was clearly opening way
+looser the small blood was opening less
+but that's because I was mixing
+Um I was limping
+oh here we can see actually I was
+limping 51% on average I was v pipping
+76%.
+Um
+because I like to in general play a mix
+because I think from a mix you can uh
+exploit better and here we can also see
+in terms of how successful our steals
+was how often our our our hands got
+three. For example, I was opening button
+52 and I was actually not getting three
+bet that much 26 compared to what should
+be 27. So actually I was opening more
+and I was getting three bet less. So
+again, it's like a reflection of how are
+my button opens doing in game. And what
+I actually quite often see if I if I uh
+if I analyze um my students that you can
+for example see oh you're going wider
+but is going wider is that exploit is
+that working right? So you want to not
+be get three bit enough and you want to
+still get high success. tree's going to
+be the most important thing.
+Um
+very wide like I said earlier if you
+look at all these number all red
+obviously because these are benchmarks
+for like higher stakes with rake but
+obviously for big B versus uh versus the
+2.3x open in the game with for example
+anties and no rake yeah I was I was only
+folding 33% instead of for example 45%.
+But actually the main thing that I was
+looking at is like what I said earlier
+was the variance tab. This is uh
+definitely something that's very
+different probably than what you're used
+to. And what I saw that where I can see
+now that I got all in with ace king
+versus queens. Like I said if you on a
+over shirt sample do very well. Usually
+you will see that you actually got
+queens plus and ace king off more often
+and you got them in more often. Right.
+Right. And actually I can see that here
+as well with my premiums in the end over
+this 40k sample I outperformed almost 2x
+and I would I would guess that if you
+look at most players who ended up on top
+over like still a relatively small
+sample we all outperformed probably with
+our premiums right in order to reach
+like team 10b 100 or more. You need a
+certain degree of luck in in in that
+area. Actually I was dealt ace king and
+queens actually less often. As you can
+see, you should be dealt at roughly 3%
+and I got dealt at 2.5%. But I won way
+more with it. As you can see, my win
+rate was 778 instead of 515. And also
+just one in general more on showdown. So
+they remained good more often and I got
+them in pre flop and they holded right.
+So a contributor also what I was
+actually seeing over that first 10k
+sample um I was flopping sets pretty
+decently but I had a very terrible win
+rate. And I actually remember one of the
+first hands that I played was actually I
+had pocket nines flopped a set on three
+nine 10 in a three squeeze spot even and
+the guy had tense. I lost a lot of my
+sets quite early on. So I looked at like
+okay what's going wrong? Well, if you
+see that for example when over a short
+short sample, you know, you want some
+peace of mind and you see that okay,
+well, when I have a set, my RAM rate is
+negative
+negative 2K, right? And I when I go to
+showdown, I don't win it. Like in the
+end, for example, you can see that I
+overperformed with my sets. We can see
+that in win rate both also when I went
+to showdown, I won way more often than I
+should, right? 10% more often. So that
+means that I've been running good. I've
+been flopping sets more often, winning
+more because I've also been holding,
+right? So, there's plenty of things that
+we can go through. Actually, one that I
+think is really cool uh that I think is
+also a big indicator of variance is like
+when you have when you play a three and
+four bet pots and you have an over pair.
+So, you have 10 to kings, how often do
+you actually hit an over pair and how
+long how often does it remain an over
+pair? I remember in like periods where I
+was not doing so well. I remember I had
+a period where this was like 30 35 or
+something. So every time I I a three bit
+or four with an over pair an overcard
+hit the board right and these are like
+obviously you can look at your all in EV
+but that only tells like a very small
+story. So basically this tab and this is
+only the beginning um like this is
+already we're now version 1.6 six uh so
+there were already six version before
+that and we continuously keep improving
+it but this like I said in the end
+staying consistent in poker and staying
+sane keeping your confidence in check
+both not going too far to the right and
+toward the left that's a very big part
+of what makes a successful poker player
+and this variance tap is here to help
+you with that okay so as you can see
+here actually even though I had over
+pairs more often I actually won less
+with that so that's not great uh which
+probably means that I got a bit unlucky
+or I misplayed them right obviously we
+cannot necessarily now see that straight
+away from the data for that like this is
+just the first overview page where we
+are we're going to go deeper and deeper
+and deeper um but I would say that so
+far this seems a pretty bad variance
+also if you look at we still had an
+overturn quite often and we're running
+minus 900 where we should be making 1.8k
+8K obviously if you have an over three
+or four B pot you should be making good
+money but I clearly was not making good
+money right so this is again an
+indicator of variance that you know
+something like silly as allin EV doesn't
+really show you same with how often you
+flop draws for example I wasn't flopping
+a lot of flush draws I was making them a
+little bit more often the turn but I was
+also often missing them on the river so
+I would invest and often miss on the
+river and again overshor the samples if
+you want to see if okay am I just
+playing bad or or am I unlucky
+These are stats that you can look at to
+give you that diagnose. Another
+interesting thing um that I saw, let me
+see. I think it was at river offense
+is that if I go to river offense and I
+looked at river allin now this is uh
+this is you can see this. So this is
+basically my river strategy per bat
+sizing. Uh we can now see how balanced I
+was. So mainly the river bats all in. As
+you can see I I betted the river all in
+6.3% of the time. should be seven. So I
+was missing some Owins. How I was
+missing mainly the Oins. Let me see how
+balanced were they. So air and low pair.
+So this is basically how much bluff that
+range contained. Right? I was missing 4%
+of air but I would had more I was
+bluffing more Owens with low pair. So
+basically I was bluffing at basically
+perfect GO frequency. And here we can
+see the success with with this range.
+Right. So we bet river O in with air.
+How often was that successful? I'm at
+50. I ended up 53. So meaning that I got
+3% less faults of what I should in
+theory. Um whereas over and if we look
+at two pair plus so this is obviously
+our value we should have got 60% folds
+and we got 62. So we got a little bit
+more folds with our two pair in that
+first sample I remember like in in the
+first 15 can I was look at this. Okay,
+so my conclusion was if I jammo all in
+on the river, okay, I play a balanced
+strategy, but my two pair plus I think
+was getting like 85% folds, my and my
+plus my air and low pair, they were
+getting like 28% fold. So I was like,
+okay, hm. So basically, if I flop a set,
+I lose. Prefable win, I'm not winning.
+And when I finally have it in a gem with
+the river, they fold. And when I don't
+have it, they call. That that seems like
+a pretty solid diagnos of why this first
+tanky hand is not going great.
+Obviously, these were certain things
+that are out of my control. Obviously, I
+reflected also on okay, did this, you
+know, is it possible that I'm doing
+something wrong here with my air low
+pair. I looked at those hands. I kind of
+I looked at it. I was like, no, this is
+probably variance. And then I focused on
+things that were in my control, right?
+So, the prefab progression had to go up
+in general, showing up more engaged,
+right? Like I said, the performance
+aspect. Um, also a very very big part of
+it is actually also I talk about this uh
+in the program
+uh where did I talk about this? I think
+in focus and engagement I'm pretty sure
+that seems seems to be the correct topic
+to trap your your biggest opponents. I
+think it was somewhere along these lines
+where basically I I talked about I gave
+this example of
+um of the cash game world championship
+because for example a lot of players let
+me see if I can quickly find it.
+Okay, this is a little bit odd hawk. I
+should have probably better prepared
+this if I was going to bring this up.
+But anyway, um during the cash game
+world championship, it's not necessarily
+that now these players, right, if you
+talk to everyone, everyone said, "Wow,
+the level of play was so high like four
+mistakes." Well, you think you think
+these guys were now better players? No,
+they weren't better players, but they
+had a reason to be engaged. They had a
+reason to be focused. They had a reason
+to bring their agame, right? So, it's
+such a big part of performance as well.
+And this is what someone in the chat
+also said. Um
+like uh lacking lacking focus and
+engagement. Well during the cash world
+championship players suddenly played
+their agame way more often. Interesting.
+Why is that? What can we learn from
+that? And how can we tap into that more
+often? So this is actually also
+something that we will cover. Like I
+said becoming awareness is one. Then
+root cause and fixing it is two. Then
+being able to perform right at a higher
+level it's three. and then being able to
+consistently repeat this this before,
+right? There's so much more that that
+goes into it. So, these were actually
+some things that uh I noticed straight
+away in the beginning that uh that I
+thought were were interesting to give
+you guys a little bit more um more
+insight like how we basically builded
+it. It goes from the top down. So, we
+start with a very general overview. Like
+if you want to get very specific with
+stats, kind of the problem is, oh, I
+want to know a certain frequency on tree
+bots out of position after betting small
+on this specific texture. Well, you kind
+of lost the necess the necessary sample
+size there in order to to get a stat
+that's actually sort of accurate. So
+what we usually do is we start from the
+top down to get like general idea of
+your game and then we're going to drill
+it further to go into for example
+specific spots like see where spots in
+position see where spots out of
+position. So to give you an idea for
+example of this tab so this is a general
+posttop overview tab you can see that
+someone was uh was making fun of my one
+was a flop. My ego my ego ego got
+triggered. Thank you. Uh, I ended up 51
+over one more than uh than than than
+than GTO would be. So during the
+challenge, 511 was a flop. How did I get
+that? Well, by being a bit more
+aggressive, especially out of position,
+you can see that it turns red. So I'm
+out of the norm. By the way, my sets,
+they turn green. Many players might be
+used to, if you do stat checking, I
+think many player many many of these
+programs, they use uh blue uh because
+they kind of see blue line as something
+passive. Not necessarily true. I think
+this is kind of a
+a misconception like that. For example,
+I can have a losing red line but still
+be a very aggressive player. So I don't
+think that correlation is really fair. I
+explain you why I use green in the
+program as well. But basically it gives
+me the green light. That's how I
+interpret it. It comes more from the way
+I usually use my hut. If I see players
+turn green, that means they give me the
+green light to go crazy basically,
+right? Um so this for example here gives
+me a general overview of how I construct
+on average. So on average on flops,
+turns in position out position. How well
+do I balance my my betting ranges and my
+checking ranges, right? So for example
+here on the river we can see for example
+check strong and this is actually one of
+the leaks that that I pointed out
+earlier, right? Some of these things
+that you kind of know that you shouldn't
+be doing but you keep on doing them. And
+I'll also show you a little bit how I
+actually tried to fix this already in
+this challenge and kind of show you like
+a little before and after. But we can
+see for example that in position I have
+the tendency to check less strong. So
+20% should be correct. Um but I go 16.
+What that means is if I have a lower
+check back strong that means I I'm value
+betting thinner. So I'm going thinner
+for value. Now that would be a problem
+and kind of I will now show you how kind
+of all these stats can work together.
+That would be a problem. So this is a
+deviation. So you could say this is a
+leak because you're doing something
+quote quote wrong. I'm going thinner for
+value. So then the biggest problem that
+you have when you go thinner for value
+is that people can race you off. So
+that's a problem. Here we can see check
+weak. So I'm actually value getting
+thinner and I'm bluffing less. So
+clearly I feel like that spot is getting
+underfolded. So that's one. So that's
+one assumption that we then we have to
+check right. Is this spot that needs
+getting underfolded? And are we not
+getting raised or is our uh exploit not
+getting reexloited? So for that for
+example I can go to river offense
+probably
+and if I go to lines and we look at bet
+river imposition
+we see that we're betting 47. This is
+the success. So we're getting 1% more
+success. So the assumption of okay
+getting underfolded just by this first
+stat shows no. Obviously we can now go
+into lines and specific sizings but this
+shows no. And as you can see I am indeed
+under bluffing. How often do I actually
+get raised? That's pretty interesting.
+Let me see. Overview river faced race in
+general when we're in position. We face
+the race 8% where it should be 9%. So my
+adjustments of value betting thinner is
+not getting exploited by what it should
+be by raises. Okay. So my adjustment
+here of going going thinner seems to be
+okay. But we're still getting 1%
+overfold. So uh where were we? Lines.
+Sorry. So we're still getting 1% over.
+So you could say I shouldn't bluff. Now
+we can then break that down into lines
+where we bet the turn and bet the river
+or check the turn and bet the river. And
+we can actually see here that in the
+cash game world championship. This is a
+general trend usually when turns turns
+go check check uh usually range
+constructions of population on average a
+little bit weaker and obviously in the
+world championship a there was maybe a
+little bit of a filter of like better
+players came together and they were also
+playing better themselves. So they kind
+of picked up on that and as you can see
+actually that discontinued aggression
+line. So betric bad type of stuff was
+actually getting I was not getting the
+success I was getting actually 3% less
+fault. So and I was under bluffing
+there. So there it was actually pretty
+correct for me to assume that we should
+be under bluffing and I should go
+thinner for value. So this is something
+that's pretty cool. Uh obviously like
+some people tuning in that never done
+this like well I don't know how to do
+this so if you give me this tool I
+cannot use it. That's exactly why we
+give you the coaching uh that kind of
+comes along with it right.
+Um
+let me see. Ah but so for example this
+is uh let me actually go to bet sizes
+because we can also break it down. So
+what I noticed around in position
+bluffing because actually before this
+yeah before the cash game world
+championship uh I actually recorded this
+whole part of the program where we go
+into analyzing where I go I think it was
+then at river offense right and actually
+you can already see this looks a bit
+different than what we're seeing here
+that means we already updated it again
+um and actually I came there to the
+conclusion
+that my river game was mainly lacking
+like a good horistic like half pots. I
+identified later that I was not using
+that often enough and you can actually
+now see I'm sort of even overusing it as
+you can see 15%.
+If I now go to the old database so I'm
+now at 15%.
+If I go to my old data, the older
+database,
+if I go to river offense bet sizes, you
+can see that I was only doing it 9%. So
+I was underdoing it. So this is an
+example of I took a look at my game. I
+identified that I was under bluffing the
+river quite massively. I was trying to
+understand why that was. I realized that
+hey, I'm missing half pots in position.
+That's interesting. I also realized that
+that was actually a sizing that was
+pretty high v versus population on
+average. We can do that by using the
+same tool, right? And going to um maybe
+I can quickly show but maybe you can go
+to multiple players and then this way
+you can analyze the pool, right? And you
+can see okay well how often is the pool
+actually falling to this half pot and I
+noticed actually that was definitely a
+good line to take. So I build horistics
+around it. Okay, in what spots do I want
+to add a lot of half pot because I
+noticed that I would choke on the river
+because I wasn't really sure like okay
+which sizing do I use what and I kind of
+created now a new protocol for myself.
+So this is actually funny that you could
+see straight away that this was my game
+before the kasing world championship,
+right? And you saw that after the kasing
+world championship because I was
+deliberate about something because I did
+the leak finding went to the lab, right?
+If you go to diagnose redesign, I
+figured out what was the re root cause.
+If we go back to where was it
+explaining it here
+the feedback loop
+&gt;&gt; let's get into the feedback loop seven
+so
+&gt;&gt; so I I found it then I thought it was
+something important to work on right a
+river spot uh usually quite important
+Um, and then during game time, so in
+terms of pre session, for example, what
+I would do, well, it would definitely be
+top of my mind. I would be monitoring
+it, see if I was indeed uh uh applying
+it. And now we're analyzing my game. So,
+we kind of came full circle and we can
+indeed see that this leak has now been
+fixed. All right. Okay. I was uh was
+talking quite a lot actually. I kind of
+missed missed chat here a little bit.
+Let me see if there was something before
+we move on to like a different point.
+I am too passive post flop.
+The next step Dan B also said thank you
+Dan. Um the next step is indeed to
+understand where why this is happening.
+Okay, we can we can look at where right
+we can look at okay uh for example even
+like at the overview tab you can
+probably already see that right probably
+your game if you are general to passive
+a lot of your stats will turn green
+right and this is just the first
+overview then we can go deeper into okay
+let's see on the flop and turn with
+which hand class am I too passive and
+this is also where it gets interesting
+because usually you can just see like
+okay I'm betting or I'm for example if
+we go to let's say defense maybe a
+little bit easier. Oh, let's say, okay,
+I'm I'm overfolding the flop, for
+example, 3%. Well, it's
+not not not by a very big margin. But
+then you can break it down in terms of
+hand classes. Okay, well, if you only
+have the frequency, I'm overfolding. You
+still don't know [ __ ] right? But this
+is the first the first place where you
+go, okay, I seem to be overfolding. Why
+is that? Well, let's look at my hand
+classes versus with which hand class is
+that a problem. Then we can look at it
+versus which sizing. Okay, versus which
+sizing do I have the biggest problem?
+And then we can go to specific position.
+Let's say I'm uh what we're talking
+about flops. Let's say I'm single race
+spot out position pre flop caller. Okay,
+if I look at lines, how often am I check
+folding the flop? Right, we were
+overfolding I think 3%. Here we're
+apparently also overfolding 2%. So when
+we're in the big blind and we face a C
+bet, we're overfolding 2% on average. We
+can see here versus one/3 actually
+that's not really the case. We mainly
+fold versus bigger sizings. Interesting.
+Okay. So if people see with a bigger
+sizing I seem to be overfolding.
+Okay. And now so again this is this is a
+deviation. Is this a good deviation? For
+that we can either look at pool or we
+can actually look at flop defense versus
+size. Um, oh, this was actually a typo
+that that's uh that's actually on the
+list for for the next update, but bear
+with me here. Uh, this is actually how
+often we call the flop and then face
+aggression on the turn. So, it says full
+turn, but this actually face aggression
+on the turn. So, that means that um when
+for example after we see about one/3
+here, we face aggression on the turn 44%
+instead of 48. So on average that shows
+us that we should probably call more
+versus a one- turn bet because on
+average we're going to face aggression
+4% less on the turn whereas compared to
+if we bet 60 and 80% for example he's
+actually going to barrel 3% more. So
+then if we go to the specific line again
+is then overfolding versus this three
+quarter is that a good idea? Probably
+yes because we're going to face more
+aggression on the turn and likely that
+means that that rain is stronger. So, is
+underfolding versus a one- turn bet a
+good idea? Well, probably it is a good
+idea because we're facing aggression 4%
+less on the turn, right?
+So, these are uh these are for example
+like the kind of the the the
+stats that I was showing you in terms of
+someone asked me what sets this apart
+from other tools out there. It's that
+direct feedback and you can find all the
+answers to your game and how your game
+is specifically performing. Uh yeah,
+right here. And uh like I said, we can
+go as as as deep um as it goes. For
+example, another uh another thing that I
+was working on. So I was under bluffing
+the river, right? I found actually let
+me see. I don't think I didn't actually
+check if I fixed that already in this
+sample, but probably not. No, doesn't
+look like it. So in terms of identifying
+where it goes wrong, right, we can
+straight away see that if I go to
+tribots in imposition prefab caller
+despite I'm having a a big a big win
+rate, you can see 83 where it should be
+actually minus 90 is a spot where you
+should have a lose rate because when you
+open and call, you're trying to defend
+less than losing. So if you just raise
+and fold, you know, you're probably
+going to lose like 250, right? Two and a
+half big blinds or three big blinds,
+however, however big you open. So it's
+actually normal that you will have that
+the goal is actually a lower win rate.
+But I was actually positive. But despite
+that we can see see a lot of green here.
+So that means that uh and actually I was
+aware I was aware that I was not playing
+great in this spot. Uh but as you can
+see I I just was aware and I went out to
+play and I didn't really go about an a
+way to fix it. So then if you don't do
+that well the same the same stuff comes
+up, right? I will just actually let me
+see if actually I I did stab more.
+No, no, still still still no chance. Um,
+so as you can see here, this is how
+often I for example stab the flop. I was
+actually I Okay, my falling frequency is
+now better than compared what it used to
+be. I'm pretty sure
+if I go to But I'm still betting 42. Oh,
+wait. Actually, where are we're actually
+still at the the old sample. Okay, that
+makes a lot of sense. So, actually, now
+let me see. So, this was an area that I
+spotted
+was probably important to improve. So,
+basically, I was under aggressing
+massively. I was overfolding a lot where
+actually, we can also see here, we
+actually get way more success. So, if we
+step flop, that's actually
+outperforming.
+And the next phase is, do we actually
+face raises? We're actually facing a
+flop raised 3% less. So on average
+people have not been raising my stab
+right. So I'm getting more folds and
+less raises which means that I should be
+more aggressive myself. Something that
+I've identified a line for example that
+I spotted here was this one.
+Call check bet. So we call flopsy bet
+turn goes check check. And there you can
+see the river under bluffing rights
+which we identified in the general
+overview. And we can then go deeper
+deeper deeper into why that is. And
+that's actually something uh that I take
+you along for the ride with right here
+in the analyze. I go deeper deeper
+deeper deeper deeper deeper deeper. And
+basically it's almost like it's a it's
+like a playalong. It's an analyze along.
+So you you you upload this for me and I
+just take you by the hand and show you
+to every tab. Gives you tips and tricks
+along the way. Show you if you if you
+have this tendency why that is. Right.
+Um so then I found this one the call
+check bat which we identified something
+that I was under bluffing on the river
+and I saw for example with sizing wise
+that um I was not using this this all in
+often enough. So you call see better
+turn goes check check and river they
+check to I was like oh interesting again
+like I was identifying where do I miss
+these river bluffs right and where do I
+miss certain sizing. So we identified
+the half pot but then I also identified
+for example this spot. So then what I
+did is I looked at population. I
+actually saw this was top of my mind
+like 10% or 12% overfold a little hot
+spot for you guys here live on YouTube.
+So I was like, "Oh, I'm underdoing it."
+So I have a deviation from theory that I
+was not aware of. Again, this is the
+value of looking at your game tendency
+checking. Oh, I make I do something
+different here than GTO and I don't have
+a good reason for it. Then I went out
+there and tried to look for a horistic
+and I found that horistic and now I
+added like an I like to call these
+things aggression protocols. to my game.
+Little trick where I can overdo it and
+up the river bluffing uh uh efficiency
+actually. Now, let me see if
+I compare this. Can I quickly make a
+Let's quickly make a print screen of
+this to compare to the other database.
+So that was actually also a good example
+that especially over a sample like this
+like 40k hands this whim rate here yeah
+that's just going to be an indicator of
+variance more than it's an actual
+indicator that something uh is wrong in
+general also right in terms of uh one of
+the first sections in the program is me
+explaining you
+how to work with data And this is
+something that I think is very very uh
+like all these other tools they don't
+really give this and a lot of mistakes
+um actually get get made because discuss
+the benefits of leak finding. Now let's
+talk about
+&gt;&gt; they don't explain this. So I I I I have
+a framework the CBP framework confidence
+by by and the pattern matching that you
+cannot look at one stat in isolation. So
+it cannot be like oh I'm looking at my
+bottom uh in position preop color three
+pots win rate it's good so I'm probably
+playing well there no that's not how it
+works but if it's very high or if it's
+normal it's one stat that points you in
+a direction that there could be
+something there so from there you can
+look at other stats to see if you can
+confirm or deny this this one stat if
+you just wait for one stat in itself to
+be accurate enough right in terms of u
+confidence interval so how big of a
+sample you need to to have that step be
+actually correct. If you only use this
+philosophy, yeah, you you are not going
+to really find something and or you're
+going to wait for three years and then
+guess what? Uh you should have probably
+course corrected earlier. So I will
+explain you guys how I use data. Uh this
+is so this is how I play three pots in
+position F for color. Now that line
+specifically probably will not have
+occurred. Okay. Well, congratulations. I
+did it now 10% instead of 4% but this is
+just variance as you can see here 20 20
+sample uh but overall still stabbing 42
+so pretty poorly uh actually overfolding
+now more probably I was also a bit
+looser pre flop due to no rake anti etc
+but this is a good example of okay I was
+I became aware that this is a a trouble
+area of mine but I didn't do anything I
+didn't go through the process to fix it
+right
+um
+let me Are the suggested spots catered
+to anti? Do you have a breakdown with it
+without anti ant is the demands enough?
+Yes, exactly. Uh then already kind of
+kind of answered it there. Um
+in terms of uh um
+questions like I'm open to questions
+here in the chat. I kind of already
+showed you quite a lot uh in terms of my
+game. Um,
+something actually that was interesting.
+We're in the Cash World Championship
+here now. Yeah. So, as you as you guys
+know, I'm a big fan of dunking. As you
+can see here, dunk bet 10% where GTO
+does it only 4%. Um, I do it for a
+reason because I think I showed it
+earlier as well. Got 7% overfolds here
+straight away on the flop. So, I'm
+making an exploit. I'm dunking way more
+often. I can tell you that there's quite
+a lot of bananas in here as well. Um, I
+definitely I definitely think at some
+point started pushing it. Um,
+let me see what is uh what I what would
+I consider pushing it.
+Ah, this this Okay, this is when you
+know you're getting out of line. Um,
+when you're done king three on on Yeah.
+Okay. This is when you're pushing it.
+Uh, but anyway, so but we can see that
+average is not working actually. But I
+what I actually noticed that uh during
+the Kasing world championship as you can
+see a phase race. So half of my dunk was
+raced. So in order to to know if you
+should do something more often or less
+often there's two important variables
+and that's why we have success stats and
+equity realization stats because those
+are the determining factor. If something
+works more often you can do it more
+often
+and if some if you get raised more often
+you can do it less often. roughly I have
+kind of the rule for every 1% deviation
+you can do something 3% more roughly
+three and a half I think it is. So you
+could say, okay, well, I'm getting 7%
+overfold, so I should do a 21% more on
+average. But in the same I'm I'm getting
+raised way more often, right? And this
+is actually something that kept on
+coming back. If I look at turn
+uh don't bet turn 15 where it should be
+10. Uh again, was very effective. Hey,
+where where did we go? Turn offense.
+Sorry.
+I do it more often. It was indeed more
+effective, but again, I got raised 33%.
+that that's quite a lot. Whereas
+normally, this is something that I
+noticed in general in the Cascon World
+Championship, you know, people people
+were were fighting back a little bit
+more often. The same with this one, I
+think I saw I like to check race flops,
+but I faced a re-ra flop 10%. This was
+something what I noticed people were
+playing back quite often, right? So,
+normally if you look at the the check
+race flop, let me see how often was I
+doing it. Uh 22%. In general, I was
+overdoing it. But actually, in in the
+cash game world championship, this was
+actually not that effective. And I
+started to notice this actually and then
+I started to tune it down both with the
+donking and the check raising. Again,
+the importance of also monitoring over a
+short sample. Sure, individual stats in
+a vacuum are not going to be accurate
+enough to a high frequency. Uh but if
+two weeks in you have a couple of
+indicators that something might be going
+on and you switch before you know if you
+have enough confidence that that's
+probably the case. A mix of the stats
+that you're seeing, the intuition.
+Uh yeah, definitely can contribute a lot
+uh uh to your win rate. Um I'm trying to
+think if there's anything else.
+Um,
+let me see what other what other leaks.
+Actually, I can uh
+let's let's let's just throw all my
+leaks on YouTube. Yeah, that sounds like
+a great idea. Uh, let me see where uh
+where did I
+put it these
+these leaks?
+conclusion. Uh oh.
+I can tell you guys the conclusion is
+that the wack is bad at poker. I think I
+literally
+&gt;&gt; I think that's how I uh how I opened
+this video.
+&gt;&gt; full full overview of your game.
+&gt;&gt; Perfectly fine guys. You can you can
+exploit me. So basically I then show you
+guys the the the full overview and uh I
+rate certain spots and then later we
+start prioritizing it. Uh, where where
+did I wrote down that the conclusion was
+that I'm bad at poker?
+Conclusion, the wacker sucks at poker,
+right? Next step, request a refund. Uh,
+but that's the truth, guys. I mean,
+everyone has leaks in poker, right?
+Everyone has leaks and tendencies.
+Luckily, we don't have to be leak free
+at poker. Just leak less than your
+opponents. Poker is a game of mistakes.
+Make less mistakes than your opponent
+and you will win. Uh, that's kind of the
+conclusion. So, don't let leak finding
+discourage you. Um,
+someone asked uh where you can buy this.
+Actually, a good question. Uh, pretty
+bad marketeteer, I guess.
+Uh, you can go over actually. I think
+there's a link in the description down
+below, but I'll also put it here on uh
+on YouTube
+in the in the chat for you. Um, but like
+I said, this is the this is the tool.
+It's only one part of the program. I'm
+very passionate and uh like people
+people were like there were some people
+especially in the circles that were
+waiting for this for quite long
+especially at this part. I kind of got
+stuck for I think a month or two before
+I was happy with how it turned out. It
+turned out that um that there's a reason
+why people don't deliver this part of of
+of the process because it was [ __ ]
+hard. Uh but I think we've done a great
+job in uh in helping you diagnose and
+redesign. Uh so if you have uh leaks
+tendencies that have been holding you
+back for years, right? Things that you
+know
+okay remember no is when awareness
+pressure most people are aware of
+tendencies but they don't know it. Just
+like I'm aware of that imposition three
+pots improve a car. I'm a nit of I'm
+like very passive as you could see here.
+I overfold the rivers pretty massively.
+Rivercon win very high for the people
+that don't really know stats. If you
+have a very high river wind, that's not
+necessarily great. You could say, "Oh, I
+win a lot when I river." Yeah, if you
+only call the nuts, yeah, you win a lot.
+Um, so that means actually I have a lot
+more room to work with. I think on
+actually by by the way, actually on
+average, I don't think that's
+necessarily problem that I usually have
+like overfolding phase river bat. Uh,
+here we can actually also see that the
+this is actually another leak that I can
+point out. This was this is still the
+Qashqam World Championship.
+Let me quickly confirm that. Yes, this
+is the Cash World Championship, not the
+other database. But you can see that on
+average on the river, I face 5% less
+bets. So when I'm out of position, Vinn
+is in position, they give up river more
+often. We can see actually when I do uh
+hero call the river, I actually also win
+less, which kind of confirms that
+belief. Um here we can see that as well
+if I went call call
+um I was winning the river 32 instead of
+45. So that means that being sticky I
+think someone was a fairly stick fellow
+sticky guy in the chat. I feel you man.
+I feel you. It's hard. Uh so this is
+actually another this actually a point
+that I'm currently working on. Uh
+because as you can see here when I'm in
+position um like hero hero calling is
+going great. If you look at in position
+call air low pair in position river call
+win 51. So I'm actually still
+overfolding as we can see fold river in
+position 51. That's actually pretty
+massive overfold 9%. And I'm actually
+underfolding when I'm out of position
+where I should be actually doing the
+opposite. I should be doing the
+opposite. I should hero fold more when
+I'm out of position and hero call more
+when I'm in position. And in general for
+people that also new new to like leak
+finding it's normal that you should say
+okay uh shouldn't you fall to the river
+an equal amount of times you're in
+position out position
+and
+actually now I have to think about this
+maybe that's
+actually I don't even know actually if
+that's true but the reason why this is
+42 and this 57 is because out of
+position player uses a lot of small
+sizings and therefore on the river on
+average we should be folding less but if
+you obviously look at just break
+actually we can actually see that here.
+Yeah, it's true. Actually, when we're
+out of position and we face a one- turn
+bet, we should actually fold more. Okay.
+Um, but the reason why on average the in
+position player has to defend more,
+where were we?
+Where were we in position? Is because we
+face a one- turn bet, for example, way
+more often than when we're out of
+position. Out of position, we usually
+face polarized sizes. Therefore, we can
+actually fold more and therefore it's
+also easier to overfold in position. As
+you can see, I'm also an overfolder. uh
+54. It's not the highest fold number, I
+might add. Uh but yeah, definitely still
+uh still too high. So definitely
+something to work on like my bluff
+catching game out position in position
+although not terrible. Uh definitely
+needs work.
+Image posting about to become a massive
+river station through a poss maybe.
+Maybe uh with this program, do you leak
+find easily opponents in order to
+exploit them? Yeah, I mean you can uh
+you can basically find everything you
+know like like I said earlier I think in
+the in the presentation as well. I have
+made the leakfinder
+uh or tweaked it in a way that's
+specifically
+designed to get the maximum out of your
+own game game analysis. But obviously
+you can use this on your opponents as
+well. Are we still in the Yeah. So for
+example, we can go to multiple players.
+Um let's just say at least thousand
+hands. I don't think actually there are
+much fish in the game. So I don't really
+think I have to set a filter. Um if we
+now click apply
+then basically we can see that this was
+on average what players were doing.
+Um is that correct?
+So this for example you have to already
+be careful like for example ace king
+queen plus o in this stat is obviously
+is very has a lot of showdown bias when
+you when you start analyzing population
+this way. So that's something to to
+watch out for. But for example to
+confirm my uh read river offense in
+position lines
+in position bluff 31%. So indeed people
+were 1% under bluffing when they're in
+position on average
+but actually people were bluffing pretty
+damn pretty damn well on average but
+yeah 1% under bluff on the river and I
+was over calling the river when I was
+out of position so that's not great. Uh
+they were actually also still under
+bluffing the river when they're out of
+position. So there it actually overfold
+kind of made sense. Uh interesting also
+pre flop I thought that on average
+people were playing way too nitty. We
+can saw earlier that I was defending
+here for example bottom versus big blind
+30% they're defending 43 they're folding
+43%.
+So that I think was a was definitely a
+league of the population on average. You
+saw that I was squeezing 12 they were
+squeezing 10 is I think it's actually
+fine.
+Um but yeah so you can also use it. I
+mean you can you can literally say all
+frequencies of of your pool. Um, and you
+can also see in terms of if your pool
+makes it bat, how often that's
+successful on average, how how does the
+poo so all these kind of success that
+still work. You obviously have to watch
+out for, for example,
+these hand class stats. They're they're
+they're screwed because there's a
+showdown bias. When you analyze your
+game, you have all whole cards reviewed.
+And when you analyze your opponent's
+game, you don't have all cards reviewed.
+That being said,
+here in this sample, it's already a
+little bit less because all winning
+hands had to go to showdown. Um, if you
+play I think it's ignition, right? You
+also have all whole cards. So, you can
+actually use that as well. Uh, but yeah,
+that's something just to take in
+consideration. So, yeah, you can work
+you can use it basically for yourself.
+Uh, but definitely also for uh for other
+players. But like I said, there's many
+tools that that can do this for you. Uh,
+do I think we build the best tool? Yes.
+Uh but this is only step one, right?
+Step one of the analyze. As you can see
+here, feedback loop. It's step one,
+right? What do you do after you've
+analyzed? What have what do you do after
+after like I said after you you you went
+along with me for the ride and you ended
+up with a document uh that's the size of
+how big is it? We're gonna see it.
+That ended up being quite quite big,
+right? where we gathered all our info,
+our leaks. So, how do we then go about
+uh prioritizing it? Right? That's then
+kind of next step aka prioritizing the
+leaks uh level of difficulty.
+So, then kind of we then go uh yeah, go
+from there in in how to fix it. And
+that's what I'm most passionate about in
+terms of what I've made in the last
+couple of months.
+Any
+questions before we're going to wrap
+this off? I think I've showed everything
+um that I wanted to show.
+I will tag along here for another uh
+fiveish minutes, 10ish minutes. You can
+ask me anything as long as long as it uh
+as long as you stay on topic.
+I think uh am I gone?
+How many hands do you recommend
+uploading to the leak finder to start?
+Actually I uh explain you that here.
+goal of leak finding working with data.
+Uh
+leak sample size
+it kind of depends. Let me see. Do I
+explain it or yeah sample size. The
+bigger your sample, the higher the
+accuracy for each individual stat. Um
+how much has your game changed? That's
+something that you have to ask yourself.
+uh whim rates. Like I said, if on a
+smaller sample, it becomes more a
+monitoring tool and like an indicator of
+variance. On a larger sample, this
+actually can show you uh into areas
+where you possibly have any leaks.
+Uh we can still uh we can still leak
+find and this is actually very important
+point. Let make sure it's all in screen.
+we can still leak find with smaller
+samples as we don't draw the framework
+that I was explaining earlier in terms
+of how to interpretate
+uh data which again like that's uh yeah
+you have to be a little bit careful with
+data and with fireworks so kids be
+careful with fireworks
+why does the stream fail when we don't
+have internet prompts.
+Well, that's not great. Why do I have a
+green screen?
+Not talking to myself. I'm trying to see
+in my streaming
+software there.
+Are the isshes also there on Twitch? I'm
+also streaming on Twitch by the way. Let
+me see.
+No, on on Twitch I don't seem to have
+the problem. Well, that's weird.
+Uh
+the hands, the favorite hands, they will
+uh
+let me let me restart the stream.

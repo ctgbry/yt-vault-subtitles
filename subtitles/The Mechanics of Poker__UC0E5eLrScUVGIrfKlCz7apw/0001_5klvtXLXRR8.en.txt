@@ -1,0 +1,923 @@
+Kind: captions
+Language: en
+[Music]
+gotta do something fancy here
+[Music]
+what's up youtube welcome to this very
+first video here on the poker ambition
+channel
+now for those of you who don't know me
+or are not familiar with the poker
+ambition brand
+let me give you guys a very quick
+introduction i'm renee
+better known as the weko online i've
+been playing professional poker for
+over 10 years now started off playing
+free walls working my way all the way up
+to the highest stakes in online cash
+games
+now after completing the road to high
+stakes ourselves
+we decided to start poker ambition where
+we've been helping a group of cash game
+players do exactly the same
+our next goal is to help to teach the
+rest of the world how to get poker
+success
+as well not only in cash games but also
+an
+entities sitting goes you name it
+because in the end
+poker is poker it's the same game now to
+start off this direction in the right
+way
+i decided to record a session of you
+guys where i've been playing some 500 ml
+zoom
+now instead of just going in and playing
+and showing you a lot of nice place
+i decided to give this video a little
+bit of a theme
+and that is where does my ev have to
+come from
+i think modern a poker is a bit too
+stuck in the mindset of okay what do i
+have to do here what does the solver do
+how do i play gto and we kind of get
+we kind of lose the the main objective
+while playing a hand which is
+basically making as much money
+eevee as possible the better players
+they ask themselves these questions and
+come up with better answers
+therefore choose the right decision
+while playing a hand
+you can generate ev in many different
+ways for example if you play against a
+knit
+who's overfolding you're bluffing him
+more if you play against the station
+you will bluff him less you know it's
+things that you're already doing
+now obviously this is quite superficial
+and you can go
+deep deep deep deeper down the layers
+and it will get a bit more complicated
+but what i will do is i will play a
+session
+and i will try to come back to this
+question as much as possible
+showing you my thought process and why i
+take a certain
+line and why i think that line has the
+most ev
+so without further ado let's get into
+the action
+so i'm not going to try to state the
+obvious
+too much
+and we'll try to only comment on what i
+think is
+relevant queen unsuited
+versus a half but see that don't really
+want to race
+getting re-raised would be disastrous
+i want to just go ahead and call and
+realize our equity
+turn is interesting
+if he checks uh we will probably have a
+mixed strategy
+there are some hands that would want to
+bet small to get some protection of like
+like king 10 but at the same time we
+also have another advantage with
+some two pairs some sets some six
+some straights if you check so probably
+those ingredients would lead to a mixed
+strategy
+but a queen ein i think is a pure fault
+queen to be suited
+i'll be playing a mixed strategy from
+the small blind
+don't think
+either one strategy or the other is
+better
+it depends on your execution do you
+execute a limb strategy in a bad way
+it's worse than a race only and vice
+versa
+and you will hear me see this quite a
+lot
+i see i've watched a lot of videos on a
+lot of players say it's close
+everything is closed and they just do
+whatever
+there's some truth to that because
+multiple strategies
+can have high eva i mean if you look at
+a solver
+evs don't really vary that much when you
+look at strategies
+the execution of the strategy is always
+going to be the turn the determining
+factor
+and how much ev you're expected to make
+with a strategy
+so race only mixed
+doesn't really matter i guess what you
+could say is
+don't play 80 vpip in race only
+and they'll play 30 percent vp in the
+mix strategy from the small blind
+those are like two extremes that i think
+are obviously
+bad but from there you can kind of go
+either way
+um
+this isn't here the face checks back
+i'm just gonna take a step at a pot i
+think it's a spot where we're to have to
+step twice quite a lot
+due to villain probably
+having a bunch of continues on the turn
+i was actually quite surprised
+he was folding so i think that's
+actually also an
+important spot here versus a 2.2 i'm
+gonna go for a cold call
+i see many players like to play three
+but only
+from the small blind in general you will
+see this
+i'm not really a static player i guess
+um i mean he opened to 2.2
+so i don't think having a flatting range
+is bad actually i think it's it's
+probably good
+on the turn i think we're gonna use a
+polarized strategy
+so that's what i will do i think we have
+an advantage
+in most hands
+after it gets checked around
+six for off is usually a fault um
+this player is on the more aggressive
+side so against him i will definitely
+fault
+because my realization will be way less
+than for example versus a passive player
+or versus a fish
+for example you would call six four
+suits versus fish uh
+due to your playability being better
+and it's not only against a fish i think
+also this is a
+mistake i see a lot of players make uh
+it's i'm gonna open a7 here i don't know
+this guy
+it doesn't have to be a wreck
+it would be quite a loose open but what
+i'm trying to say is with the six were
+off
+um i think
+people like to differentiate in between
+wrecks they have rags or fish
+uh i personally i mean you see multiple
+colors coming by
+i like to tack racks in maybe like four
+colors and fish as well like four colors
+and then i even have like an in between
+color
+because certain player types certain
+hands play differently
+ace two is off against a 2.2
+i'm going to call would have opened a
+bit bigger i would have folded
+but yeah i think touching straight on to
+some topics that i think
+are interesting um
+is the fact that i think
+modern day poker is played too static we
+try to think in rules
+we either do this all the time we do
+this and then you have the other players
+who are non-static but they do
+everything
+based on rng
+shout out to the rng i mean i have rng
+running here
+i think the rg is fine if you don't have
+reach
+for example i'm playing quite readless
+here
+so then i think an rng can definitely
+come in handy but
+you either have the camp that randomized
+too often and then you have the camp
+that are too static
+and you might have guessed it i think
+the truth is somewhere in the middle
+and i think this is due to the way
+people approach poker
+they try to simplify it for themselves
+try to create rules but
+it lacks deeper learning of the game i
+would say
+um
+[Music]
+versus the fish here i'm gonna build a
+big pot
+i think that seems like a smart thing to
+do
+see if it's half but um
+yeah we have quite a strong hand i don't
+have any reads
+on this villain that say would be super
+aggressive then maybe i would do
+something else
+but i think a hand as strong as ace nine
+to jump into the theme of the video
+where does my eevee have to come from
+when we have two pair there even if
+venom is quite aggressive our ev doesn't
+necessarily have to come from his
+aggression
+because we can value better ourselves
+and get called by worse hands quite
+easily
+let's say for example we have a hand
+that's weaker than ace nine so two pair
+let's say we have h5
+h5 would be a hand oh actually h5 would
+also never check with let's say is jack
+we could check razer check all
+that hand would clearly become a check
+call when he becomes more aggressive
+threes here is quite a loose open
+but i think on that table it's fine same
+for four do suited
+there's a i think it's a fish in the big
+blind
+so then i think it's a fine open
+and i'm gonna go for like a a min bed on
+this mono board
+in general monitor boards you want to
+use small sizings
+um
+don't think having a 10 here is great
+because we're blocking hands that he
+would
+fault to a barrel i think a patchat bat
+seems like the smartest option
+he bets himself so then i think we have
+an easy fault
+no reason to raise her with the 10-4
+like i said the reason that the 10 was
+bad in the barrel is the same reason why
+a 10 would be bad
+in the river race line because we are
+blocking hands that he would most likely
+bluff with
+but yeah so the staticness of players
+or the too much rng or too much
+randomizing of players
+is because of a leg of our understanding
+of where
+ev comes from and a lack of a deeper
+understanding i think how the game
+works
+and
+with them a couple of questionnaires
+and one of the biggest pain points of
+the modern day poker population
+is that they yeah they don't
+they lack understanding of why certain
+things work in a certain way
+[Music]
+this hand here is quite interesting
+could do two things
+i think this one would go for a big bet
+some of the time and go for a check
+i think it's either a big bet or a check
+that i think is what makes most sense
+here we have like the nuts with backup
+equity
+so i think it's a good spot to go for an
+overbet
+and i think here we're just gonna check
+fold i think it was
+like ace queen where does ev come from
+with ace queen
+a screen is kind of a sucky hand like we
+can bet big
+as a bluff but basically we never get a
+better hand to fold
+and never really get a i mean we get a
+worse hand to call i guess
+like a flush draw it's also too thin to
+value bet
+or too weak develop but for a small
+sizing so i think
+after he calls the three bet he's
+already quite
+strong in these positions so i think
+check folding or betting big would have
+been the
+the two options
+we play limb but pl one two three seven
+i don't know he is but he leads out
+interesting play
+i think we can peel once
+the eraser is quieted
+neutralize board i think with the three
+five three five is a hand that kind of
+sucks especially he completes so the
+five is not really a great hand to have
+we block some bluffs and our improves
+aren't that clean
+uh given it's a limp bot so we can have
+a hand like loose five off suit for
+example
+three is i think check always is the way
+to go
+i think going check raise bad bad i mean
+we're quite
+deep we don't have the nuts
+so i think our ev shouldn't come from
+going check raise that bad i think then
+what is
+left is maybe a
+yeah basically better hands
+he does an over bet which i think is
+interesting maybe actually i'll go for a
+race here
+the reason i did raise a turn is
+basically
+he could have over bet the turn i mean
+he had multiple options there it was
+again a spot
+where he has another advantage
+so usually when you have another
+advantage there is a big sizing involved
+doesn't mean you only have to be big
+because there's quite a lot of hands
+that would benefit from uh
+from
+from benning smaller like the
+three-quarters bot let's say for example
+he hasn't had like sixes or sevens
+five six five seven uh maybe eight seven
+those are all hands that want to bet but
+not necessarily for an overbet
+so then what happens is um
+yeah you you get a mixed strategy
+when he doesn't uh the reason i didn't
+want to check razorflop is because we
+still have a lot of streets to play
+we still have quite a lot of streets to
+play
+and basically on the turn a safeguard
+arrived
+so we have more equity versus his range
+given the fact that he better the three
+quarter sizing i thought the check race
+would be uh
+would be a good play
+i think this is something that uh
+it's like deeper step dynamics it's
+something that
+obviously mtt players will have uh
+less experience with
+and what i often see is that they try to
+get too much money in
+when they are deeper basically
+i have to watch out what i say that that
+i don't get the whole ftt community on
+my back
+uh but basically it's more like
+i have a strong hand let's build a pot
+and they don't necessarily build a pot
+from the perspective of okay where does
+my ep have to come from
+i think this hand is a good hand to bet
+i think i had like king jack
+which i think a lot of hands would
+probably bet
+i'm gonna do something fancy here
+basically yeah that was the only
+downside of my play
+uh but basically what i was trying to do
+is
+uh trying to look quite polarized there
+with the ace 10.
+if he had a hand like if he did have had
+like jack queen or king jack which i
+thought was unlikely so i thought that
+10 would probably be the best hand
+he has quite a poor bluff catcher
+whereas if he has eight or nines
+against the two and a half time spot he
+has quite a good blood catcher
+so it was a
+on the river as we call it and basically
+you merge
+when you can get a better hand to fold
+and a worse hand to call
+and the bigger eye size the more
+polarized i become
+the better
+yeah the better eights and nines become
+as bluff catches around like 10 9
+10 8 and the more i had like king jack
+becomes a full unfortunately
+he has ace jack some of the time yeah
+and then we don't really have a great
+hand
+he went for the check race with jack
+eight which is on the loser side
+um but i would check i would check
+uh three bet jack 8 suited a big portion
+of the time and i think jack 8 here is
+quite a good combo as it
+um it will connect on basically any turn
+queen the jack 9 7
+5 it has a lot of connectivity so
+basically when you pick a hand to check
+raise look at
+uh future possibilities and i thought
+the jack 8 would be a great
+hand for a check race based on those
+factors
+check 5 i think it's a
+it's a kind of love or whatever and
+i think this is also an important point
+like the kind of the whatever
+like i said it's something that you hear
+quite often now it's it's it's like
+whatever
+um
+the whatevers don't mean that you should
+just use your random knowledge
+direct the the whatever is mean
+that evs are close and when evs are
+close you have to ask yourself the
+question where does my iv come from so
+for example
+um with the jackfast suited if i would
+have a read on my opponent that is a bit
+better
+than i would always fault if i have read
+in my opponent that he's a bit worse
+maybe a bit more passive
+i would always call
+a screen suited with three beds with a
+phaser four but i think it's quite
+standard
+if you see bets
+it's interesting i don't think if i jam
+he will fold ace king
+so i don't really think by jamming i can
+get better hands to fold
+would have also been interesting if he
+checks i think it's a great spot to
+check
+race with ace king
+[Music]
+they didn't do it so i think calling is
+kind of the option that's left we never
+have to fold the turn
+i think that's good he checks turn i
+think it's quite a similar story i don't
+think ace king will fold
+um so then basically all we do with
+betting is
+getting called by worse and letting
+better better hand folds the benefit of
+betting though is that we will never get
+bluffed on the river because
+obviously we need to improve in order
+for us to call
+he checks again
+[Music]
+i don't yeah not really sure if ace king
+would fold
+[Music]
+i think this is all we could do with our
+hand
+realize
+[Music]
+an attorney is not falling flop is not
+falling river is debatable
+defaults united suited or something does
+get there
+so wall do you really know who this guy
+is but
+we go all the way anyway
+we can three bet we can fault we can
+call
+which means the table dynamics for
+example become quite important
+this hand check my suit i think i will
+always three bet
+earlier i three better jack nine suited
+which he also opened small i think could
+also be a great
+an easy hand to call i went for the
+three bed that time
+and you will see me use
+rngs for pre-flop at a higher frequency
+because like i said i'm playing sort of
+readless
+and as i also stated it it is true
+that evs are close either way
+so that it doesn't really matter i'm
+gonna go for the limb brace with ace
+king
+i'm gonna go to quite a small sizing
+i think if you look at this range i
+think that's the range he gets most
+that's the sizing that this range gets
+most trouble with
+i think this is a good spot to
+fire out some big bets
+and the limp pod i'm gonna probably go
+for
+high frequency bet on this board queen
+nine deuce quite a good board for me
+goes for a small race which puts my
+hands
+[Music]
+puts my hand in kind of a ugly spot if i
+had a back door i would call
+maybe i should be calling this maybe i
+can do some leading on like a 10 a jacka
+king etc etc
+but usually if people make a small race
+on the board that i already had an
+advantage
+[Music]
+yeah i'm not really too concerned
+but i wouldn't be surprised if 7 8 would
+call sometimes if you would implement
+some aggression on turn cards that are
+favorable for me like
+i was i was considering the 10 in the
+jack because the tenant the jack
+would complete broadways and in a limp
+pod he is most likely to raise
+broadway's preflop
+so that gives me a range advantage and
+from a ranged advantage you can usually
+apply
+pressure because you have hands that our
+opponent doesn't have
+[Music]
+this end can be a three bet or a call
+i'm gonna call this time because i have
+a fissure and a big blind
+which basically increases my
+[Music]
+increases the ev of my call
+[Music]
+i went for a race here with h5 i think
+if we have h5 with backdoors or
+something we have a fine hand to call
+with
+without the practice i think it's a bit
+too weak um
+so then it becomes either a fault or a
+race i think fold is usually the play
+but you know
+i don't mind the race another turn we
+pick up some equity
+uh i decided to go for the small bet
+usually when you pick up equity in this
+kind of situation you have to be quite
+careful because the spr becomes quite
+small
+meaning we will get check race quite a
+lot which kind of sucks for a hand like
+[Music]
+h5
+[Music]
+i think then jack here is a handed okay
+definitely
+bets we do need i mean
+protection is a little bit of a big of a
+word
+but you know he has some queen eyes and
+king eyes that are gonna fold which is
+great
+river is quite interesting i think we
+should
+maybe go for a small bed
+[Music]
+he didn't bite
+[Music]
+so where should evie come from in this
+situation
+i decided to go for the small bet i
+think a jack will always race so we
+don't lose value from that
+he could still bluff race the thing with
+the limp pod
+scenario here is that he's gonna have
+land like deuce five off maybe
+and against that hand we
+probably want to check
+but he also has some king highs and
+queen heists that could call versus a
+one bed that would check behind
+so this is kind of the debate you have
+to weigh
+in consideration in your in your mind
+a good general rule is when you
+doubt between betting and checking
+betting small is
+i found usually quite a good solution
+because it kind of fetches the best of
+both worlds
+[Music]
+get a barrel here i'm gonna go again
+with the ace ten we still have some
+showdown value with ace high
+we dominate his draws
+river is quite interesting it's quite a
+good card for us
+[Music]
+it's a very good card for us actually
+[Music]
+i'm gonna go for a small block bed here
+on the river
+i think that then
+[Music]
+maybe like i think the board does give
+us some advantage but
+you know we're quite vulnerable also for
+races
+so then the solution could either be to
+check and not dunk that
+that's obviously one or the solution
+would be to just
+size down a little bit more i already
+went from 1 30 to 20 but
+maybe we could have even went smaller
+this hand could race call limp call
+nothing limp raising is an option
+[Music]
+interesting turn
+i'm gonna bet again i'm gonna size down
+a little bit because
+the board's getting quite scary
+and remember we talked about looking at
+these advantages and
+in a limb pot like the 5'3 off the 5 8
+off
+our hands that or the 4 6 of our hands
+that he will have and i don't
+and in general if you start to build a
+big pot and put a lot of money in the
+pot when your opponent has way more nut
+combos than you
+even if he doesn't
+try to exploit that
+then it's probably still not a great
+idea
+[Music]
+hi hello board is quite good for the in
+position 3 better so we're going to go
+for a small sizing
+you will have quite a lot of pocket
+pairs that are
+going to have trouble defending so i
+think on the flop we have quite a print
+spot
+and with our exact holding we will
+probably continue with firing
+here with kings the board is mono
+which always means that you know if a
+diamond hits
+[ __ ] hits the fan
+and go for a check think with kings that
+is fine
+ryan doesn't really need much protection
+we want him to hit a pair with like like
+jack queen
+spades or jack of spades and a queen of
+hearts or something
+and he might decide to bluff at some
+point
+[Music]
+he didn't really bet i think i think
+he's going to just fold a lot
+but i'll still squeeze in a small bed
+let me cover with six five it's a it's a
+board where it's just quite hard to get
+a lot of value
+from worst hands especially when you're
+deeper
+i think it's important to delay your
+aggression for later street
+[Music]
+the poo has gotten quite tough
+[Music]
+not playing the jack 9 suited there
+okay we get a dog bed here from the
+fishy dunks out 99
+jack i think i should proceed by calling
+he checks is quite interesting
+[Music]
+i'm to bed once
+uh i thought there was a chance that
+well
+if there was a chance he could be
+dogmatic like a low pocket pair or
+some really meant like ace high so i
+think on the turn we can make him fold
+those kind of hands
+if he does check all the turn i think
+i'm done with the hand
+i think he's most likely going to have a
+jack or he's trapping me
+and i think a jack is not really going
+to fault unless the river brings
+something scary but if something scary
+comes in i also make a hand maybe on the
+ace i would have bluffed
+but that i guess is basically the only
+card
+defend the 910
+[Music]
+go for a check call
+the turn i think i'm gonna go for a lead
+it's not necessarily that
+we have an advantage on the queen
+here i think this one is quite close spr
+is not that
+big i'm going to make a tight fold here
+so i'm leading turn here not necessarily
+because the queen is a better card for
+me
+i don't think that's actually the case
+um
+because i'm gonna check race let's say i
+had ace queen of king queen
+i would check where is that a high
+percentage of the time he still and he
+will always have them as well
+but after i check out basically if he's
+going to see that a lot i'm going to
+fold all of my air and when i call
+i kind of have a made hand region where
+he steals a lot of air
+so on the turn i think for example he
+can have a hand like
+jack 7 that i would just check fold on
+with on the flop
+so my range is more made hand heavy
+and he has more air and usually when
+there's a spot where villain has a lot
+of air
+um
+you want to be doing a lot of small
+betting
+and in this case that's dunking but for
+example the reason why we see that a lot
+in position
+is also basically based on the fact
+that yeah villain has quite a lot of air
+we have an advantage so that's why we
+see that a lot for one third sizing
+it's a think i'm calling versus a meme
+[Music]
+race
+[Music]
+and i'll be leading this flop i think
+this flop is quite favorable for me
+from the small blind if you look at what
+i'm gonna call
+jack 6 off i probably have to go against
+a 2.4
+like alien
+[Music]
+checks i think we're going to approach
+this board a bit more on the polarized
+side so
+not going to be betting jack six here
+open threes which is a bit
+loose but there's a weaker player on the
+bottom
+go check he goes for a half pot delay on
+a card that's definitely way more
+favorable for me
+since he's opening 2.4 i'll have way
+more forex offsuit in my range
+goofing jack 6 is easy call
+[Music]
+if he checks i find it very unlikely
+that we're beat
+i'm gonna make a very big bet here don't
+think he has a king i think
+jack axis is most likely holding
+and i think we can actually fold them
+off a chop here
+[Music]
+so basically if you if if the most
+likely hand that he has when he
+bets turn and then checks river is a
+jack without a kicker so i'm not ace
+jack i think ace jack is probably strong
+enough to value by himself again
+because you don't really want to check
+and me checking back jacks
+i didn't check back jack x i better tune
+off that spot
+but in general i don't think people will
+expect me to do that
+so then i think we sort of have a free
+will situation whereas if he has a jack
+often enough yeah
+and basically he can fold the chop
+so i like that play
+the recreational opens three x he has
+30 big blinds this guy is definitely on
+the looser crazy side
+um there's no one behind me which means
+i don't really have to
+think in a balanced way versus a
+recreational so i'm going to go for
+an exploitative 3-bet sizing of 15.
+this way we will have
+a bit less than pot left
+and we can basically get it in on any
+type of flop
+now the question is how do we want to
+get it in
+and i think in this case our hand is not
+strong enough to value that so our value
+should come from
+letting him bluff something so let's
+hope he didn't hit
+he didn't he had a worse hand
+[Music]
+very important to uh
+when you've already decided that you're
+getting the money in
+then your objective is to try to find a
+way that getting the money in has
+highest ev
+here it's quite close i think checking
+is a bit better
+when the king hits i don't think we can
+value better ace high
+um if this was
+a nine or lower or something i would
+definitely value that in a limp pod
+[Music]
+and i think on the river we have quite a
+clear check call i mean he's wrapping a
+king
+[Music]
+right he could definitely have i mean
+it's a limb pot so you can have
+basically anything
+[Music]
+i think actually this is gonna be a good
+time to call it a part one
+[Music]
+if you like this video then give it a
+thumbs up
+to me while here we have pocket threes
+[Music]
+and king five
+it's important to not play your low pass
+too passive all the time
+so i like my step there and with the
+king five
+checked it down basically nothing
+happened so i think we can probably
+squeeze out a small bet
+but yeah i think this is a good time to
+to wrap up the first part of the video
+make sure to check out the second part
+of the video which will be released
+good question actually that's
+information i currently don't don't have
+but a bit later after this video i guess
+[Music]
+make sure to subscribe and turn
+notifications on when the part 2 does
+release
+you are the first to know if you have
+any questions about hands that were
+played or
+about me or about poker ambition
+please leave them in the comments down
+below
+and we will get back to you guys looking
+forward to see you in part two i'm sure
+i'm gonna try my best that a lot of
+interesting spots will come up
+so see you then
+[Music]

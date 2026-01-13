@@ -1,0 +1,344 @@
+Kind: captions
+Language: en
+basically if you start noling some s you
+can justify
+anything you mentioned and everyone
+knows right yeah you should study to get
+better and you've mentioned study so
+many times when you say study what what
+do you do H how can people study in
+order to to go into the future right
+what should people study how should
+people study and how has your study
+process evolved right over over the 15
+years you've been playing
+poker yeah so I I listened to the couple
+podcasts
+and I either saw people saying that you
+cannot mimic solvers if you study
+solvers is [ __ ] and yeah it's
+definitely some truth about that and
+there are other players like H you have
+to be like super exploitive nothing else
+I me basically the same but others like
+GTO barding on four tables four hours a
+day or something like that and I think
+it's it's not that simple either way
+that like uh I definitely had my fair
+share of staring 10 hours P solver and
+felt like didn't learn anything like not
+even a single thing like I try to you
+know I created super star super
+complicated strategies like I even wrote
+down okay this combo you bet 60% or 70%
+why would I ever do that but I think um
+you definitely can study stuff which is
+not useful but usually it's much more
+complicated and even if you want to
+exploit the [ __ ] out of people you you
+have to be watch and look and study a
+bunch of soles and just realize how
+people uh think and how people play and
+I think I was really good at modeling
+these situations so I would
+definitely use solvers a lot but I will
+use uh pop Tendencies as well and try to
+like you know create some nice node
+loocks uh I I also have a very good U
+comparison between tennis and poker what
+I have
+learned when I go for coaching we always
+do like different drills and different
+stuff and I feel like it's a it's not a
+one game Dennis it's not like a one game
+it's a multiple different games like if
+you are at the net and doing a volley
+it's so much different than doing a big
+shots from from the Baseline and I think
+it's the same in poker you have so many
+little different games like a a button
+cut of three B pot is so much different
+than a small blind big blind open race
+point so basically you just have to
+learn all these different games and
+basically it's a collection of games and
+you you want to be good at the most
+common little games you're going to play
+and always it's going to be different a
+forbat spot it's so much different you
+have to you have to practice all of them
+and learn the basics and even if you
+even if you just look bio Sims and you
+think you don't learn anything I mean
+you have to have to see how it works and
+how how is the mechanics mechanics of
+shout out to the mechanics yes no but
+that's it right you have to go in with
+that mentality of and that Curiosity of
+how does this work instead of tell me
+what to do that's kind of the the it's
+like really much the mentality with
+which you open the solver I think you
+also mentioned right that you also Miss
+use it when you were trying to implement
+okay I should bet this 60 70% of the
+time and probably you kind of very
+quickly realize okay this is probably
+not the best way that I should use the
+solver you mentioned the more effective
+way of using the solver is to compare
+like okay this is the equilibrium
+strategy we understand why that's its
+way we look at population Tendencies put
+in the numbers run a note lock I usually
+recommend also to maybe note lock slowly
+because in in many spots indeed because
+the equilibrium so fragile right if we
+give it a couple percent more it just
+says well just do this 100% of the time
+so I usually like to not exaggerate but
+like not loock slowly so we can see okay
+what kind of other firstand that that
+strategies start switching with also at
+latest replay we have to kind of
+re-evaluate when it comes down to using
+data to get a better idea of what the
+pool is doing right and what the ranges
+are what are like effective ways to use
+data in your opinion to build strategies
+and what are like some traps that people
+should look out for for example we
+talked earlier in this conversation you
+had with Adam also about biases and I
+feel like especially in data there's a
+lot of things that can go wrong can you
+maybe share your your
+experience yeah so just one more thing
+about the the studying and the Not
+Looking uh it's funny I just came
+across uh not so long ago that basically
+if you start no looking some s you can
+justify
+anything I I saw a video from a guy uh
+doing some I I don't know like middle
+position calling a three bet with 86
+suited and he's saying okay this is a
+pure fault but if you put that and that
+into the yeah you can see now it's a
+pure C Yeah so basically they're they're
+justifying their decision right yeah
+yeah yeah and and he ended up like I
+think stabbing the Flop stabbing the
+turn and step calling the river and
+basically he just said okay I don't
+think they protect their range so
+they're going to just be uh annoyed with
+Ace King and like Ace highs and start
+putting like turning into Bluffs and
+basically he just set everything into
+the nodl the way he wanted and obviously
+turned out like the super plus CV line
+and I was definitely doing this as well
+I just realized with an extreme example
+that
+yeah you can you can justify and also in
+GTO wizard if you if you do drills like
+it's really hard to make a big mistake
+like you're gon to usually have these U
+uh frequency plays and and it seems like
+you didn't do big mistakes but maybe you
+you did tremendous big mistakes uh but
+you just can't see so about the
+data uh it's definitely
+uh true that you can I I mean there are
+some uh spots where you just have to
+know have to learn what is a trustable
+data and I don't even know how to so
+sometimes I just see it in a video and I
+realize it's true so let give you an
+example I was looking at uh pop tendency
+calling in the big line and if you if
+you see if you check a a huge database
+you see like everything people call is
+super plus CV and I was yeah the
+conclusion is just you call everything
+because people are not that aggressive
+probably in position and you just get
+away with it but then you realize that
+if people call 64 off suit you're going
+to see a showdown usually when they win
+like you're not going to see the 64 suit
+64 off suit when they folded on the turn
+so it's going to be like The Showdown
+bias which I wasn't aware of for a
+couple years and then I realized yeah
+basically the there are showdowns that
+can be trusted some showdowns cannot be
+trusted because of the nature of the way
+how it goes to
+Showdown and also the uncertainty like
+if you have 10 examples maybe as as Adam
+said maybe it's not uh not good enough
+or not precise enough but also you can
+you can I I can't remember this uh
+mathematical expression but you can
+check the certainty of the number like a
+bional something and and basically you
+can you can have like a nice uh educated
+guas
+on is this is this just a a noise in the
+data or is this
+trustful and yeah uh I I just try to
+focus on the on the
+useful dat I remember I remember like
+before solvers when basically all we had
+was data or at least the game was way
+more exploitable right because we were
+mainly playing on data of other players
+and you kind of making strategies on the
+Fly remember like sample size issues was
+like this guy had a leak and then a
+month later he didn't have the leak
+anymore but now I realized that probably
+it was probably it was just statisticaly
+that made the leak go away it's like Oh
+I thought he had that leak oh he doesn't
+have that leak anymore so yeah there's
+definitely some truth in that I do feel
+like there is a lot of because poker we
+already have little information and I do
+feel like if we get some data that's
+pointing something in wrong direction I
+think if we have to wait until a
+confidence interval like 95% certainty
+we missed up on a lot of good plus v
+opportunities if we wouldn't have been
+that much of a knit in wanting to have
+100% certainty of a stat and obviously
+also there's ways you can use multiple
+stats at all point in the same direction
+um but yeah definitely true uh like I
+said I've definitely Fallen victim of
+this uh myself of ignoring kind of uh
+sample sizes I do also feel like in data
+for example if people only let's say for
+example you see a folder spot but it's a
+spot where population itself under
+Bluffs that means that the majority of
+the times that they face that bet it was
+value heavy which blocks calling ranges
+therefore full percentages will go up or
+people only follow through in like
+Equity improving scenarios so there's
+there's a lot of like it doesn't tell
+the same story like I experimented in my
+career as well and friends of mine as
+well where you just saw one data point
+you're like hey data point says so let's
+go but you forget that when people arve
+that note they're telling a story that
+makes sense and I'm just now arriving at
+this note with a story that makes no
+sense at all and people are like what
+the [ __ ] is this and they call you down
+was like well well but the data showed
+that they're over folding here with 8%
+what the [ __ ] is going on well that's
+because I'm telling a [ __ ] story
+with a [ __ ] hand so it it is gonna
+it is going to screw the data a little
+bit ever experienced anything like this
+oh yeah man all the time I remember one
+of the podcast I just saw you talking
+about when people say I'm exploiting the
+Flop over SE betting because they
+overfall and then they turn they G to or
+or river they think about like what
+going to Bluff and what I'm going to
+Bluff and why I'm going to overse by the
+turn as well and uh yeah she did
+explorative stuff on the on the fluff
+like how do you think and even in my
+earlier poker careers poker career I
+loved when I had the reasoning that
+I discounted some hands from his range
+on the turn and then add back on the
+river like I'm G to get called by that
+because I get better hand or something
+and it's just completely
+ridiculous yeah I definitely uh had
+problems with that and and I I think I
+you just have to learn with the data
+that some some things I'm not not going
+to be that useful and you not you cannot
+be that sure and I also saw like very
+weird
+examples
+when people overfall turn and you do the
+nod loock and then you realize they
+still going to be overflooding even even
+by the river and it's just so insane
+that you you you would think if you did
+your exploitive stuff on the Flop then
+it's over because it's just so much
+stronger range but then you realize oh
+my God they still should have called
+like this week hands on a certain run
+out so it could be
+really
+um it could be really in
+unexpected when when you work with data
+and uh you just you just have to be
+really careful and mindful uh what you
+you're going to try like I remember I
+started playing heads up again um one or
+yeah one year ago and I just I just met
+the guy who was like so freaking
+aggressive I just decided that you you
+can call down this guy with anything and
+it would be okay and then I just call
+down second perers kicker like even
+blocking his Bluffs like to 250 big
+blind deep and of course he was just
+very betting super te and I got
+destroyed and you you have to be really
+careful about even how how sick you're
+going to exploit
+because if somebody sees you doing that
+big of an adjustment they they're going
+to just stop do it and and you they're
+going to crush you so it's many many
+times it's not just simple that you just
+change in one or zero or a or b i
+remember um the Stefan challenge against
+toti
+88 and I think toti had this same
+attitude I had many times that okay
+Stefan equals bluffing all the time what
+should I do Co all the it's it it's way
+more difficult than that and you just
+you just cannot call
+down second pairs on a on a flush
+present stuff like that so you have to
+be really really careful and uh I I I
+was watching the your podcast with Matt
+Marinelli and if you check his graph and
+and stuff like that he he looks like the
+most exed people person you can imagine
+and it was interesting from him hearing
+that he tries
+to exploit like very slowly like bit by
+bit and yeah I think it it makes sense
+it there are some rare rare occasions
+when you can go full exploit but usually
+you have to be careful because you you
+never
+know uh and and yeah with the data is
+the same I think you have to be really
+careful especially when it's something
+on the River on a single Ray spot like
+three three after three bar your
+Showdown is going to be I mean much less
+um comp Rel yeah reliable
+[Music]
+yeah
