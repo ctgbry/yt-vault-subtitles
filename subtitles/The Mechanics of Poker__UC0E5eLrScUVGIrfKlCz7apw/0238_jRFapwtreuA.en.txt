@@ -1,136 +1,936 @@
 Kind: captions
 Language: en
+
+[00:00]
+How do you systematically approach
+
+[00:02]
+How do you systematically approach
+
+[00:02]
 How do you systematically approach
 studying poker like from a engineer
+
+[00:05]
+studying poker like from a engineer
+
+[00:05]
+studying poker like from a engineer
+mindset? Sure. Um, so like I said, I
+
+[00:09]
+mindset? Sure. Um, so like I said, I
+
+[00:09]
 mindset? Sure. Um, so like I said, I
 like to deconstruct a topic. So for
+
+[00:13]
+like to deconstruct a topic. So for
+
+[00:13]
+like to deconstruct a topic. So for
+example, what I do, I save all the handy
+
+[00:16]
+example, what I do, I save all the handy
+
+[00:16]
 example, what I do, I save all the handy
 stories online where I have a question
+
+[00:18]
+stories online where I have a question
+
+[00:18]
+stories online where I have a question
+where I'm not sure, right? And I put
+
+[00:19]
+where I'm not sure, right? And I put
+
+[00:19]
 where I'm not sure, right? And I put
 them in categories and after a month I
+
+[00:22]
+them in categories and after a month I
+
+[00:22]
+them in categories and after a month I
+look at which folder has the most handy
+
+[00:24]
+look at which folder has the most handy
+
+[00:24]
 look at which folder has the most handy
 stories, right? If it's five bet spots
+
+[00:27]
+stories, right? If it's five bet spots
+
+[00:27]
+stories, right? If it's five bet spots
+and I have one hand per year, I don't
+
+[00:29]
+and I have one hand per year, I don't
+
+[00:29]
 and I have one hand per year, I don't
 really care. I'm not going to go into
+
+[00:30]
+really care. I'm not going to go into
+
+[00:30]
+really care. I'm not going to go into
+that in in depth. But then there's BVB.
+
+[00:33]
+that in in depth. But then there's BVB.
+
+[00:33]
 that in in depth. But then there's BVB.
 Maybe last month I had 20. Uh then I'm
+
+[00:36]
+Maybe last month I had 20. Uh then I'm
+
+[00:36]
+Maybe last month I had 20. Uh then I'm
+like, okay, this is really a spot where
+
+[00:37]
+like, okay, this is really a spot where
+
+[00:37]
 like, okay, this is really a spot where
 I have a lot of uncertainties. And so
+
+[00:40]
+I have a lot of uncertainties. And so
+
+[00:40]
+I have a lot of uncertainties. And so
+I'm going to tackle BVB limpot. And
+
+[00:43]
+I'm going to tackle BVB limpot. And
+
+[00:43]
 I'm going to tackle BVB limpot. And
 yeah, I really like to have a global
+
+[00:45]
+yeah, I really like to have a global
+
+[00:45]
+yeah, I really like to have a global
+overview frequencies, then I go in
+
+[00:47]
+overview frequencies, then I go in
+
+[00:47]
 overview frequencies, then I go in
 depth, strategies, then I go in depth,
+
+[00:49]
+depth, strategies, then I go in depth,
+
+[00:49]
+depth, strategies, then I go in depth,
+simplifications, I look at exploits. And
+
+[00:51]
+simplifications, I look at exploits. And
+
+[00:52]
 simplifications, I look at exploits. And
 so I'm basically gonna spend maybe two
+
+[00:53]
+so I'm basically gonna spend maybe two
+
+[00:53]
+so I'm basically gonna spend maybe two
+weeks just doing BVB. Uh because I
+
+[00:56]
+weeks just doing BVB. Uh because I
+
+[00:56]
 weeks just doing BVB. Uh because I
 really want to kind of finish that topic
+
+[00:58]
+really want to kind of finish that topic
+
+[00:58]
+really want to kind of finish that topic
+before moving on.
+
+[01:01]
+before moving on.
+
+[01:01]
 before moving on.
 So you kind of use your own uncertainty
+
+[01:04]
+So you kind of use your own uncertainty
+
+[01:04]
+So you kind of use your own uncertainty
+in a spot as kind of a compass towards
+
+[01:08]
+in a spot as kind of a compass towards
+
+[01:08]
 in a spot as kind of a compass towards
 what you have to put work in.
+
+[01:10]
+what you have to put work in.
+
+[01:10]
+what you have to put work in.
+Yes. Uh I do either that or what I've
+
+[01:14]
+Yes. Uh I do either that or what I've
+
+[01:14]
 Yes. Uh I do either that or what I've
 done. For example, we did a map with a
+
+[01:16]
+done. For example, we did a map with a
+
+[01:16]
+done. For example, we did a map with a
+friend Kenny Hollard. Um we did a map of
+
+[01:22]
+friend Kenny Hollard. Um we did a map of
+
+[01:22]
 friend Kenny Hollard. Um we did a map of
 what nodes impact the win rate and in in
+
+[01:25]
+what nodes impact the win rate and in in
+
+[01:25]
+what nodes impact the win rate and in in
+in uh which fashion. So basically we had
+
+[01:29]
+in uh which fashion. So basically we had
+
+[01:29]
 in uh which fashion. So basically we had
 three bet pots, PVB, single race pot,
+
+[01:31]
+three bet pots, PVB, single race pot,
+
+[01:31]
+three bet pots, PVB, single race pot,
+you know, everything you can think of.
+
+[01:33]
+you know, everything you can think of.
+
+[01:33]
 you know, everything you can think of.
 And then we took a big database and we
+
+[01:36]
+And then we took a big database and we
+
+[01:36]
+And then we took a big database and we
+kind of looked, okay, three bet pots,
+
+[01:39]
+kind of looked, okay, three bet pots,
+
+[01:39]
 kind of looked, okay, three bet pots,
 they involve that many big blind, you
+
+[01:42]
+they involve that many big blind, you
+
+[01:42]
+they involve that many big blind, you
+know, over time. Uh BVB, that many big
+
+[01:45]
+know, over time. Uh BVB, that many big
+
+[01:45]
 know, over time. Uh BVB, that many big
 blind on the flop, four like etc, etc.
+
+[01:49]
+blind on the flop, four like etc, etc.
+
+[01:49]
+blind on the flop, four like etc, etc.
+Uh and then you cross that with the
+
+[01:50]
+Uh and then you cross that with the
+
+[01:50]
 Uh and then you cross that with the
 frequency of the spots, right? Single
+
+[01:52]
+frequency of the spots, right? Single
+
+[01:52]
+frequency of the spots, right? Single
+race spot, small putts, but very
+
+[01:54]
+race spot, small putts, but very
+
+[01:54]
 race spot, small putts, but very
 frequent, blah blah blah. We crossed
+
+[01:56]
+frequent, blah blah blah. We crossed
+
+[01:56]
+frequent, blah blah blah. We crossed
+everything and the answer was basically
+
+[01:58]
+everything and the answer was basically
+
+[01:58]
 everything and the answer was basically
 how much does that node impact your win
+
+[02:00]
+how much does that node impact your win
+
+[02:00]
+how much does that node impact your win
+rate? Is it a lot? Is it medium? Is it
+
+[02:03]
+rate? Is it a lot? Is it medium? Is it
+
+[02:03]
 rate? Is it a lot? Is it medium? Is it
 not at all? Like I mentioned six big
+
+[02:05]
+not at all? Like I mentioned six big
+
+[02:05]
+not at all? Like I mentioned six big
+pots. The pots are giant but it never
+
+[02:06]
+pots. The pots are giant but it never
+
+[02:06]
 pots. The pots are giant but it never
 happens. So it doesn't impact your win
+
+[02:08]
+happens. So it doesn't impact your win
+
+[02:08]
+happens. So it doesn't impact your win
+rate at all. Right? And so basically we
+
+[02:10]
+rate at all. Right? And so basically we
+
+[02:10]
 rate at all. Right? And so basically we
 did that and then we just I just
+
+[02:11]
+did that and then we just I just
+
+[02:12]
+did that and then we just I just
+prioritize. Okay, I'm just going to
+
+[02:13]
+prioritize. Okay, I'm just going to
+
+[02:13]
 prioritize. Okay, I'm just going to
 tackle what impacts my win rate the
+
+[02:16]
+tackle what impacts my win rate the
+
+[02:16]
+tackle what impacts my win rate the
+most. That's where I want to get really
+
+[02:18]
+most. That's where I want to get really
+
+[02:18]
 most. That's where I want to get really
 good. Then I went second layer. What
+
+[02:20]
+good. Then I went second layer. What
+
+[02:20]
+good. Then I went second layer. What
+impact the win rate the win rate like
+
+[02:22]
+impact the win rate the win rate like
+
+[02:22]
 impact the win rate the win rate like
 you know in a medium fashion. Uh, and I
+
+[02:25]
+you know in a medium fashion. Uh, and I
+
+[02:25]
+you know in a medium fashion. Uh, and I
+probably never got to the the small
+
+[02:27]
+probably never got to the the small
+
+[02:27]
 probably never got to the the small
 stuff. No six back pots. No six pot. I'm
+
+[02:31]
+stuff. No six back pots. No six pot. I'm
+
+[02:31]
+stuff. No six back pots. No six pot. I'm
+a fish. I mean, six back pot. Uh,
+
+[02:33]
+a fish. I mean, six back pot. Uh,
+
+[02:33]
 a fish. I mean, six back pot. Uh,
 actually it's very similar. We we had a
+
+[02:35]
+actually it's very similar. We we had a
+
+[02:35]
+actually it's very similar. We we had a
+podcast with with Patrick Howard and I
+
+[02:39]
+podcast with with Patrick Howard and I
+
+[02:39]
 podcast with with Patrick Howard and I
 think we talked similar like in a
+
+[02:40]
+think we talked similar like in a
+
+[02:40]
+think we talked similar like in a
+similar fashion and we talked about
+
+[02:42]
+similar fashion and we talked about
+
+[02:42]
 similar fashion and we talked about
 textures, then we talked about mono
+
+[02:44]
+textures, then we talked about mono
+
+[02:44]
+textures, then we talked about mono
+boards and then I asked him a question
+
+[02:45]
+boards and then I asked him a question
+
+[02:45]
 boards and then I asked him a question
 about it. He said, "I don't know and I
+
+[02:47]
+about it. He said, "I don't know and I
+
+[02:47]
+about it. He said, "I don't know and I
+don't care. It never happens." Yeah.
+
+[02:50]
+don't care. It never happens." Yeah.
+
+[02:50]
 don't care. It never happens." Yeah.
 which which was a good answer like in in
+
+[02:52]
+which which was a good answer like in in
+
+[02:52]
+which which was a good answer like in in
+cash games like I use a very very
+
+[02:54]
+cash games like I use a very very
+
+[02:54]
 cash games like I use a very very
 similar approach frequency of spots pot
+
+[02:56]
+similar approach frequency of spots pot
+
+[02:56]
+similar approach frequency of spots pot
+size what you mentioned like your own
+
+[02:58]
+size what you mentioned like your own
+
+[02:58]
 size what you mentioned like your own
 skill level is definitely a variable to
+
+[03:00]
+skill level is definitely a variable to
+
+[03:00]
+skill level is definitely a variable to
+take in consideration I think also the
+
+[03:02]
+take in consideration I think also the
+
+[03:02]
 take in consideration I think also the
 skill level of your opponent is a very
+
+[03:04]
+skill level of your opponent is a very
+
+[03:04]
+skill level of your opponent is a very
+interesting one so in general it's worth
+
+[03:07]
+interesting one so in general it's worth
+
+[03:07]
 interesting one so in general it's worth
 putting more time into a spot where on
+
+[03:09]
+putting more time into a spot where on
+
+[03:09]
+putting more time into a spot where on
+average the population leaks the most
+
+[03:11]
+average the population leaks the most
+
+[03:11]
 average the population leaks the most
 because basically then your return of
+
+[03:13]
+because basically then your return of
+
+[03:13]
+because basically then your return of
+investment of putting time in that spot
+
+[03:14]
+investment of putting time in that spot
+
+[03:14]
 investment of putting time in that spot
 because you can come up with better
+
+[03:15]
+because you can come up with better
+
+[03:15]
+because you can come up with better
+exploits you know there's more to gain
+
+[03:17]
+exploits you know there's more to gain
+
+[03:17]
 exploits you know there's more to gain
 so there's like a couple of variables
+
+[03:19]
+so there's like a couple of variables
+
+[03:19]
+so there's like a couple of variables
+here obviously in cash is a bit easier
+
+[03:20]
+here obviously in cash is a bit easier
+
+[03:20]
 here obviously in cash is a bit easier
 because it's always the same. How do you
+
+[03:22]
+because it's always the same. How do you
+
+[03:22]
+because it's always the same. How do you
+then measure in phases of the
+
+[03:24]
+then measure in phases of the
+
+[03:24]
 then measure in phases of the
 tournament? Yeah. Yeah, that's
+
+[03:27]
+tournament? Yeah. Yeah, that's
+
+[03:27]
+tournament? Yeah. Yeah, that's
+definitely complex. Um I think that was
+
+[03:30]
+definitely complex. Um I think that was
+
+[03:30]
 definitely complex. Um I think that was
 a good analogy, a good example you gave.
+
+[03:32]
+a good analogy, a good example you gave.
+
+[03:32]
+a good analogy, a good example you gave.
+For example, recently I started to work
+
+[03:34]
+For example, recently I started to work
+
+[03:34]
 For example, recently I started to work
 way more on postrop ICM and that's kind
+
+[03:37]
+way more on postrop ICM and that's kind
+
+[03:37]
+way more on postrop ICM and that's kind
+of a new topic. It's kind of a new world
+
+[03:41]
+of a new topic. It's kind of a new world
+
+[03:41]
 of a new topic. It's kind of a new world
 uh that opened to us recently with
+
+[03:43]
+uh that opened to us recently with
+
+[03:43]
+uh that opened to us recently with
+solvers being super fast and we can now
+
+[03:46]
+solvers being super fast and we can now
+
+[03:46]
 solvers being super fast and we can now
 really study that part of the game
+
+[03:48]
+really study that part of the game
+
+[03:48]
+really study that part of the game
+efficiently. Uh but that's clearly a
+
+[03:50]
+efficiently. Uh but that's clearly a
+
+[03:50]
 efficiently. Uh but that's clearly a
 topic where if you would if you watch
+
+[03:52]
+topic where if you would if you watch
+
+[03:52]
+topic where if you would if you watch
+streams even high stakes um you see
+
+[03:56]
+streams even high stakes um you see
+
+[03:56]
 streams even high stakes um you see
 people doing a lot of stuff nobody knows
+
+[03:59]
+people doing a lot of stuff nobody knows
+
+[03:59]
+people doing a lot of stuff nobody knows
+if it's good. And that's kind of what
+
+[04:01]
+if it's good. And that's kind of what
+
+[04:01]
 if it's good. And that's kind of what
 you're mentioning, right? If you put 20
+
+[04:03]
+you're mentioning, right? If you put 20
+
+[04:03]
+you're mentioning, right? If you put 20
+hours there, you're gonna become the
+
+[04:06]
+hours there, you're gonna become the
+
+[04:06]
 hours there, you're gonna become the
 best ICM postal player in the world.
+
+[04:08]
+best ICM postal player in the world.
+
+[04:08]
+best ICM postal player in the world.
+Honestly, like I'm oversimplifying, but
+
+[04:10]
+Honestly, like I'm oversimplifying, but
+
+[04:10]
 Honestly, like I'm oversimplifying, but
 that's a little bit how it feels right
+
+[04:11]
+that's a little bit how it feels right
+
+[04:11]
+that's a little bit how it feels right
+now. In one year, it's going to be
+
+[04:13]
+now. In one year, it's going to be
+
+[04:13]
 now. In one year, it's going to be
 different, of course. Um so yeah that's
+
+[04:15]
+different, of course. Um so yeah that's
+
+[04:15]
+different, of course. Um so yeah that's
+a good way to also I think direct or
+
+[04:18]
+a good way to also I think direct or
+
+[04:18]
 a good way to also I think direct or
 study um or at least I think it's a
+
+[04:20]
+study um or at least I think it's a
+
+[04:20]
+study um or at least I think it's a
+really rewarding one because like you
+
+[04:22]
+really rewarding one because like you
+
+[04:22]
 really rewarding one because like you
 mentioned you you end up having a big
+
+[04:24]
+mentioned you you end up having a big
+
+[04:24]
+mentioned you you end up having a big
+edge after 20 hours of study whereas if
+
+[04:27]
+edge after 20 hours of study whereas if
+
+[04:27]
 edge after 20 hours of study whereas if
 you want to have a big edge in single
+
+[04:28]
+you want to have a big edge in single
+
+[04:28]
+you want to have a big edge in single
+race part big blind you have to put you
+
+[04:30]
+race part big blind you have to put you
+
+[04:30]
 race part big blind you have to put you
 know
+
+[04:31]
+know
+
+[04:31]
+know
+100 I remember actually we also did a
+
+[04:33]
+100 I remember actually we also did a
+
+[04:34]
 100 I remember actually we also did a
 podcast with with Jono and I think he he
+
+[04:37]
+podcast with with Jono and I think he he
+
+[04:37]
+podcast with with Jono and I think he he
+mentioned 80% of his study is pre flop
+
+[04:40]
+mentioned 80% of his study is pre flop
+
+[04:40]
 mentioned 80% of his study is pre flop
 and ICM because he says that's that's
+
+[04:43]
+and ICM because he says that's that's
+
+[04:43]
+and ICM because he says that's that's
+like where where ref is going to be by
+
+[04:46]
+like where where ref is going to be by
+
+[04:46]
 like where where ref is going to be by
 far the most frequent, right? And ICM is
+
+[04:48]
+far the most frequent, right? And ICM is
+
+[04:48]
+far the most frequent, right? And ICM is
+going to have the biggest impact in
+
+[04:49]
+going to have the biggest impact in
+
+[04:49]
 going to have the biggest impact in
 terms of on your win rate. Would you
+
+[04:51]
+terms of on your win rate. Would you
+
+[04:51]
+terms of on your win rate. Would you
+would you say your your study ratio is
+
+[04:53]
+would you say your your study ratio is
+
+[04:53]
 would you say your your study ratio is
 is similar? No, I don't think so. I
+
+[04:56]
+is similar? No, I don't think so. I
+
+[04:56]
+is similar? No, I don't think so. I
+don't do so much pre flop. Um, and yeah,
+
+[05:00]
+don't do so much pre flop. Um, and yeah,
+
+[05:00]
 don't do so much pre flop. Um, and yeah,
 I'm more of a post flop studier, if you
+
+[05:03]
+I'm more of a post flop studier, if you
+
+[05:03]
+I'm more of a post flop studier, if you
+might say. Uh, I do ICM of course, so
+
+[05:07]
+might say. Uh, I do ICM of course, so
+
+[05:07]
 might say. Uh, I do ICM of course, so
 maybe something like 20% pre flop,
+
+[05:11]
+maybe something like 20% pre flop,
+
+[05:11]
+maybe something like 20% pre flop,
+um, 40%
+
+[05:13]
+um, 40%
+
+[05:13]
 um, 40%
 ICM including post flop, and 40% post
+
+[05:18]
+ICM including post flop, and 40% post
+
+[05:18]
+ICM including post flop, and 40% post
+flop GPV.
+
+[05:20]
+flop GPV.
+
+[05:20]
 flop GPV.
 [Music]

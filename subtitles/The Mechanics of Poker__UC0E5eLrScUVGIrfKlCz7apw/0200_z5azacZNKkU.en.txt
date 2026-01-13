@@ -1,428 +1,2976 @@
 Kind: captions
 Language: en
+
+[00:00]
+People don't really ask themselves a
+
+[00:02]
+People don't really ask themselves a
+
+[00:02]
 People don't really ask themselves a
 very simple question that would explain
+
+[00:04]
+very simple question that would explain
+
+[00:04]
+very simple question that would explain
+it. Why is there were no um successful
+
+[00:07]
+it. Why is there were no um successful
+
+[00:07]
 it. Why is there were no um successful
 GTO bots ever?
+
+[00:11]
+GTO bots ever?
+
+[00:11]
+GTO bots ever?
+What in your experience throughout your
+
+[00:13]
+What in your experience throughout your
+
+[00:13]
 What in your experience throughout your
 career and also throughout your
+
+[00:14]
+career and also throughout your
+
+[00:14]
+career and also throughout your
+experience coaching? What has been the
+
+[00:17]
+experience coaching? What has been the
+
+[00:17]
 experience coaching? What has been the
 most effective way for you to work on
+
+[00:20]
+most effective way for you to work on
+
+[00:20]
+most effective way for you to work on
+your game or to build strategies or to
+
+[00:22]
+your game or to build strategies or to
+
+[00:22]
 your game or to build strategies or to
 study?
+
+[00:24]
+study?
+
+[00:24]
+study?
+Uh well that's the algorithm that I've
+
+[00:27]
+Uh well that's the algorithm that I've
+
+[00:27]
 Uh well that's the algorithm that I've
 arrived to by the end of my career and
+
+[00:30]
+arrived to by the end of my career and
+
+[00:30]
+arrived to by the end of my career and
+yeah that's the idea how you approach to
+
+[00:32]
+yeah that's the idea how you approach to
+
+[00:32]
 yeah that's the idea how you approach to
 spots that different spots happen with
+
+[00:34]
+spots that different spots happen with
+
+[00:34]
+spots that different spots happen with
+different frequencies different boards
+
+[00:36]
+different frequencies different boards
+
+[00:36]
 different frequencies different boards
 happen with different frequencies um
+
+[00:39]
+happen with different frequencies um
+
+[00:39]
+happen with different frequencies um
+some are more important some are less
+
+[00:40]
+some are more important some are less
+
+[00:40]
 some are more important some are less
 it's not about the frequency only it is
+
+[00:43]
+it's not about the frequency only it is
+
+[00:43]
+it's not about the frequency only it is
+also about the possibility to exploit to
+
+[00:45]
+also about the possibility to exploit to
+
+[00:45]
 also about the possibility to exploit to
 build exploits on some boards it is also
+
+[00:48]
+build exploits on some boards it is also
+
+[00:48]
+build exploits on some boards it is also
+about a complexity factor I call it the
+
+[00:51]
+about a complexity factor I call it the
+
+[00:51]
 about a complexity factor I call it the
 the factor that people make people tend
+
+[00:54]
+the factor that people make people tend
+
+[00:54]
+the factor that people make people tend
+to make more mistakes in some spots and
+
+[00:57]
+to make more mistakes in some spots and
+
+[00:57]
 to make more mistakes in some spots and
 less in other spots. So, you should like
+
+[00:59]
+less in other spots. So, you should like
+
+[00:59]
+less in other spots. So, you should like
+kind of identify those and double down
+
+[01:02]
+kind of identify those and double down
+
+[01:02]
 kind of identify those and double down
 on your double up or whatever increase
+
+[01:04]
+on your double up or whatever increase
+
+[01:04]
+on your double up or whatever increase
+your effort. And then [clears throat] um
+
+[01:08]
+your effort. And then [clears throat] um
+
+[01:08]
 your effort. And then [clears throat] um
 there are also spots that people
+
+[01:09]
+there are also spots that people
+
+[01:09]
+there are also spots that people
+intuitively play far from the solver and
+
+[01:13]
+intuitively play far from the solver and
+
+[01:13]
 intuitively play far from the solver and
 those spots are very interesting to
+
+[01:15]
+those spots are very interesting to
+
+[01:15]
+those spots are very interesting to
+study as well because there you can make
+
+[01:19]
+study as well because there you can make
+
+[01:19]
 study as well because there you can make
 some assumptions like okay if most of
+
+[01:21]
+some assumptions like okay if most of
+
+[01:21]
+some assumptions like okay if most of
+people deviate that much then I can
+
+[01:24]
+people deviate that much then I can
+
+[01:24]
 people deviate that much then I can
 exploit that and get a lot of extra EV
+
+[01:27]
+exploit that and get a lot of extra EV
+
+[01:27]
+exploit that and get a lot of extra EV
+compared to if I just play the GTO
+
+[01:29]
+compared to if I just play the GTO
+
+[01:29]
 compared to if I just play the GTO
 strategy.
+
+[01:30]
+strategy.
+
+[01:30]
+strategy.
+So me many ideas that you can derive and
+
+[01:33]
+So me many ideas that you can derive and
+
+[01:33]
 So me many ideas that you can derive and
 then put it into a picture
+
+[01:35]
+then put it into a picture
+
+[01:35]
+then put it into a picture
+for our audience like who are probably
+
+[01:39]
+for our audience like who are probably
+
+[01:39]
 for our audience like who are probably
 arise many questions when when when you
+
+[01:41]
+arise many questions when when when you
+
+[01:41]
+arise many questions when when when you
+just quickly explained like your study
+
+[01:43]
+just quickly explained like your study
+
+[01:43]
 just quickly explained like your study
 algorithm I wanted to pick out one thing
+
+[01:46]
+algorithm I wanted to pick out one thing
+
+[01:46]
+algorithm I wanted to pick out one thing
+what is like what are like some
+
+[01:47]
+what is like what are like some
+
+[01:47]
 what is like what are like some
 characteristics of spots where I think
+
+[01:50]
+characteristics of spots where I think
+
+[01:50]
+characteristics of spots where I think
+you mentioned it's easy for people to
+
+[01:52]
+you mentioned it's easy for people to
+
+[01:52]
 you mentioned it's easy for people to
 make mistakes for the listeners what is
+
+[01:54]
+make mistakes for the listeners what is
+
+[01:54]
+make mistakes for the listeners what is
+something that they have to look for and
+
+[01:56]
+something that they have to look for and
+
+[01:56]
 something that they have to look for and
 how they can identify a situation where
+
+[01:59]
+how they can identify a situation where
+
+[01:59]
+how they can identify a situation where
+it's likely that your opponent or the
+
+[02:01]
+it's likely that your opponent or the
+
+[02:01]
 it's likely that your opponent or the
 population in general uh is likely to
+
+[02:03]
+population in general uh is likely to
+
+[02:03]
+population in general uh is likely to
+screw up by a lot.
+
+[02:06]
+screw up by a lot.
+
+[02:06]
 screw up by a lot.
 Um well, there are a couple of ways to
+
+[02:08]
+Um well, there are a couple of ways to
+
+[02:08]
+Um well, there are a couple of ways to
+find such spots. Um what what's better
+
+[02:12]
+find such spots. Um what what's better
+
+[02:12]
 find such spots. Um what what's better
 to begin with? So the lines that people
+
+[02:15]
+to begin with? So the lines that people
+
+[02:15]
+to begin with? So the lines that people
+are playing the be that people play the
+
+[02:18]
+are playing the be that people play the
+
+[02:18]
 are playing the be that people play the
 best are the most common lines. Let's
+
+[02:20]
+best are the most common lines. Let's
+
+[02:20]
+best are the most common lines. Let's
+say CBAT, big blind versus the button or
+
+[02:23]
+say CBAT, big blind versus the button or
+
+[02:23]
 say CBAT, big blind versus the button or
 defense against CBT. It's hard to make a
+
+[02:25]
+defense against CBT. It's hard to make a
+
+[02:25]
+defense against CBT. It's hard to make a
+mistake when you play the strategy for
+
+[02:27]
+mistake when you play the strategy for
+
+[02:27]
 mistake when you play the strategy for
 many years. Plus, you can look up the
+
+[02:29]
+many years. Plus, you can look up the
+
+[02:29]
+many years. Plus, you can look up the
+solver and correct yourself. But then
+
+[02:31]
+solver and correct yourself. But then
+
+[02:31]
 solver and correct yourself. But then
 there are some spots that you don't get
+
+[02:33]
+there are some spots that you don't get
+
+[02:33]
+there are some spots that you don't get
+to play a lot. For example, small blind
+
+[02:34]
+to play a lot. For example, small blind
+
+[02:34]
 to play a lot. For example, small blind
 versus big blind three but pot when the
+
+[02:37]
+versus big blind three but pot when the
+
+[02:37]
+versus big blind three but pot when the
+big blind checks flop and then small
+
+[02:39]
+big blind checks flop and then small
+
+[02:40]
 big blind checks flop and then small
 blind has to act or even big blind
+
+[02:42]
+blind has to act or even big blind
+
+[02:42]
+blind has to act or even big blind
+versus the button singular spot when the
+
+[02:44]
+versus the button singular spot when the
+
+[02:44]
 versus the button singular spot when the
 big blind checks on a flop. If he checks
+
+[02:47]
+big blind checks on a flop. If he checks
+
+[02:47]
+big blind checks on a flop. If he checks
+more than the solver does then on the
+
+[02:49]
+more than the solver does then on the
+
+[02:49]
 more than the solver does then on the
 turn caller has to protect his calling
+
+[02:51]
+turn caller has to protect his calling
+
+[02:51]
+turn caller has to protect his calling
+range. He has to protect his check. He
+
+[02:54]
+range. He has to protect his check. He
+
+[02:54]
 range. He has to protect his check. He
 has to split his sizes. And there are
+
+[02:56]
+has to split his sizes. And there are
+
+[02:56]
+has to split his sizes. And there are
+many ways to make potential mistakes. So
+
+[02:59]
+many ways to make potential mistakes. So
+
+[02:59]
 many ways to make potential mistakes. So
 those are some ideas to start with.
+
+[03:01]
+those are some ideas to start with.
+
+[03:01]
+those are some ideas to start with.
+Also, it's important while searching for
+
+[03:04]
+Also, it's important while searching for
+
+[03:04]
 Also, it's important while searching for
 such spots to ask yourself, okay, this
+
+[03:07]
+such spots to ask yourself, okay, this
+
+[03:07]
+such spots to ask yourself, okay, this
+spot is very hard. People make a lot of
+
+[03:09]
+spot is very hard. People make a lot of
+
+[03:09]
 spot is very hard. People make a lot of
 mistakes, but how often does it actually
+
+[03:12]
+mistakes, but how often does it actually
+
+[03:12]
+mistakes, but how often does it actually
+happen? Because I remember myself
+
+[03:14]
+happen? Because I remember myself
+
+[03:14]
 happen? Because I remember myself
 finding some spots that seem like super
+
+[03:16]
+finding some spots that seem like super
+
+[03:16]
+finding some spots that seem like super
+cool to exploit. I was feeling like
+
+[03:18]
+cool to exploit. I was feeling like
+
+[03:18]
 cool to exploit. I was feeling like
 super smart, but then I I started
+
+[03:21]
+super smart, but then I I started
+
+[03:21]
+super smart, but then I I started
+playing and I realized that these spots
+
+[03:23]
+playing and I realized that these spots
+
+[03:23]
 playing and I realized that these spots
 happen once in a month and then I feel
+
+[03:25]
+happen once in a month and then I feel
+
+[03:25]
+happen once in a month and then I feel
+dumb like what what did I just waste 20
+
+[03:27]
+dumb like what what did I just waste 20
+
+[03:27]
 dumb like what what did I just waste 20
 hours building my exploits for if it
+
+[03:29]
+hours building my exploits for if it
+
+[03:29]
+hours building my exploits for if it
+never happens?
+
+[03:31]
+never happens?
+
+[03:31]
 never happens?
 Yeah. So, it has to be I mean we talked
+
+[03:33]
+Yeah. So, it has to be I mean we talked
+
+[03:33]
+Yeah. So, it has to be I mean we talked
+about this in the podcast many times
+
+[03:34]
+about this in the podcast many times
+
+[03:34]
 about this in the podcast many times
 like frequency of spot. It has to be
+
+[03:36]
+like frequency of spot. It has to be
+
+[03:36]
+like frequency of spot. It has to be
+like a balance between the frequency of
+
+[03:38]
+like a balance between the frequency of
+
+[03:38]
 like a balance between the frequency of
 the spot and the EV of the exploit.
+
+[03:40]
+the spot and the EV of the exploit.
+
+[03:40]
+the spot and the EV of the exploit.
+Let's say you find a good river race
+
+[03:41]
+Let's say you find a good river race
+
+[03:41]
 Let's say you find a good river race
 exploit where you know you make quite a
+
+[03:44]
+exploit where you know you make quite a
+
+[03:44]
+exploit where you know you make quite a
+lot of money and that spot you know
+
+[03:45]
+lot of money and that spot you know
+
+[03:45]
 lot of money and that spot you know
 occurs maybe once every session or so.
+
+[03:48]
+occurs maybe once every session or so.
+
+[03:48]
+occurs maybe once every session or so.
+It can maybe be quite interesting uh to
+
+[03:51]
+It can maybe be quite interesting uh to
+
+[03:51]
 It can maybe be quite interesting uh to
 explore that but like you said when it
+
+[03:52]
+explore that but like you said when it
+
+[03:52]
+explore that but like you said when it
+only happens once a month or when
+
+[03:54]
+only happens once a month or when
+
+[03:54]
 only happens once a month or when
 something happens frequently but the EV
+
+[03:56]
+something happens frequently but the EV
+
+[03:56]
+something happens frequently but the EV
+gain is very slightly maybe it's not
+
+[03:58]
+gain is very slightly maybe it's not
+
+[03:58]
 gain is very slightly maybe it's not
 really worth your time. it's very hard
+
+[03:59]
+really worth your time. it's very hard
+
+[03:59]
+really worth your time. it's very hard
+to give an exact metric, right? You kind
+
+[04:02]
+to give an exact metric, right? You kind
+
+[04:02]
 to give an exact metric, right? You kind
 of start to have a feel like, okay, this
+
+[04:04]
+of start to have a feel like, okay, this
+
+[04:04]
+of start to have a feel like, okay, this
+was actually a waste of time and this
+
+[04:05]
+was actually a waste of time and this
+
+[04:05]
 was actually a waste of time and this
 was not a waste of time and based on
+
+[04:07]
+was not a waste of time and based on
+
+[04:07]
+was not a waste of time and based on
+that, you know, you're going to uh
+
+[04:09]
+that, you know, you're going to uh
+
+[04:09]
 that, you know, you're going to uh
 recalibrate your future studying. Um,
+
+[04:11]
+recalibrate your future studying. Um,
+
+[04:11]
+recalibrate your future studying. Um,
+you you mentioned about the
+
+[04:13]
+you you mentioned about the
+
+[04:13]
 you you mentioned about the
 characteristics of the spots, right,
+
+[04:14]
+characteristics of the spots, right,
+
+[04:14]
+characteristics of the spots, right,
+that lead to players making mistakes.
+
+[04:16]
+that lead to players making mistakes.
+
+[04:16]
 that lead to players making mistakes.
 So, knowing this knowledge, how would
+
+[04:18]
+So, knowing this knowledge, how would
+
+[04:18]
+So, knowing this knowledge, how would
+that uh change your strategic approach,
+
+[04:21]
+that uh change your strategic approach,
+
+[04:22]
 that uh change your strategic approach,
 right? You talked a lot about, yeah,
+
+[04:23]
+right? You talked a lot about, yeah,
+
+[04:23]
+right? You talked a lot about, yeah,
+okay, the most frequent spots and the
+
+[04:25]
+okay, the most frequent spots and the
+
+[04:25]
 okay, the most frequent spots and the
 spots that people are most used to,
+
+[04:27]
+spots that people are most used to,
+
+[04:27]
+spots that people are most used to,
+that's where they make less mistakes. So
+
+[04:29]
+that's where they make less mistakes. So
+
+[04:29]
 that's where they make less mistakes. So
 knowing that, how does that impact the
+
+[04:32]
+knowing that, how does that impact the
+
+[04:32]
+knowing that, how does that impact the
+strategy that you would like to employ?
+
+[04:35]
+strategy that you would like to employ?
+
+[04:35]
 strategy that you would like to employ?
 Well, well, first of all, we've just
+
+[04:36]
+Well, well, first of all, we've just
+
+[04:36]
+Well, well, first of all, we've just
+scratched the surface here because it's
+
+[04:39]
+scratched the surface here because it's
+
+[04:39]
 scratched the surface here because it's
 a very complex uh idea, you know, your
+
+[04:42]
+a very complex uh idea, you know, your
+
+[04:42]
+a very complex uh idea, you know, your
+study approach how you spend two hours
+
+[04:46]
+study approach how you spend two hours
+
+[04:46]
 study approach how you spend two hours
 of theory that you can devote every day
+
+[04:49]
+of theory that you can devote every day
+
+[04:49]
+of theory that you can devote every day
+to studying theory compared to the
+
+[04:51]
+to studying theory compared to the
+
+[04:51]
 to studying theory compared to the
 field. Um it is full of nuances because
+
+[04:55]
+field. Um it is full of nuances because
+
+[04:56]
+field. Um it is full of nuances because
+if you like the spots that you choose to
+
+[04:59]
+if you like the spots that you choose to
+
+[04:59]
 if you like the spots that you choose to
 study um they they make a very big
+
+[05:03]
+study um they they make a very big
+
+[05:03]
+study um they they make a very big
+difference in a in a long run because if
+
+[05:05]
+difference in a in a long run because if
+
+[05:05]
 difference in a in a long run because if
 one person gets the let's say let's rate
+
+[05:09]
+one person gets the let's say let's rate
+
+[05:09]
+one person gets the let's say let's rate
+the level of the efficiency of
+
+[05:11]
+the level of the efficiency of
+
+[05:11]
 the level of the efficiency of
 approaching poker study. Let's say one
+
+[05:14]
+approaching poker study. Let's say one
+
+[05:14]
+approaching poker study. Let's say one
+person is 80% efficient and and another
+
+[05:17]
+person is 80% efficient and and another
+
+[05:18]
 person is 80% efficient and and another
 person is 90% or 95% efficient. In the
+
+[05:21]
+person is 90% or 95% efficient. In the
+
+[05:21]
+person is 90% or 95% efficient. In the
+long run that is immen the difference is
+
+[05:24]
+long run that is immen the difference is
+
+[05:24]
 long run that is immen the difference is
 immense. So your goal is to find as many
+
+[05:27]
+immense. So your goal is to find as many
+
+[05:27]
+immense. So your goal is to find as many
+nuances as you can to improve your study
+
+[05:30]
+nuances as you can to improve your study
+
+[05:30]
 nuances as you can to improve your study
 method as much as possible because in
+
+[05:33]
+method as much as possible because in
+
+[05:33]
+method as much as possible because in
+the long run you'll have some incredible
+
+[05:35]
+the long run you'll have some incredible
+
+[05:35]
 the long run you'll have some incredible
 edge uh when the compound effect gets
+
+[05:38]
+edge uh when the compound effect gets
+
+[05:38]
+edge uh when the compound effect gets
+into the play.
+
+[05:40]
+into the play.
+
+[05:40]
 into the play.
 So within your uh your optimized study
+
+[05:43]
+So within your uh your optimized study
+
+[05:43]
+So within your uh your optimized study
+algorithm,
+
+[05:45]
+algorithm,
+
+[05:45]
 algorithm,
 what are some of the tools that you like
+
+[05:47]
+what are some of the tools that you like
+
+[05:47]
+what are some of the tools that you like
+to use and how do you think you can use
+
+[05:50]
+to use and how do you think you can use
+
+[05:50]
 to use and how do you think you can use
 them most effectively?
+
+[05:52]
+them most effectively?
+
+[05:52]
+them most effectively?
+Well, the main tool is the solver before
+
+[05:55]
+Well, the main tool is the solver before
+
+[05:56]
 Well, the main tool is the solver before
 GTO wizard which is now the king. Um it
+
+[05:59]
+GTO wizard which is now the king. Um it
+
+[05:59]
+GTO wizard which is now the king. Um it
+was the simple passlap which was by the
+
+[06:01]
+was the simple passlap which was by the
+
+[06:01]
 was the simple passlap which was by the
 way not very popular among English
+
+[06:04]
+way not very popular among English
+
+[06:04]
+way not very popular among English
+speaking audience. I think most of
+
+[06:06]
+speaking audience. I think most of
+
+[06:06]
 speaking audience. I think most of
 people used pio solver and simple
+
+[06:09]
+people used pio solver and simple
+
+[06:09]
+people used pio solver and simple
+passlap used to be much better at least
+
+[06:12]
+passlap used to be much better at least
+
+[06:12]
 passlap used to be much better at least
 at the beginning and then pio has caught
+
+[06:15]
+at the beginning and then pio has caught
+
+[06:15]
+at the beginning and then pio has caught
+up. I think the option of node blocks
+
+[06:18]
+up. I think the option of node blocks
+
+[06:18]
 up. I think the option of node blocks
 like nod locking the strategies it was
+
+[06:20]
+like nod locking the strategies it was
+
+[06:20]
+like nod locking the strategies it was
+very convenient. You could do that on a
+
+[06:22]
+very convenient. You could do that on a
+
+[06:22]
 very convenient. You could do that on a
 go. You didn't have to recalculate the
+
+[06:24]
+go. You didn't have to recalculate the
+
+[06:24]
+go. You didn't have to recalculate the
+spot from the very beginning. You can
+
+[06:26]
+spot from the very beginning. You can
+
+[06:26]
 spot from the very beginning. You can
 just you know get to the turn and get
+
+[06:28]
+just you know get to the turn and get
+
+[06:28]
+just you know get to the turn and get
+your calculation in one two minutes or
+
+[06:30]
+your calculation in one two minutes or
+
+[06:30]
 your calculation in one two minutes or
 faster depends on your PC. So, uh,
+
+[06:34]
+faster depends on your PC. So, uh,
+
+[06:34]
+faster depends on your PC. So, uh,
+simple pass flop for sure. And then
+
+[06:36]
+simple pass flop for sure. And then
+
+[06:36]
 simple pass flop for sure. And then
 Flipzilla, even though it's like an
+
+[06:37]
+Flipzilla, even though it's like an
+
+[06:37]
+Flipzilla, even though it's like an
+outdated tool before the GTO wizard,
+
+[06:40]
+outdated tool before the GTO wizard,
+
+[06:40]
 outdated tool before the GTO wizard,
 Flipzilla had this, well, it now still
+
+[06:42]
+Flipzilla had this, well, it now still
+
+[06:42]
+Flipzilla had this, well, it now still
+has this very nice function called hold
+
+[06:45]
+has this very nice function called hold
+
+[06:45]
 has this very nice function called hold
 deck when you can visualize the equity
+
+[06:47]
+deck when you can visualize the equity
+
+[06:47]
+deck when you can visualize the equity
+versus the equity in a graph, uh, one
+
+[06:51]
+versus the equity in a graph, uh, one
+
+[06:51]
 versus the equity in a graph, uh, one
 position versus another. And then you
+
+[06:53]
+position versus another. And then you
+
+[06:53]
+position versus another. And then you
+can see who has the advantage in what
+
+[06:55]
+can see who has the advantage in what
+
+[06:55]
 can see who has the advantage in what
 type of equity hands, either the noted
+
+[06:58]
+type of equity hands, either the noted
+
+[06:58]
+type of equity hands, either the noted
+equity hands or strong or medium, etc.,
+
+[07:01]
+equity hands or strong or medium, etc.,
+
+[07:01]
 equity hands or strong or medium, etc.,
 which gets you to understand the sizings
+
+[07:04]
+which gets you to understand the sizings
+
+[07:04]
+which gets you to understand the sizings
+better and how often to check etc. So it
+
+[07:07]
+better and how often to check etc. So it
+
+[07:07]
 better and how often to check etc. So it
 was super convenient. Now you get all
+
+[07:09]
+was super convenient. Now you get all
+
+[07:09]
+was super convenient. Now you get all
+these functions in GTO wizard.
+
+[07:12]
+these functions in GTO wizard.
+
+[07:12]
 these functions in GTO wizard.
 Shout out to GTO Wizard sponsor of
+
+[07:15]
+Shout out to GTO Wizard sponsor of
+
+[07:15]
+Shout out to GTO Wizard sponsor of
+Thanks for killing poker guys.
+
+[07:18]
+Thanks for killing poker guys.
+
+[07:18]
 Thanks for killing poker guys.
 [laughter]
+
+[07:19]
+[laughter]
+
+[07:19]
+[laughter]
+No, I'm just kidding. I I love it. It's
+
+[07:21]
+No, I'm just kidding. I I love it. It's
+
+[07:21]
 No, I'm just kidding. I I love it. It's
 very fast, very convenient. Yeah, there
+
+[07:23]
+very fast, very convenient. Yeah, there
+
+[07:24]
+very fast, very convenient. Yeah, there
+especially like older school players uh
+
+[07:26]
+especially like older school players uh
+
+[07:26]
 especially like older school players uh
 they have mixed feelings around uh
+
+[07:29]
+they have mixed feelings around uh
+
+[07:29]
+they have mixed feelings around uh
+technology developing so so quickly. Um
+
+[07:32]
+technology developing so so quickly. Um
+
+[07:32]
 technology developing so so quickly. Um
 you mentioned also earlier in the pot
+
+[07:35]
+you mentioned also earlier in the pot
+
+[07:35]
+you mentioned also earlier in the pot
+about the threats right of using
+
+[07:37]
+about the threats right of using
+
+[07:37]
 about the threats right of using
 solvers. I think you talked about
+
+[07:40]
+solvers. I think you talked about
+
+[07:40]
+solvers. I think you talked about
+mimicking the solvers. What are like the
+
+[07:43]
+mimicking the solvers. What are like the
+
+[07:43]
 mimicking the solvers. What are like the
 most common leaks you see when players
+
+[07:46]
+most common leaks you see when players
+
+[07:46]
+most common leaks you see when players
+try to build strategies around solvers?
+
+[07:48]
+try to build strategies around solvers?
+
+[07:48]
 try to build strategies around solvers?
 We already talked about in your stud
+
+[07:50]
+We already talked about in your stud
+
+[07:50]
+We already talked about in your stud
+study algorithm maybe players studying
+
+[07:52]
+study algorithm maybe players studying
+
+[07:52]
 study algorithm maybe players studying
 spots that are not that frequent. What
+
+[07:54]
+spots that are not that frequent. What
+
+[07:54]
+spots that are not that frequent. What
+are like common mistakes that they make
+
+[07:56]
+are like common mistakes that they make
+
+[07:56]
 are like common mistakes that they make
 when trying to I think you try talked
+
+[07:59]
+when trying to I think you try talked
+
+[07:59]
+when trying to I think you try talked
+about copying the solver. Why is that so
+
+[08:00]
+about copying the solver. Why is that so
+
+[08:00]
 about copying the solver. Why is that so
 bad?
+
+[08:02]
+bad?
+
+[08:02]
+bad?
+Okay. I think one of the main
+
+[08:03]
+Okay. I think one of the main
+
+[08:04]
 Okay. I think one of the main
 misconceptions that people have about
+
+[08:05]
+misconceptions that people have about
+
+[08:05]
+misconceptions that people have about
+solver is that they for some reason need
+
+[08:08]
+solver is that they for some reason need
+
+[08:08]
 solver is that they for some reason need
 to play like a solver. But what they
+
+[08:10]
+to play like a solver. But what they
+
+[08:10]
+to play like a solver. But what they
+don't get is that solver his strategy is
+
+[08:13]
+don't get is that solver his strategy is
+
+[08:13]
 don't get is that solver his strategy is
 based on the most optimal strategy while
+
+[08:16]
+based on the most optimal strategy while
+
+[08:16]
+based on the most optimal strategy while
+playing against the same perfect machine
+
+[08:19]
+playing against the same perfect machine
+
+[08:19]
 playing against the same perfect machine
 who knows your cards. So if you do
+
+[08:21]
+who knows your cards. So if you do
+
+[08:21]
+who knows your cards. So if you do
+something differently, you are going to
+
+[08:23]
+something differently, you are going to
+
+[08:23]
 something differently, you are going to
 be instantly punished. So the goal of
+
+[08:25]
+be instantly punished. So the goal of
+
+[08:25]
+be instantly punished. So the goal of
+your strategy is not to like maximize
+
+[08:28]
+your strategy is not to like maximize
+
+[08:28]
 your strategy is not to like maximize
 your EV against this opponent who has
+
+[08:30]
+your EV against this opponent who has
+
+[08:30]
+your EV against this opponent who has
+many leaks, but to be um invulnerable
+
+[08:34]
+many leaks, but to be um invulnerable
+
+[08:34]
 many leaks, but to be um invulnerable
 yourself, to have no weak spots that can
+
+[08:36]
+yourself, to have no weak spots that can
+
+[08:36]
+yourself, to have no weak spots that can
+be attacked. So you have to mix many
+
+[08:38]
+be attacked. So you have to mix many
+
+[08:38]
 be attacked. So you have to mix many
 hands into different lines. You have to
+
+[08:40]
+hands into different lines. You have to
+
+[08:40]
+hands into different lines. You have to
+use randomizer etc. You have to call
+
+[08:43]
+use randomizer etc. You have to call
+
+[08:43]
 use randomizer etc. You have to call
 down using the frequencies and so on and
+
+[08:45]
+down using the frequencies and so on and
+
+[08:45]
+down using the frequencies and so on and
+so forth. When in practice people just
+
+[08:48]
+so forth. When in practice people just
+
+[08:48]
 so forth. When in practice people just
 have so many leaks and if you try to
+
+[08:51]
+have so many leaks and if you try to
+
+[08:51]
+have so many leaks and if you try to
+play the solar strategy, people don't
+
+[08:53]
+play the solar strategy, people don't
+
+[08:53]
 play the solar strategy, people don't
 really ask themselves a very simple
+
+[08:55]
+really ask themselves a very simple
+
+[08:55]
+really ask themselves a very simple
+question that would explain it. Why is
+
+[08:57]
+question that would explain it. Why is
+
+[08:57]
 question that would explain it. Why is
 there were no um successful GTO bots
+
+[09:01]
+there were no um successful GTO bots
+
+[09:01]
+there were no um successful GTO bots
+ever who played online? Like why is
+
+[09:03]
+ever who played online? Like why is
+
+[09:04]
 ever who played online? Like why is
 that? If GTO is the best game, why can't
+
+[09:06]
+that? If GTO is the best game, why can't
+
+[09:06]
+that? If GTO is the best game, why can't
+you just create this bot that plays, you
+
+[09:09]
+you just create this bot that plays, you
+
+[09:09]
 you just create this bot that plays, you
 know, GTO wizard or pio strategy on
+
+[09:11]
+know, GTO wizard or pio strategy on
+
+[09:12]
+know, GTO wizard or pio strategy on
+every street and just crush everybody?
+
+[09:14]
+every street and just crush everybody?
+
+[09:14]
 every street and just crush everybody?
 Why such bots have never come to high
+
+[09:18]
+Why such bots have never come to high
+
+[09:18]
+Why such bots have never come to high
+stakes or midstakes? All the bots that
+
+[09:21]
+stakes or midstakes? All the bots that
+
+[09:21]
 stakes or midstakes? All the bots that
 I've ever played against were
+
+[09:22]
+I've ever played against were
+
+[09:22]
+I've ever played against were
+exploitative bots. Like why why is that?
+
+[09:24]
+exploitative bots. Like why why is that?
+
+[09:24]
 exploitative bots. Like why why is that?
 if the GTO is the best strategy. The
+
+[09:27]
+if the GTO is the best strategy. The
+
+[09:27]
+if the GTO is the best strategy. The
+idea is that um GTO it it teaches you a
+
+[09:31]
+idea is that um GTO it it teaches you a
+
+[09:31]
 idea is that um GTO it it teaches you a
 lot about how to realize the equity of
+
+[09:33]
+lot about how to realize the equity of
+
+[09:33]
+lot about how to realize the equity of
+hands, how to build your strategy, what
+
+[09:36]
+hands, how to build your strategy, what
+
+[09:36]
 hands, how to build your strategy, what
 sizes to use, who has to check once
+
+[09:38]
+sizes to use, who has to check once
+
+[09:38]
+sizes to use, who has to check once
+again, who has to protect his check, why
+
+[09:41]
+again, who has to protect his check, why
+
+[09:41]
 again, who has to protect his check, why
 it is needed, why it is not needed. You
+
+[09:43]
+it is needed, why it is not needed. You
+
+[09:43]
+it is needed, why it is not needed. You
+can learn a lot from it. But if you just
+
+[09:46]
+can learn a lot from it. But if you just
+
+[09:46]
 can learn a lot from it. But if you just
 try to copy it and to do the same things
+
+[09:49]
+try to copy it and to do the same things
+
+[09:49]
+try to copy it and to do the same things
+that solar does in your real life games,
+
+[09:52]
+that solar does in your real life games,
+
+[09:52]
 that solar does in your real life games,
 it will not really lead you anywhere. It
+
+[09:55]
+it will not really lead you anywhere. It
+
+[09:55]
+it will not really lead you anywhere. It
+will make you a better player than you
+
+[09:57]
+will make you a better player than you
+
+[09:57]
 will make you a better player than you
 were before for sure, but it will not
+
+[09:59]
+were before for sure, but it will not
+
+[09:59]
+were before for sure, but it will not
+make you a great player. Yeah, people
+
+[10:01]
+make you a great player. Yeah, people
+
+[10:02]
 make you a great player. Yeah, people
 often draw wrong conclusions from the
+
+[10:04]
+often draw wrong conclusions from the
+
+[10:04]
+often draw wrong conclusions from the
+solutions that they see in front of
+
+[10:06]
+solutions that they see in front of
+
+[10:06]
 solutions that they see in front of
 them. They also go in with the wrong
+
+[10:08]
+them. They also go in with the wrong
+
+[10:08]
+them. They also go in with the wrong
+mentality, right? They want to know what
+
+[10:10]
+mentality, right? They want to know what
+
+[10:10]
 mentality, right? They want to know what
 what am I supposed to do? That's already
+
+[10:11]
+what am I supposed to do? That's already
+
+[10:12]
+what am I supposed to do? That's already
+the mentality that they go in with. And
+
+[10:13]
+the mentality that they go in with. And
+
+[10:14]
 the mentality that they go in with. And
 then when they see the solution, they
+
+[10:15]
+then when they see the solution, they
+
+[10:15]
+then when they see the solution, they
+think that this is okay, what I can
+
+[10:16]
+think that this is okay, what I can
+
+[10:16]
 think that this is okay, what I can
 learn from the solution. Well, this is
+
+[10:18]
+learn from the solution. Well, this is
+
+[10:18]
+learn from the solution. Well, this is
+how I this is how I'm supposed to play,
+
+[10:20]
+how I this is how I'm supposed to play,
+
+[10:20]
 how I this is how I'm supposed to play,
 which is a wrong conclusion to come
+
+[10:22]
+which is a wrong conclusion to come
+
+[10:22]
+which is a wrong conclusion to come
+from, right? We should just look at this
+
+[10:24]
+from, right? We should just look at this
+
+[10:24]
 from, right? We should just look at this
 as a model that we can then study and we
+
+[10:26]
+as a model that we can then study and we
+
+[10:26]
+as a model that we can then study and we
+can start to tweak and be like, okay,
+
+[10:28]
+can start to tweak and be like, okay,
+
+[10:28]
 can start to tweak and be like, okay,
 well, if this is optimal play and nobody
+
+[10:31]
+well, if this is optimal play and nobody
+
+[10:31]
+well, if this is optimal play and nobody
+reaches exact optimal play, then in
+
+[10:33]
+reaches exact optimal play, then in
+
+[10:33]
 reaches exact optimal play, then in
 which people can deviate or which people
+
+[10:35]
+which people can deviate or which people
+
+[10:36]
+which people can deviate or which people
+in which ways is very likely for people
+
+[10:37]
+in which ways is very likely for people
+
+[10:37]
 in which ways is very likely for people
 to deviate and how can we take advantage
+
+[10:39]
+to deviate and how can we take advantage
+
+[10:39]
+to deviate and how can we take advantage
+of that? Those are way more uh
+
+[10:41]
+of that? Those are way more uh
+
+[10:41]
 of that? Those are way more uh
 functional questions to ask a solver.
+
+[10:44]
+functional questions to ask a solver.
+
+[10:44]
+functional questions to ask a solver.
+Yep.
+
+[10:45]
+Yep.
+
+[10:45]
 Yep.
 When making decisions at the poker
+
+[10:47]
+When making decisions at the poker
+
+[10:47]
+When making decisions at the poker
+table,
+
+[10:49]
+table,
+
+[10:49]
 table,
 what for you are
+
+[10:51]
+what for you are
+
+[10:51]
+what for you are
+the most important things to take in
+
+[10:53]
+the most important things to take in
+
+[10:53]
 the most important things to take in
 consideration? And what do you think is
+
+[10:55]
+consideration? And what do you think is
+
+[10:55]
+consideration? And what do you think is
+something players assign way too much or
+
+[10:58]
+something players assign way too much or
+
+[10:58]
 something players assign way too much or
 too little importance towards? For
+
+[11:00]
+too little importance towards? For
+
+[11:00]
+too little importance towards? For
+example, you mentioned when battling,
+
+[11:03]
+example, you mentioned when battling,
+
+[11:03]
 example, you mentioned when battling,
 you don't want to play too much tables
+
+[11:04]
+you don't want to play too much tables
+
+[11:04]
+you don't want to play too much tables
+because you want to pay attention to
+
+[11:05]
+because you want to pay attention to
+
+[11:05]
 because you want to pay attention to
 timing of your opponent. That could, for
+
+[11:07]
+timing of your opponent. That could, for
+
+[11:07]
+timing of your opponent. That could, for
+example, be one of these things. any of
+
+[11:08]
+example, be one of these things. any of
+
+[11:08]
 example, be one of these things. any of
 the other things that send out.
+
+[11:10]
+the other things that send out.
+
+[11:10]
+the other things that send out.
+Yeah. Well, but you also should be
+
+[11:12]
+Yeah. Well, but you also should be
+
+[11:12]
 Yeah. Well, but you also should be
 careful with the timing tales and not
+
+[11:14]
+careful with the timing tales and not
+
+[11:14]
+careful with the timing tales and not
+just drive
+
+[11:15]
+just drive
+
+[11:15]
 just drive
 confuse it by getting water. I remember
+
+[11:16]
+confuse it by getting water. I remember
+
+[11:16]
+confuse it by getting water. I remember
+you said, right?
+
+[11:18]
+you said, right?
+
+[11:18]
 you said, right?
 Yeah. And it's it's it's quite easy, you
+
+[11:20]
+Yeah. And it's it's it's quite easy, you
+
+[11:20]
+Yeah. And it's it's it's quite easy, you
+know, to fool yourself. Our brains love
+
+[11:22]
+know, to fool yourself. Our brains love
+
+[11:22]
 know, to fool yourself. Our brains love
 to fool them theirelves themselves. So,
+
+[11:25]
+to fool them theirelves themselves. So,
+
+[11:25]
+to fool them theirelves themselves. So,
+it's easy, you know, to see some time
+
+[11:27]
+it's easy, you know, to see some time
+
+[11:27]
 it's easy, you know, to see some time
 tell that is not confirmed and then say,
+
+[11:29]
+tell that is not confirmed and then say,
+
+[11:30]
+tell that is not confirmed and then say,
+okay, this was the reason why I made
+
+[11:31]
+okay, this was the reason why I made
+
+[11:31]
 okay, this was the reason why I made
 this silly three barrel expensive call
+
+[11:33]
+this silly three barrel expensive call
+
+[11:34]
+this silly three barrel expensive call
+down because I thought that blah blah
+
+[11:35]
+down because I thought that blah blah
+
+[11:35]
 down because I thought that blah blah
 blah. So you have to be very confident
+
+[11:38]
+blah. So you have to be very confident
+
+[11:38]
+blah. So you have to be very confident
+about your reads and assign them a value
+
+[11:41]
+about your reads and assign them a value
+
+[11:41]
 about your reads and assign them a value
 from one to 10. For example, never view
+
+[11:44]
+from one to 10. For example, never view
+
+[11:44]
+from one to 10. For example, never view
+any single factor as like 10 out of 10
+
+[11:47]
+any single factor as like 10 out of 10
+
+[11:47]
 any single factor as like 10 out of 10
 read that leads to your decision.
+
+[11:49]
+read that leads to your decision.
+
+[11:49]
+read that leads to your decision.
+Usually it's like okay I have this
+
+[11:51]
+Usually it's like okay I have this
+
+[11:51]
 Usually it's like okay I have this
 timing tell it could be right it could
+
+[11:53]
+timing tell it could be right it could
+
+[11:53]
+timing tell it could be right it could
+be wrong. Let's say the accuracy is 6
+
+[11:55]
+be wrong. Let's say the accuracy is 6
+
+[11:55]
 be wrong. Let's say the accuracy is 6
 out of 10 or 7 out of 10. And then I
+
+[11:57]
+out of 10 or 7 out of 10. And then I
+
+[11:57]
+out of 10 or 7 out of 10. And then I
+have this read that I know the sizing
+
+[12:00]
+have this read that I know the sizing
+
+[12:00]
 have this read that I know the sizing
 grid. Let's say the accuracy is like
+
+[12:02]
+grid. Let's say the accuracy is like
+
+[12:02]
+grid. Let's say the accuracy is like
+five out of 10. Maybe right, maybe
+
+[12:04]
+five out of 10. Maybe right, maybe
+
+[12:04]
 five out of 10. Maybe right, maybe
 wrong, not sure. And then you kind of
+
+[12:06]
+wrong, not sure. And then you kind of
+
+[12:06]
+wrong, not sure. And then you kind of
+try to see um what decision would be the
+
+[12:09]
+try to see um what decision would be the
+
+[12:09]
 try to see um what decision would be the
 best. Like you never know for sure.
+
+[12:11]
+best. Like you never know for sure.
+
+[12:11]
+best. Like you never know for sure.
+Poker is the game when you don't see the
+
+[12:13]
+Poker is the game when you don't see the
+
+[12:13]
 Poker is the game when you don't see the
 cards of your opponents. Well, it's
+
+[12:15]
+cards of your opponents. Well, it's
+
+[12:15]
+cards of your opponents. Well, it's
+obvious. So your goal is to make as well
+
+[12:18]
+obvious. So your goal is to make as well
+
+[12:18]
 obvious. So your goal is to make as well
 less mistakes uh than you've done
+
+[12:20]
+less mistakes uh than you've done
+
+[12:20]
+less mistakes uh than you've done
+yesterday. So you you'll never be super
+
+[12:23]
+yesterday. So you you'll never be super
+
+[12:23]
 yesterday. So you you'll never be super
 precise but you can be 1% uh more
+
+[12:26]
+precise but you can be 1% uh more
+
+[12:26]
+precise but you can be 1% uh more
+correct and that is a very good thing on
+
+[12:29]
+correct and that is a very good thing on
+
+[12:29]
 correct and that is a very good thing on
 the long run.
+
+[12:31]
+the long run.
+
+[12:31]
+the long run.
+What I like about about your answer and
+
+[12:34]
+What I like about about your answer and
+
+[12:34]
 What I like about about your answer and
 I think what a lot of players can learn
+
+[12:35]
+I think what a lot of players can learn
+
+[12:35]
+I think what a lot of players can learn
+from is you didn't say anything about if
+
+[12:39]
+from is you didn't say anything about if
+
+[12:39]
 from is you didn't say anything about if
 you think about what the solver takes in
+
+[12:41]
+you think about what the solver takes in
+
+[12:41]
+you think about what the solver takes in
+consideration when making a decision
+
+[12:43]
+consideration when making a decision
+
+[12:43]
 consideration when making a decision
 it's going to have a lot of factors that
+
+[12:45]
+it's going to have a lot of factors that
+
+[12:45]
+it's going to have a lot of factors that
+as you think already kind of pointed out
+
+[12:47]
+as you think already kind of pointed out
+
+[12:47]
 as you think already kind of pointed out
 does not really apply right because the
+
+[12:48]
+does not really apply right because the
+
+[12:48]
+does not really apply right because the
+solver knows the strategy the solver
+
+[12:50]
+solver knows the strategy the solver
+
+[12:50]
 solver knows the strategy the solver
 will get punished if you adjust your
+
+[12:52]
+will get punished if you adjust your
+
+[12:52]
+will get punished if you adjust your
+strategy. You talked way more about the
+
+[12:54]
+strategy. You talked way more about the
+
+[12:54]
 strategy. You talked way more about the
 art of figuring out what the [ __ ] your
+
+[12:56]
+art of figuring out what the [ __ ] your
+
+[12:56]
+art of figuring out what the [ __ ] your
+opponent has so you can figure out what
+
+[12:58]
+opponent has so you can figure out what
+
+[12:58]
 opponent has so you can figure out what
 the [ __ ] you should do, right? Which are
+
+[13:00]
+the [ __ ] you should do, right? Which are
+
+[13:00]
+the [ __ ] you should do, right? Which are
+in my opinion the most important
+
+[13:02]
+in my opinion the most important
+
+[13:02]
 in my opinion the most important
 question and is a sort of an art that
+
+[13:04]
+question and is a sort of an art that
+
+[13:04]
+question and is a sort of an art that
+people have forgotten because people
+
+[13:05]
+people have forgotten because people
+
+[13:05]
 people have forgotten because people
 just focus on yeah I have to play my
+
+[13:07]
+just focus on yeah I have to play my
+
+[13:07]
+just focus on yeah I have to play my
+range. I have to play this strategy. I
+
+[13:08]
+range. I have to play this strategy. I
+
+[13:08]
 range. I have to play this strategy. I
 have to I have to I have to whereas
+
+[13:10]
+have to I have to I have to whereas
+
+[13:10]
+have to I have to I have to whereas
+you're more like hm what does he have
+
+[13:13]
+you're more like hm what does he have
+
+[13:13]
 you're more like hm what does he have
 and what and what based on that
+
+[13:15]
+and what and what based on that
+
+[13:15]
+and what and what based on that
+information what can I do with my hand?
+
+[13:17]
+information what can I do with my hand?
+
+[13:17]
 information what can I do with my hand?
 Right. That sum that sums it up a little
+
+[13:19]
+Right. That sum that sums it up a little
+
+[13:19]
+Right. That sum that sums it up a little
+bit better.
+
+[13:20]
+bit better.
+
+[13:20]
 bit better.
 Well, I have to correct myself here if
+
+[13:23]
+Well, I have to correct myself here if
+
+[13:23]
+Well, I have to correct myself here if
+this is what the way you've interpreted
+
+[13:24]
+this is what the way you've interpreted
+
+[13:24]
 this is what the way you've interpreted
 my words because I like to uh give this
+
+[13:27]
+my words because I like to uh give this
+
+[13:27]
+my words because I like to uh give this
+analogy of poker skill or poker being
+
+[13:30]
+analogy of poker skill or poker being
+
+[13:30]
 analogy of poker skill or poker being
 like a house and GTO understanding of
+
+[13:34]
+like a house and GTO understanding of
+
+[13:34]
+like a house and GTO understanding of
+how does one range interact with another
+
+[13:37]
+how does one range interact with another
+
+[13:37]
 how does one range interact with another
 range who has the advantage not
+
+[13:39]
+range who has the advantage not
+
+[13:39]
+range who has the advantage not
+advantage what is the SPR when do we
+
+[13:42]
+advantage what is the SPR when do we
+
+[13:42]
 advantage what is the SPR when do we
 need to protect our check all these
+
+[13:43]
+need to protect our check all these
+
+[13:44]
+need to protect our check all these
+things that you leave from the solver
+
+[13:45]
+things that you leave from the solver
+
+[13:45]
 things that you leave from the solver
 this is the ground you know the basement
+
+[13:47]
+this is the ground you know the basement
+
+[13:47]
+this is the ground you know the basement
+the ground base on top of which you
+
+[13:50]
+the ground base on top of which you
+
+[13:50]
 the ground base on top of which you
 build your house. This is GTO like you
+
+[13:52]
+build your house. This is GTO like you
+
+[13:52]
+build your house. This is GTO like you
+must know it. Without understanding
+
+[13:54]
+must know it. Without understanding
+
+[13:54]
 must know it. Without understanding
 this, like if you play this game trying
+
+[13:56]
+this, like if you play this game trying
+
+[13:56]
+this, like if you play this game trying
+to get into opponent's head and without
+
+[13:58]
+to get into opponent's head and without
+
+[13:58]
 to get into opponent's head and without
 understanding the fundamentals, it will
+
+[14:00]
+understanding the fundamentals, it will
+
+[14:00]
+understanding the fundamentals, it will
+not I mean it will not lead to anything
+
+[14:03]
+not I mean it will not lead to anything
+
+[14:03]
 not I mean it will not lead to anything
 good. So you must have a deep
+
+[14:05]
+good. So you must have a deep
+
+[14:05]
+good. So you must have a deep
+understanding of the GTO. But what I'm
+
+[14:08]
+understanding of the GTO. But what I'm
+
+[14:08]
 understanding of the GTO. But what I'm
 saying is that just having a deep
+
+[14:10]
+saying is that just having a deep
+
+[14:10]
+saying is that just having a deep
+understanding of GTO equals being a
+
+[14:12]
+understanding of GTO equals being a
+
+[14:12]
 understanding of GTO equals being a
 theoretician without a practical, you
+
+[14:15]
+theoretician without a practical, you
+
+[14:15]
+theoretician without a practical, you
+know, knowledge and skill without
+
+[14:16]
+know, knowledge and skill without
+
+[14:16]
 know, knowledge and skill without
 actually going through this place. And
+
+[14:20]
+actually going through this place. And
+
+[14:20]
+actually going through this place. And
+it will not make you a good player
+
+[14:22]
+it will not make you a good player
+
+[14:22]
 it will not make you a good player
 because you need to apply exploits, you
+
+[14:25]
+because you need to apply exploits, you
+
+[14:25]
+because you need to apply exploits, you
+need to build walls, you need to build a
+
+[14:27]
+need to build walls, you need to build a
+
+[14:27]
 need to build walls, you need to build a
 roof, you need to put the solar roof to
+
+[14:29]
+roof, you need to put the solar roof to
+
+[14:29]
+roof, you need to put the solar roof to
+make the best exploit and go green
+
+[14:31]
+make the best exploit and go green
+
+[14:31]
 make the best exploit and go green
 energy and exploit your opponents. If
+
+[14:34]
+energy and exploit your opponents. If
+
+[14:34]
+energy and exploit your opponents. If
+you just have your, you know, super
+
+[14:36]
+you just have your, you know, super
+
+[14:36]
 you just have your, you know, super
 solid um basement base of your house, it
+
+[14:40]
+solid um basement base of your house, it
+
+[14:40]
+solid um basement base of your house, it
+it's well, it's good. You will not get
+
+[14:42]
+it's well, it's good. You will not get
+
+[14:42]
 it's well, it's good. You will not get
 blown by the wind, but it will not make
+
+[14:44]
+blown by the wind, but it will not make
+
+[14:44]
+blown by the wind, but it will not make
+you a good player as well.
+
+[14:46]
+you a good player as well.
+
+[14:46]
 you a good player as well.
 Yeah. How I like to explain it just like
+
+[14:48]
+Yeah. How I like to explain it just like
+
+[14:48]
+Yeah. How I like to explain it just like
+there's like forces of nature that we
+
+[14:50]
+there's like forces of nature that we
+
+[14:50]
 there's like forces of nature that we
 have to oblige with, right? There's
+
+[14:51]
+have to oblige with, right? There's
+
+[14:51]
+have to oblige with, right? There's
+gravity. It's a it's a law of nature
+
+[14:53]
+gravity. It's a it's a law of nature
+
+[14:53]
 gravity. It's a it's a law of nature
 that we have to applies with. It's the
+
+[14:55]
+that we have to applies with. It's the
+
+[14:55]
+that we have to applies with. It's the
+same in poker. There's certain laws of
+
+[14:57]
+same in poker. There's certain laws of
+
+[14:57]
 same in poker. There's certain laws of
 theory that we have to understand and we
+
+[14:59]
+theory that we have to understand and we
+
+[14:59]
+theory that we have to understand and we
+have to play within the laws of theory
+
+[15:01]
+have to play within the laws of theory
+
+[15:01]
 have to play within the laws of theory
 here and there, right? For example, the
+
+[15:03]
+here and there, right? For example, the
+
+[15:03]
+here and there, right? For example, the
+forces of equity. There's just certain
+
+[15:05]
+forces of equity. There's just certain
+
+[15:05]
 forces of equity. There's just certain
 setups where the equity advantage to one
+
+[15:07]
+setups where the equity advantage to one
+
+[15:07]
+setups where the equity advantage to one
+player is just huge. And if you don't
+
+[15:08]
+player is just huge. And if you don't
+
+[15:08]
 player is just huge. And if you don't
 respect it, you're just burning money. I
+
+[15:10]
+respect it, you're just burning money. I
+
+[15:10]
+respect it, you're just burning money. I
+don't care which breach you have. I
+
+[15:11]
+don't care which breach you have. I
+
+[15:11]
 don't care which breach you have. I
 don't care what kind of reason you
+
+[15:12]
+don't care what kind of reason you
+
+[15:12]
+don't care what kind of reason you
+invent to do something different. You're
+
+[15:14]
+invent to do something different. You're
+
+[15:14]
 invent to do something different. You're
 just spewing money away. But the problem
+
+[15:17]
+just spewing money away. But the problem
+
+[15:17]
+just spewing money away. But the problem
+is that the equities or the equity
+
+[15:20]
+is that the equities or the equity
+
+[15:20]
 is that the equities or the equity
 advantages, disadvantages, they are
+
+[15:22]
+advantages, disadvantages, they are
+
+[15:22]
+advantages, disadvantages, they are
+really dependent on the range that we
+
+[15:24]
+really dependent on the range that we
+
+[15:24]
 really dependent on the range that we
 face. And the range that we face is
+
+[15:25]
+face. And the range that we face is
+
+[15:25]
+face. And the range that we face is
+really dependent on how they constructed
+
+[15:26]
+really dependent on how they constructed
+
+[15:26]
 really dependent on how they constructed
 their range. Where people often go wrong
+
+[15:29]
+their range. Where people often go wrong
+
+[15:29]
+their range. Where people often go wrong
+is they think, well, the solver does
+
+[15:30]
+is they think, well, the solver does
+
+[15:30]
 is they think, well, the solver does
 that and therefore I do that. But they
+
+[15:32]
+that and therefore I do that. But they
+
+[15:32]
+that and therefore I do that. But they
+didn't take in consideration that what's
+
+[15:33]
+didn't take in consideration that what's
+
+[15:33]
 didn't take in consideration that what's
 the actual range that I'm facing because
+
+[15:35]
+the actual range that I'm facing because
+
+[15:35]
+the actual range that I'm facing because
+the actual range that you're facing
+
+[15:36]
+the actual range that you're facing
+
+[15:36]
 the actual range that you're facing
 determines the equities which is going
+
+[15:38]
+determines the equities which is going
+
+[15:38]
+determines the equities which is going
+to determine what you should be doing
+
+[15:41]
+to determine what you should be doing
+
+[15:41]
 to determine what you should be doing
 right and if you spend no time in trying
+
+[15:43]
+right and if you spend no time in trying
+
+[15:43]
+right and if you spend no time in trying
+to figure out that based on timing based
+
+[15:45]
+to figure out that based on timing based
+
+[15:45]
 to figure out that based on timing based
 on bet sizing etc based on information
+
+[15:47]
+on bet sizing etc based on information
+
+[15:47]
+on bet sizing etc based on information
+that your opponent gives you what your
+
+[15:49]
+that your opponent gives you what your
+
+[15:49]
 that your opponent gives you what your
 equity actually is you learned all these
+
+[15:51]
+equity actually is you learned all these
+
+[15:52]
+equity actually is you learned all these
+things but you missed the most important
+
+[15:54]
+things but you missed the most important
+
+[15:54]
 things but you missed the most important
 skill or at least after we agree after
+
+[15:58]
+skill or at least after we agree after
+
+[15:58]
+skill or at least after we agree after
+the fundament has been laid is to
+
+[15:59]
+the fundament has been laid is to
+
+[15:59]
 the fundament has been laid is to
 actually try to figure out what your
+
+[16:00]
+actually try to figure out what your
+
+[16:00]
+actually try to figure out what your
+opponent has. So you can estimate what
+
+[16:03]
+opponent has. So you can estimate what
+
+[16:03]
 opponent has. So you can estimate what
 the equity is. So you can actually come
+
+[16:05]
+the equity is. So you can actually come
+
+[16:05]
+the equity is. So you can actually come
+up with the actual proper correct
+
+[16:07]
+up with the actual proper correct
+
+[16:08]
 up with the actual proper correct
 decisions in this moment. Not taking in
+
+[16:10]
+decisions in this moment. Not taking in
+
+[16:10]
+decisions in this moment. Not taking in
+any future considerations that oh he's
+
+[16:12]
+any future considerations that oh he's
+
+[16:12]
 any future considerations that oh he's
 now seen you do this. So solver will
+
+[16:14]
+now seen you do this. So solver will
+
+[16:14]
+now seen you do this. So solver will
+flip 100% to a different strategy that
+
+[16:16]
+flip 100% to a different strategy that
+
+[16:16]
 flip 100% to a different strategy that
 will explode your strategy which doesn't
+
+[16:18]
+will explode your strategy which doesn't
+
+[16:18]
+will explode your strategy which doesn't
 really happen in practice.
+
+[16:22]
 [music]

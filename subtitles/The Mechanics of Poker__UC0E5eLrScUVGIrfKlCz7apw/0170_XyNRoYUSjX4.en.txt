@@ -1,1293 +1,8267 @@
 Kind: captions
 Language: en
+
+[00:00]
+in today's video I'm going to be
+
+[00:02]
+in today's video I'm going to be
+
+[00:02]
 in today's video I'm going to be
 explaining you guys one of the most
+
+[00:04]
+explaining you guys one of the most
+
+[00:04]
+explaining you guys one of the most
+important questions you have to ask
+
+[00:06]
+important questions you have to ask
+
+[00:06]
 important questions you have to ask
 yourselves when playing poker and that
+
+[00:09]
+yourselves when playing poker and that
+
+[00:09]
+yourselves when playing poker and that
+is what is my opponent's range now if we
+
+[00:13]
+is what is my opponent's range now if we
+
+[00:13]
 is what is my opponent's range now if we
 look in the solver for what we should do
+
+[00:16]
+look in the solver for what we should do
+
+[00:16]
+look in the solver for what we should do
+that what is driven by various variables
+
+[00:19]
+that what is driven by various variables
+
+[00:19]
 that what is driven by various variables
 of which one of the most important ones
+
+[00:21]
+of which one of the most important ones
+
+[00:21]
+of which one of the most important ones
+is equity the amount of equity we have
+
+[00:24]
+is equity the amount of equity we have
+
+[00:24]
 is equity the amount of equity we have
 incentivizes us to take certain actions
+
+[00:26]
+incentivizes us to take certain actions
+
+[00:26]
+incentivizes us to take certain actions
+like checking or betting and the type of
+
+[00:29]
+like checking or betting and the type of
+
+[00:29]
 like checking or betting and the type of
 hands that we are incentivized to be
+
+[00:31]
+hands that we are incentivized to be
+
+[00:31]
+hands that we are incentivized to be
+betting so if Equity drives our actions
+
+[00:35]
+betting so if Equity drives our actions
+
+[00:35]
 betting so if Equity drives our actions
 and the range we Face determines the
+
+[00:37]
+and the range we Face determines the
+
+[00:37]
+and the range we Face determines the
+equity one of the most important
+
+[00:39]
+equity one of the most important
+
+[00:39]
 equity one of the most important
 questions we have to ask ourselves when
+
+[00:41]
+questions we have to ask ourselves when
+
+[00:41]
+questions we have to ask ourselves when
+playing a poker hand is what is my
+
+[00:43]
+playing a poker hand is what is my
+
+[00:43]
 playing a poker hand is what is my
 opponent's range a solver can teach us a
+
+[00:46]
+opponent's range a solver can teach us a
+
+[00:46]
+opponent's range a solver can teach us a
+lot of valuable information about how
+
+[00:48]
+lot of valuable information about how
+
+[00:48]
 lot of valuable information about how
 optimal play looks like however the way
+
+[00:51]
+optimal play looks like however the way
+
+[00:51]
+optimal play looks like however the way
+a solver constructs its ranges is often
+
+[00:53]
+a solver constructs its ranges is often
+
+[00:53]
 a solver constructs its ranges is often
 very different than the ranges that are
+
+[00:56]
+very different than the ranges that are
+
+[00:56]
+very different than the ranges that are
+constructed in practice different range
+
+[00:58]
+constructed in practice different range
+
+[00:58]
 constructed in practice different range
 different equities which means that we
+
+[01:01]
+different equities which means that we
+
+[01:01]
+different equities which means that we
+get different incentives and often a
+
+[01:03]
+get different incentives and often a
+
+[01:03]
 get different incentives and often a
 higher EV strategy occurs let's look at
+
+[01:07]
+higher EV strategy occurs let's look at
+
+[01:07]
+higher EV strategy occurs let's look at
+the solver for an example now the
+
+[01:09]
+the solver for an example now the
+
+[01:09]
 the solver for an example now the
 example that we're going to look at is a
+
+[01:10]
+example that we're going to look at is a
+
+[01:10]
+example that we're going to look at is a
+big blind versus button term probing
+
+[01:12]
+big blind versus button term probing
+
+[01:12]
 big blind versus button term probing
 example on this 874 it's going to go
+
+[01:15]
+example on this 874 it's going to go
+
+[01:15]
+example on this 874 it's going to go
+check check and we are going to be
+
+[01:17]
+check check and we are going to be
+
+[01:17]
 check check and we are going to be
 stabbing the turn and in order to
+
+[01:19]
+stabbing the turn and in order to
+
+[01:19]
+stabbing the turn and in order to
+estimate what the high CV strategy for
+
+[01:22]
+estimate what the high CV strategy for
+
+[01:22]
 estimate what the high CV strategy for
 out of position is going to be we have
+
+[01:24]
+out of position is going to be we have
+
+[01:24]
+out of position is going to be we have
+to know the equities and in order to
+
+[01:26]
+to know the equities and in order to
+
+[01:26]
 to know the equities and in order to
 know the equities we have to estimate
+
+[01:27]
+know the equities we have to estimate
+
+[01:27]
+know the equities we have to estimate
+the ranges so let's start with the
+
+[01:30]
+the ranges so let's start with the
+
+[01:30]
 the ranges so let's start with the
 solver check back range I gave it a half
+
+[01:32]
+solver check back range I gave it a half
+
+[01:32]
+solver check back range I gave it a half
+see that sizing which is a very common
+
+[01:34]
+see that sizing which is a very common
+
+[01:34]
 see that sizing which is a very common
 sizing that you will see in game on
+
+[01:36]
+sizing that you will see in game on
+
+[01:36]
+sizing that you will see in game on
+these low boards and for that it can bet
+
+[01:38]
+these low boards and for that it can bet
+
+[01:38]
 these low boards and for that it can bet
 around 52 percent now often in spots
+
+[01:43]
+around 52 percent now often in spots
+
+[01:43]
+around 52 percent now often in spots
+let's say for example you study
+
+[01:44]
+let's say for example you study
+
+[01:44]
 let's say for example you study
 population data you might see that the
+
+[01:46]
+population data you might see that the
+
+[01:46]
+population data you might see that the
+percentage is close to the same however
+
+[01:48]
+percentage is close to the same however
+
+[01:48]
 percentage is close to the same however
 on the next street so in this case the
+
+[01:50]
+on the next street so in this case the
+
+[01:50]
+on the next street so in this case the
+term probe line the percentage is
+
+[01:51]
+term probe line the percentage is
+
+[01:51]
 term probe line the percentage is
 suddenly different and this says a lot
+
+[01:53]
+suddenly different and this says a lot
+
+[01:53]
+suddenly different and this says a lot
+about the strength of the range
+
+[01:55]
+about the strength of the range
+
+[01:55]
 about the strength of the range
 construction if we look at the range
+
+[01:57]
+construction if we look at the range
+
+[01:57]
+construction if we look at the range
+that in position is supposed to be
+
+[01:59]
+that in position is supposed to be
+
+[01:59]
 that in position is supposed to be
 checking back it is going to be a
+
+[02:02]
+checking back it is going to be a
+
+[02:02]
+checking back it is going to be a
+protected range okay it's going to check
+
+[02:04]
+protected range okay it's going to check
+
+[02:04]
 protected range okay it's going to check
 back certain hands in order to
+
+[02:05]
+back certain hands in order to
+
+[02:05]
+back certain hands in order to
+desensitize the other position from
+
+[02:08]
+desensitize the other position from
+
+[02:08]
 desensitize the other position from
 doing a lot of stabbing because that
+
+[02:09]
+doing a lot of stabbing because that
+
+[02:09]
+doing a lot of stabbing because that
+would cost us our Equity realization as
+
+[02:11]
+would cost us our Equity realization as
+
+[02:12]
 would cost us our Equity realization as
 in position and in the end we want to
+
+[02:14]
+in position and in the end we want to
+
+[02:14]
+in position and in the end we want to
+realize as much Equity as possible with
+
+[02:15]
+realize as much Equity as possible with
+
+[02:15]
 realize as much Equity as possible with
 our strategy Aces for example Kings is
+
+[02:19]
+our strategy Aces for example Kings is
+
+[02:19]
+our strategy Aces for example Kings is
+usually checking but also a lot of top
+
+[02:21]
+usually checking but also a lot of top
+
+[02:21]
 usually checking but also a lot of top
 pairs I would say around 50 of the top
+
+[02:23]
+pairs I would say around 50 of the top
+
+[02:23]
+pairs I would say around 50 of the top
+pairs are going into the check a tiny
+
+[02:26]
+pairs are going into the check a tiny
+
+[02:26]
 pairs are going into the check a tiny
 tiny bit of set or two pairs is also
+
+[02:28]
+tiny bit of set or two pairs is also
+
+[02:28]
+tiny bit of set or two pairs is also
+checked back and overall it's going to
+
+[02:31]
+checked back and overall it's going to
+
+[02:31]
 checked back and overall it's going to
 be quite protect it
+
+[02:33]
+be quite protect it
+
+[02:33]
+be quite protect it
+so let's look at the turn Deuce a deuce
+
+[02:36]
+so let's look at the turn Deuce a deuce
+
+[02:36]
 so let's look at the turn Deuce a deuce
 is a card that doesn't really change any
+
+[02:38]
+is a card that doesn't really change any
+
+[02:38]
+is a card that doesn't really change any
+of the equities and this is the turn
+
+[02:41]
+of the equities and this is the turn
+
+[02:41]
 of the equities and this is the turn
 stabbing strategy in theory right the
+
+[02:44]
+stabbing strategy in theory right the
+
+[02:44]
+stabbing strategy in theory right the
+GTO now you could just study this
+
+[02:46]
+GTO now you could just study this
+
+[02:46]
 GTO now you could just study this
 example and be like okay it's on the
+
+[02:48]
+example and be like okay it's on the
+
+[02:48]
+example and be like okay it's on the
+turn we should mainly be probing looks
+
+[02:51]
+turn we should mainly be probing looks
+
+[02:51]
 turn we should mainly be probing looks
 like a bit more on the follower side big
+
+[02:52]
+like a bit more on the follower side big
+
+[02:52]
+like a bit more on the follower side big
+back check I gave it a pots the 40 and
+
+[02:56]
+back check I gave it a pots the 40 and
+
+[02:56]
 back check I gave it a pots the 40 and
 the 2E 2E in this case being 230 percent
+
+[03:00]
+the 2E 2E in this case being 230 percent
+
+[03:00]
+the 2E 2E in this case being 230 percent
+um so yeah you could learn from that but
+
+[03:01]
+um so yeah you could learn from that but
+
+[03:01]
 um so yeah you could learn from that but
 then you're not really
+
+[03:03]
+then you're not really
+
+[03:03]
+then you're not really
+they are kind of missing the point okay
+
+[03:05]
+they are kind of missing the point okay
+
+[03:05]
 they are kind of missing the point okay
 this is our turn strategy based on an
+
+[03:08]
+this is our turn strategy based on an
+
+[03:08]
+this is our turn strategy based on an
+amount of equity that we have which in
+
+[03:10]
+amount of equity that we have which in
+
+[03:10]
 amount of equity that we have which in
 this case is 47.8 percent and this
+
+[03:12]
+this case is 47.8 percent and this
+
+[03:12]
+this case is 47.8 percent and this
+Equity is determined on the Range
+
+[03:14]
+Equity is determined on the Range
+
+[03:14]
 Equity is determined on the Range
 construction that in position has done
+
+[03:16]
+construction that in position has done
+
+[03:16]
+construction that in position has done
+as we've just shown it was protected so
+
+[03:19]
+as we've just shown it was protected so
+
+[03:19]
 as we've just shown it was protected so
 the more or less protected in positions
+
+[03:22]
+the more or less protected in positions
+
+[03:22]
+the more or less protected in positions
+checking range is going to be so if we
+
+[03:24]
+checking range is going to be so if we
+
+[03:24]
 checking range is going to be so if we
 go to the flop
+
+[03:25]
+go to the flop
+
+[03:25]
+go to the flop
+the more he will for example bet top
+
+[03:28]
+the more he will for example bet top
+
+[03:28]
 the more he will for example bet top
 pair bet an over pair and the more you
+
+[03:30]
+pair bet an over pair and the more you
+
+[03:30]
+pair bet an over pair and the more you
+will check back high cards the higher
+
+[03:32]
+will check back high cards the higher
+
+[03:32]
 will check back high cards the higher
 Equity is going to be on for example a
+
+[03:34]
+Equity is going to be on for example a
+
+[03:34]
+Equity is going to be on for example a
+deuce turn which changes our incentive
+
+[03:37]
+deuce turn which changes our incentive
+
+[03:37]
 deuce turn which changes our incentive
 in this case spoiler alert usually we
+
+[03:39]
+in this case spoiler alert usually we
+
+[03:39]
+in this case spoiler alert usually we
+get to bet more hands right because we
+
+[03:42]
+get to bet more hands right because we
+
+[03:42]
 get to bet more hands right because we
 have an overarchy advantage the same is
+
+[03:44]
+have an overarchy advantage the same is
+
+[03:44]
+have an overarchy advantage the same is
+also true if for example in position
+
+[03:46]
+also true if for example in position
+
+[03:46]
 also true if for example in position
 would never bet the Flop and would just
+
+[03:49]
+would never bet the Flop and would just
+
+[03:49]
+would never bet the Flop and would just
+carry all his hands to the turn then
+
+[03:51]
+carry all his hands to the turn then
+
+[03:51]
 carry all his hands to the turn then
 suddenly our turn Equity will be way
+
+[03:53]
+suddenly our turn Equity will be way
+
+[03:53]
+suddenly our turn Equity will be way
+lower and we're less incentivized to bet
+
+[03:56]
+lower and we're less incentivized to bet
+
+[03:56]
 lower and we're less incentivized to bet
 okay and this is purely because of the
+
+[03:58]
+okay and this is purely because of the
+
+[03:58]
+okay and this is purely because of the
+range construction that we are facing
+
+[04:00]
+range construction that we are facing
+
+[04:00]
 range construction that we are facing
 now another thing we will then often see
+
+[04:03]
+now another thing we will then often see
+
+[04:03]
+now another thing we will then often see
+is let's say in this case with a pot
+
+[04:06]
+is let's say in this case with a pot
+
+[04:06]
 is let's say in this case with a pot
 but in this case you will see solvers
+
+[04:09]
+but in this case you will see solvers
+
+[04:09]
+but in this case you will see solvers
+falling around 44 of the time now these
+
+[04:11]
+falling around 44 of the time now these
+
+[04:11]
 falling around 44 of the time now these
 are spots where you can look at data of
+
+[04:13]
+are spots where you can look at data of
+
+[04:13]
+are spots where you can look at data of
+population and you actually see the
+
+[04:15]
+population and you actually see the
+
+[04:15]
 population and you actually see the
 population on average is going to be
+
+[04:17]
+population on average is going to be
+
+[04:17]
+population on average is going to be
+overfolding this node now an overfold is
+
+[04:19]
+overfolding this node now an overfold is
+
+[04:19]
 overfolding this node now an overfold is
 going to happen for two reasons first of
+
+[04:22]
+going to happen for two reasons first of
+
+[04:22]
+going to happen for two reasons first of
+all the topic that we're discussing is a
+
+[04:24]
+all the topic that we're discussing is a
+
+[04:24]
 all the topic that we're discussing is a
 range construction error the handset
+
+[04:25]
+range construction error the handset
+
+[04:25]
+range construction error the handset
+with solver is calling or raising are
+
+[04:28]
+with solver is calling or raising are
+
+[04:28]
 with solver is calling or raising are
 simply not in the range let's say the
+
+[04:31]
+simply not in the range let's say the
+
+[04:31]
+simply not in the range let's say the
+sets that we talked about there are two
+
+[04:32]
+sets that we talked about there are two
+
+[04:32]
 sets that we talked about there are two
 pair the top pair the over pairs they
+
+[04:34]
+pair the top pair the over pairs they
+
+[04:34]
+pair the top pair the over pairs they
+could be less infidence range or they
+
+[04:36]
+could be less infidence range or they
+
+[04:36]
 could be less infidence range or they
 are simply folding hands that are calls
+
+[04:38]
+are simply folding hands that are calls
+
+[04:39]
+are simply folding hands that are calls
+it's usually a little bit of a mix in
+
+[04:40]
+it's usually a little bit of a mix in
+
+[04:40]
 it's usually a little bit of a mix in
 both but especially the range
+
+[04:42]
+both but especially the range
+
+[04:42]
+both but especially the range
+construction mess up leads to an
+
+[04:44]
+construction mess up leads to an
+
+[04:44]
 construction mess up leads to an
 overfold being the case okay so what is
+
+[04:48]
+overfold being the case okay so what is
+
+[04:48]
+overfold being the case okay so what is
+if we know that
+
+[04:50]
+if we know that
+
+[04:50]
 if we know that
 okay now what is going to be the actual
+
+[04:53]
+okay now what is going to be the actual
+
+[04:53]
+okay now what is going to be the actual
+strategy that we want to use and as a
+
+[04:55]
+strategy that we want to use and as a
+
+[04:55]
 strategy that we want to use and as a
 more General concept what are kind of
+
+[04:57]
+more General concept what are kind of
+
+[04:57]
+more General concept what are kind of
+things that change in your strategy and
+
+[04:59]
+things that change in your strategy and
+
+[04:59]
 things that change in your strategy and
 how can we learn things from that that
+
+[05:01]
+how can we learn things from that that
+
+[05:01]
+how can we learn things from that that
+we can use in other spots as well so for
+
+[05:04]
+we can use in other spots as well so for
+
+[05:04]
 we can use in other spots as well so for
 that we have to go to the node lock
+
+[05:05]
+that we have to go to the node lock
+
+[05:05]
+that we have to go to the node lock
+function and we make embed less strong
+
+[05:09]
+function and we make embed less strong
+
+[05:09]
 function and we make embed less strong
 hands now I already did this for you so
+
+[05:10]
+hands now I already did this for you so
+
+[05:10]
+hands now I already did this for you so
+imagine this is the current range where
+
+[05:13]
+imagine this is the current range where
+
+[05:13]
 imagine this is the current range where
 incentivize the step
+
+[05:14]
+incentivize the step
+
+[05:15]
+incentivize the step
+around 42 percent of the time we're
+
+[05:17]
+around 42 percent of the time we're
+
+[05:17]
 around 42 percent of the time we're
 checking 57
+
+[05:19]
+checking 57
+
+[05:19]
+checking 57
+whereas if we note lock the range from
+
+[05:21]
+whereas if we note lock the range from
+
+[05:21]
 whereas if we note lock the range from
 this
+
+[05:22]
+this
+
+[05:22]
+this
+to this which is betting more over pairs
+
+[05:26]
+to this which is betting more over pairs
+
+[05:26]
 to this which is betting more over pairs
 betting more top pairs checking back
+
+[05:28]
+betting more top pairs checking back
+
+[05:28]
+betting more top pairs checking back
+more High cards
+
+[05:30]
+more High cards
+
+[05:30]
 more High cards
 now if we look at the turn equity
+
+[05:33]
+now if we look at the turn equity
+
+[05:33]
+now if we look at the turn equity
+has increased we now have 49.2 it's a
+
+[05:36]
+has increased we now have 49.2 it's a
+
+[05:36]
 has increased we now have 49.2 it's a
 small increase but we can now invest
+
+[05:38]
+small increase but we can now invest
+
+[05:38]
+small increase but we can now invest
+more money in the bot as we can see
+
+[05:40]
+more money in the bot as we can see
+
+[05:40]
 more money in the bot as we can see
 we're checking 57 now we're only
+
+[05:41]
+we're checking 57 now we're only
+
+[05:41]
+we're checking 57 now we're only
+checking 44 and especially what happens
+
+[05:44]
+checking 44 and especially what happens
+
+[05:44]
 checking 44 and especially what happens
 usually in these kind of scenarios is
+
+[05:47]
+usually in these kind of scenarios is
+
+[05:47]
+usually in these kind of scenarios is
+that basically if people construct their
+
+[05:49]
+that basically if people construct their
+
+[05:49]
 that basically if people construct their
 ranges poorly we can just bet our hand
+
+[05:52]
+ranges poorly we can just bet our hand
+
+[05:52]
+ranges poorly we can just bet our hand
+for what it is we can just literally do
+
+[05:54]
+for what it is we can just literally do
+
+[05:54]
 for what it is we can just literally do
 whatever our hand wants to do because
+
+[05:55]
+whatever our hand wants to do because
+
+[05:55]
+whatever our hand wants to do because
+we're no longer restricted in terms of
+
+[05:58]
+we're no longer restricted in terms of
+
+[05:58]
 we're no longer restricted in terms of
 equity mainly in terms of 4x7x fives and
+
+[06:01]
+equity mainly in terms of 4x7x fives and
+
+[06:01]
+equity mainly in terms of 4x7x fives and
+sixes these hands can now bet for
+
+[06:04]
+sixes these hands can now bet for
+
+[06:04]
 sixes these hands can now bet for
 smallest sizing forty percent or thirty
+
+[06:07]
+smallest sizing forty percent or thirty
+
+[06:07]
+smallest sizing forty percent or thirty
+percent or even a quarter depending on
+
+[06:09]
+percent or even a quarter depending on
+
+[06:09]
 percent or even a quarter depending on
 how your opponent Constructor this is
+
+[06:10]
+how your opponent Constructor this is
+
+[06:10]
+how your opponent Constructor this is
+ranged and how your opponent reacts
+
+[06:13]
+ranged and how your opponent reacts
+
+[06:13]
 ranged and how your opponent reacts
 simply to get some Thin value and
+
+[06:16]
+simply to get some Thin value and
+
+[06:16]
+simply to get some Thin value and
+protection versus a range that is now
+
+[06:18]
+protection versus a range that is now
+
+[06:18]
 protection versus a range that is now
 more High car driven whereas in the GTO
+
+[06:21]
+more High car driven whereas in the GTO
+
+[06:21]
+more High car driven whereas in the GTO
+example or let's say someone with check
+
+[06:22]
+example or let's say someone with check
+
+[06:22]
 example or let's say someone with check
 back range even a more extreme example
+
+[06:25]
+back range even a more extreme example
+
+[06:25]
+back range even a more extreme example
+we cannot bet fives sixes for a seven
+
+[06:28]
+we cannot bet fives sixes for a seven
+
+[06:28]
 we cannot bet fives sixes for a seven
 too often because we're simply investing
+
+[06:29]
+too often because we're simply investing
+
+[06:29]
+too often because we're simply investing
+in a Range that will contain better 7x10
+
+[06:32]
+in a Range that will contain better 7x10
+
+[06:32]
 in a Range that will contain better 7x10
 hours more 8X more over Pairs and we're
+
+[06:35]
+hours more 8X more over Pairs and we're
+
+[06:35]
+hours more 8X more over Pairs and we're
+simply building a pot while we have an
+
+[06:36]
+simply building a pot while we have an
+
+[06:36]
 simply building a pot while we have an
 equity
+
+[06:38]
+equity
+
+[06:38]
+equity
+less of an equity Advantage than we have
+
+[06:40]
+less of an equity Advantage than we have
+
+[06:40]
 less of an equity Advantage than we have
 now now another thing that we will often
+
+[06:43]
+now now another thing that we will often
+
+[06:43]
+now now another thing that we will often
+see in this kind of scenarios is if the
+
+[06:45]
+see in this kind of scenarios is if the
+
+[06:45]
 see in this kind of scenarios is if the
 checking range of our opponent is left
+
+[06:48]
+checking range of our opponent is left
+
+[06:48]
+checking range of our opponent is left
+unprotected especially by not that hands
+
+[06:50]
+unprotected especially by not that hands
+
+[06:50]
 unprotected especially by not that hands
 that we will have an increase in big
+
+[06:52]
+that we will have an increase in big
+
+[06:52]
+that we will have an increase in big
+sizings okay now in this case the big
+
+[06:55]
+sizings okay now in this case the big
+
+[06:55]
 sizings okay now in this case the big
 sizing is only used five percent of the
+
+[06:57]
+sizing is only used five percent of the
+
+[06:57]
+sizing is only used five percent of the
+time it's also being divided between a
+
+[07:00]
+time it's also being divided between a
+
+[07:00]
 time it's also being divided between a
 very big check race versus delay this is
+
+[07:03]
+very big check race versus delay this is
+
+[07:03]
+very big check race versus delay this is
+another way that we can utilize this
+
+[07:05]
+another way that we can utilize this
+
+[07:05]
 another way that we can utilize this
 huge range Advantage but overall it's
+
+[07:07]
+huge range Advantage but overall it's
+
+[07:07]
+huge range Advantage but overall it's
+going pot most often and it's just gonna
+
+[07:10]
+going pot most often and it's just gonna
+
+[07:10]
 going pot most often and it's just gonna
 increase its overall betting frequency
+
+[07:11]
+increase its overall betting frequency
+
+[07:11]
+increase its overall betting frequency
+but mainly if strong hands are no longer
+
+[07:14]
+but mainly if strong hands are no longer
+
+[07:15]
 but mainly if strong hands are no longer
 in Vietnam's range so not the hands are
+
+[07:16]
+in Vietnam's range so not the hands are
+
+[07:16]
+in Vietnam's range so not the hands are
+no longer business range we're usually
+
+[07:17]
+no longer business range we're usually
+
+[07:17]
 no longer business range we're usually
 no longer restricted in the big sizing
+
+[07:20]
+no longer restricted in the big sizing
+
+[07:20]
+no longer restricted in the big sizing
+that we get to use this is another very
+
+[07:22]
+that we get to use this is another very
+
+[07:22]
 that we get to use this is another very
 common consequence you see of weak range
+
+[07:25]
+common consequence you see of weak range
+
+[07:25]
+common consequence you see of weak range
+constructions
+
+[07:27]
+constructions
+
+[07:27]
 constructions
 now what did we learn from this example
+
+[07:29]
+now what did we learn from this example
+
+[07:29]
+now what did we learn from this example
+always ask yourself what is vinian's
+
+[07:32]
+always ask yourself what is vinian's
+
+[07:32]
 always ask yourself what is vinian's
 range figure out if and if so how they
+
+[07:35]
+range figure out if and if so how they
+
+[07:35]
+range figure out if and if so how they
+are screwing up compared to Theory and
+
+[07:37]
+are screwing up compared to Theory and
+
+[07:37]
 are screwing up compared to Theory and
 what the consequences for our strategy
+
+[07:39]
+what the consequences for our strategy
+
+[07:39]
+what the consequences for our strategy
+is going to be and in this example we
+
+[07:41]
+is going to be and in this example we
+
+[07:42]
 is going to be and in this example we
 showed usually it's an increase in
+
+[07:43]
+showed usually it's an increase in
+
+[07:43]
+showed usually it's an increase in
+equity and therefore re-insentifies to
+
+[07:46]
+equity and therefore re-insentifies to
+
+[07:46]
 equity and therefore re-insentifies to
 bet more hands both for protection and
+
+[07:48]
+bet more hands both for protection and
+
+[07:48]
+bet more hands both for protection and
+bigger and more aggressive for Value
+
+[07:50]
+bigger and more aggressive for Value
+
+[07:50]
 bigger and more aggressive for Value
 making mistakes in range construction is
+
+[07:53]
+making mistakes in range construction is
+
+[07:53]
+making mistakes in range construction is
+one of the two most important reasons
+
+[07:55]
+one of the two most important reasons
+
+[07:55]
 one of the two most important reasons
 why leaks occur then what often happens
+
+[07:58]
+why leaks occur then what often happens
+
+[07:58]
+why leaks occur then what often happens
+is that the range construction is too
+
+[08:00]
+is that the range construction is too
+
+[08:00]
 is that the range construction is too
 weak leading players to overfold or
+
+[08:02]
+weak leading players to overfold or
+
+[08:02]
+weak leading players to overfold or
+another example when the range
+
+[08:04]
+another example when the range
+
+[08:04]
 another example when the range
 construction is messed up an over or
+
+[08:06]
+construction is messed up an over or
+
+[08:06]
+construction is messed up an over or
+under Bluff spot will occur now let's
+
+[08:09]
+under Bluff spot will occur now let's
+
+[08:09]
 under Bluff spot will occur now let's
 jump into the tables for a live play and
+
+[08:12]
+jump into the tables for a live play and
+
+[08:12]
+jump into the tables for a live play and
+explain session with an extra focus on
+
+[08:14]
+explain session with an extra focus on
+
+[08:14]
 explain session with an extra focus on
 what is my opponent's range and how can
+
+[08:17]
+what is my opponent's range and how can
+
+[08:17]
+what is my opponent's range and how can
+we deviate accordingly
+
+[08:19]
+we deviate accordingly
+
+[08:19]
 we deviate accordingly
 we're going to be jumping into two
+
+[08:21]
+we're going to be jumping into two
+
+[08:21]
+we're going to be jumping into two
+tables of tuna tunnel Zoom trying to
+
+[08:24]
+tables of tuna tunnel Zoom trying to
+
+[08:24]
 tables of tuna tunnel Zoom trying to
 figure out to the best of our abilities
+
+[08:26]
+figure out to the best of our abilities
+
+[08:26]
+figure out to the best of our abilities
+if we can find more information about
+
+[08:28]
+if we can find more information about
+
+[08:28]
 if we can find more information about
 what villain's range actually is and the
+
+[08:30]
+what villain's range actually is and the
+
+[08:30]
+what villain's range actually is and the
+consequences that we have to our
+
+[08:32]
+consequences that we have to our
+
+[08:32]
 consequences that we have to our
 strategy but before we start though
+
+[08:34]
+strategy but before we start though
+
+[08:34]
+strategy but before we start though
+quick mechanics of Poker 2.0
+
+[08:37]
+quick mechanics of Poker 2.0
+
+[08:37]
 quick mechanics of Poker 2.0
 announcement because we have currently
+
+[08:39]
+announcement because we have currently
+
+[08:39]
+announcement because we have currently
+reopened our application process for the
+
+[08:41]
+reopened our application process for the
+
+[08:41]
 reopened our application process for the
 mechanics of Poker for the next few
+
+[08:43]
+mechanics of Poker for the next few
+
+[08:43]
+mechanics of Poker for the next few
+weeks you can apply get a chance to get
+
+[08:45]
+weeks you can apply get a chance to get
+
+[08:45]
 weeks you can apply get a chance to get
 accepted and work with me and Adam and
+
+[08:47]
+accepted and work with me and Adam and
+
+[08:47]
+accepted and work with me and Adam and
+make more progress in your poker career
+
+[08:50]
+make more progress in your poker career
+
+[08:50]
 make more progress in your poker career
 if you're interested in that go to
+
+[08:52]
+if you're interested in that go to
+
+[08:52]
+if you're interested in that go to
+mechanicsofpoker.com to apply link also
+
+[08:55]
+mechanicsofpoker.com to apply link also
+
+[08:55]
 mechanicsofpoker.com to apply link also
 Down Below in the description without
+
+[08:57]
+Down Below in the description without
+
+[08:57]
+Down Below in the description without
 further Ado let's get into the action
+
+[09:07]
 thank you
+
+[09:14]
+then to tone you can play this board in
+
+[09:17]
+then to tone you can play this board in
+
+[09:17]
 then to tone you can play this board in
 various ways to be honest
+
+[09:22]
+this one we get some discuss on
+
+[09:24]
+this one we get some discuss on
+
+[09:24]
 this one we get some discuss on
 streambat
+
+[09:25]
+streambat
+
+[09:25]
+streambat
+I think on the turn you should probably
+
+[09:27]
+I think on the turn you should probably
+
+[09:27]
 I think on the turn you should probably
 keep on betting
+
+[09:37]
+went for three-quarter sizing we could
+
+[09:39]
+went for three-quarter sizing we could
+
+[09:39]
 went for three-quarter sizing we could
 also go for an over bed I think when the
+
+[09:42]
+also go for an over bed I think when the
+
+[09:42]
+also go for an over bed I think when the
+straight is on the flop
+
+[09:44]
+straight is on the flop
+
+[09:44]
 straight is on the flop
 every face actually a very big bet I
+
+[09:46]
+every face actually a very big bet I
+
+[09:46]
+every face actually a very big bet I
+already know what this guy is but
+
+[09:49]
+already know what this guy is but
+
+[09:49]
 already know what this guy is but
 80 something percent
+
+[09:52]
+80 something percent
+
+[09:52]
+80 something percent
 quite a hefty Hefty bed sizing
+
+[10:00]
+but so far so easy and probably just a
+
+[10:04]
+but so far so easy and probably just a
+
+[10:04]
 but so far so easy and probably just a
 call down
+
+[10:07]
+when he snap checks
+
+[10:09]
+when he snap checks
+
+[10:09]
 when he snap checks
 so timing is also
+
+[10:13]
+so timing is also
+
+[10:13]
+so timing is also
+a way that we can better estimate
+
+[10:15]
+a way that we can better estimate
+
+[10:15]
 a way that we can better estimate
 Finance range
+
+[10:17]
+Finance range
+
+[10:17]
+Finance range
+and I feel like if you had a better hand
+
+[10:18]
+and I feel like if you had a better hand
+
+[10:18]
 and I feel like if you had a better hand
 than being eight he would probably at
+
+[10:21]
+than being eight he would probably at
+
+[10:21]
+than being eight he would probably at
+least think about it so I think we have
+
+[10:22]
+least think about it so I think we have
+
+[10:22]
 least think about it so I think we have
 a very clear value bet here
+
+[10:24]
+a very clear value bet here
+
+[10:24]
+a very clear value bet here
+and I was completely off could actually
+
+[10:27]
+and I was completely off could actually
+
+[10:27]
 and I was completely off could actually
 be a recreational player with the sizing
+
+[10:28]
+be a recreational player with the sizing
+
+[10:28]
+be a recreational player with the sizing
+scheme and the fact that he played his
+
+[10:30]
+scheme and the fact that he played his
+
+[10:30]
 scheme and the fact that he played his
 Jack this way
+
+[10:32]
+Jack this way
+
+[10:32]
+Jack this way
+but I think in general
+
+[10:34]
+but I think in general
+
+[10:34]
 but I think in general
 this was
+
+[10:36]
+this was
+
+[10:36]
+this was
+another recreational player I feel like
+
+[10:38]
+another recreational player I feel like
+
+[10:38]
 another recreational player I feel like
 this read is
+
+[10:39]
+this read is
+
+[10:39]
+this read is
+pretty accurate
+
+[10:41]
+pretty accurate
+
+[10:41]
 pretty accurate
 versus them from Two and a Half to ten I
+
+[10:43]
+versus them from Two and a Half to ten I
+
+[10:43]
+versus them from Two and a Half to ten I
 think we can just call most of our pairs
+
+[10:48]
+so we're dead and I will probably be
+
+[10:51]
+so we're dead and I will probably be
+
+[10:51]
 so we're dead and I will probably be
 peeling my lowest pair here
+
+[10:54]
+peeling my lowest pair here
+
+[10:54]
+peeling my lowest pair here
+to probably threes and maybe four some
+
+[10:57]
+to probably threes and maybe four some
+
+[10:57]
 to probably threes and maybe four some
 of the time
+
+[10:58]
+of the time
+
+[10:58]
+of the time
 foreign
+
+[11:01]
+for example sixes might be a good hand
+
+[11:04]
+for example sixes might be a good hand
+
+[11:04]
 for example sixes might be a good hand
 to hold
+
+[11:16]
+enter enough hold
+
+[11:19]
+enter enough hold
+
+[11:19]
 enter enough hold
 especially the way the diamond
+
+[11:35]
+PlayStation 5 is actually a pretty good
+
+[11:37]
+PlayStation 5 is actually a pretty good
+
+[11:37]
 PlayStation 5 is actually a pretty good
 board for the big blind could actually
+
+[11:40]
+board for the big blind could actually
+
+[11:40]
+board for the big blind could actually
 have in theory some leads
+
+[11:44]
+but usually players don't lead so what
+
+[11:46]
+but usually players don't lead so what
+
+[11:46]
 but usually players don't lead so what
 is my opponent's range let's say you
+
+[11:48]
+is my opponent's range let's say you
+
+[11:48]
+is my opponent's range let's say you
+would look at the solve
+
+[11:50]
+would look at the solve
+
+[11:50]
 would look at the solve
 and the range has leads and then we see
+
+[11:52]
+and the range has leads and then we see
+
+[11:52]
+and the range has leads and then we see
+check and then we see our strategy our
+
+[11:55]
+check and then we see our strategy our
+
+[11:55]
 check and then we see our strategy our
 strategy will actually look
+
+[11:57]
+strategy will actually look
+
+[11:57]
+strategy will actually look
 different
+
+[12:00]
+he actually snapchatt we saw on the turn
+
+[12:02]
+he actually snapchatt we saw on the turn
+
+[12:02]
 he actually snapchatt we saw on the turn
 I think he's giving away some
+
+[12:04]
+I think he's giving away some
+
+[12:04]
+I think he's giving away some
+information here about this range so
+
+[12:05]
+information here about this range so
+
+[12:05]
 information here about this range so
 actually I'm gonna make a small block I
+
+[12:06]
+actually I'm gonna make a small block I
+
+[12:06]
+actually I'm gonna make a small block I
+think he is going to have nothing or
+
+[12:08]
+think he is going to have nothing or
+
+[12:08]
 think he is going to have nothing or
 Worse ace high very often
+
+[12:12]
 foreign
+
+[12:15]
+he checks everything towards us we
+
+[12:17]
+he checks everything towards us we
+
+[12:17]
 he checks everything towards us we
 should definitely lower our C bearing
+
+[12:18]
+should definitely lower our C bearing
+
+[12:18]
+should definitely lower our C bearing
+frequency so if you just think about it
+
+[12:20]
+frequency so if you just think about it
+
+[12:20]
 frequency so if you just think about it
 well if you would have dunk beds it's
+
+[12:22]
+well if you would have dunk beds it's
+
+[12:22]
+well if you would have dunk beds it's
+likely that when he checks to us
+
+[12:25]
+likely that when he checks to us
+
+[12:25]
 likely that when he checks to us
 it doesn't have a dunk bed range that he
+
+[12:27]
+it doesn't have a dunk bed range that he
+
+[12:27]
+it doesn't have a dunk bed range that he
+has actually has more Equity so we
+
+[12:29]
+has actually has more Equity so we
+
+[12:29]
 has actually has more Equity so we
 should actually check more
+
+[12:30]
+should actually check more
+
+[12:30]
+should actually check more
+and on the turn
+
+[12:32]
+and on the turn
+
+[12:32]
 and on the turn
 again if you would just look at the
+
+[12:33]
+again if you would just look at the
+
+[12:33]
+again if you would just look at the
+solver range the solver range is intact
+
+[12:36]
+solver range the solver range is intact
+
+[12:36]
 solver range the solver range is intact
 so maybe we would most likely we would
+
+[12:38]
+so maybe we would most likely we would
+
+[12:38]
+so maybe we would most likely we would
+just always check a screen given the
+
+[12:40]
+just always check a screen given the
+
+[12:40]
 just always check a screen given the
 fact that his Snapchat I think is very
+
+[12:42]
+fact that his Snapchat I think is very
+
+[12:42]
+fact that his Snapchat I think is very
+likely to just have a worse Ace hide
+
+[12:43]
+likely to just have a worse Ace hide
+
+[12:43]
 likely to just have a worse Ace hide
 than us
+
+[12:46]
+I said King Jack I could check his King
+
+[12:49]
+I said King Jack I could check his King
+
+[12:49]
 I said King Jack I could check his King
 Jack or his King but in Queens is is the
+
+[12:52]
+Jack or his King but in Queens is is the
+
+[12:52]
+Jack or his King but in Queens is is the
+hand that has the least downsides here
+
+[12:56]
+hand that has the least downsides here
+
+[12:56]
 hand that has the least downsides here
 again we Face the snap check
+
+[12:58]
+again we Face the snap check
+
+[12:58]
+again we Face the snap check
+I would say his range is going to be
+
+[13:01]
+I would say his range is going to be
+
+[13:01]
 I would say his range is going to be
 weak and quite made hand heavy
+
+[13:04]
+weak and quite made hand heavy
+
+[13:04]
+weak and quite made hand heavy
 could have obviously
+
+[13:08]
+so a weak Jack that he checks but
+
+[13:11]
+so a weak Jack that he checks but
+
+[13:11]
 so a weak Jack that he checks but
 be like
+
+[13:13]
+be like
+
+[13:13]
+be like
+it's a bit more unlikely
+
+[13:15]
+it's a bit more unlikely
+
+[13:15]
 it's a bit more unlikely
 what is villain's Reign 12 in his range
+
+[13:17]
+what is villain's Reign 12 in his range
+
+[13:17]
+what is villain's Reign 12 in his range
+seemed quite weak there given the way
+
+[13:19]
+seemed quite weak there given the way
+
+[13:19]
 seemed quite weak there given the way
 that he played his hand
+
+[13:21]
+that he played his hand
+
+[13:21]
+that he played his hand
+and I decided to throw the beta with the
+
+[13:24]
+and I decided to throw the beta with the
+
+[13:24]
 and I decided to throw the beta with the
 ace10
+
+[13:27]
+then obviously also showcase them
+
+[13:30]
+then obviously also showcase them
+
+[13:30]
 then obviously also showcase them
 especially if you're playing an overbat
+
+[13:32]
+especially if you're playing an overbat
+
+[13:32]
+especially if you're playing an overbat
+which I will usually do
+
+[13:36]
+which I will usually do
+
+[13:36]
 which I will usually do
 in this spot but also for example I feel
+
+[13:39]
+in this spot but also for example I feel
+
+[13:39]
+in this spot but also for example I feel
+like there was also a spot where if you
+
+[13:41]
+like there was also a spot where if you
+
+[13:41]
 like there was also a spot where if you
 snap checks you can basically just bet
+
+[13:44]
+snap checks you can basically just bet
+
+[13:44]
+snap checks you can basically just bet
+the strength of your hand
+
+[13:46]
+the strength of your hand
+
+[13:46]
 the strength of your hand
 so let's say you have a hand who wants
+
+[13:48]
+so let's say you have a hand who wants
+
+[13:48]
+so let's say you have a hand who wants
+to bet for protection just bad for
+
+[13:49]
+to bet for protection just bad for
+
+[13:49]
 to bet for protection just bad for
 protection let's say you have a hand
+
+[13:51]
+protection let's say you have a hand
+
+[13:51]
+protection let's say you have a hand
+tools pretty good
+
+[13:53]
+tools pretty good
+
+[13:53]
 tools pretty good
 this bed pretty big
+
+[13:55]
+this bed pretty big
+
+[13:55]
+this bed pretty big
+because I feel like with the timing on
+
+[13:58]
+because I feel like with the timing on
+
+[13:58]
 because I feel like with the timing on
 the turn his range is no longer
+
+[14:01]
+the turn his range is no longer
+
+[14:01]
+the turn his range is no longer
+like a solver range for example
+
+[14:04]
+like a solver range for example
+
+[14:04]
 like a solver range for example
 or immediately we got a couple of
+
+[14:06]
+or immediately we got a couple of
+
+[14:06]
+or immediately we got a couple of
+um
+
+[14:07]
+um
+
+[14:07]
 um
 spots where
+
+[14:09]
+spots where
+
+[14:09]
+spots where
+given timing it said something about
+
+[14:12]
+given timing it said something about
+
+[14:12]
 given timing it said something about
 villain's range
+
+[14:13]
+villain's range
+
+[14:13]
+villain's range
 and we could take advantage of that
+
+[14:23]
+turn I'm going to be playing
+
+[14:25]
+turn I'm going to be playing
+
+[14:25]
 turn I'm going to be playing
 a polarized strategy
+
+[14:28]
+a polarized strategy
+
+[14:28]
+a polarized strategy
+yeah it's a bit close but I wrote quite
+
+[14:31]
+yeah it's a bit close but I wrote quite
+
+[14:31]
 yeah it's a bit close but I wrote quite
 high so
+
+[14:33]
+high so
+
+[14:33]
+high so
+especially on a nine turn we are not
+
+[14:35]
+especially on a nine turn we are not
+
+[14:35]
 especially on a nine turn we are not
 very incentivized to better four or
+
+[14:37]
+very incentivized to better four or
+
+[14:37]
+very incentivized to better four or
+pocket fives
+
+[14:38]
+pocket fives
+
+[14:38]
 pocket fives
 so my general approach here is going to
+
+[14:41]
+so my general approach here is going to
+
+[14:41]
+so my general approach here is going to
+be polarized
+
+[14:43]
+be polarized
+
+[14:43]
 be polarized
 okay I'm doing gonna be doing a lot of
+
+[14:44]
+okay I'm doing gonna be doing a lot of
+
+[14:44]
+okay I'm doing gonna be doing a lot of
+checking
+
+[14:46]
+checking
+
+[14:46]
 checking
 and
+
+[14:48]
+and
+
+[14:48]
+and
+big betting with my strong hands or
+
+[14:51]
+big betting with my strong hands or
+
+[14:51]
 big betting with my strong hands or
 not completely true a big bed with like
+
+[14:54]
+not completely true a big bed with like
+
+[14:54]
+not completely true a big bed with like
 decent top pair Plus
+
+[15:07]
+here
+
+[15:08]
+here
+
+[15:09]
 here
 it doesn't make it that big I'm tempted
+
+[15:10]
+it doesn't make it that big I'm tempted
+
+[15:10]
+it doesn't make it that big I'm tempted
+to call
+
+[15:11]
+to call
+
+[15:11]
 to call
 with the recreational limping I I don't
+
+[15:14]
+with the recreational limping I I don't
+
+[15:14]
+with the recreational limping I I don't
+usually call here that much
+
+[15:16]
+usually call here that much
+
+[15:16]
 usually call here that much
 but in this situation there's 3.5 it's
+
+[15:20]
+but in this situation there's 3.5 it's
+
+[15:20]
+but in this situation there's 3.5 it's
+very close but
+
+[15:22]
+very close but
+
+[15:22]
 very close but
 so far this guy doesn't really seem that
+
+[15:24]
+so far this guy doesn't really seem that
+
+[15:24]
+so far this guy doesn't really seem that
 aggressive
+
+[15:27]
+okay
+
+[15:29]
+okay
+
+[15:29]
 okay
 this one because sometimes three bets
+
+[15:31]
+this one because sometimes three bets
+
+[15:31]
+this one because sometimes three bets
 it's time
+
+[15:37]
+called the female barrels I'm probably
+
+[15:39]
+called the female barrels I'm probably
+
+[15:39]
 called the female barrels I'm probably
 out he could have a 10 he could have a
+
+[15:41]
+out he could have a 10 he could have a
+
+[15:41]
+out he could have a 10 he could have a
+straight he could have a lot of equity
+
+[15:43]
+straight he could have a lot of equity
+
+[15:43]
 straight he could have a lot of equity
 his barreling Ranger feel like it's
+
+[15:45]
+his barreling Ranger feel like it's
+
+[15:45]
+his barreling Ranger feel like it's
+going to be very strong he should
+
+[15:46]
+going to be very strong he should
+
+[15:46]
 going to be very strong he should
 probably add a lot of unnatural type of
+
+[15:48]
+probably add a lot of unnatural type of
+
+[15:48]
+probably add a lot of unnatural type of
+loss to the burning range so I feel like
+
+[15:50]
+loss to the burning range so I feel like
+
+[15:50]
 loss to the burning range so I feel like
 Snap fault or is this uh
+
+[15:53]
+Snap fault or is this uh
+
+[15:53]
+Snap fault or is this uh
 someone who's a bit less creative
+
+[16:04]
+it is actually another spot where
+
+[16:07]
+it is actually another spot where
+
+[16:07]
 it is actually another spot where
 I feel like
+
+[16:09]
+I feel like
+
+[16:09]
+I feel like
 Ranger very unbalanced
+
+[16:18]
+continue on a team that we talked about
+
+[16:21]
+continue on a team that we talked about
+
+[16:21]
 continue on a team that we talked about
 there's a what is the range I feel like
+
+[16:22]
+there's a what is the range I feel like
+
+[16:22]
+there's a what is the range I feel like
+here you can just
+
+[16:24]
+here you can just
+
+[16:24]
 here you can just
 basically just bet the size that your
+
+[16:27]
+basically just bet the size that your
+
+[16:27]
+basically just bet the size that your
+hand is worth
+
+[16:28]
+hand is worth
+
+[16:28]
 hand is worth
 especially the the how fast he checked
+
+[16:31]
+especially the the how fast he checked
+
+[16:31]
+especially the the how fast he checked
+the turn I feel like it's very
+
+[16:33]
+the turn I feel like it's very
+
+[16:33]
 the turn I feel like it's very
 ace high heavy or bucket sixes or
+
+[16:36]
+ace high heavy or bucket sixes or
+
+[16:36]
+ace high heavy or bucket sixes or
 something like that
+
+[16:39]
+so yeah if you have a hand that wants to
+
+[16:41]
+so yeah if you have a hand that wants to
+
+[16:41]
 so yeah if you have a hand that wants to
 bad team for Value bad team for Value if
+
+[16:44]
+bad team for Value bad team for Value if
+
+[16:44]
+bad team for Value bad team for Value if
+you haven't like wanna die if it's
+
+[16:45]
+you haven't like wanna die if it's
+
+[16:45]
 you haven't like wanna die if it's
 strong enough go for an over bed
+
+[17:06]
 foreign
+
+[17:22]
+if you had a five you should probably
+
+[17:24]
+if you had a five you should probably
+
+[17:24]
 if you had a five you should probably
 see about it and I have way more 5x than
+
+[17:26]
+see about it and I have way more 5x than
+
+[17:26]
+see about it and I have way more 5x than
+he has in the first place
+
+[17:28]
+he has in the first place
+
+[17:28]
 he has in the first place
 so I'm actually gonna go for an over bet
+
+[17:34]
+you can probably just about 150 I think
+
+[17:36]
+you can probably just about 150 I think
+
+[17:36]
 you can probably just about 150 I think
 that's fine and bad like king queen Plus
+
+[17:38]
+that's fine and bad like king queen Plus
+
+[17:39]
+that's fine and bad like king queen Plus
 or something
+
+[17:41]
 I think that's a fine strategy
+
+[17:45]
+if you think the check back range is
+
+[17:47]
+if you think the check back range is
+
+[17:47]
 if you think the check back range is
 I found a weaker side
+
+[17:49]
+I found a weaker side
+
+[17:49]
+I found a weaker side
 then I feel like just
+
+[17:54]
+blocking for example eight seven like
+
+[17:56]
+blocking for example eight seven like
+
+[17:56]
 blocking for example eight seven like
 the more the more hence the more the
+
+[18:00]
+the more the more hence the more the
+
+[18:00]
+the more the more hence the more the
+more weak and less protected this check
+
+[18:01]
+more weak and less protected this check
+
+[18:01]
 more weak and less protected this check
 background is going to be the more we
+
+[18:03]
+background is going to be the more we
+
+[18:03]
+background is going to be the more we
+can just
+
+[18:04]
+can just
+
+[18:04]
 can just
 bet the size of our hand I feel like on
+
+[18:07]
+bet the size of our hand I feel like on
+
+[18:07]
+bet the size of our hand I feel like on
+a river I'm gonna give up uh
+
+[18:11]
+a river I'm gonna give up uh
+
+[18:11]
 a river I'm gonna give up uh
 I actually didn't expect him to have
+
+[18:13]
+I actually didn't expect him to have
+
+[18:13]
+I actually didn't expect him to have
+that hand to be honest this one we can
+
+[18:15]
+that hand to be honest this one we can
+
+[18:15]
 that hand to be honest this one we can
 bet some of the time gonna bet at this
+
+[18:17]
+bet some of the time gonna bet at this
+
+[18:17]
+bet some of the time gonna bet at this
 time
+
+[18:21]
+okay he made quite a loose call I didn't
+
+[18:23]
+okay he made quite a loose call I didn't
+
+[18:23]
 okay he made quite a loose call I didn't
 expect him to make that call
+
+[18:25]
+expect him to make that call
+
+[18:25]
+expect him to make that call
 to be honest
+
+[18:28]
+the turn
+
+[18:29]
+the turn
+
+[18:29]
 the turn
 [Music]
+
+[18:33]
 on the turn what do we do on the turn
+
+[18:41]
 over bet
+
+[18:45]
+I feel like I'm gonna play over bat
+
+[18:47]
+I feel like I'm gonna play over bat
+
+[18:47]
 I feel like I'm gonna play over bat
 checker on this turn between 10.
+
+[18:51]
+checker on this turn between 10.
+
+[18:51]
+checker on this turn between 10.
 I'm probably going there
+
+[18:54]
 to call the ace Jack that time
+
+[19:07]
+following with the King then Suited
+
+[19:10]
+following with the King then Suited
+
+[19:10]
 following with the King then Suited
 depending on sizing we can continue
+
+[19:12]
+depending on sizing we can continue
+
+[19:12]
+depending on sizing we can continue
+thinking half pots very close I feel
+
+[19:16]
+thinking half pots very close I feel
+
+[19:16]
 thinking half pots very close I feel
 like all options here are valid first
+
+[19:19]
+like all options here are valid first
+
+[19:19]
+like all options here are valid first
+half pot
+
+[19:21]
+half pot
+
+[19:21]
 half pot
 gonna go for the call intern is an easy
+
+[19:24]
+gonna go for the call intern is an easy
+
+[19:24]
+gonna go for the call intern is an easy
 lead on a seven
+
+[19:32]
+pocket fives or deeper I'm actually
+
+[19:35]
+pocket fives or deeper I'm actually
+
+[19:35]
 pocket fives or deeper I'm actually
 going to call
+
+[19:37]
+going to call
+
+[19:37]
+going to call
 I feel like on
+
+[19:41]
+seven
+
+[19:42]
+seven
+
+[19:42]
 seven
 it's our strategy here
+
+[19:44]
+it's our strategy here
+
+[19:44]
+it's our strategy here
+are we gonna do quite a lot of blocking
+
+[19:46]
+are we gonna do quite a lot of blocking
+
+[19:46]
 are we gonna do quite a lot of blocking
 again but if you don't feel like King 10
+
+[19:48]
+again but if you don't feel like King 10
+
+[19:48]
+again but if you don't feel like King 10
 is a block
+
+[19:59]
 is a bit of a weird size
+
+[20:03]
+feels like I have 9 10 Jack 10 Jack nine
+
+[20:06]
+feels like I have 9 10 Jack 10 Jack nine
+
+[20:06]
 feels like I have 9 10 Jack 10 Jack nine
 six five
+
+[20:07]
+six five
+
+[20:07]
+six five
 I'm just trying to fold out your nothing
+
+[20:11]
+like I said
+
+[20:13]
+like I said
+
+[20:13]
 like I said
 so
+
+[20:15]
+so
+
+[20:15]
+so
+what
+
+[20:16]
+what
+
+[20:16]
 what
 and this is something that you will see
+
+[20:18]
+and this is something that you will see
+
+[20:18]
+and this is something that you will see
 more at lower Stakes
+
+[20:21]
+he was just betting the basically
+
+[20:24]
+he was just betting the basically
+
+[20:24]
 he was just betting the basically
 betting the size of of his hands he just
+
+[20:26]
+betting the size of of his hands he just
+
+[20:26]
+betting the size of of his hands he just
+figured well you have nothing I don't
+
+[20:28]
+figured well you have nothing I don't
+
+[20:28]
 figured well you have nothing I don't
 have to bet bigger too then half pot to
+
+[20:31]
+have to bet bigger too then half pot to
+
+[20:31]
+have to bet bigger too then half pot to
+love nothing
+
+[20:33]
+love nothing
+
+[20:33]
 love nothing
 but that's not uh that's not really how
+
+[20:35]
+but that's not uh that's not really how
+
+[20:35]
+but that's not uh that's not really how
 Poco works
+
+[20:41]
+and this is a spot where for example
+
+[20:43]
+and this is a spot where for example
+
+[20:43]
 and this is a spot where for example
 these type of players when they bet very
+
+[20:45]
+these type of players when they bet very
+
+[20:45]
+these type of players when they bet very
 big
+
+[20:48]
+then they suddenly
+
+[20:50]
+then they suddenly
+
+[20:50]
 then they suddenly
 uh
+
+[20:51]
+uh
+
+[20:51]
+uh
+then they suddenly have it so his whole
+
+[20:54]
+then they suddenly have it so his whole
+
+[20:54]
 then they suddenly have it so his whole
 pot will be always Bluff
+
+[20:57]
+pot will be always Bluff
+
+[20:57]
+pot will be always Bluff
+and his bigger bed will always be value
+
+[20:59]
+and his bigger bed will always be value
+
+[20:59]
 and his bigger bed will always be value
 and this is definitely like if I would
+
+[21:01]
+and this is definitely like if I would
+
+[21:01]
+and this is definitely like if I would
+be playing more often I would definitely
+
+[21:02]
+be playing more often I would definitely
+
+[21:03]
 be playing more often I would definitely
 make a note there of this guy
+
+[21:05]
+make a note there of this guy
+
+[21:05]
+make a note there of this guy
+okay not going to
+
+[21:09]
+okay not going to
+
+[21:09]
 okay not going to
 um
+
+[21:10]
+um
+
+[21:10]
+um
+here I'm gonna have two sizings on the
+
+[21:11]
+here I'm gonna have two sizings on the
+
+[21:12]
 here I'm gonna have two sizings on the
 river probably a three quarters and a
+
+[21:13]
+river probably a three quarters and a
+
+[21:13]
+river probably a three quarters and a
+gem I feel like Jack eight probably
+
+[21:16]
+gem I feel like Jack eight probably
+
+[21:16]
 gem I feel like Jack eight probably
 makes it in the gym but it's very close
+
+[21:28]
 Apple hair fingers are good sizing
+
+[21:34]
+I feel like I should maybe check race
+
+[21:35]
+I feel like I should maybe check race
+
+[21:35]
 I feel like I should maybe check race
 now
+
+[21:39]
 and then six
+
+[21:48]
 it's a bit closer
+
+[21:51]
+this end goes into three quarters or a
+
+[21:54]
+this end goes into three quarters or a
+
+[21:54]
 this end goes into three quarters or a
 jam
+
+[21:58]
+king of flush definitely
+
+[22:00]
+king of flush definitely
+
+[22:00]
 king of flush definitely
 goes in the gym ASAP flush goes in the
+
+[22:02]
+goes in the gym ASAP flush goes in the
+
+[22:02]
+goes in the gym ASAP flush goes in the
 gem maybe it's a bit it didn't also the
+
+[22:14]
 um let's see
+
+[22:18]
 in the 10-6
+
+[22:23]
 I feel like we should now Jam
+
+[22:34]
+because basically there where we're
+
+[22:35]
+because basically there where we're
+
+[22:35]
 because basically there where we're
 wrapping a six
+
+[22:37]
+wrapping a six
+
+[22:37]
+wrapping a six
+and the six is probably going to be very
+
+[22:39]
+and the six is probably going to be very
+
+[22:39]
 and the six is probably going to be very
 high in equity and
+
+[22:41]
+high in equity and
+
+[22:41]
+high in equity and
 we're only betting a six
+
+[22:45]
 or
+
+[22:48]
+better
+
+[22:49]
+better
+
+[22:49]
 better
 than the sizing that that six or better
+
+[22:51]
+than the sizing that that six or better
+
+[22:51]
+than the sizing that that six or better
 type of range is worth is probably a gem
+
+[22:57]
+and in terms of Bluffs
+
+[22:59]
+and in terms of Bluffs
+
+[22:59]
 and in terms of Bluffs
 we could maybe Bluff a turned flash draw
+
+[23:01]
+we could maybe Bluff a turned flash draw
+
+[23:01]
+we could maybe Bluff a turned flash draw
+or we could Bluff
+
+[23:05]
+or we could Bluff
+
+[23:05]
 or we could Bluff
 some straight draw
+
+[23:07]
+some straight draw
+
+[23:07]
+some straight draw
+I think bluffinger under pair there on
+
+[23:09]
+I think bluffinger under pair there on
+
+[23:09]
 I think bluffinger under pair there on
 the turn is actually also not bad let's
+
+[23:11]
+the turn is actually also not bad let's
+
+[23:11]
+the turn is actually also not bad let's
+say pocket Deuces or something
+
+[23:13]
+say pocket Deuces or something
+
+[23:13]
 say pocket Deuces or something
 ninth here I'm going to call the sizing
+
+[23:15]
+ninth here I'm going to call the sizing
+
+[23:15]
+ninth here I'm going to call the sizing
+wasn't very big
+
+[23:17]
+wasn't very big
+
+[23:17]
 wasn't very big
 and usually if we're a bit deeper and if
+
+[23:20]
+and usually if we're a bit deeper and if
+
+[23:20]
+and usually if we're a bit deeper and if
+if you threw better pair but nines
+
+[23:23]
+if you threw better pair but nines
+
+[23:23]
 if you threw better pair but nines
 I'm usually want a little bit lower a
+
+[23:25]
+I'm usually want a little bit lower a
+
+[23:25]
+I'm usually want a little bit lower a
+little bit higher but uh hey we're here
+
+[23:27]
+little bit higher but uh hey we're here
+
+[23:27]
 little bit higher but uh hey we're here
 now
+
+[23:28]
+now
+
+[23:28]
+now
+it's for four
+
+[23:30]
+it's for four
+
+[23:30]
 it's for four
 if I have a heart here I will continue
+
+[23:31]
+if I have a heart here I will continue
+
+[23:31]
+if I have a heart here I will continue
+if I don't have a heart I will usually
+
+[23:33]
+if I don't have a heart I will usually
+
+[23:33]
 if I don't have a heart I will usually
 default that's kind of the heuristic to
+
+[23:36]
+default that's kind of the heuristic to
+
+[23:36]
+default that's kind of the heuristic to
+your scenarios so you should call and on
+
+[23:39]
+your scenarios so you should call and on
+
+[23:39]
 your scenarios so you should call and on
 the turn he's probably gonna have to
+
+[23:41]
+the turn he's probably gonna have to
+
+[23:41]
+the turn he's probably gonna have to
 check range
+
+[23:46]
 in my experience
+
+[23:53]
+players will
+
+[23:56]
+players will
+
+[23:56]
 players will
 have a betting Ranger on the turn a bit
+
+[23:58]
+have a betting Ranger on the turn a bit
+
+[23:58]
+have a betting Ranger on the turn a bit
+more often which leaves their checking
+
+[23:59]
+more often which leaves their checking
+
+[23:59]
 more often which leaves their checking
 range
+
+[24:00]
+range
+
+[24:00]
+range
 a little bit weaker
+
+[24:11]
+so I would have definitely uh played
+
+[24:13]
+so I would have definitely uh played
+
+[24:13]
 so I would have definitely uh played
 that bad
+
+[24:15]
+that bad
+
+[24:15]
+that bad
+and in terms of what's his range this is
+
+[24:18]
+and in terms of what's his range this is
+
+[24:18]
 and in terms of what's his range this is
 just going to be my my general uh
+
+[24:22]
+just going to be my my general uh
+
+[24:22]
+just going to be my my general uh
+General read and how can you get this
+
+[24:24]
+General read and how can you get this
+
+[24:24]
 General read and how can you get this
 retail you can study population look at
+
+[24:26]
+retail you can study population look at
+
+[24:26]
+retail you can study population look at
+lines and you'll see fold numbers again
+
+[24:29]
+lines and you'll see fold numbers again
+
+[24:29]
 lines and you'll see fold numbers again
 being higher than normal which usually
+
+[24:31]
+being higher than normal which usually
+
+[24:31]
+being higher than normal which usually
 indicates
+
+[24:34]
+indicates an error range construction
+
+[24:36]
+indicates an error range construction
+
+[24:36]
 indicates an error range construction
 that's mainly on the turn I think on the
+
+[24:38]
+that's mainly on the turn I think on the
+
+[24:38]
+that's mainly on the turn I think on the
+turn he has zero bets so when people do
+
+[24:40]
+turn he has zero bets so when people do
+
+[24:40]
 turn he has zero bets so when people do
 bet that turn
+
+[24:41]
+bet that turn
+
+[24:41]
+bet that turn
+very likely
+
+[24:43]
+very likely
+
+[24:43]
 very likely
 that the drainage is pretty strong
+
+[24:54]
+to go back to the Jack 8 Suited
+
+[24:57]
+to go back to the Jack 8 Suited
+
+[24:57]
 to go back to the Jack 8 Suited
 on the river I said we have two sizes
+
+[24:59]
+on the river I said we have two sizes
+
+[24:59]
+on the river I said we have two sizes
+here and how do you know if you have two
+
+[25:01]
+here and how do you know if you have two
+
+[25:01]
 here and how do you know if you have two
 sizings well that's you have to look at
+
+[25:02]
+sizings well that's you have to look at
+
+[25:02]
+sizings well that's you have to look at
+the incentives the type of value hands
+
+[25:05]
+the incentives the type of value hands
+
+[25:05]
 the incentives the type of value hands
 that you want to be betting so let's
+
+[25:06]
+that you want to be betting so let's
+
+[25:06]
+that you want to be betting so let's
+have Aces there probably want to bet but
+
+[25:09]
+have Aces there probably want to bet but
+
+[25:09]
 have Aces there probably want to bet but
 I probably don't want to jam
+
+[25:10]
+I probably don't want to jam
+
+[25:10]
+I probably don't want to jam
+but I also have some River nuts lashes
+
+[25:13]
+but I also have some River nuts lashes
+
+[25:13]
 but I also have some River nuts lashes
 and stuff that I do probably want to jam
+
+[25:16]
+and stuff that I do probably want to jam
+
+[25:16]
+and stuff that I do probably want to jam
+but that's how I knew I was it was a
+
+[25:19]
+but that's how I knew I was it was a
+
+[25:19]
 but that's how I knew I was it was a
 split and then probably your biggest
+
+[25:20]
+split and then probably your biggest
+
+[25:20]
+split and then probably your biggest
+bets are going to be driven around
+
+[25:22]
+bets are going to be driven around
+
+[25:22]
 bets are going to be driven around
 blocking the nuts so let's say it Ace
+
+[25:24]
+blocking the nuts so let's say it Ace
+
+[25:24]
+blocking the nuts so let's say it Ace
+Jack with the ace of diamonds
+
+[25:27]
+Jack with the ace of diamonds
+
+[25:27]
 Jack with the ace of diamonds
 maybe Queen Jack with the queen of
+
+[25:28]
+maybe Queen Jack with the queen of
+
+[25:28]
+maybe Queen Jack with the queen of
 diamond something like that
+
+[25:31]
+your smaller bets are going to be
+
+[25:34]
+your smaller bets are going to be
+
+[25:34]
 your smaller bets are going to be
 a band a queen Jack without a diamond
+
+[25:36]
+a band a queen Jack without a diamond
+
+[25:36]
+a band a queen Jack without a diamond
+for them
+
+[25:38]
+for them
+
+[25:38]
 for them
 but yeah going back to my uh Pakistan
+
+[25:40]
+but yeah going back to my uh Pakistan
+
+[25:40]
+but yeah going back to my uh Pakistan
 story
+
+[25:44]
+and the eights
+
+[25:45]
+and the eights
+
+[25:45]
 and the eights
 basically when the bigger someone goes
+
+[25:48]
+basically when the bigger someone goes
+
+[25:48]
+basically when the bigger someone goes
+to saying race the less attractive call
+
+[25:50]
+to saying race the less attractive call
+
+[25:50]
 to saying race the less attractive call
 becomes so the more you're gonna lean
+
+[25:51]
+becomes so the more you're gonna lean
+
+[25:51]
+becomes so the more you're gonna lean
+towards pre-betting and it is it's the
+
+[25:53]
+towards pre-betting and it is it's the
+
+[25:53]
 towards pre-betting and it is it's the
 same for four betting the smaller you
+
+[25:56]
+same for four betting the smaller you
+
+[25:56]
+same for four betting the smaller you
+hit three bets the higher dvf call
+
+[25:57]
+hit three bets the higher dvf call
+
+[25:57]
 hit three bets the higher dvf call
 becomes
+
+[25:59]
+becomes
+
+[25:59]
+becomes
+and the bigger he three bets the less
+
+[26:01]
+and the bigger he three bets the less
+
+[26:01]
 and the bigger he three bets the less
 interested we are in calling
+
+[26:04]
 kind of the whole idea behind that
+
+[26:12]
 pocket knives
+
+[26:17]
+first of all I feel like it's a
+
+[26:19]
+first of all I feel like it's a
+
+[26:19]
 first of all I feel like it's a
 recreational meme race not full stack
+
+[26:24]
+okay on the turn a very tight positions
+
+[26:28]
+okay on the turn a very tight positions
+
+[26:28]
 okay on the turn a very tight positions
 there's no incentive to bet for example
+
+[26:31]
+there's no incentive to bet for example
+
+[26:31]
+there's no incentive to bet for example
+pocket eights for protection or
+
+[26:32]
+pocket eights for protection or
+
+[26:32]
 pocket eights for protection or
 something we're gonna go more polar
+
+[26:34]
+something we're gonna go more polar
+
+[26:34]
+something we're gonna go more polar
+right they're gonna be bluffing or
+
+[26:35]
+right they're gonna be bluffing or
+
+[26:35]
 right they're gonna be bluffing or
 betting a king I would say in this spot
+
+[26:38]
+betting a king I would say in this spot
+
+[26:38]
+betting a king I would say in this spot
+your Bloods are mainly going to come
+
+[26:40]
+your Bloods are mainly going to come
+
+[26:40]
 your Bloods are mainly going to come
 from like the lower pairs let's say you
+
+[26:42]
+from like the lower pairs let's say you
+
+[26:42]
+from like the lower pairs let's say you
+have pocket fives
+
+[26:44]
+have pocket fives
+
+[26:44]
 have pocket fives
 I think that would be a good buff
+
+[26:46]
+I think that would be a good buff
+
+[26:46]
+I think that would be a good buff
+they're usually going to be betting low
+
+[26:48]
+they're usually going to be betting low
+
+[26:48]
 they're usually going to be betting low
 Pairs and King X that's kind of how
+
+[26:51]
+Pairs and King X that's kind of how
+
+[26:51]
+Pairs and King X that's kind of how
+this spot will play
+
+[26:54]
+this spot will play
+
+[26:54]
 this spot will play
 I don't expect much check raises here so
+
+[26:56]
+I don't expect much check raises here so
+
+[26:56]
+I don't expect much check raises here so
+then let's say I did turn
+
+[26:59]
+then let's say I did turn
+
+[26:59]
 then let's say I did turn
 some decent equity
+
+[27:01]
+some decent equity
+
+[27:01]
+some decent equity
+in
+
+[27:02]
+in
+
+[27:02]
 in
 to add a standard diamonds I feel like I
+
+[27:04]
+to add a standard diamonds I feel like I
+
+[27:04]
+to add a standard diamonds I feel like I
+can bet that as well this type of
+
+[27:06]
+can bet that as well this type of
+
+[27:06]
 can bet that as well this type of
 hierarchy Holdings become more checks
+
+[27:08]
+hierarchy Holdings become more checks
+
+[27:08]
+hierarchy Holdings become more checks
+and spots where you expect more check
+
+[27:09]
+and spots where you expect more check
+
+[27:09]
 and spots where you expect more check
 raises
+
+[27:20]
+there's a big theater in the house
+
+[27:24]
+there's a big theater in the house
+
+[27:24]
 there's a big theater in the house
 I have to miss a big Steel
+
+[27:31]
+it's gonna make a small bat there with
+
+[27:33]
+it's gonna make a small bat there with
+
+[27:33]
 it's gonna make a small bat there with
 the ace5
+
+[27:35]
+the ace5
+
+[27:35]
+the ace5
+and actually probably going to barrel
+
+[27:37]
+and actually probably going to barrel
+
+[27:37]
 and actually probably going to barrel
 with an overcut To The King and I feel
+
+[27:40]
+with an overcut To The King and I feel
+
+[27:40]
+with an overcut To The King and I feel
+like especially a size for his
+
+[27:41]
+like especially a size for his
+
+[27:41]
 like especially a size for his
 recreationals it's going to be very
+
+[27:43]
+recreationals it's going to be very
+
+[27:43]
+recreationals it's going to be very
+valuable as I expect them to check all
+
+[27:45]
+valuable as I expect them to check all
+
+[27:45]
 valuable as I expect them to check all
 for example twice with 9 10 with a club
+
+[27:47]
+for example twice with 9 10 with a club
+
+[27:47]
+for example twice with 9 10 with a club
+or something so unfortunately he he goes
+
+[27:50]
+or something so unfortunately he he goes
+
+[27:50]
 or something so unfortunately he he goes
 for the mid race
+
+[27:53]
+King Jack this deep
+
+[27:56]
+King Jack this deep
+
+[27:56]
 King Jack this deep
 probably gonna call some of the time
+
+[27:57]
+probably gonna call some of the time
+
+[27:57]
+probably gonna call some of the time
+trip at some of the time this time I
+
+[27:59]
+trip at some of the time this time I
+
+[27:59]
 trip at some of the time this time I
 hold it very bad
+
+[28:01]
+hold it very bad
+
+[28:01]
+hold it very bad
+if I don't want to be three betting too
+
+[28:04]
+if I don't want to be three betting too
+
+[28:04]
 if I don't want to be three betting too
 much 200 Big Blends deep out of position
+
+[28:07]
+much 200 Big Blends deep out of position
+
+[28:07]
+much 200 Big Blends deep out of position
 but we do have a suited handsome
+
+[28:11]
 I think that's going to be fine
+
+[28:15]
+flop is probably just a bet with King
+
+[28:18]
+flop is probably just a bet with King
+
+[28:18]
 flop is probably just a bet with King
 Jack I don't really see anything else
+
+[28:20]
+Jack I don't really see anything else
+
+[28:20]
+Jack I don't really see anything else
+that we're going to do with this hand
+
+[28:23]
+that we're going to do with this hand
+
+[28:23]
 that we're going to do with this hand
 this Vlog we can play
+
+[28:25]
+this Vlog we can play
+
+[28:25]
+this Vlog we can play
 in two ways
+
+[28:30]
 the queen tend to
+
+[28:33]
+we're gonna just throw out a one third
+
+[28:35]
+we're gonna just throw out a one third
+
+[28:35]
 we're gonna just throw out a one third
 two bet here he's gonna go for a race
+
+[28:37]
+two bet here he's gonna go for a race
+
+[28:37]
+two bet here he's gonna go for a race
+utilizing the fact that
+
+[28:40]
+utilizing the fact that
+
+[28:40]
 utilizing the fact that
 I probably don't have Deuces and fives
+
+[28:41]
+I probably don't have Deuces and fives
+
+[28:41]
+I probably don't have Deuces and fives
+but this is the same guy that jammed and
+
+[28:43]
+but this is the same guy that jammed and
+
+[28:43]
 but this is the same guy that jammed and
 also raised very big so this actually
+
+[28:44]
+also raised very big so this actually
+
+[28:45]
+also raised very big so this actually
 can just be a recreational
+
+[28:51]
+five six
+
+[28:54]
+five six
+
+[28:54]
 five six
 [Music]
+
+[29:00]
+I'm gonna mix in a barrel with the five
+
+[29:02]
+I'm gonna mix in a barrel with the five
+
+[29:02]
 I'm gonna mix in a barrel with the five
 six
+
+[29:03]
+six
+
+[29:03]
+six
+I feel like on the turn I probably have
+
+[29:06]
+I feel like on the turn I probably have
+
+[29:06]
 I feel like on the turn I probably have
 a fault
+
+[29:08]
+a fault
+
+[29:08]
+a fault
+depends if our King is sometimes life
+
+[29:12]
+depends if our King is sometimes life
+
+[29:12]
 depends if our King is sometimes life
 how much value we're gonna get
+
+[29:15]
+how much value we're gonna get
+
+[29:15]
+how much value we're gonna get
 it's very close
+
+[29:20]
+I do feel like now we have a mandatory
+
+[29:22]
+I do feel like now we have a mandatory
+
+[29:22]
 I do feel like now we have a mandatory
 Barrel here with a five six let's say
+
+[29:24]
+Barrel here with a five six let's say
+
+[29:24]
+Barrel here with a five six let's say
+we're at five six of clubs I think
+
+[29:25]
+we're at five six of clubs I think
+
+[29:25]
 we're at five six of clubs I think
 that's probably the barrel five six of
+
+[29:27]
+that's probably the barrel five six of
+
+[29:27]
+that's probably the barrel five six of
+clubs five six space blocking so like
+
+[29:28]
+clubs five six space blocking so like
+
+[29:28]
 clubs five six space blocking so like
 some Queen five suited Queen six Suited
+
+[29:31]
+some Queen five suited Queen six Suited
+
+[29:31]
+some Queen five suited Queen six Suited
+other than that you're probably going to
+
+[29:33]
+other than that you're probably going to
+
+[29:33]
 other than that you're probably going to
 be looking at like some lower pairs
+
+[29:35]
+be looking at like some lower pairs
+
+[29:35]
+be looking at like some lower pairs
+so I I figured that like some of these
+
+[29:38]
+so I I figured that like some of these
+
+[29:38]
 so I I figured that like some of these
 low
+
+[29:39]
+low
+
+[29:39]
+low
+suited connectors if I did open them
+
+[29:42]
+suited connectors if I did open them
+
+[29:42]
 suited connectors if I did open them
 are probably going to Barrel the turn
+
+[29:46]
+and on the river I think it's a
+
+[29:47]
+and on the river I think it's a
+
+[29:47]
 and on the river I think it's a
 mandatory
+
+[29:49]
+mandatory
+
+[29:49]
+mandatory
 mandatory Bluff
+
+[29:58]
+it's a boy where you can
+
+[30:00]
+it's a boy where you can
+
+[30:00]
 it's a boy where you can
 do a bit of everything
+
+[30:04]
+you can Implement some big bets you can
+
+[30:05]
+you can Implement some big bets you can
+
+[30:05]
 you can Implement some big bets you can
 Implement a lot of small bats
+
+[30:10]
+I don't think you want to play Big bet
+
+[30:13]
+I don't think you want to play Big bet
+
+[30:13]
 I don't think you want to play Big bet
 only
+
+[30:14]
+only
+
+[30:14]
+only
+or probably Reserve that for the
+
+[30:17]
+or probably Reserve that for the
+
+[30:17]
 or probably Reserve that for the
 two-tone version of this port
+
+[30:20]
+you should check on the turn
+
+[30:22]
+you should check on the turn
+
+[30:22]
 you should check on the turn
 to jam here with the Ace King versus 60
+
+[30:25]
+to jam here with the Ace King versus 60
+
+[30:25]
+to jam here with the Ace King versus 60
+big blinds he goes for the block we have
+
+[30:27]
+big blinds he goes for the block we have
+
+[30:27]
 big blinds he goes for the block we have
 an easy race so far everything's so
+
+[30:30]
+an easy race so far everything's so
+
+[30:30]
+an easy race so far everything's so
 standard
+
+[30:33]
+uh what are we raising here
+
+[30:35]
+uh what are we raising here
+
+[30:35]
 uh what are we raising here
 are we raising nines
+
+[30:38]
+are we raising nines
+
+[30:38]
+are we raising nines
+erasing S8 if so half pot is probably
+
+[30:40]
+erasing S8 if so half pot is probably
+
+[30:40]
 erasing S8 if so half pot is probably
 appropriate if not we only raise it 10
+
+[30:43]
+appropriate if not we only raise it 10
+
+[30:43]
+appropriate if not we only raise it 10
+it's probably three quarters
+
+[30:45]
+it's probably three quarters
+
+[30:45]
 it's probably three quarters
 I'm gonna go for a bigger race
+
+[30:55]
+you shoot a tune of x to nothing else
+
+[30:58]
+you shoot a tune of x to nothing else
+
+[30:58]
 you shoot a tune of x to nothing else
 not sure
+
+[31:00]
+not sure
+
+[31:00]
+not sure
+probably fold
+
+[31:03]
+probably fold
+
+[31:03]
 probably fold
 I'll do 50 50.
+
+[31:05]
+I'll do 50 50.
+
+[31:05]
+I'll do 50 50.
+just to prevent myself from making a big
+
+[31:08]
+just to prevent myself from making a big
+
+[31:08]
 just to prevent myself from making a big
 mistake always same with the 98 I have
+
+[31:10]
+mistake always same with the 98 I have
+
+[31:10]
+mistake always same with the 98 I have
+no clue in this rake structure if these
+
+[31:13]
+no clue in this rake structure if these
+
+[31:13]
 no clue in this rake structure if these
 are calls yes or no
+
+[31:17]
+but they do both feel close so I'll roll
+
+[31:20]
+but they do both feel close so I'll roll
+
+[31:20]
 but they do both feel close so I'll roll
 it if I make a mistake I only made the
+
+[31:21]
+it if I make a mistake I only made the
+
+[31:21]
+it if I make a mistake I only made the
+mistake half of the time
+
+[31:23]
+mistake half of the time
+
+[31:23]
 mistake half of the time
 being three is a call
+
+[31:25]
+being three is a call
+
+[31:25]
+being three is a call
+probably twice
+
+[31:27]
+probably twice
+
+[31:27]
 probably twice
 eight nine probably a fault the low
+
+[31:30]
+eight nine probably a fault the low
+
+[31:30]
+eight nine probably a fault the low
 gutter for Street quarters
+
+[31:38]
+if it's pots which I think is a decent
+
+[31:41]
+if it's pots which I think is a decent
+
+[31:41]
 if it's pots which I think is a decent
 like an appropriate bed size
+
+[31:44]
+like an appropriate bed size
+
+[31:44]
+like an appropriate bed size
+uh what is better what is better and we
+
+[31:47]
+uh what is better what is better and we
+
+[31:47]
 uh what is better what is better and we
 have a lot of purpose draw we have
+
+[31:49]
+have a lot of purpose draw we have
+
+[31:49]
+have a lot of purpose draw we have
+jackets space we have Jack 10 for
+
+[31:51]
+jackets space we have Jack 10 for
+
+[31:51]
 jackets space we have Jack 10 for
 example that's already better than Queen
+
+[31:52]
+example that's already better than Queen
+
+[31:52]
+example that's already better than Queen
+3 we have Queen nine is better
+
+[31:54]
+3 we have Queen nine is better
+
+[31:54]
 3 we have Queen nine is better
 between three is better than Queen six
+
+[31:58]
+between three is better than Queen six
+
+[31:58]
+between three is better than Queen six
+king queen is better very close call
+
+[32:01]
+king queen is better very close call
+
+[32:01]
 king queen is better very close call
 this 50 again because I honestly have no
+
+[32:04]
+this 50 again because I honestly have no
+
+[32:04]
+this 50 again because I honestly have no
 clue
+
+[32:07]
+he was very close first button I think
+
+[32:08]
+he was very close first button I think
+
+[32:08]
 he was very close first button I think
 he covers cut off there's an MP it's in
+
+[32:11]
+he covers cut off there's an MP it's in
+
+[32:11]
+he covers cut off there's an MP it's in
+his fault first cutoff
+
+[32:12]
+his fault first cutoff
+
+[32:12]
 his fault first cutoff
 it's just yeah it's very close
+
+[32:16]
+it's just yeah it's very close
+
+[32:16]
+it's just yeah it's very close
+so then like I said calling it some of
+
+[32:19]
+so then like I said calling it some of
+
+[32:19]
 so then like I said calling it some of
 the time
+
+[32:24]
+and you're not doing that
+
+[32:26]
+and you're not doing that
+
+[32:26]
 and you're not doing that
 because you don't wanna okay maybe like
+
+[32:29]
+because you don't wanna okay maybe like
+
+[32:29]
+because you don't wanna okay maybe like
+you're not doing that for the exact
+
+[32:30]
+you're not doing that for the exact
+
+[32:30]
 you're not doing that for the exact
 solver considerations
+
+[32:32]
+solver considerations
+
+[32:33]
+solver considerations
+but you're doing that simply because
+
+[32:34]
+but you're doing that simply because
+
+[32:34]
 but you're doing that simply because
 you're not really sure
+
+[32:36]
+you're not really sure
+
+[32:36]
+you're not really sure
+and you don't want your bias to
+
+[32:39]
+and you don't want your bias to
+
+[32:39]
 and you don't want your bias to
 make you
+
+[32:41]
+make you
+
+[32:41]
+make you
+always call always fault in this type of
+
+[32:43]
+always call always fault in this type of
+
+[32:43]
 always call always fault in this type of
 spots because then your natural bias
+
+[32:44]
+spots because then your natural bias
+
+[32:45]
+spots because then your natural bias
+will start to show
+
+[32:46]
+will start to show
+
+[32:46]
 will start to show
 you might not have a leak in this exact
+
+[32:48]
+you might not have a leak in this exact
+
+[32:48]
+you might not have a leak in this exact
+scenario but if always when it's close
+
+[32:50]
+scenario but if always when it's close
+
+[32:50]
 scenario but if always when it's close
 you press fold or press call on the long
+
+[32:52]
+you press fold or press call on the long
+
+[32:52]
+you press fold or press call on the long
+term it can become a leak
+
+[32:55]
+term it can become a leak
+
+[32:55]
 term it can become a leak
 in terms of uh it's quite interesting
+
+[32:58]
+in terms of uh it's quite interesting
+
+[32:58]
+in terms of uh it's quite interesting
+he
+
+[33:00]
+he
+
+[33:00]
 he
 so we talked we think for quite a bit
+
+[33:02]
+so we talked we think for quite a bit
+
+[33:02]
+so we talked we think for quite a bit
+actually on the turn we think about if
+
+[33:04]
+actually on the turn we think about if
+
+[33:04]
 actually on the turn we think about if
 he would be thinking about what our
+
+[33:06]
+he would be thinking about what our
+
+[33:06]
+he would be thinking about what our
+range is oh we probably have a hint
+
+[33:08]
+range is oh we probably have a hint
+
+[33:09]
 range is oh we probably have a hint
 that's a bit like ours or we have
+
+[33:11]
+that's a bit like ours or we have
+
+[33:11]
+that's a bit like ours or we have
+something like Jack 9 Jack 10. if we
+
+[33:14]
+something like Jack 9 Jack 10. if we
+
+[33:14]
 something like Jack 9 Jack 10. if we
 don't balance our timing there I
+
+[33:15]
+don't balance our timing there I
+
+[33:15]
+don't balance our timing there I
+definitely think we can uh we can give
+
+[33:17]
+definitely think we can uh we can give
+
+[33:17]
 definitely think we can uh we can give
 away some information
+
+[33:19]
+away some information
+
+[33:19]
+away some information
+here at the A7
+
+[33:22]
+here at the A7
+
+[33:22]
 here at the A7
 you could do a couple of things here
+
+[33:30]
 A7 specifically I'm gonna go for a check
+
+[33:34]
+which is actually in hindsight a very
+
+[33:35]
+which is actually in hindsight a very
+
+[33:35]
 which is actually in hindsight a very
 bad idea
+
+[33:36]
+bad idea
+
+[33:36]
+bad idea
+my first instinct was to block but then
+
+[33:38]
+my first instinct was to block but then
+
+[33:38]
 my first instinct was to block but then
 I thought oh maybe keep some Asics in
+
+[33:40]
+I thought oh maybe keep some Asics in
+
+[33:40]
+I thought oh maybe keep some Asics in
+but that's obviously not a great idea
+
+[33:42]
+but that's obviously not a great idea
+
+[33:42]
 but that's obviously not a great idea
 because if a river is an ace we have
+
+[33:44]
+because if a river is an ace we have
+
+[33:44]
+because if a river is an ace we have
+three pair and three pair last time I
+
+[33:45]
+three pair and three pair last time I
+
+[33:45]
 three pair and three pair last time I
 checked is not a very strong hand in
+
+[33:47]
+checked is not a very strong hand in
+
+[33:47]
+checked is not a very strong hand in
+poke
+
+[33:48]
+poke
+
+[33:48]
 poke
 I feel like now my head's just worth a
+
+[33:50]
+I feel like now my head's just worth a
+
+[33:50]
+I feel like now my head's just worth a
 three-quarter
+
+[33:53]
+especially again he did
+
+[33:56]
+especially again he did
+
+[33:56]
 especially again he did
 he sort of Snapchat turn I feel like
+
+[33:58]
+he sort of Snapchat turn I feel like
+
+[33:58]
+he sort of Snapchat turn I feel like
+he's gonna have be very ace high or low
+
+[34:00]
+he's gonna have be very ace high or low
+
+[34:00]
 he's gonna have be very ace high or low
 pair not even just ace high heavy
+
+[34:03]
+pair not even just ace high heavy
+
+[34:03]
+pair not even just ace high heavy
+very hard to get value
+
+[34:05]
+very hard to get value
+
+[34:05]
 very hard to get value
 but maybe I should have just adjusted my
+
+[34:07]
+but maybe I should have just adjusted my
+
+[34:07]
+but maybe I should have just adjusted my
+sizing for the fact that I feel like
+
+[34:09]
+sizing for the fact that I feel like
+
+[34:09]
 sizing for the fact that I feel like
 it's going to have a high way more often
+
+[34:11]
+it's going to have a high way more often
+
+[34:11]
+it's going to have a high way more often
+with the Snapchat on the turn hi guys
+
+[34:13]
+with the Snapchat on the turn hi guys
+
+[34:13]
 with the Snapchat on the turn hi guys
 Renee aka the weko here with a quick
+
+[34:15]
+Renee aka the weko here with a quick
+
+[34:15]
+Renee aka the weko here with a quick
+mechanics of Poker 2.0 announcement
+
+[34:18]
+mechanics of Poker 2.0 announcement
+
+[34:18]
 mechanics of Poker 2.0 announcement
 because we are currently open to receive
+
+[34:21]
+because we are currently open to receive
+
+[34:21]
+because we are currently open to receive
+10 new players in our mechanics of Poker
+
+[34:24]
+10 new players in our mechanics of Poker
+
+[34:24]
 10 new players in our mechanics of Poker
 coaching program in our program you'll
+
+[34:26]
+coaching program in our program you'll
+
+[34:26]
+coaching program in our program you'll
+get access to 80 plus hours of content
+
+[34:29]
+get access to 80 plus hours of content
+
+[34:29]
 get access to 80 plus hours of content
 in which we will explain you all aspects
+
+[34:31]
+in which we will explain you all aspects
+
+[34:31]
+in which we will explain you all aspects
+needed in order to become a more
+
+[34:33]
+needed in order to become a more
+
+[34:33]
 needed in order to become a more
 successful poker player now one of these
+
+[34:35]
+successful poker player now one of these
+
+[34:35]
+successful poker player now one of these
+of course is the technical aspect of the
+
+[34:38]
+of course is the technical aspect of the
+
+[34:38]
 of course is the technical aspect of the
 game in which I'll be explaining you all
+
+[34:40]
+game in which I'll be explaining you all
+
+[34:40]
+game in which I'll be explaining you all
+the mechanics behind poker strategies
+
+[34:42]
+the mechanics behind poker strategies
+
+[34:42]
 the mechanics behind poker strategies
 we'll be talking about GTO exploitive
+
+[34:45]
+we'll be talking about GTO exploitive
+
+[34:45]
+we'll be talking about GTO exploitive
+play with an extra focus on the why
+
+[34:47]
+play with an extra focus on the why
+
+[34:47]
 play with an extra focus on the why
 behind certain strategies and why the
+
+[34:50]
+behind certain strategies and why the
+
+[34:50]
+behind certain strategies and why the
+population has certain leaks and to
+
+[34:52]
+population has certain leaks and to
+
+[34:52]
 population has certain leaks and to
 increase your win rate even further
+
+[34:54]
+increase your win rate even further
+
+[34:54]
+increase your win rate even further
+we've recently added a River Bluff and
+
+[34:56]
+we've recently added a River Bluff and
+
+[34:56]
 we've recently added a River Bluff and
 Bluff catching section so you can
+
+[34:58]
+Bluff catching section so you can
+
+[34:58]
+Bluff catching section so you can
+increase your AV when those spots become
+
+[35:00]
+increase your AV when those spots become
+
+[35:00]
 increase your AV when those spots become
 very big our mindset and performance
+
+[35:02]
+very big our mindset and performance
+
+[35:02]
+very big our mindset and performance
+coach Adam Carmichael he took care of
+
+[35:05]
+coach Adam Carmichael he took care of
+
+[35:05]
 coach Adam Carmichael he took care of
 the mental game and performance section
+
+[35:07]
+the mental game and performance section
+
+[35:07]
+the mental game and performance section
+of this program in which he will teach
+
+[35:09]
+of this program in which he will teach
+
+[35:09]
 of this program in which he will teach
 you everything you need to know in order
+
+[35:11]
+you everything you need to know in order
+
+[35:11]
+you everything you need to know in order
+to break through limiting beliefs better
+
+[35:14]
+to break through limiting beliefs better
+
+[35:14]
 to break through limiting beliefs better
 handle your emotions break free from
+
+[35:16]
+handle your emotions break free from
+
+[35:16]
+handle your emotions break free from
+tilt and play your A game more
+
+[35:19]
+tilt and play your A game more
+
+[35:19]
 tilt and play your A game more
 consistently and last but not least
+
+[35:21]
+consistently and last but not least
+
+[35:21]
+consistently and last but not least
+we've added a management and
+
+[35:23]
+we've added a management and
+
+[35:23]
 we've added a management and
 optimization section in the program in
+
+[35:25]
+optimization section in the program in
+
+[35:25]
+optimization section in the program in
+which we will give you various tips and
+
+[35:27]
+which we will give you various tips and
+
+[35:27]
 which we will give you various tips and
 tricks to make it more likely for your
+
+[35:29]
+tricks to make it more likely for your
+
+[35:29]
+tricks to make it more likely for your
+poker career to succeed and how to
+
+[35:32]
+poker career to succeed and how to
+
+[35:32]
 poker career to succeed and how to
 continuously improve as a poker player
+
+[35:35]
+continuously improve as a poker player
+
+[35:35]
+continuously improve as a poker player
+now on top of that this concept is
+
+[35:37]
+now on top of that this concept is
+
+[35:37]
 now on top of that this concept is
 continuously evolving based on feedback
+
+[35:40]
+continuously evolving based on feedback
+
+[35:40]
+continuously evolving based on feedback
+and suggestions we get from our
+
+[35:42]
+and suggestions we get from our
+
+[35:42]
 and suggestions we get from our
 community next to all this content you
+
+[35:44]
+community next to all this content you
+
+[35:44]
+community next to all this content you
+will have access to our exclusive
+
+[35:46]
+will have access to our exclusive
+
+[35:46]
 will have access to our exclusive
 Discord Community monthly live q a calls
+
+[35:50]
+Discord Community monthly live q a calls
+
+[35:50]
+Discord Community monthly live q a calls
+and one-on-one coaching session in which
+
+[35:53]
+and one-on-one coaching session in which
+
+[35:53]
 and one-on-one coaching session in which
 we are going to be reviewing if you have
+
+[35:55]
+we are going to be reviewing if you have
+
+[35:55]
+we are going to be reviewing if you have
+been implementing the stuff that we
+
+[35:57]
+been implementing the stuff that we
+
+[35:57]
 been implementing the stuff that we
 teach you in the mechanics of Poker
+
+[35:59]
+teach you in the mechanics of Poker
+
+[35:59]
+teach you in the mechanics of Poker
+correctly so do you think you have what
+
+[36:02]
+correctly so do you think you have what
+
+[36:02]
 correctly so do you think you have what
 it takes to master the mechanics of
+
+[36:04]
+it takes to master the mechanics of
+
+[36:04]
+it takes to master the mechanics of
+Poker and will you take one one of the
+
+[36:06]
+Poker and will you take one one of the
+
+[36:06]
 Poker and will you take one one of the
 10 available seats go over to mechanics
+
+[36:09]
+10 available seats go over to mechanics
+
+[36:09]
+10 available seats go over to mechanics
+of poker.com and apply for the program
+
+[36:11]
+of poker.com and apply for the program
+
+[36:11]
 of poker.com and apply for the program
 and maybe you will get a chance to work
+
+[36:13]
+and maybe you will get a chance to work
+
+[36:13]
+and maybe you will get a chance to work
+with me and Adam and make more progress
+
+[36:16]
+with me and Adam and make more progress
+
+[36:16]
 with me and Adam and make more progress
 in your poker career win7 suited easy
+
+[36:19]
+in your poker career win7 suited easy
+
+[36:19]
+in your poker career win7 suited easy
 over call
+
+[36:27]
+Jack if
+
+[36:31]
+Jack if
+
+[36:31]
 Jack if
 we know that this guy has seabating
+
+[36:33]
+we know that this guy has seabating
+
+[36:33]
+we know that this guy has seabating
+range sometimes these are spots where if
+
+[36:36]
+range sometimes these are spots where if
+
+[36:36]
 range sometimes these are spots where if
 he battles strong of his strongest on
+
+[36:37]
+he battles strong of his strongest on
+
+[36:37]
+he battles strong of his strongest on
+the Flop and they both do that you can
+
+[36:40]
+the Flop and they both do that you can
+
+[36:40]
 the Flop and they both do that you can
 step very wide here
+
+[36:41]
+step very wide here
+
+[36:42]
+step very wide here
+not really sure if that's the case
+
+[36:45]
+not really sure if that's the case
+
+[36:45]
 not really sure if that's the case
 which I'm gonna not go too crazy but I
+
+[36:48]
+which I'm gonna not go too crazy but I
+
+[36:48]
+which I'm gonna not go too crazy but I
 think Queen Seven uh
+
+[36:52]
+definitely see a step here
+
+[36:54]
+definitely see a step here
+
+[36:54]
 definitely see a step here
 making sense with how players usually
+
+[36:57]
+making sense with how players usually
+
+[36:57]
+making sense with how players usually
+play
+
+[36:58]
+play
+
+[36:58]
 play
 as hero
+
+[37:01]
+as hero
+
+[37:01]
+as hero
+not really check back at Jack that often
+
+[37:03]
+not really check back at Jack that often
+
+[37:03]
 not really check back at Jack that often
 and if he just also has a sea betting
+
+[37:06]
+and if he just also has a sea betting
+
+[37:06]
+and if he just also has a sea betting
+range and that's too much jackass Plus
+
+[37:08]
+range and that's too much jackass Plus
+
+[37:08]
 range and that's too much jackass Plus
 on the Flop and basically if it goes
+
+[37:10]
+on the Flop and basically if it goes
+
+[37:10]
+on the Flop and basically if it goes
+checked around
+
+[37:11]
+checked around
+
+[37:11]
 checked around
 I think as big plans we should do a lot
+
+[37:13]
+I think as big plans we should do a lot
+
+[37:13]
+I think as big plans we should do a lot
+of stabbing so actually if I would play
+
+[37:15]
+of stabbing so actually if I would play
+
+[37:15]
 of stabbing so actually if I would play
 this hand again I would have actually
+
+[37:16]
+this hand again I would have actually
+
+[37:16]
+this hand again I would have actually
+liked the step so I think this is a good
+
+[37:18]
+liked the step so I think this is a good
+
+[37:18]
 liked the step so I think this is a good
 example of
+
+[37:20]
+example of
+
+[37:20]
+example of
+me not thinking about what are the
+
+[37:22]
+me not thinking about what are the
+
+[37:22]
 me not thinking about what are the
 ranges and uh
+
+[37:25]
+ranges and uh
+
+[37:25]
+ranges and uh
+yeah I feel like we should have just
+
+[37:27]
+yeah I feel like we should have just
+
+[37:27]
 yeah I feel like we should have just
 stabbed this
+
+[37:31]
+and this is a spot where if you just
+
+[37:32]
+and this is a spot where if you just
+
+[37:33]
 and this is a spot where if you just
 play on autopilot you check
+
+[37:34]
+play on autopilot you check
+
+[37:34]
+play on autopilot you check
+if you actually think about what is
+
+[37:36]
+if you actually think about what is
+
+[37:36]
 if you actually think about what is
 Fitness range and you try to start
+
+[37:38]
+Fitness range and you try to start
+
+[37:38]
+Fitness range and you try to start
+paying attention
+
+[37:40]
+paying attention
+
+[37:40]
 paying attention
 then you might actually find a stab
+
+[37:42]
+then you might actually find a stab
+
+[37:42]
+then you might actually find a stab
+there on the turn to be very profitable
+
+[37:44]
+there on the turn to be very profitable
+
+[37:44]
 there on the turn to be very profitable
 this hand can go either way I'm gonna go
+
+[37:45]
+this hand can go either way I'm gonna go
+
+[37:45]
+this hand can go either way I'm gonna go
+for the call this time
+
+[37:48]
+for the call this time
+
+[37:48]
 for the call this time
 versus The Jackal new guy that I have no
+
+[37:50]
+versus The Jackal new guy that I have no
+
+[37:50]
+versus The Jackal new guy that I have no
+clue with this in the big blind so it
+
+[37:52]
+clue with this in the big blind so it
+
+[37:52]
 clue with this in the big blind so it
 needs to be a bit more towards Cole
+
+[37:55]
+needs to be a bit more towards Cole
+
+[37:55]
+needs to be a bit more towards Cole
+is Fault over day six easy check here
+
+[37:58]
+is Fault over day six easy check here
+
+[37:58]
 is Fault over day six easy check here
 with the ace 9.
+
+[38:10]
 [Music]
+
+[38:13]
 all right
+
+[38:20]
 you can now probably start betting S9
+
+[38:32]
+Mr Gold did think about it for a little
+
+[38:34]
+Mr Gold did think about it for a little
+
+[38:34]
 Mr Gold did think about it for a little
 while on the turn
+
+[38:36]
+while on the turn
+
+[38:36]
+while on the turn
+[Music]
+
+[38:37]
+[Music]
+
+[38:37]
 [Music]
 calls interesting
+
+[38:52]
 this tree
+
+[39:02]
+this board's starting to become a little
+
+[39:04]
+this board's starting to become a little
+
+[39:04]
 this board's starting to become a little
 bit more
+
+[39:05]
+bit more
+
+[39:05]
+bit more
+connected
+
+[39:06]
+connected
+
+[39:06]
 connected
 then I think the board that we had
+
+[39:08]
+then I think the board that we had
+
+[39:08]
+then I think the board that we had
+earlier where we're at the five six so
+
+[39:09]
+earlier where we're at the five six so
+
+[39:09]
 earlier where we're at the five six so
 I'm actually going to be doing quite a
+
+[39:11]
+I'm actually going to be doing quite a
+
+[39:11]
+I'm actually going to be doing quite a
 lot of checking here and betting big
+
+[39:17]
+Nana diamonds so
+
+[39:20]
+Nana diamonds so
+
+[39:20]
 Nana diamonds so
 fine hand to make a big bet
+
+[39:23]
+fine hand to make a big bet
+
+[39:23]
+fine hand to make a big bet
+big in this case for me is three quarter
+
+[39:25]
+big in this case for me is three quarter
+
+[39:25]
 big in this case for me is three quarter
 I think we probably have a barrel
+
+[39:36]
 the nine is not great
+
+[39:48]
 but the king is
+
+[40:06]
 [Music]
+
+[40:16]
+so check back this is actually uh the
+
+[40:19]
+so check back this is actually uh the
+
+[40:19]
 so check back this is actually uh the
 spot that we have discussed
+
+[40:25]
+where if the range is weaker we are way
+
+[40:26]
+where if the range is weaker we are way
+
+[40:26]
 where if the range is weaker we are way
 more incentivized to bet
+
+[40:30]
 on the lab model
+
+[40:36]
 I feel like betting is okay
+
+[40:40]
+this is definitely a bit more
+
+[40:42]
+this is definitely a bit more
+
+[40:42]
 this is definitely a bit more
 exploitative
+
+[40:47]
+because in theory the checkback range is
+
+[40:49]
+because in theory the checkback range is
+
+[40:49]
 because in theory the checkback range is
 going to be way more protected
+
+[41:01]
+bolts
+
+[41:02]
+bolts
+
+[41:02]
 bolts
 unfolding there is I mean
+
+[41:06]
+unfolding there is I mean
+
+[41:06]
+unfolding there is I mean
+I was gonna say it's a thing but it's
+
+[41:07]
+I was gonna say it's a thing but it's
+
+[41:07]
 I was gonna say it's a thing but it's
 not really a thing to be honest
+
+[41:12]
+and there's usually a consequence
+
+[41:13]
+and there's usually a consequence
+
+[41:13]
 and there's usually a consequence
 because of the range
+
+[41:18]
+but let's say for example play versus no
+
+[41:20]
+but let's say for example play versus no
+
+[41:20]
 but let's say for example play versus no
 offense I mean I don't know this player
+
+[41:22]
+offense I mean I don't know this player
+
+[41:22]
+offense I mean I don't know this player
+but let's say I play versus a guy who I
+
+[41:24]
+but let's say I play versus a guy who I
+
+[41:24]
 but let's say I play versus a guy who I
 know is a good player
+
+[41:26]
+know is a good player
+
+[41:26]
+know is a good player
+uh I would definitely not have bad at
+
+[41:28]
+uh I would definitely not have bad at
+
+[41:28]
 uh I would definitely not have bad at
 hand
+
+[41:40]
 [Music]
+
+[41:53]
+King three is turned 3x are actually
+
+[41:58]
+King three is turned 3x are actually
+
+[41:58]
 King three is turned 3x are actually
 hands at the dead get bet
+
+[42:01]
+hands at the dead get bet
+
+[42:01]
+hands at the dead get bet
+sometimes in a big bet I would prefer to
+
+[42:03]
+sometimes in a big bet I would prefer to
+
+[42:03]
 sometimes in a big bet I would prefer to
 have a lower three
+
+[42:06]
+it's close I'll go for the uh
+
+[42:10]
+it's close I'll go for the uh
+
+[42:10]
 it's close I'll go for the uh
 the check
+
+[42:13]
+by the lower three I would definitely
+
+[42:14]
+by the lower three I would definitely
+
+[42:14]
 by the lower three I would definitely
 bet
+
+[42:18]
+but I feel like when we do check we
+
+[42:19]
+but I feel like when we do check we
+
+[42:19]
 but I feel like when we do check we
 could maybe track race this in delay
+
+[42:22]
+could maybe track race this in delay
+
+[42:22]
+could maybe track race this in delay
+but if it goes check check I think we
+
+[42:24]
+but if it goes check check I think we
+
+[42:24]
 but if it goes check check I think we
 should just be checking down
+
+[42:26]
+should just be checking down
+
+[42:26]
+should just be checking down
 though
+
+[42:33]
+pocket Force the recreation on the big
+
+[42:35]
+pocket Force the recreation on the big
+
+[42:36]
 pocket Force the recreation on the big
 blind it's on the lower side
+
+[42:43]
+well it's 50 50.
+
+[42:45]
+well it's 50 50.
+
+[42:45]
 well it's 50 50.
 and here check check bet
+
+[42:54]
 I'm tempted
+
+[43:03]
 seven eight
+
+[43:06]
+or quite deep again I'm gonna call this
+
+[43:09]
+or quite deep again I'm gonna call this
+
+[43:09]
 or quite deep again I'm gonna call this
 50 50 we're being sucked in with the
+
+[43:12]
+50 50 we're being sucked in with the
+
+[43:12]
+50 50 we're being sucked in with the
+[ __ ] pocket Force we're considering
+
+[43:14]
+[ __ ] pocket Force we're considering
+
+[43:14]
 [ __ ] pocket Force we're considering
 folding
+
+[43:16]
+folding
+
+[43:16]
+folding
+then we figured that 50 50 is probably
+
+[43:18]
+then we figured that 50 50 is probably
+
+[43:18]
 then we figured that 50 50 is probably
 calm then we get squeezed 50 50 is
+
+[43:20]
+calm then we get squeezed 50 50 is
+
+[43:20]
+calm then we get squeezed 50 50 is
+probably calm and that's um
+
+[43:23]
+probably calm and that's um
+
+[43:23]
 probably calm and that's um
 that's how you get squeezed in
+
+[43:27]
+should have just folded in the first
+
+[43:28]
+should have just folded in the first
+
+[43:28]
 should have just folded in the first
 place
+
+[43:37]
+green Jack if you think about Walt's
+
+[43:39]
+green Jack if you think about Walt's
+
+[43:39]
 green Jack if you think about Walt's
 villains range there he bet it really
+
+[43:41]
+villains range there he bet it really
+
+[43:41]
+villains range there he bet it really
+quick on the river
+
+[43:42]
+quick on the river
+
+[43:42]
 quick on the river
 let's say he would have thought about it
+
+[43:44]
+let's say he would have thought about it
+
+[43:44]
+let's say he would have thought about it
+a little bit more and throw it out like
+
+[43:45]
+a little bit more and throw it out like
+
+[43:45]
 a little bit more and throw it out like
 a half pot it feels way more like eight
+
+[43:47]
+a half pot it feels way more like eight
+
+[43:47]
+a half pot it feels way more like eight
+nines
+
+[43:49]
+nines
+
+[43:49]
 nines
 tense
+
+[43:51]
+tense
+
+[43:51]
+tense
+but now he was mainly going towards I
+
+[43:54]
+but now he was mainly going towards I
+
+[43:54]
 but now he was mainly going towards I
 checked back at Queen twice or I have a
+
+[43:56]
+checked back at Queen twice or I have a
+
+[43:56]
+checked back at Queen twice or I have a
+decent Jack
+
+[43:57]
+decent Jack
+
+[43:57]
 decent Jack
 and I didn't really uh didn't really
+
+[44:00]
+and I didn't really uh didn't really
+
+[44:00]
+and I didn't really uh didn't really
 believe the story
+
+[44:06]
+and again I also feel like in general
+
+[44:08]
+and again I also feel like in general
+
+[44:08]
 and again I also feel like in general
 check back ranges
+
+[44:11]
+check back ranges
+
+[44:11]
+check back ranges
+or the the the the passive ranges
+
+[44:14]
+or the the the the passive ranges
+
+[44:14]
 or the the the the passive ranges
 tend to just be a little bit weaker
+
+[44:16]
+tend to just be a little bit weaker
+
+[44:16]
+tend to just be a little bit weaker
+especially at uh
+
+[44:19]
+especially at uh
+
+[44:19]
 especially at uh
 I'm calling this lower Stakes like
+
+[44:22]
+I'm calling this lower Stakes like
+
+[44:22]
+I'm calling this lower Stakes like
 low to midsticks
+
+[44:26]
+I know it's not really low stakes and
+
+[44:28]
+I know it's not really low stakes and
+
+[44:28]
 I know it's not really low stakes and
 the level here is very competitive but
+
+[44:32]
+the level here is very competitive but
+
+[44:32]
+the level here is very competitive but
+he's talking about general population
+
+[44:33]
+he's talking about general population
+
+[44:33]
 he's talking about general population
 Tennessee
+
+[44:44]
+374 again a board that's supposed to get
+
+[44:47]
+374 again a board that's supposed to get
+
+[44:47]
 374 again a board that's supposed to get
 lead people the only then they basically
+
+[44:50]
+lead people the only then they basically
+
+[44:51]
+lead people the only then they basically
+check range also be doing a lot of
+
+[44:52]
+check range also be doing a lot of
+
+[44:52]
 check range also be doing a lot of
 checking visits
+
+[44:54]
+checking visits
+
+[44:54]
+checking visits
+definitely one of them is Queen suited
+
+[44:56]
+definitely one of them is Queen suited
+
+[44:56]
 definitely one of them is Queen suited
 versus Jam probably fault in these
+
+[44:58]
+versus Jam probably fault in these
+
+[44:58]
+versus Jam probably fault in these
+positions German Reigns can definitely
+
+[45:01]
+positions German Reigns can definitely
+
+[45:01]
 positions German Reigns can definitely
 contain Ace King Queens
+
+[45:03]
+contain Ace King Queens
+
+[45:03]
+contain Ace King Queens
+I don't think we should be
+
+[45:05]
+I don't think we should be
+
+[45:06]
 I don't think we should be
 we should be folding this hand
+
+[45:12]
 say it's close
+
+[45:20]
+or call this time
+
+[45:23]
+or call this time
+
+[45:23]
 or call this time
 screen I'm gonna go for a call
+
+[45:27]
 back seats King five three four five
+
+[45:37]
+this Edge screen off I should have
+
+[45:38]
+this Edge screen off I should have
+
+[45:38]
 this Edge screen off I should have
 probably three but in hindsight
+
+[45:42]
+probably three but in hindsight
+
+[45:42]
+probably three but in hindsight
+but I might call him first caught up but
+
+[45:43]
+but I might call him first caught up but
+
+[45:43]
 but I might call him first caught up but
 first epmp I think is going off
+
+[45:46]
+first epmp I think is going off
+
+[45:46]
+first epmp I think is going off
+just always be a three bet
+
+[45:50]
+just always be a three bet
+
+[45:50]
 just always be a three bet
 as played I think we have to just keep
+
+[45:51]
+as played I think we have to just keep
+
+[45:51]
+as played I think we have to just keep
 on checking
+
+[45:55]
+rebelling the Queens
+
+[45:58]
+rebelling the Queens
+
+[45:58]
 rebelling the Queens
 you could sometimes when you get very
+
+[46:00]
+you could sometimes when you get very
+
+[46:00]
+you could sometimes when you get very
+deep and the guy here in the big blind
+
+[46:02]
+deep and the guy here in the big blind
+
+[46:02]
 deep and the guy here in the big blind
 is 100 B deep you could sometimes call
+
+[46:04]
+is 100 B deep you could sometimes call
+
+[46:04]
+is 100 B deep you could sometimes call
+basically back rays
+
+[46:07]
+basically back rays
+
+[46:07]
 basically back rays
 and queens I think is a GM
+
+[46:11]
+and queens I think is a GM
+
+[46:11]
+and queens I think is a GM
+I would say hence that you start calling
+
+[46:13]
+I would say hence that you start calling
+
+[46:13]
 I would say hence that you start calling
 would be a bit lower like jacks or a bit
+
+[46:16]
+would be a bit lower like jacks or a bit
+
+[46:16]
+would be a bit lower like jacks or a bit
+higher like kings the Queens is probably
+
+[46:18]
+higher like kings the Queens is probably
+
+[46:18]
 higher like kings the Queens is probably
 the best hand to gem we're a bit deeper
+
+[46:20]
+the best hand to gem we're a bit deeper
+
+[46:21]
+the best hand to gem we're a bit deeper
+though
+
+[46:22]
+though
+
+[46:22]
 though
 actually a bit close Jackson thing is
+
+[46:24]
+actually a bit close Jackson thing is
+
+[46:24]
+actually a bit close Jackson thing is
+always a call
+
+[46:25]
+always a call
+
+[46:25]
 always a call
 things always generate something to go
+
+[46:33]
+extend the days queen and I played like
+
+[46:34]
+extend the days queen and I played like
+
+[46:34]
 extend the days queen and I played like
 that
+
+[46:37]
 has to be said
+
+[46:50]
+not going to check race I expect the
+
+[46:52]
+not going to check race I expect the
+
+[46:52]
 not going to check race I expect the
 recreational to three but the Flop way
+
+[46:55]
+recreational to three but the Flop way
+
+[46:55]
+recreational to three but the Flop way
+more often than a professional
+
+[46:58]
+more often than a professional
+
+[46:58]
 more often than a professional
 it would obviously not be great if that
+
+[46:59]
+it would obviously not be great if that
+
+[46:59]
+it would obviously not be great if that
+happens with I4
+
+[47:02]
+happens with I4
+
+[47:02]
 happens with I4
 and three betting here with Kings and
+
+[47:05]
+and three betting here with Kings and
+
+[47:05]
+and three betting here with Kings and
 each turn
+
+[47:12]
+okay
+
+[47:14]
+okay
+
+[47:14]
 okay
 who says I'm gonna go for the over call
+
+[47:17]
+who says I'm gonna go for the over call
+
+[47:17]
+who says I'm gonna go for the over call
+actually lead this board why not
+
+[47:20]
+actually lead this board why not
+
+[47:20]
 actually lead this board why not
 we have to try to donkey dunk from time
+
+[47:21]
+we have to try to donkey dunk from time
+
+[47:21]
+we have to try to donkey dunk from time
 to time
+
+[47:26]
+and it's mainly because my overall range
+
+[47:27]
+and it's mainly because my overall range
+
+[47:27]
 and it's mainly because my overall range
 here is gonna be
+
+[47:29]
+here is gonna be
+
+[47:29]
+here is gonna be
+80 pocket pass between the deuce and the
+
+[47:31]
+80 pocket pass between the deuce and the
+
+[47:31]
 80 pocket pass between the deuce and the
 eight yeah seems like quite a good board
+
+[47:35]
+eight yeah seems like quite a good board
+
+[47:35]
+eight yeah seems like quite a good board
+for that
+
+[47:37]
+for that
+
+[47:37]
 for that
 um or I could also have suited connector
+
+[47:39]
+um or I could also have suited connector
+
+[47:39]
+um or I could also have suited connector
+like five for Suited
+
+[47:41]
+like five for Suited
+
+[47:41]
 like five for Suited
 click on the turn Deuces is probably a
+
+[47:43]
+click on the turn Deuces is probably a
+
+[47:43]
+click on the turn Deuces is probably a
 check without the club
+
+[47:47]
+wouldn't mind getting frisky with threes
+
+[47:50]
+wouldn't mind getting frisky with threes
+
+[47:50]
 wouldn't mind getting frisky with threes
 eights would actually be the most sexy
+
+[47:52]
+eights would actually be the most sexy
+
+[47:52]
+eights would actually be the most sexy
 hand
+
+[47:55]
 this is not very sexy
+
+[47:59]
+SK in this
+
+[48:01]
+SK in this
+
+[48:01]
 SK in this
 deep tight I don't think getting an Ace
+
+[48:02]
+deep tight I don't think getting an Ace
+
+[48:02]
+deep tight I don't think getting an Ace
+King here is gonna be a great idea I
+
+[48:04]
+King here is gonna be a great idea I
+
+[48:04]
 King here is gonna be a great idea I
 think Ace King suited is actually going
+
+[48:07]
+think Ace King suited is actually going
+
+[48:07]
+think Ace King suited is actually going
+to get it in some of the time
+
+[48:10]
+to get it in some of the time
+
+[48:10]
 to get it in some of the time
 but
+
+[48:11]
+but
+
+[48:11]
+but
+it rolls on the lower side so we're just
+
+[48:13]
+it rolls on the lower side so we're just
+
+[48:13]
 it rolls on the lower side so we're just
 gonna call
+
+[48:14]
+gonna call
+
+[48:14]
+gonna call
+asking other thing is definitely always
+
+[48:16]
+asking other thing is definitely always
+
+[48:16]
 asking other thing is definitely always
 a call here
+
+[48:20]
+this is half but that
+
+[48:23]
+this is half but that
+
+[48:23]
 this is half but that
 which actually is
+
+[48:25]
+which actually is
+
+[48:25]
+which actually is
+Birds sizing on this board
+
+[48:28]
+Birds sizing on this board
+
+[48:28]
 Birds sizing on this board
 gonna be doing a lot of jamming versus
+
+[48:30]
+gonna be doing a lot of jamming versus
+
+[48:30]
+gonna be doing a lot of jamming versus
+half I would say but a skiing I think
+
+[48:32]
+half I would say but a skiing I think
+
+[48:32]
 half I would say but a skiing I think
 I'm just gonna call and we can just call
+
+[48:34]
+I'm just gonna call and we can just call
+
+[48:34]
+I'm just gonna call and we can just call
+any turn
+
+[48:36]
+any turn
+
+[48:36]
 any turn
 ing on with our lives
+
+[48:40]
 if he checks
+
+[48:43]
+check
+
+[48:46]
+check
+
+[48:46]
 check
 again I feel like if you feel like
+
+[48:47]
+again I feel like if you feel like
+
+[48:47]
+again I feel like if you feel like
+what's his range this is a spot where
+
+[48:49]
+what's his range this is a spot where
+
+[48:49]
 what's his range this is a spot where
 people I think are a bit unbalanced so
+
+[48:51]
+people I think are a bit unbalanced so
+
+[48:51]
+people I think are a bit unbalanced so
+I'm gonna Jam
+
+[48:53]
+I'm gonna Jam
+
+[48:53]
 I'm gonna Jam
 expect to get a lot of Falls
+
+[48:58]
+Theory you should definitely mix in a
+
+[49:00]
+Theory you should definitely mix in a
+
+[49:00]
 Theory you should definitely mix in a
 lot of turn checks with strong hands
+
+[49:02]
+lot of turn checks with strong hands
+
+[49:02]
+lot of turn checks with strong hands
+you're mainly going to be checking the
+
+[49:04]
+you're mainly going to be checking the
+
+[49:04]
 you're mainly going to be checking the
 flush draw ones so let's say you have
+
+[49:06]
+flush draw ones so let's say you have
+
+[49:06]
+flush draw ones so let's say you have
+Aces with the Ace of Heart Ace of clubs
+
+[49:08]
+Aces with the Ace of Heart Ace of clubs
+
+[49:08]
 Aces with the Ace of Heart Ace of clubs
 Kings with the Ace of Heart Ace of clubs
+
+[49:09]
+Kings with the Ace of Heart Ace of clubs
+
+[49:09]
+Kings with the Ace of Heart Ace of clubs
+you're going to be checking that on the
+
+[49:10]
+you're going to be checking that on the
+
+[49:10]
 you're going to be checking that on the
 turn
+
+[49:11]
+turn
+
+[49:11]
+turn
+you check quite fast and I feel like
+
+[49:14]
+you check quite fast and I feel like
+
+[49:14]
 you check quite fast and I feel like
 you can just close your eyes and jam
+
+[49:16]
+you can just close your eyes and jam
+
+[49:16]
+you can just close your eyes and jam
+there and get a lot of Folds
+
+[49:18]
+there and get a lot of Folds
+
+[49:18]
 there and get a lot of Folds
 and the board is dead quote quote scary
+
+[49:21]
+and the board is dead quote quote scary
+
+[49:21]
+and the board is dead quote quote scary
+people are just going to
+
+[49:23]
+people are just going to
+
+[49:24]
 people are just going to
 be too too greedy with their value hands
+
+[49:27]
+be too too greedy with their value hands
+
+[49:27]
+be too too greedy with their value hands
+and
+
+[49:28]
+and
+
+[49:28]
 and
 not wanting you to pause control tense
+
+[49:30]
+not wanting you to pause control tense
+
+[49:30]
+not wanting you to pause control tense
+Jack screens
+
+[49:32]
+Jack screens
+
+[49:32]
 Jack screens
 you know not wanting to play a river and
+
+[49:35]
+you know not wanting to play a river and
+
+[49:35]
+you know not wanting to play a river and
 they're just gonna be
+
+[49:38]
+jamming it in so I feel like under 20
+
+[49:40]
+jamming it in so I feel like under 20
+
+[49:40]
 jamming it in so I feel like under 20
 checks you can just
+
+[49:43]
 bet your hand
+
+[49:51]
+7.5 I'm actually going to fold this end
+
+[49:54]
+7.5 I'm actually going to fold this end
+
+[49:54]
 7.5 I'm actually going to fold this end
 some of the time
+
+[49:56]
+some of the time
+
+[49:56]
+some of the time
+ruled higher
+
+[49:58]
+ruled higher
+
+[49:58]
 ruled higher
 I'm going to call
+
+[50:06]
+tense I would probably never fall but
+
+[50:08]
+tense I would probably never fall but
+
+[50:08]
 tense I would probably never fall but
 nines
+
+[50:10]
+nines
+
+[50:10]
+nines
+eight seven sixes are definitely rules I
+
+[50:13]
+eight seven sixes are definitely rules I
+
+[50:13]
 eight seven sixes are definitely rules I
 would say
+
+[50:14]
+would say
+
+[50:14]
+would say
+I'll turn King we probably check
+
+[50:18]
+I'll turn King we probably check
+
+[50:18]
 I'll turn King we probably check
 a lot
+
+[50:19]
+a lot
+
+[50:19]
+a lot
+and nines is probably one of the persons
+
+[50:21]
+and nines is probably one of the persons
+
+[50:21]
 and nines is probably one of the persons
 that we will be checking
+
+[50:29]
+this is not I don't think this is the
+
+[50:32]
+this is not I don't think this is the
+
+[50:32]
 this is not I don't think this is the
 correct sizing from from his side
+
+[50:35]
+correct sizing from from his side
+
+[50:35]
+correct sizing from from his side
 not sure actually
+
+[50:38]
+doesn't feel like it oh probably it is
+
+[50:41]
+doesn't feel like it oh probably it is
+
+[50:41]
 doesn't feel like it oh probably it is
 you're trying to make all these pairs
+
+[50:43]
+you're trying to make all these pairs
+
+[50:43]
+you're trying to make all these pairs
 without the spading different
+
+[50:48]
 now we can probably lead
+
+[50:57]
 this is a very weird hand
+
+[51:01]
 and if it raises it's full of [ __ ]
+
+[51:06]
+we got a call
+
+[51:09]
+we got a call
+
+[51:09]
 we got a call
 what did he call it that is the question
+
+[51:11]
+what did he call it that is the question
+
+[51:11]
+what did he call it that is the question
 it's King
+
+[51:19]
+all right it's three best faces called
+
+[51:21]
+all right it's three best faces called
+
+[51:21]
 all right it's three best faces called
 four bets
+
+[51:23]
+four bets
+
+[51:23]
+four bets
 I have this guy as a recreational
+
+[51:35]
 so far
+
+[51:38]
 standards nine of diamonds
+
+[51:44]
+it does make us uh pretty committed I
+
+[51:47]
+it does make us uh pretty committed I
+
+[51:47]
 it does make us uh pretty committed I
 would say
+
+[51:48]
+would say
+
+[51:48]
+would say
+checks again I would say the same thing
+
+[51:50]
+checks again I would say the same thing
+
+[51:50]
 checks again I would say the same thing
 is true here as in the other Ace King
+
+[51:52]
+is true here as in the other Ace King
+
+[51:52]
+is true here as in the other Ace King
+just gonna be very weak
+
+[51:56]
+just gonna be very weak
+
+[51:56]
 just gonna be very weak
 so I'm just gonna spin my stack in and
+
+[51:58]
+so I'm just gonna spin my stack in and
+
+[51:58]
+so I'm just gonna spin my stack in and
+expect to get a fold
+
+[52:00]
+expect to get a fold
+
+[52:00]
 expect to get a fold
 and sometimes maybe a call from tense or
+
+[52:02]
+and sometimes maybe a call from tense or
+
+[52:02]
+and sometimes maybe a call from tense or
 a nine or eight
+
+[52:07]
+is a recreational player Maybe
+
+[52:10]
+is a recreational player Maybe
+
+[52:10]
 is a recreational player Maybe
 you could do to you could
+
+[52:12]
+you could do to you could
+
+[52:12]
+you could do to you could
 turn over something random here
+
+[52:23]
+I would definitely encourage in a team
+
+[52:25]
+I would definitely encourage in a team
+
+[52:25]
 I would definitely encourage in a team
 of uh the team of this topic in both
+
+[52:26]
+of uh the team of this topic in both
+
+[52:26]
+of uh the team of this topic in both
+spots to the no Locker solver and see
+
+[52:30]
+spots to the no Locker solver and see
+
+[52:30]
 spots to the no Locker solver and see
 what happens if people add a bit too
+
+[52:32]
+what happens if people add a bit too
+
+[52:32]
+what happens if people add a bit too
+greedy and how the equilibrium changes
+
+[52:35]
+greedy and how the equilibrium changes
+
+[52:35]
 greedy and how the equilibrium changes
 even calls with Ace King okay I figured
+
+[52:37]
+even calls with Ace King okay I figured
+
+[52:37]
+even calls with Ace King okay I figured
+he would have a skin quite often but
+
+[52:40]
+he would have a skin quite often but
+
+[52:40]
 he would have a skin quite often but
 that he calls it this next level
+
+[52:45]
+I guess he could
+
+[52:48]
+I guess he could
+
+[52:48]
 I guess he could
 guess he could
+
+[52:53]
 [Music]
+
+[52:55]
+[Music]
+
+[52:55]
+[Music]
+um
+
+[52:56]
+um
+
+[52:56]
 um
 this is another spot where I feel like
+
+[52:58]
+this is another spot where I feel like
+
+[52:58]
+this is another spot where I feel like
+the check race check line is going to be
+
+[53:01]
+the check race check line is going to be
+
+[53:01]
 the check race check line is going to be
 very much
+
+[53:03]
+very much
+
+[53:03]
+very much
+weighted to what it is just gonna be
+
+[53:05]
+weighted to what it is just gonna be
+
+[53:05]
 weighted to what it is just gonna be
 like a turned Queen ax very often
+
+[53:08]
+like a turned Queen ax very often
+
+[53:08]
+like a turned Queen ax very often
+and as soon as they don't balance these
+
+[53:11]
+and as soon as they don't balance these
+
+[53:11]
 and as soon as they don't balance these
 lines I feel like we get we get to just
+
+[53:15]
+lines I feel like we get we get to just
+
+[53:15]
+lines I feel like we get we get to just
+Battle of ASAC I do think actually I
+
+[53:17]
+Battle of ASAC I do think actually I
+
+[53:17]
 Battle of ASAC I do think actually I
 made a mistake because I do feel like
+
+[53:18]
+made a mistake because I do feel like
+
+[53:18]
+made a mistake because I do feel like
+then tense is now it's only worth way
+
+[53:20]
+then tense is now it's only worth way
+
+[53:20]
 then tense is now it's only worth way
 more money
+
+[53:33]
+so the main the main thing that happens
+
+[53:35]
+so the main the main thing that happens
+
+[53:35]
 so the main the main thing that happens
 if
+
+[53:37]
+if
+
+[53:37]
+if
+if a range is unbalanced that we can
+
+[53:39]
+if a range is unbalanced that we can
+
+[53:39]
 if a range is unbalanced that we can
 just bet the strength of our hand
+
+[53:41]
+just bet the strength of our hand
+
+[53:41]
+just bet the strength of our hand
+and tense obviously is worth more than a
+
+[53:42]
+and tense obviously is worth more than a
+
+[53:42]
 and tense obviously is worth more than a
 quarter and then if we have an ace with
+
+[53:44]
+quarter and then if we have an ace with
+
+[53:44]
+quarter and then if we have an ace with
 just better quarter
+
+[53:52]
+okay Bernie my rate was wrong and he had
+
+[53:55]
+okay Bernie my rate was wrong and he had
+
+[53:55]
 okay Bernie my rate was wrong and he had
 ACE check I guess
+
+[53:57]
+ACE check I guess
+
+[53:57]
+ACE check I guess
 Ace jackets
+
+[54:10]
+it's actually also an interesting spot
+
+[54:14]
+it's actually also an interesting spot
+
+[54:14]
 it's actually also an interesting spot
 that you can actually play in uh in
+
+[54:16]
+that you can actually play in uh in
+
+[54:16]
+that you can actually play in uh in
+various ways
+
+[54:19]
+various ways
+
+[54:19]
 various ways
 I want to get in too much details
+
+[54:23]
+not uh
+
+[54:25]
+not uh
+
+[54:25]
 not uh
 the educate you guys but I'm not here
+
+[54:26]
+the educate you guys but I'm not here
+
+[54:26]
+the educate you guys but I'm not here
+today every fan
+
+[54:28]
+today every fan
+
+[54:28]
 today every fan
 but there's definitely some uh
+
+[54:29]
+but there's definitely some uh
+
+[54:29]
+but there's definitely some uh
+alternative
+
+[54:32]
+alternative
+
+[54:32]
 alternative
 strategies that I think are good here
+
+[54:38]
+timing here very important in this spot
+
+[54:40]
+timing here very important in this spot
+
+[54:40]
 timing here very important in this spot
 check I'll check
+
+[54:43]
+this is definitely a spot the longer he
+
+[54:46]
+this is definitely a spot the longer he
+
+[54:46]
 this is definitely a spot the longer he
 times the more I'm going to check behind
+
+[54:48]
+times the more I'm going to check behind
+
+[54:48]
+times the more I'm going to check behind
+because it says something about his
+
+[54:50]
+because it says something about his
+
+[54:50]
 because it says something about his
 range then
+
+[54:53]
+and I'm definitely folding here
+
+[54:55]
+and I'm definitely folding here
+
+[54:55]
 and I'm definitely folding here
 especially with a club but also when the
+
+[54:57]
+especially with a club but also when the
+
+[54:57]
+especially with a club but also when the
+age rolls off kind of Jack nine
+
+[55:00]
+age rolls off kind of Jack nine
+
+[55:00]
 age rolls off kind of Jack nine
 but there's an interesting spot in terms
+
+[55:01]
+but there's an interesting spot in terms
+
+[55:01]
+but there's an interesting spot in terms
+of the longer people
+
+[55:03]
+of the longer people
+
+[55:03]
 of the longer people
 time
+
+[55:05]
+time
+
+[55:05]
+time
+the less he just has Queen nine or King
+
+[55:10]
+the less he just has Queen nine or King
+
+[55:10]
 the less he just has Queen nine or King
 10.
+
+[55:11]
+10.
+
+[55:11]
+10.
+and the more it's like okay I have
+
+[55:14]
+and the more it's like okay I have
+
+[55:14]
 and the more it's like okay I have
 a give up or I have a very strong hand
+
+[55:16]
+a give up or I have a very strong hand
+
+[55:16]
+a give up or I have a very strong hand
+that I was considering
+
+[55:19]
+that I was considering
+
+[55:19]
 that I was considering
 so uh the faster people check
+
+[55:23]
+so uh the faster people check
+
+[55:23]
+so uh the faster people check
+the more
+
+[55:25]
+the more
+
+[55:25]
 the more
 I want to evaluate my hand
+
+[55:27]
+I want to evaluate my hand
+
+[55:27]
+I want to evaluate my hand
+and the longer people take
+
+[55:29]
+and the longer people take
+
+[55:29]
 and the longer people take
 the more I want to check my hands
+
+[55:31]
+the more I want to check my hands
+
+[55:31]
+the more I want to check my hands
+why is that because we Face a different
+
+[55:34]
+why is that because we Face a different
+
+[55:34]
 why is that because we Face a different
 range and therefore we have different
+
+[55:36]
+range and therefore we have different
+
+[55:36]
+range and therefore we have different
+equities and therefore we have different
+
+[55:37]
+equities and therefore we have different
+
+[55:37]
 equities and therefore we have different
 incentives
+
+[55:39]
+incentives
+
+[55:39]
+incentives
 as explained
+
+[55:45]
 I hope
+
+[55:48]
+this video has been useful for you guys
+
+[55:51]
+this video has been useful for you guys
+
+[55:51]
 this video has been useful for you guys
 and
+
+[55:53]
+and
+
+[55:53]
+and
 I promise you
+
+[55:56]
+when you go play sessions mainly with
+
+[55:58]
+when you go play sessions mainly with
+
+[55:58]
 when you go play sessions mainly with
 this this question in mind
+
+[56:01]
+this this question in mind
+
+[56:01]
+this this question in mind
+you'll suddenly see that you actually
+
+[56:03]
+you'll suddenly see that you actually
+
+[56:03]
 you'll suddenly see that you actually
 know how to play poker at a higher level
+
+[56:06]
+know how to play poker at a higher level
+
+[56:06]
+know how to play poker at a higher level
+no I'm saying this completely correct
+
+[56:08]
+no I'm saying this completely correct
+
+[56:08]
 no I'm saying this completely correct
 incorrectly but
+
+[56:09]
+incorrectly but
+
+[56:09]
+incorrectly but
+you suddenly
+
+[56:11]
+you suddenly
+
+[56:11]
 you suddenly
 get broken out of your autopilot and
+
+[56:13]
+get broken out of your autopilot and
+
+[56:13]
+get broken out of your autopilot and
 actually start to thinking to be honest
+
+[56:19]
+a lot in poker is just a matter of you
+
+[56:21]
+a lot in poker is just a matter of you
+
+[56:21]
 a lot in poker is just a matter of you
 should start to think think logically
+
+[56:25]
+should start to think think logically
+
+[56:25]
+should start to think think logically
+which is a part of the brain that gets
+
+[56:27]
+which is a part of the brain that gets
+
+[56:27]
 which is a part of the brain that gets
 kind of shot off if you're just
+
+[56:29]
+kind of shot off if you're just
+
+[56:29]
+kind of shot off if you're just
 assuming solver outputs
+
+[56:36]
+we got a cold call I don't know who this
+
+[56:37]
+we got a cold call I don't know who this
+
+[56:37]
 we got a cold call I don't know who this
 guy is but I just started with a c bet
+
+[56:39]
+guy is but I just started with a c bet
+
+[56:39]
+guy is but I just started with a c bet
+because my yeah my head's quite
+
+[56:41]
+because my yeah my head's quite
+
+[56:41]
 because my yeah my head's quite
 beautiful
+
+[56:42]
+beautiful
+
+[56:42]
+beautiful
+we'll definitely not see that a lot and
+
+[56:44]
+we'll definitely not see that a lot and
+
+[56:44]
 we'll definitely not see that a lot and
 it suited could read three about this
+
+[56:47]
+it suited could read three about this
+
+[56:47]
+it suited could read three about this
+maybe some of the time feels a bit weak
+
+[56:49]
+maybe some of the time feels a bit weak
+
+[56:49]
 maybe some of the time feels a bit weak
 but hey let's go for it probably more
+
+[56:52]
+but hey let's go for it probably more
+
+[56:52]
+but hey let's go for it probably more
+against the cutoff
+
+[56:53]
+against the cutoff
+
+[56:53]
 against the cutoff
 very bad board for us
+
+[56:56]
+very bad board for us
+
+[56:56]
+very bad board for us
 he calls
+
+[57:00]
 I'm not really sure
+
+[57:05]
+but
+
+[57:07]
+but
+
+[57:07]
 but
 I'm gonna give up
+
+[57:09]
+I'm gonna give up
+
+[57:09]
+I'm gonna give up
+and this is probably going to be a check
+
+[57:11]
+and this is probably going to be a check
+
+[57:11]
 and this is probably going to be a check
 I'm gonna check this point very often
+
+[57:12]
+I'm gonna check this point very often
+
+[57:12]
+I'm gonna check this point very often
 he's gonna step the sport very often
+
+[57:17]
+actually maybe do something
+
+[57:20]
+actually maybe do something
+
+[57:20]
 actually maybe do something
 mergy here
+
+[57:24]
 it's not there not get too funkier
+
+[57:31]
+foreign
+
+[57:33]
+foreign
+
+[57:33]
 foreign
 up I feel like the cold call versus
+
+[57:36]
+up I feel like the cold call versus
+
+[57:36]
+up I feel like the cold call versus
+three bed range is just gonna contain
+
+[57:37]
+three bed range is just gonna contain
+
+[57:37]
 three bed range is just gonna contain
 too much Ajax I can bet the term but
+
+[57:39]
+too much Ajax I can bet the term but
+
+[57:39]
+too much Ajax I can bet the term but
+then it's just gonna jam and okay see
+
+[57:42]
+then it's just gonna jam and okay see
+
+[57:42]
 then it's just gonna jam and okay see
 bet check
+
+[57:43]
+bet check
+
+[57:43]
+bet check
+what's in his range well probably
+
+[57:46]
+what's in his range well probably
+
+[57:46]
 what's in his range well probably
 sevenths or sixes or
+
+[57:49]
+sevenths or sixes or
+
+[57:49]
+sevenths or sixes or
+five six Suited
+
+[57:50]
+five six Suited
+
+[57:50]
 five six Suited
 something along those lines
+
+[57:52]
+something along those lines
+
+[57:52]
+something along those lines
 very weekend
+
+[57:55]
+probably size down a bit get value from
+
+[57:58]
+probably size down a bit get value from
+
+[57:58]
 probably size down a bit get value from
 those Holdings
+
+[58:01]
+[Music]
+
+[58:02]
+[Music]
+
+[58:02]
 [Music]
 um
+
+[58:06]
+actually I'm just going to bed quarter I
+
+[58:08]
+actually I'm just going to bed quarter I
+
+[58:08]
 actually I'm just going to bed quarter I
 think quarter is actually fine
+
+[58:15]
+because I think again the range is left
+
+[58:17]
+because I think again the range is left
+
+[58:17]
 because I think again the range is left
 unprotected and he's just gonna have
+
+[58:19]
+unprotected and he's just gonna have
+
+[58:19]
+unprotected and he's just gonna have
+sixes and sevenths the majority of the
+
+[58:21]
+sixes and sevenths the majority of the
+
+[58:21]
 sixes and sevenths the majority of the
 time
+
+[58:23]
+time
+
+[58:23]
+time
+in theory should definitely show up with
+
+[58:25]
+in theory should definitely show up with
+
+[58:25]
 in theory should definitely show up with
 Queens for example Jax
+
+[58:27]
+Queens for example Jax
+
+[58:27]
+Queens for example Jax
+and it's definitely not going to be the
+
+[58:29]
+and it's definitely not going to be the
+
+[58:29]
 and it's definitely not going to be the
 case or at least not often enough versus
+
+[58:31]
+case or at least not often enough versus
+
+[58:31]
+case or at least not often enough versus
+your average opponents and guess what he
+
+[58:33]
+your average opponents and guess what he
+
+[58:33]
 your average opponents and guess what he
 had yeah
+
+[58:36]
+knowing that
+
+[58:38]
+knowing that
+
+[58:38]
 knowing that
 man I probably blundered here myself
+
+[58:40]
+man I probably blundered here myself
+
+[58:40]
+man I probably blundered here myself
+knowing that that he probably has pocket
+
+[58:44]
+knowing that that he probably has pocket
+
+[58:44]
 knowing that that he probably has pocket
 sixes
+
+[58:45]
+sixes
+
+[58:45]
+sixes
+um
+
+[58:46]
+um
+
+[58:46]
 um
 we should probably have just been
+
+[58:47]
+we should probably have just been
+
+[58:48]
+we should probably have just been
+actually a bit bigger
+
+[58:50]
+actually a bit bigger
+
+[58:50]
 actually a bit bigger
 so I think I actually made a mistake
+
+[58:52]
+so I think I actually made a mistake
+
+[58:52]
+so I think I actually made a mistake
 there
+
+[58:54]
 Queens
+
+[58:59]
+it's close I feel like it's a spot where
+
+[59:01]
+it's close I feel like it's a spot where
+
+[59:01]
 it's close I feel like it's a spot where
 people are just gonna stab relentlessly
+
+[59:04]
+people are just gonna stab relentlessly
+
+[59:04]
+people are just gonna stab relentlessly
+I do also
+
+[59:05]
+I do also
+
+[59:05]
 I do also
 could actually also be a recreational
+
+[59:07]
+could actually also be a recreational
+
+[59:07]
+could actually also be a recreational
+player if it's a recreational player I
+
+[59:08]
+player if it's a recreational player I
+
+[59:08]
 player if it's a recreational player I
 definitely think checking towards him is
+
+[59:09]
+definitely think checking towards him is
+
+[59:09]
+definitely think checking towards him is
+a good idea because they're just gonna
+
+[59:11]
+a good idea because they're just gonna
+
+[59:11]
 a good idea because they're just gonna
 stab a lot
+
+[59:12]
+stab a lot
+
+[59:12]
+stab a lot
+which is quite good for us here it is
+
+[59:15]
+which is quite good for us here it is
+
+[59:15]
 which is quite good for us here it is
 nine could fail you bad but I think it's
+
+[59:17]
+nine could fail you bad but I think it's
+
+[59:17]
+nine could fail you bad but I think it's
+a bit thinner said ace Jack I would
+
+[59:19]
+a bit thinner said ace Jack I would
+
+[59:19]
 a bit thinner said ace Jack I would
 definitely tell you that
+
+[59:21]
+definitely tell you that
+
+[59:21]
+definitely tell you that
+with a club and I'm just gonna call and
+
+[59:25]
+with a club and I'm just gonna call and
+
+[59:25]
 with a club and I'm just gonna call and
 call River
+
+[59:27]
+call River
+
+[59:27]
+call River
+you'd actually also lead the river I I
+
+[59:30]
+you'd actually also lead the river I I
+
+[59:30]
 you'd actually also lead the river I I
 don't mind it with Queens specifically
+
+[59:31]
+don't mind it with Queens specifically
+
+[59:31]
+don't mind it with Queens specifically
+blocking a lot of the Bluffs I feel like
+
+[59:34]
+blocking a lot of the Bluffs I feel like
+
+[59:34]
 blocking a lot of the Bluffs I feel like
 he could have 10x that he's going to pot
+
+[59:36]
+he could have 10x that he's going to pot
+
+[59:36]
+he could have 10x that he's going to pot
+control the river with so I'm actually
+
+[59:37]
+control the river with so I'm actually
+
+[59:37]
 control the river with so I'm actually
 or nines I'm actually gonna take quite a
+
+[59:39]
+or nines I'm actually gonna take quite a
+
+[59:39]
+or nines I'm actually gonna take quite a
+funky line here which I think is quite
+
+[59:41]
+funky line here which I think is quite
+
+[59:41]
 funky line here which I think is quite
 decent actually versus a recreational
+
+[59:50]
+which you can use now your Queens as
+
+[59:53]
+which you can use now your Queens as
+
+[59:53]
 which you can use now your Queens as
 a bluff catcher but it's a bit too
+
+[59:55]
+a bluff catcher but it's a bit too
+
+[59:55]
+a bluff catcher but it's a bit too
 strong to use as a bluff catcher
+
+[59:59]
+I feel like we should just prevent
+
+[1:00:01]
+I feel like we should just prevent
+
+[1:00:01]
 I feel like we should just prevent
 villain from pop controlling I feel like
+
+[1:00:02]
+villain from pop controlling I feel like
+
+[1:00:02]
+villain from pop controlling I feel like
 that there there's more value in that
+
+[1:00:07]
+mechanics of Poker coaching program just
+
+[1:00:09]
+mechanics of Poker coaching program just
+
+[1:00:09]
 mechanics of Poker coaching program just
 to close it off with that we are now
+
+[1:00:12]
+to close it off with that we are now
+
+[1:00:12]
+to close it off with that we are now
+open for applications
+
+[1:00:15]
+open for applications
+
+[1:00:15]
 open for applications
 so make sure to go to
+
+[1:00:17]
+so make sure to go to
+
+[1:00:17]
+so make sure to go to
+mechanicsofpoker.com if you're
+
+[1:00:18]
+mechanicsofpoker.com if you're
+
+[1:00:18]
 mechanicsofpoker.com if you're
 interested in working with me and Adam
+
+[1:00:20]
+interested in working with me and Adam
+
+[1:00:20]
+interested in working with me and Adam
+have us help you improve your poker
+
+[1:00:23]
+have us help you improve your poker
+
+[1:00:23]
 have us help you improve your poker
 career
+
+[1:00:24]
+career
+
+[1:00:24]
+career
+mechanicsburg.com to apply maybe you get
+
+[1:00:27]
+mechanicsburg.com to apply maybe you get
+
+[1:00:27]
 mechanicsburg.com to apply maybe you get
 selected to work with me and Adam hope
+
+[1:00:30]
+selected to work with me and Adam hope
+
+[1:00:30]
+selected to work with me and Adam hope
+you guys found this video entertaining
+
+[1:00:32]
+you guys found this video entertaining
+
+[1:00:32]
 you guys found this video entertaining
 if you are educational I might say maybe
+
+[1:00:36]
+if you are educational I might say maybe
+
+[1:00:36]
+if you are educational I might say maybe
 a little bit of both
+
+[1:00:37]
+a little bit of both
+
+[1:00:37]
+a little bit of both
+like this video subscribe to the channel
+
+[1:00:39]
+like this video subscribe to the channel
+
+[1:00:39]
 like this video subscribe to the channel
 and I'll see you guys in the next one
