@@ -1,1706 +1,359 @@
-Kind: captions
-Language: en
-
 [00:00]
 why is it that despite the rise of
-
-[00:02]
-why is it that despite the rise of
-
-[00:02]
-why is it that despite the rise of
-powerful tools like solvers and GTO
-
-[00:04]
-powerful tools like solvers and GTO
-
-[00:04]
 powerful tools like solvers and GTO
 wizard AI we have seen the average Rim
-
-[00:07]
-wizard AI we have seen the average Rim
-
-[00:07]
-wizard AI we have seen the average Rim
-rate of professional slowly declin over
-
-[00:09]
-rate of professional slowly declin over
-
-[00:09]
 rate of professional slowly declin over
 the last few years I will explain the
-
-[00:11]
-the last few years I will explain the
-
-[00:11]
-the last few years I will explain the
-answer to this question by showing you
-
-[00:13]
-answer to this question by showing you
-
-[00:13]
 answer to this question by showing you
 guys the five bad habits players start
 
 [00:15]
 guys the five bad habits players start
-
-[00:15]
-guys the five bad habits players start
-to develop when studying solvers and GTO
-
-[00:18]
-to develop when studying solvers and GTO
-
-[00:18]
 to develop when studying solvers and GTO
 strategies so you can stop the decline
-
-[00:20]
-strategies so you can stop the decline
-
-[00:20]
-strategies so you can stop the decline
 rise upwards and make more money let's
-
-[00:23]
-rise upwards and make more money let's
-
-[00:23]
-rise upwards and make more money let's
-go bad habit number one being stuck in
-
-[00:27]
-go bad habit number one being stuck in
-
-[00:27]
 go bad habit number one being stuck in
 defense playing not to lose instead of
 
 [00:30]
 defense playing not to lose instead of
-
-[00:30]
-defense playing not to lose instead of
-playing to win when we open the solver
-
-[00:32]
-playing to win when we open the solver
-
-[00:32]
 playing to win when we open the solver
 we see a GTO strategy GTO strategies
-
-[00:35]
-we see a GTO strategy GTO strategies
-
-[00:36]
-we see a GTO strategy GTO strategies
-provide a framework for unexploitable
-
-[00:37]
-provide a framework for unexploitable
-
-[00:37]
 provide a framework for unexploitable
 play by balancing optimally which makes
-
-[00:40]
-play by balancing optimally which makes
-
-[00:40]
-play by balancing optimally which makes
 it unbeatable regardless of your
-
-[00:42]
-it unbeatable regardless of your
-
-[00:42]
-it unbeatable regardless of your
-opponent's strategy its goal is not to
-
-[00:44]
-opponent's strategy its goal is not to
-
-[00:44]
 opponent's strategy its goal is not to
 win the most amount of money possible
 
 [00:46]
 win the most amount of money possible
-
-[00:46]
-win the most amount of money possible
-but instead play a defensive strategy
-
-[00:48]
-but instead play a defensive strategy
-
-[00:48]
 but instead play a defensive strategy
 designed not to lose not losing is a
-
-[00:51]
-designed not to lose not losing is a
-
-[00:51]
-designed not to lose not losing is a
-great place to start if you are a losing
-
-[00:53]
-great place to start if you are a losing
-
-[00:53]
 great place to start if you are a losing
 player however it is likely that your
-
-[00:56]
-player however it is likely that your
-
-[00:56]
-player however it is likely that your
-goal is to make the most amount of money
-
-[00:58]
-goal is to make the most amount of money
-
-[00:58]
 goal is to make the most amount of money
 possible which happens to not be the
 
 [01:00]
 possible which happens to not be the
-
-[01:00]
-possible which happens to not be the
-objective of the model you've been
-
-[01:02]
-objective of the model you've been
-
-[01:02]
 objective of the model you've been
 studying while there are benefits in
-
-[01:04]
-studying while there are benefits in
-
-[01:04]
-studying while there are benefits in
-taking a more defensive approach when
-
-[01:05]
-taking a more defensive approach when
-
-[01:06]
 taking a more defensive approach when
 playing versus tougher opponents or in
-
-[01:08]
-playing versus tougher opponents or in
-
-[01:08]
-playing versus tougher opponents or in
-difficult notes in order to boost your
-
-[01:10]
-difficult notes in order to boost your
-
-[01:10]
 difficult notes in order to boost your
 winnings you must evolve towards a more
-
-[01:12]
-winnings you must evolve towards a more
-
-[01:12]
-winnings you must evolve towards a more
-offensive strategy to take advantage of
-
-[01:14]
-offensive strategy to take advantage of
-
-[01:14]
 offensive strategy to take advantage of
 the numerous opportunities that are
 
 [01:16]
 the numerous opportunities that are
-
-[01:16]
-the numerous opportunities that are
-available to you at the tables bad habit
-
-[01:19]
-available to you at the tables bad habit
-
-[01:19]
 available to you at the tables bad habit
 number two trying to copy GTO strategies
-
-[01:22]
-number two trying to copy GTO strategies
-
-[01:23]
-number two trying to copy GTO strategies
 instead of learning poker Theory as we
-
-[01:25]
-instead of learning poker Theory as we
-
-[01:25]
-instead of learning poker Theory as we
-concluded gto's goal is not to lose
-
-[01:28]
-concluded gto's goal is not to lose
-
-[01:28]
 concluded gto's goal is not to lose
 while we are more interested Ed in
 
 [01:30]
 while we are more interested Ed in
-
-[01:30]
-while we are more interested Ed in
-making the most amount of money possible
-
-[01:32]
-making the most amount of money possible
-
-[01:32]
 making the most amount of money possible
 now this does not mean we should all go
-
-[01:34]
-now this does not mean we should all go
-
-[01:34]
-now this does not mean we should all go
-and cancel our GTO wizard subscriptions
-
-[01:36]
-and cancel our GTO wizard subscriptions
-
-[01:36]
 and cancel our GTO wizard subscriptions
 but rather that we need to shift our
-
-[01:38]
-but rather that we need to shift our
-
-[01:38]
-but rather that we need to shift our
-focus and adjust what we aim to learn
-
-[01:40]
-focus and adjust what we aim to learn
-
-[01:40]
 focus and adjust what we aim to learn
 from these solvers as when we stop
-
-[01:42]
-from these solvers as when we stop
-
-[01:42]
-from these solvers as when we stop
-trying to memorize and mimic the solver
-
-[01:44]
-trying to memorize and mimic the solver
-
-[01:44]
 trying to memorize and mimic the solver
 and look beyond the frequencies and
 
 [01:46]
 and look beyond the frequencies and
-
-[01:46]
-and look beyond the frequencies and
-range constructions of the GTO model We
-
-[01:49]
-range constructions of the GTO model We
-
-[01:49]
 range constructions of the GTO model We
 Begin noticing returning Trends and
-
-[01:52]
-Begin noticing returning Trends and
-
-[01:52]
-Begin noticing returning Trends and
-patterns of play for example in which
-
-[01:54]
-patterns of play for example in which
-
-[01:54]
 patterns of play for example in which
 circumstances we usually increase or
-
-[01:56]
-circumstances we usually increase or
-
-[01:56]
-circumstances we usually increase or
-decrease our bet sizing or bet frequency
-
-[01:59]
-decrease our bet sizing or bet frequency
-
-[01:59]
 decrease our bet sizing or bet frequency
 what C hand classes achieve in commonly
 
 [02:02]
 what C hand classes achieve in commonly
-
-[02:02]
-what C hand classes achieve in commonly
-used lines and how they generate their
-
-[02:04]
-used lines and how they generate their
-
-[02:04]
 used lines and how they generate their
 EV understanding these drivers will help
-
-[02:06]
-EV understanding these drivers will help
-
-[02:06]
-EV understanding these drivers will help
-eliminate fundamental flaws in your
-
-[02:08]
-eliminate fundamental flaws in your
-
-[02:08]
 eliminate fundamental flaws in your
 approach to the game help you make
-
-[02:10]
-approach to the game help you make
-
-[02:10]
-approach to the game help you make
 better decisions even if you are a more
-
-[02:12]
-better decisions even if you are a more
-
-[02:12]
-better decisions even if you are a more
-exploitative player because Theory
-
-[02:14]
-exploitative player because Theory
-
-[02:14]
 exploitative player because Theory
 unlike GTO strategies offer more
 
 [02:17]
 unlike GTO strategies offer more
-
-[02:17]
-unlike GTO strategies offer more
-flexibility which allows you to adapt
-
-[02:19]
-flexibility which allows you to adapt
-
-[02:19]
 flexibility which allows you to adapt
 and maneuver and apply it in various
-
-[02:21]
-and maneuver and apply it in various
-
-[02:21]
-and maneuver and apply it in various
-ways and
-
-[02:22]
-ways and
-
-[02:22]
 ways and
 situations bad habit number three
-
-[02:25]
-situations bad habit number three
-
-[02:25]
-situations bad habit number three
-thinking in have to instead of can I in
-
-[02:29]
-thinking in have to instead of can I in
-
-[02:29]
 thinking in have to instead of can I in
 solver l players have full information
 
 [02:32]
 solver l players have full information
-
-[02:32]
-solver l players have full information
-about the other strategy this means that
-
-[02:34]
-about the other strategy this means that
-
-[02:34]
 about the other strategy this means that
 it has to construct its ranges in a way
-
-[02:37]
-it has to construct its ranges in a way
-
-[02:37]
-it has to construct its ranges in a way
-that makes its opponent indifferent
-
-[02:39]
-that makes its opponent indifferent
-
-[02:39]
 that makes its opponent indifferent
 meaning that for many hands in your
-
-[02:41]
-meaning that for many hands in your
-
-[02:41]
-meaning that for many hands in your
-range there is no clear higher EV
-
-[02:43]
-range there is no clear higher EV
-
-[02:43]
 range there is no clear higher EV
 decision to be made in other words
 
 [02:45]
 decision to be made in other words
-
-[02:45]
-decision to be made in other words
-you're being put in a tough spot because
-
-[02:47]
-you're being put in a tough spot because
-
-[02:47]
 you're being put in a tough spot because
 no action is clearly better than the
-
-[02:49]
-no action is clearly better than the
-
-[02:49]
-no action is clearly better than the
-other the solver has to do this because
-
-[02:51]
-other the solver has to do this because
-
-[02:51]
 other the solver has to do this because
 his opponent is also playing perfectly
-
-[02:54]
-his opponent is also playing perfectly
-
-[02:54]
-his opponent is also playing perfectly
 therefore any imbalance in its strategy
-
-[02:56]
-therefore any imbalance in its strategy
-
-[02:56]
-therefore any imbalance in its strategy
-would have direct and expensive
-
-[02:58]
-would have direct and expensive
-
-[02:58]
 would have direct and expensive
 consequences however in the the real
 
 [03:00]
 consequences however in the the real
-
-[03:00]
-consequences however in the the real
-world these consequences don't exist as
-
-[03:03]
-world these consequences don't exist as
-
-[03:03]
 world these consequences don't exist as
 most players are too preoccupied with
-
-[03:05]
-most players are too preoccupied with
-
-[03:05]
-most players are too preoccupied with
-their own ranges and frequencies trying
-
-[03:08]
-their own ranges and frequencies trying
-
-[03:08]
 their own ranges and frequencies trying
 to mimic solver strategies they aren't
-
-[03:10]
-to mimic solver strategies they aren't
-
-[03:11]
-to mimic solver strategies they aren't
-focused on your range and even if they
-
-[03:13]
-focused on your range and even if they
-
-[03:13]
 focused on your range and even if they
 are aware of it they won't be able to
 
 [03:16]
 are aware of it they won't be able to
-
-[03:16]
-are aware of it they won't be able to
-execute the same counter strategy a
-
-[03:18]
-execute the same counter strategy a
-
-[03:18]
 execute the same counter strategy a
 solver Wen game so the truth is you
-
-[03:20]
-solver Wen game so the truth is you
-
-[03:20]
-solver Wen game so the truth is you
-don't have to do anything instead we
-
-[03:23]
-don't have to do anything instead we
-
-[03:23]
 don't have to do anything instead we
 must focus on what we can do based on
-
-[03:26]
-must focus on what we can do based on
-
-[03:26]
-must focus on what we can do based on
-the incentives given by our opponents
-
-[03:29]
-the incentives given by our opponents
-
-[03:29]
 the incentives given by our opponents
 and whether the we are considering
 
 [03:30]
 and whether the we are considering
-
-[03:30]
-and whether the we are considering
-making will be plus in this situation
-
-[03:33]
-making will be plus in this situation
-
-[03:33]
 making will be plus in this situation
 let's say we Face a triple barrel on the
-
-[03:35]
-let's say we Face a triple barrel on the
-
-[03:35]
-let's say we Face a triple barrel on the
-river holding a bluff catcher how do we
-
-[03:38]
-river holding a bluff catcher how do we
-
-[03:38]
 river holding a bluff catcher how do we
 decide if we should call here if you
-
-[03:40]
-decide if we should call here if you
-
-[03:40]
-decide if we should call here if you
 think you're going to have to call this
-
-[03:41]
-think you're going to have to call this
-
-[03:42]
-think you're going to have to call this
-hand a certain percentage of the time
-
-[03:44]
-hand a certain percentage of the time
-
-[03:44]
 hand a certain percentage of the time
 you're implying that either your
 
 [03:45]
 you're implying that either your
-
-[03:45]
-you're implying that either your
-opponent is playing a perfectly balanced
-
-[03:47]
-opponent is playing a perfectly balanced
-
-[03:47]
 opponent is playing a perfectly balanced
 strategy or that you are able to execute
-
-[03:50]
-strategy or that you are able to execute
-
-[03:50]
-strategy or that you are able to execute
-a perfect GTO strategy which in both
-
-[03:52]
-a perfect GTO strategy which in both
-
-[03:52]
 a perfect GTO strategy which in both
 cases is very unlikely when deciding if
-
-[03:55]
-cases is very unlikely when deciding if
-
-[03:55]
-cases is very unlikely when deciding if
 we should pull the trigger on a bluff or
-
-[03:58]
-we should pull the trigger on a bluff or
-
-[03:58]
-we should pull the trigger on a bluff or
-in this case make the call on the the
-
-[03:59]
-in this case make the call on the the
-
-[03:59]
 in this case make the call on the the
 river don't focus on whether we have to
 
 [04:02]
 river don't focus on whether we have to
-
-[04:02]
-river don't focus on whether we have to
-call or Bluff our hand a certain
-
-[04:04]
-call or Bluff our hand a certain
-
-[04:04]
 call or Bluff our hand a certain
 percentage of the time for the sake of
-
-[04:06]
-percentage of the time for the sake of
-
-[04:06]
-percentage of the time for the sake of
-trying to be GTO instead focus on if we
-
-[04:09]
-trying to be GTO instead focus on if we
-
-[04:09]
 trying to be GTO instead focus on if we
 can make a plus of bluff or call in that
-
-[04:12]
-can make a plus of bluff or call in that
-
-[04:12]
-can make a plus of bluff or call in that
-specific spot so in case we are
-
-[04:14]
-specific spot so in case we are
-
-[04:14]
 specific spot so in case we are
 considering a bluff is it likely that
 
 [04:16]
 considering a bluff is it likely that
-
-[04:16]
-considering a bluff is it likely that
-your opponent is going to fold enough or
-
-[04:18]
-your opponent is going to fold enough or
-
-[04:18]
 your opponent is going to fold enough or
 in our Bluff catch situation is this
-
-[04:20]
-in our Bluff catch situation is this
-
-[04:20]
-in our Bluff catch situation is this
-spot sensitive to being over or under
-
-[04:22]
-spot sensitive to being over or under
-
-[04:22]
 spot sensitive to being over or under
 bluffed as these are the factors that
-
-[04:24]
-bluffed as these are the factors that
-
-[04:24]
-bluffed as these are the factors that
-will truly have an impact on your win
-
-[04:27]
-will truly have an impact on your win
-
-[04:27]
 will truly have an impact on your win
 rate bad habit number four thinking
 
 [04:30]
 rate bad habit number four thinking
-
-[04:30]
-rate bad habit number four thinking
-about your range and frequencies instead
-
-[04:32]
-about your range and frequencies instead
-
-[04:32]
 about your range and frequencies instead
 of your opponent's range and tendencies
-
-[04:35]
-of your opponent's range and tendencies
-
-[04:35]
-of your opponent's range and tendencies
-shifting from half to to cani is part of
-
-[04:39]
-shifting from half to to cani is part of
-
-[04:39]
 shifting from half to to cani is part of
 evolving from a defensive to offensive
-
-[04:41]
-evolving from a defensive to offensive
-
-[04:41]
-evolving from a defensive to offensive
-thinking framework we must stop thinking
-
-[04:44]
-thinking framework we must stop thinking
-
-[04:44]
 thinking framework we must stop thinking
 in threats and instead look for
 
 [04:46]
 in threats and instead look for
-
-[04:46]
-in threats and instead look for
-opportunities given by our opponents
-
-[04:48]
-opportunities given by our opponents
-
-[04:48]
 opportunities given by our opponents
 that allow us to make higher EV
-
-[04:50]
-that allow us to make higher EV
-
-[04:50]
-that allow us to make higher EV
-decisions instead of focusing solely on
-
-[04:52]
-decisions instead of focusing solely on
-
-[04:52]
 decisions instead of focusing solely on
 your own cards range and tendencies lift
-
-[04:55]
-your own cards range and tendencies lift
-
-[04:55]
-your own cards range and tendencies lift
 your head from the table and start
-
-[04:57]
-your head from the table and start
-
-[04:57]
-your head from the table and start
-looking at those of your opponents
-
-[04:59]
-looking at those of your opponents
-
-[04:59]
 looking at those of your opponents
 you'll start to notice that most of the
 
 [05:02]
 you'll start to notice that most of the
-
-[05:02]
-you'll start to notice that most of the
-time they are not playing a strategy so
-
-[05:04]
-time they are not playing a strategy so
-
-[05:04]
 time they are not playing a strategy so
 GTO that they make your decisions
-
-[05:06]
-GTO that they make your decisions
-
-[05:07]
-GTO that they make your decisions
-indifferent instead they have Tendencies
-
-[05:09]
-indifferent instead they have Tendencies
-
-[05:09]
 indifferent instead they have Tendencies
 and give away information that
-
-[05:10]
-and give away information that
-
-[05:11]
-and give away information that
-incentivizes us to take one action more
-
-[05:13]
-incentivizes us to take one action more
-
-[05:13]
 incentivizes us to take one action more
 often than the other if we go back to
 
 [05:16]
 often than the other if we go back to
-
-[05:16]
-often than the other if we go back to
-the key poker theoretical concepts of
-
-[05:18]
-the key poker theoretical concepts of
-
-[05:18]
 the key poker theoretical concepts of
 solver can teach us it is that acity and
-
-[05:20]
-solver can teach us it is that acity and
-
-[05:20]
-solver can teach us it is that acity and
-frequencies are the main driver of
-
-[05:23]
-frequencies are the main driver of
-
-[05:23]
 frequencies are the main driver of
 strategy every human opponent has
-
-[05:25]
-strategy every human opponent has
-
-[05:25]
-strategy every human opponent has
 difficulty maintaining the exact
-
-[05:27]
-difficulty maintaining the exact
-
-[05:27]
-difficulty maintaining the exact
-frequencies and range construction of a
-
-[05:29]
-frequencies and range construction of a
-
-[05:29]
 frequencies and range construction of a
 solver and since their range
 
 [05:31]
 solver and since their range
-
-[05:31]
-solver and since their range
-construction determines our equity and
-
-[05:34]
-construction determines our equity and
-
-[05:34]
 construction determines our equity and
 Equity is the main driver of strategy
-
-[05:37]
-Equity is the main driver of strategy
-
-[05:37]
-Equity is the main driver of strategy
-our main objective should be to figure
-
-[05:39]
-our main objective should be to figure
-
-[05:39]
 our main objective should be to figure
 out what our opponent has and what he's
-
-[05:42]
-out what our opponent has and what he's
-
-[05:42]
-out what our opponent has and what he's
-up to as this information allows us to
-
-[05:44]
-up to as this information allows us to
-
-[05:44]
 up to as this information allows us to
 make higher EV decisions and deploy more
 
 [05:47]
 make higher EV decisions and deploy more
-
-[05:47]
-make higher EV decisions and deploy more
-effective strategies against them bad
-
-[05:49]
-effective strategies against them bad
-
-[05:49]
 effective strategies against them bad
 habit number five randomizing your way
-
-[05:53]
-habit number five randomizing your way
-
-[05:53]
-habit number five randomizing your way
 through the hand if we look at a GTO
-
-[05:56]
-through the hand if we look at a GTO
-
-[05:56]
-through the hand if we look at a GTO
-flop cat strategy we see the solver
-
-[05:59]
-flop cat strategy we see the solver
-
-[05:59]
 flop cat strategy we see the solver
 mixing a lot of hands this mixing means
 
 [06:02]
 mixing a lot of hands this mixing means
-
-[06:02]
-mixing a lot of hands this mixing means
-that both lines are generating the same
-
-[06:04]
-that both lines are generating the same
-
-[06:04]
 that both lines are generating the same
 EV it can't play its hand at a full
-
-[06:07]
-EV it can't play its hand at a full
-
-[06:07]
-EV it can't play its hand at a full
-frequency as this would either over or
-
-[06:09]
-frequency as this would either over or
-
-[06:09]
 frequency as this would either over or
 undershoot the appropriate frequency for
-
-[06:12]
-undershoot the appropriate frequency for
-
-[06:12]
-undershoot the appropriate frequency for
-the situation he is in it also can
-
-[06:14]
-the situation he is in it also can
-
-[06:14]
 the situation he is in it also can
 simplify by always betting this hand and
 
 [06:16]
 simplify by always betting this hand and
-
-[06:17]
-simplify by always betting this hand and
-never a similar hand in this category as
-
-[06:19]
-never a similar hand in this category as
-
-[06:19]
 never a similar hand in this category as
 villain knows his range and this would
-
-[06:21]
-villain knows his range and this would
-
-[06:21]
-villain knows his range and this would
-make his strategy very predictable and
-
-[06:23]
-make his strategy very predictable and
-
-[06:23]
 make his strategy very predictable and
 exploitable when we try to copy GTO
-
-[06:26]
-exploitable when we try to copy GTO
-
-[06:26]
-exploitable when we try to copy GTO
-strategies and start mixing combos
-
-[06:28]
-strategies and start mixing combos
-
-[06:28]
 strategies and start mixing combos
 simply because the solver does so many
 
 [06:30]
 simply because the solver does so many
-
-[06:30]
-simply because the solver does so many
-things can go wrong with the most
-
-[06:32]
-things can go wrong with the most
-
-[06:32]
 things can go wrong with the most
 significant error being not
-
-[06:35]
-significant error being not
-
-[06:35]
-significant error being not
-understanding how EV is generated in
-
-[06:37]
-understanding how EV is generated in
-
-[06:37]
 understanding how EV is generated in
 both lines taken the actual EV of the
-
-[06:40]
-both lines taken the actual EV of the
-
-[06:40]
-both lines taken the actual EV of the
-hand and therefore its indifference is
-
-[06:42]
-hand and therefore its indifference is
-
-[06:42]
 hand and therefore its indifference is
 determined by how you execute and how
 
 [06:45]
 determined by how you execute and how
-
-[06:45]
-determined by how you execute and how
-your opponent response in both lines
-
-[06:47]
-your opponent response in both lines
-
-[06:47]
 your opponent response in both lines
 being mixed whichever line you
-
-[06:49]
-being mixed whichever line you
-
-[06:49]
-being mixed whichever line you
-understand fully and can execute best or
-
-[06:52]
-understand fully and can execute best or
-
-[06:52]
 understand fully and can execute best or
 in which you induce the most mistakes
-
-[06:54]
-in which you induce the most mistakes
-
-[06:54]
-in which you induce the most mistakes
 from your opponent will be the highest E
-
-[06:57]
-from your opponent will be the highest E
-
-[06:57]
-from your opponent will be the highest E
-Line take this turn spot for example we
-
-[06:59]
-Line take this turn spot for example we
-
-[06:59]
 Line take this turn spot for example we
 can either bet or check our hand in
 
 [07:01]
 can either bet or check our hand in
-
-[07:02]
-can either bet or check our hand in
-theory however after we check we must
-
-[07:04]
-theory however after we check we must
-
-[07:04]
 theory however after we check we must
 now raise our hand versus a riverbat at
-
-[07:06]
-now raise our hand versus a riverbat at
-
-[07:06]
-now raise our hand versus a riverbat at
-a high frequency but if we instead check
-
-[07:09]
-a high frequency but if we instead check
-
-[07:09]
 a high frequency but if we instead check
 turn and fold the river the turn would
-
-[07:11]
-turn and fold the river the turn would
-
-[07:11]
-turn and fold the river the turn would
-no longer be indifferent and batting
-
-[07:14]
-no longer be indifferent and batting
-
-[07:14]
 no longer be indifferent and batting
 would be the highest a strategy what
 
 [07:16]
 would be the highest a strategy what
-
-[07:16]
-would be the highest a strategy what
-often happens is that players start
-
-[07:18]
-often happens is that players start
-
-[07:18]
 often happens is that players start
 randomizing hands without understanding
-
-[07:20]
-randomizing hands without understanding
-
-[07:20]
-randomizing hands without understanding
-its incentives in both lines they then
-
-[07:22]
-its incentives in both lines they then
-
-[07:22]
 its incentives in both lines they then
 end up clueless on where they are at at
-
-[07:24]
-end up clueless on where they are at at
-
-[07:24]
-end up clueless on where they are at at
 the hand and later streets leading to
-
-[07:26]
-the hand and later streets leading to
-
-[07:26]
-the hand and later streets leading to
-more randomizing and mistakes as they
-
-[07:29]
-more randomizing and mistakes as they
-
-[07:29]
 more randomizing and mistakes as they
 fil to plan ahead bonus bad habit the
 
 [07:32]
 fil to plan ahead bonus bad habit the
-
-[07:32]
-fil to plan ahead bonus bad habit the
-blocker fattish when we are stuck in
-
-[07:35]
-blocker fattish when we are stuck in
-
-[07:35]
 blocker fattish when we are stuck in
 defensive poker have to thinking and
-
-[07:37]
-defensive poker have to thinking and
-
-[07:38]
-defensive poker have to thinking and
 failing to plan H ahead to figure out
-
-[07:40]
-failing to plan H ahead to figure out
-
-[07:40]
-failing to plan H ahead to figure out
-how to best generate EV our
-
-[07:42]
-how to best generate EV our
-
-[07:42]
 how to best generate EV our
 decision-making process becomes a mess
 
 [07:45]
 decision-making process becomes a mess
-
-[07:45]
-decision-making process becomes a mess
-we then start looking for any type of
-
-[07:47]
-we then start looking for any type of
-
-[07:47]
 we then start looking for any type of
 handhold to help us make a decision and
-
-[07:49]
-handhold to help us make a decision and
-
-[07:49]
-handhold to help us make a decision and
-the most common handhold is blockers
-
-[07:52]
-the most common handhold is blockers
-
-[07:52]
 the most common handhold is blockers
 since solver strategies are perfect the
-
-[07:54]
-since solver strategies are perfect the
-
-[07:54]
-since solver strategies are perfect the
 only way we can influence our opponent's
-
-[07:56]
-only way we can influence our opponent's
-
-[07:57]
-only way we can influence our opponent's
-frequencies and gain the EV needed to
-
-[07:58]
-frequencies and gain the EV needed to
-
-[07:58]
 frequencies and gain the EV needed to
 make something plus v is through the
 
 [08:00]
 make something plus v is through the
-
-[08:00]
-make something plus v is through the
-impact of card removal AKA blocking or
-
-[08:04]
-impact of card removal AKA blocking or
-
-[08:04]
 impact of card removal AKA blocking or
 unblocking call or folding ranges while
-
-[08:06]
-unblocking call or folding ranges while
-
-[08:06]
-unblocking call or folding ranges while
-it's true that blocking or unblocking
-
-[08:09]
-it's true that blocking or unblocking
-
-[08:09]
 it's true that blocking or unblocking
 increases and decreases the chances of
-
-[08:11]
-increases and decreases the chances of
-
-[08:11]
-increases and decreases the chances of
-something happening in most real world
-
-[08:13]
-something happening in most real world
-
-[08:13]
 something happening in most real world
 situations this alone is not the
 
 [08:15]
 situations this alone is not the
-
-[08:16]
-situations this alone is not the
-difference between a play being plus or
-
-[08:18]
-difference between a play being plus or
-
-[08:18]
 difference between a play being plus or
 minus EV but instead it will only
-
-[08:20]
-minus EV but instead it will only
-
-[08:20]
-minus EV but instead it will only
-enhance or decrease the EV further take
-
-[08:23]
-enhance or decrease the EV further take
-
-[08:23]
 enhance or decrease the EV further take
 the following example we are on the
-
-[08:26]
-the following example we are on the
-
-[08:26]
-the following example we are on the
 river and deciding on whether we should
-
-[08:27]
-river and deciding on whether we should
-
-[08:27]
-river and deciding on whether we should
-Bluff our hand after having B the Flop
-
-[08:29]
-Bluff our hand after having B the Flop
-
-[08:29]
 Bluff our hand after having B the Flop
 and turn goes check check we see that
 
 [08:32]
 and turn goes check check we see that
-
-[08:32]
-and turn goes check check we see that
-the solver clearly has a preference for
-
-[08:34]
-the solver clearly has a preference for
-
-[08:34]
 the solver clearly has a preference for
 Bluffs that are not blocking the folding
-
-[08:36]
-Bluffs that are not blocking the folding
-
-[08:36]
-Bluffs that are not blocking the folding
-range while it is definitely true that
-
-[08:39]
-range while it is definitely true that
-
-[08:39]
 range while it is definitely true that
 this will decrease the percentage of our
-
-[08:41]
-this will decrease the percentage of our
-
-[08:41]
-this will decrease the percentage of our
-Bluff working it's not that relevant as
-
-[08:44]
-Bluff working it's not that relevant as
-
-[08:44]
 Bluff working it's not that relevant as
 the impact that this will have on our
 
 [08:45]
 the impact that this will have on our
-
-[08:45]
-the impact that this will have on our
-Bluff beam plus evv is simply too small
-
-[08:49]
-Bluff beam plus evv is simply too small
-
-[08:49]
 Bluff beam plus evv is simply too small
 so to have this very high up in our
-
-[08:51]
-so to have this very high up in our
-
-[08:51]
-so to have this very high up in our
-decision-making process seems pretty
-
-[08:53]
-decision-making process seems pretty
-
-[08:53]
 decision-making process seems pretty
 useless in reality there are plenty of
-
-[08:55]
-useless in reality there are plenty of
-
-[08:55]
-useless in reality there are plenty of
-other variables that will have a greater
-
-[08:57]
-other variables that will have a greater
-
-[08:57]
 other variables that will have a greater
 impact on the EV of our play play Then
 
 [09:00]
 impact on the EV of our play play Then
-
-[09:00]
-impact on the EV of our play play Then
-blocking or unblocking but since we just
-
-[09:02]
-blocking or unblocking but since we just
-
-[09:02]
 blocking or unblocking but since we just
 spend a 100 hours in the solver this is
-
-[09:05]
-spend a 100 hours in the solver this is
-
-[09:05]
-spend a 100 hours in the solver this is
-where our mind goes towards when having
-
-[09:07]
-where our mind goes towards when having
-
-[09:07]
 where our mind goes towards when having
 to make a decision this steady decline
-
-[09:09]
-to make a decision this steady decline
-
-[09:09]
-to make a decision this steady decline
 in win rate of professionals over the
-
-[09:12]
-in win rate of professionals over the
-
-[09:12]
-in win rate of professionals over the
-last few years has got me wondering are
-
-[09:14]
-last few years has got me wondering are
-
-[09:14]
 last few years has got me wondering are
 the pros winning less because the feud
 
 [09:17]
 the pros winning less because the feud
-
-[09:17]
-the pros winning less because the feud
-is becoming more GTO or are they winning
-
-[09:19]
-is becoming more GTO or are they winning
-
-[09:19]
 is becoming more GTO or are they winning
 less because they're trying to play GTO
-
-[09:22]
-less because they're trying to play GTO
-
-[09:22]
-less because they're trying to play GTO
-let me know your opinion in the comments
-
-[09:24]
-let me know your opinion in the comments
-
-[09:24]
 let me know your opinion in the comments
 down below if you liked this video hit
-
-[09:26]
-down below if you liked this video hit
-
-[09:26]
-down below if you liked this video hit
-that like button and subscribe to the
-
-[09:28]
-that like button and subscribe to the
-
-[09:28]
 that like button and subscribe to the
 channel if you learn something chances
 
 [09:31]
 channel if you learn something chances
-
-[09:31]
-channel if you learn something chances
 are you're going to learn something in
-
-[09:32]
-are you're going to learn something in
-
-[09:32]
-are you're going to learn something in
-this video here as well so go check that
-
-[09:35]
-this video here as well so go check that
-
-[09:35]
 this video here as well so go check that
 out see you guys there

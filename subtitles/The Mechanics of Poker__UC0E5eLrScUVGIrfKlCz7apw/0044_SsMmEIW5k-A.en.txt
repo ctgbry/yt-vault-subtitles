@@ -1,5360 +1,1057 @@
-Kind: captions
-Language: en
-
 [00:00]
 same with for example we talked about
-
-[00:01]
-same with for example we talked about
-
-[00:01]
-same with for example we talked about
-the jack five diamonds
-
-[00:03]
-the jack five diamonds
-
-[00:03]
 the jack five diamonds
 it's very unfrequent but it raises a
-
-[00:05]
-it's very unfrequent but it raises a
-
-[00:05]
-it's very unfrequent but it raises a
-very small percentage of the time
-
-[00:07]
-very small percentage of the time
-
-[00:07]
 very small percentage of the time
 or like a hand like jack four for
-
-[00:09]
-or like a hand like jack four for
-
-[00:09]
-or like a hand like jack four for
-example uh this is another example where
-
-[00:11]
-example uh this is another example where
-
-[00:11]
 example uh this is another example where
 if you're just overly passive you're not
-
-[00:13]
-if you're just overly passive you're not
-
-[00:13]
-if you're just overly passive you're not
-burying the turn and you're always
-
-[00:14]
-burying the turn and you're always
-
-[00:14]
 burying the turn and you're always
 folding the river with certain hands
 
 [00:16]
 folding the river with certain hands
-
-[00:16]
-folding the river with certain hands
-that not want to be bluffing
-
-[00:17]
-that not want to be bluffing
-
-[00:17]
 that not want to be bluffing
 you're again playing a poor strategy
-
-[00:23]
-[Music]
-
-[00:29]
-[Music]
-
-[00:29]
 [Music]
 do you want to know what is inside the
 
 [00:31]
 do you want to know what is inside the
-
-[00:31]
-do you want to know what is inside the
-mechanics of poker program go over to
-
-[00:33]
-mechanics of poker program go over to
-
-[00:33]
 mechanics of poker program go over to
 the site where you can watch a free
-
-[00:35]
-the site where you can watch a free
-
-[00:35]
-the site where you can watch a free
-one hour demo hi there
-
-[00:38]
-one hour demo hi there
-
-[00:38]
 one hour demo hi there
 boys and girls and welcome back to
-
-[00:40]
-boys and girls and welcome back to
-
-[00:40]
-boys and girls and welcome back to
-another video here at the poker ambition
-
-[00:43]
-another video here at the poker ambition
-
-[00:43]
 another video here at the poker ambition
 channel and where today i'm going to
 
 [00:45]
 channel and where today i'm going to
-
-[00:45]
-channel and where today i'm going to
-educate you guys a little bit
-
-[00:47]
-educate you guys a little bit
-
-[00:47]
 educate you guys a little bit
 on the lifelong debate on blue line
-
-[00:50]
-on the lifelong debate on blue line
-
-[00:50]
-on the lifelong debate on blue line
-versus red line winnings okay how does
-
-[00:52]
-versus red line winnings okay how does
-
-[00:52]
 versus red line winnings okay how does
 it actually work do we actually need a
-
-[00:54]
-it actually work do we actually need a
-
-[00:54]
-it actually work do we actually need a
 winning red line
-
-[00:55]
-winning red line
-
-[00:56]
-winning red line
-in order to have bigger successes in
-
-[00:59]
-in order to have bigger successes in
-
-[00:59]
 in order to have bigger successes in
 poker
 
 [01:00]
 poker
-
-[01:00]
-poker
-now before you guys forget make sure to
-
-[01:02]
-now before you guys forget make sure to
-
-[01:02]
 now before you guys forget make sure to
 give this video a thumbs up
-
-[01:04]
-give this video a thumbs up
-
-[01:04]
-give this video a thumbs up
-uh leave some comments down below any
-
-[01:06]
-uh leave some comments down below any
-
-[01:06]
 uh leave some comments down below any
 questions see
-
-[01:07]
-questions see
-
-[01:07]
-questions see
-what you are struggling with is it the
-
-[01:09]
-what you are struggling with is it the
-
-[01:09]
 what you are struggling with is it the
 red line or is it the blue line
-
-[01:10]
-red line or is it the blue line
-
-[01:10]
-red line or is it the blue line
-without further ado let's get into a
-
-[01:13]
-without further ado let's get into a
-
-[01:13]
 without further ado let's get into a
 couple of points that i want to start
 
 [01:15]
 couple of points that i want to start
-
-[01:15]
-couple of points that i want to start
-off with
-
-[01:15]
-off with
-
-[01:15]
 off with
 and afterwards we'll go into solver to
-
-[01:17]
-and afterwards we'll go into solver to
-
-[01:17]
-and afterwards we'll go into solver to
-see how this kind of
-
-[01:18]
-see how this kind of
-
-[01:18]
 see how this kind of
 plays out the first point i wanted to
-
-[01:21]
-plays out the first point i wanted to
-
-[01:21]
-plays out the first point i wanted to
-start off with
-
-[01:22]
-start off with
-
-[01:22]
 start off with
 in giving you guys some more general
-
-[01:24]
-in giving you guys some more general
-
-[01:24]
-in giving you guys some more general
 understanding of how blue light versus
-
-[01:26]
-understanding of how blue light versus
-
-[01:26]
-understanding of how blue light versus
-redline winnings actually win
-
-[01:27]
-redline winnings actually win
-
-[01:27]
 redline winnings actually win
 is that some hands at certain spots
 
 [01:30]
 is that some hands at certain spots
-
-[01:30]
-is that some hands at certain spots
-or playing versus specific opponent
-
-[01:33]
-or playing versus specific opponent
-
-[01:33]
 or playing versus specific opponent
 tendencies
-
-[01:34]
-tendencies
-
-[01:34]
-tendencies
-gain their ev by betting and raising
-
-[01:36]
-gain their ev by betting and raising
-
-[01:36]
 gain their ev by betting and raising
 okay which is usually means
-
-[01:39]
-okay which is usually means
-
-[01:39]
-okay which is usually means
 winnings in red line because when we do
-
-[01:41]
-winnings in red line because when we do
-
-[01:41]
-winnings in red line because when we do
-betting or raising or we put our
-
-[01:43]
-betting or raising or we put our
-
-[01:43]
 betting or raising or we put our
 opponent in a situation where he's more
 
 [01:45]
 opponent in a situation where he's more
-
-[01:45]
-opponent in a situation where he's more
-likely to fold okay our one was a flop
-
-[01:47]
-likely to fold okay our one was a flop
-
-[01:47]
 likely to fold okay our one was a flop
 goes up or when to shut and goes down
-
-[01:49]
-goes up or when to shut and goes down
-
-[01:49]
-goes up or when to shut and goes down
-which usually leads to redline winnings
-
-[01:51]
-which usually leads to redline winnings
-
-[01:51]
 which usually leads to redline winnings
 and in some spots by checking and
-
-[01:53]
-and in some spots by checking and
-
-[01:53]
-and in some spots by checking and
-calling
-
-[01:53]
-calling
-
-[01:54]
 calling
 so if we take the more passive line or
-
-[01:55]
-so if we take the more passive line or
-
-[01:55]
-so if we take the more passive line or
 what was the flop will go down
-
-[01:57]
-what was the flop will go down
-
-[01:57]
-what was the flop will go down
-or when the shoulder will go up
-
-[01:58]
-or when the shoulder will go up
-
-[01:58]
 or when the shoulder will go up
 depending on if we afterwards call or
 
 [02:00]
 depending on if we afterwards call or
-
-[02:00]
-depending on if we afterwards call or
-fault which is a point that i will get
-
-[02:02]
-fault which is a point that i will get
-
-[02:02]
 fault which is a point that i will get
 to later
-
-[02:02]
-to later
-
-[02:02]
-to later
-and that will usually lead to blue line
-
-[02:05]
-and that will usually lead to blue line
-
-[02:05]
 and that will usually lead to blue line
 winnings
-
-[02:06]
-winnings
-
-[02:06]
-winnings
-and if we obviously do more betting and
-
-[02:09]
-and if we obviously do more betting and
-
-[02:09]
 and if we obviously do more betting and
 raising we will gain more redline if we
-
-[02:10]
-raising we will gain more redline if we
-
-[02:10]
-raising we will gain more redline if we
-do less betting and raising we will gain
-
-[02:12]
-do less betting and raising we will gain
-
-[02:12]
 do less betting and raising we will gain
 uh gain more blue line but it's not that
 
 [02:16]
 uh gain more blue line but it's not that
-
-[02:16]
-uh gain more blue line but it's not that
-one is necessarily better than the other
-
-[02:18]
-one is necessarily better than the other
-
-[02:18]
 one is necessarily better than the other
 it all depends on certain hands
-
-[02:20]
-it all depends on certain hands
-
-[02:20]
-it all depends on certain hands
-or the spot you're in or the opponent
-
-[02:22]
-or the spot you're in or the opponent
-
-[02:22]
 or the spot you're in or the opponent
 you're playing against okay
-
-[02:25]
-you're playing against okay
-
-[02:25]
-you're playing against okay
 the second spot is if we take the
-
-[02:27]
-the second spot is if we take the
-
-[02:27]
-the second spot is if we take the
-aggressive or passive action more often
-
-[02:29]
-aggressive or passive action more often
-
-[02:29]
 aggressive or passive action more often
 or do it for the sake of being
 
 [02:31]
 or do it for the sake of being
-
-[02:31]
-or do it for the sake of being
-aggressive or passive
-
-[02:33]
-aggressive or passive
-
-[02:33]
 aggressive or passive
 and i think doing it for the sake of
-
-[02:35]
-and i think doing it for the sake of
-
-[02:35]
-and i think doing it for the sake of
-being aggressive is more common than the
-
-[02:36]
-being aggressive is more common than the
-
-[02:36]
 being aggressive is more common than the
 sake of being passive
-
-[02:38]
-sake of being passive
-
-[02:38]
-sake of being passive
-if you're just doing it for the sake of
-
-[02:39]
-if you're just doing it for the sake of
-
-[02:39]
 if you're just doing it for the sake of
 being passive it's probably your natural
-
-[02:41]
-being passive it's probably your natural
-
-[02:41]
-being passive it's probably your natural
 tendency your natural bias leaning
-
-[02:43]
-tendency your natural bias leaning
-
-[02:43]
-tendency your natural bias leaning
-towards specificity
-
-[02:44]
-towards specificity
-
-[02:44]
 towards specificity
 we will win more redline or blue line
 
 [02:47]
 we will win more redline or blue line
-
-[02:47]
-we will win more redline or blue line
-okay
-
-[02:47]
-okay
-
-[02:48]
 okay
 kind of goes hand in hand with the point
-
-[02:49]
-kind of goes hand in hand with the point
-
-[02:49]
-kind of goes hand in hand with the point
-above
-
-[02:51]
-above
-
-[02:51]
 above
 if we try to win too much pots okay so
-
-[02:54]
-if we try to win too much pots okay so
-
-[02:54]
-if we try to win too much pots okay so
 we're doing too much betting and raising
-
-[02:56]
-we're doing too much betting and raising
-
-[02:56]
-we're doing too much betting and raising
-this will usually come then cost off our
-
-[02:59]
-this will usually come then cost off our
-
-[02:59]
 this will usually come then cost off our
 blue line okay because we are
 
 [03:00]
 blue line okay because we are
-
-[03:00]
-blue line okay because we are
-then moving hands that should win money
-
-[03:03]
-then moving hands that should win money
-
-[03:03]
 then moving hands that should win money
 in blue line we're now moving them to
-
-[03:05]
-in blue line we're now moving them to
-
-[03:05]
-in blue line we're now moving them to
-redline and if pushed too far also or
-
-[03:08]
-redline and if pushed too far also or
-
-[03:08]
 redline and if pushed too far also or
 redline in general if you're trying to
-
-[03:09]
-redline in general if you're trying to
-
-[03:09]
-redline in general if you're trying to
 win for too much spots
-
-[03:11]
-win for too much spots
-
-[03:11]
-win for too much spots
-you're starting to invest in a lot of
-
-[03:14]
-you're starting to invest in a lot of
-
-[03:14]
 you're starting to invest in a lot of
 pots that you're gonna end up losing for
 
 [03:16]
 pots that you're gonna end up losing for
-
-[03:16]
-pots that you're gonna end up losing for
-example you're maybe a bit too sticky on
-
-[03:17]
-example you're maybe a bit too sticky on
-
-[03:17]
 example you're maybe a bit too sticky on
 flop and turn
-
-[03:18]
-flop and turn
-
-[03:18]
-flop and turn
-or try to pull out bluffs and then at
-
-[03:21]
-or try to pull out bluffs and then at
-
-[03:21]
 or try to pull out bluffs and then at
 some point winning is just never folding
-
-[03:23]
-some point winning is just never folding
-
-[03:23]
-some point winning is just never folding
-anymore and we've invested a lot of
-
-[03:25]
-anymore and we've invested a lot of
-
-[03:25]
 anymore and we've invested a lot of
 money in the pot that we're often going
-
-[03:26]
-money in the pot that we're often going
-
-[03:26]
-money in the pot that we're often going
-to lose for example if someone just
-
-[03:28]
-to lose for example if someone just
-
-[03:28]
 to lose for example if someone just
 significantly overfolds the flop but we
 
 [03:30]
 significantly overfolds the flop but we
-
-[03:30]
-significantly overfolds the flop but we
-do follow it up with aggression
-
-[03:31]
-do follow it up with aggression
-
-[03:32]
 do follow it up with aggression
 later on a bit too often it will usually
-
-[03:35]
-later on a bit too often it will usually
-
-[03:35]
-later on a bit too often it will usually
-lead to losses okay if we fight two pots
-
-[03:39]
-lead to losses okay if we fight two pots
-
-[03:39]
 lead to losses okay if we fight two pots
 too little
-
-[03:40]
-too little
-
-[03:40]
-too little
 okay our redline losses will have to be
-
-[03:41]
-okay our redline losses will have to be
-
-[03:41]
-okay our redline losses will have to be
-compensated by our blue line winnings
-
-[03:43]
-compensated by our blue line winnings
-
-[03:43]
 compensated by our blue line winnings
 now i'm not necessarily saying that this
 
 [03:45]
 now i'm not necessarily saying that this
-
-[03:45]
-now i'm not necessarily saying that this
-is very bad okay obviously in some spots
-
-[03:49]
-is very bad okay obviously in some spots
-
-[03:49]
 is very bad okay obviously in some spots
 we need
-
-[03:49]
-we need
-
-[03:49]
-we need
-to try to win the pot uh usually leading
-
-[03:52]
-to try to win the pot uh usually leading
-
-[03:52]
 to try to win the pot uh usually leading
 to redline winnings
-
-[03:53]
-to redline winnings
-
-[03:53]
-to redline winnings
-but if you are a bit more on the passive
-
-[03:56]
-but if you are a bit more on the passive
-
-[03:56]
 but if you are a bit more on the passive
 side
-
-[03:57]
-side
-
-[03:57]
-side
-but let's say for example every time you
-
-[03:58]
-but let's say for example every time you
-
-[03:58]
 but let's say for example every time you
 play there's a very big will
 
 [04:00]
 play there's a very big will
-
-[04:00]
-play there's a very big will
-on the table who's going to give you
-
-[04:02]
-on the table who's going to give you
-
-[04:02]
 on the table who's going to give you
 their money at some point
-
-[04:03]
-their money at some point
-
-[04:03]
-their money at some point
-that means that you have very high blue
-
-[04:05]
-that means that you have very high blue
-
-[04:05]
 that means that you have very high blue
 line winnings which means that you can
-
-[04:07]
-line winnings which means that you can
-
-[04:07]
-line winnings which means that you can
-get away with losing more on redline
-
-[04:09]
-get away with losing more on redline
-
-[04:09]
 get away with losing more on redline
 because your blue line winnings will
-
-[04:10]
-because your blue line winnings will
-
-[04:10]
-because your blue line winnings will
 compensate that because of a certain
-
-[04:12]
-compensate that because of a certain
-
-[04:12]
-compensate that because of a certain
-will on the table
-
-[04:13]
-will on the table
-
-[04:14]
 will on the table
 for example this is a good example of
 
 [04:15]
 for example this is a good example of
-
-[04:15]
-for example this is a good example of
-for example opponent tendencies
-
-[04:17]
-for example opponent tendencies
-
-[04:17]
 for example opponent tendencies
 if we have a very big will who never
-
-[04:19]
-if we have a very big will who never
-
-[04:19]
-if we have a very big will who never
-falls it's very hard
-
-[04:21]
-falls it's very hard
-
-[04:21]
 falls it's very hard
 to and probably not advisable to try to
-
-[04:23]
-to and probably not advisable to try to
-
-[04:23]
-to and probably not advisable to try to
 win redline versus them
-
-[04:25]
-win redline versus them
-
-[04:26]
-win redline versus them
-the last point if we are not aggressive
-
-[04:28]
-the last point if we are not aggressive
-
-[04:28]
 the last point if we are not aggressive
 with hands that should bet and raise
 
 [04:31]
 with hands that should bet and raise
-
-[04:31]
-with hands that should bet and raise
-okay so we are moving redline hands that
-
-[04:34]
-okay so we are moving redline hands that
-
-[04:34]
 okay so we are moving redline hands that
 should be betting and raising into a
-
-[04:35]
-should be betting and raising into a
-
-[04:36]
-should be betting and raising into a
-more passive line
-
-[04:37]
-more passive line
-
-[04:37]
 more passive line
 and don't get too showdown because we
-
-[04:39]
-and don't get too showdown because we
-
-[04:39]
-and don't get too showdown because we
 fold these hands
-
-[04:40]
-fold these hands
-
-[04:40]
-fold these hands
-okay that should call we will be losing
-
-[04:44]
-okay that should call we will be losing
-
-[04:44]
 okay that should call we will be losing
 green line in the end guys it is about
 
 [04:47]
 green line in the end guys it is about
-
-[04:47]
-green line in the end guys it is about
-the green line
-
-[04:48]
-the green line
-
-[04:48]
 the green line
 so if we move a hand that should win its
-
-[04:50]
-so if we move a hand that should win its
-
-[04:50]
-so if we move a hand that should win its
-head
-
-[04:51]
-head
-
-[04:51]
 head
 its money by redlining so by being
-
-[04:53]
-its money by redlining so by being
-
-[04:53]
-its money by redlining so by being
-betting and raising
-
-[04:54]
-betting and raising
-
-[04:54]
 betting and raising
 if we move that to a more passive line
-
-[04:57]
-if we move that to a more passive line
-
-[04:57]
-if we move that to a more passive line
 where in order we should maybe call the
-
-[04:58]
-where in order we should maybe call the
-
-[04:58]
-where in order we should maybe call the
-river
-
-[04:59]
-river
-
-[04:59]
 river
 but we ended up folding we ended up not
 
 [05:01]
 but we ended up folding we ended up not
-
-[05:01]
-but we ended up folding we ended up not
-winning red line by being aggressive and
-
-[05:02]
-winning red line by being aggressive and
-
-[05:02]
 winning red line by being aggressive and
 we also didn't win blue light by getting
-
-[05:04]
-we also didn't win blue light by getting
-
-[05:04]
-we also didn't win blue light by getting
-to showdown
-
-[05:05]
-to showdown
-
-[05:05]
 to showdown
 okay usually if both lions go down your
-
-[05:08]
-okay usually if both lions go down your
-
-[05:08]
-okay usually if both lions go down your
-green line which is in the end is going
-
-[05:10]
-green line which is in the end is going
-
-[05:10]
 green line which is in the end is going
 to be the most important we'll also go
-
-[05:11]
-to be the most important we'll also go
-
-[05:11]
-to be the most important we'll also go
-down okay so these are a couple of like
-
-[05:13]
-down okay so these are a couple of like
-
-[05:13]
 down okay so these are a couple of like
 introduction points that i think is very
 
 [05:15]
 introduction points that i think is very
-
-[05:15]
-introduction points that i think is very
-important
-
-[05:16]
-important
-
-[05:16]
 important
 uh before we get to the actual example
-
-[05:19]
-uh before we get to the actual example
-
-[05:19]
-uh before we get to the actual example
-and in the end it is about that green
-
-[05:22]
-and in the end it is about that green
-
-[05:22]
 and in the end it is about that green
 line guys
-
-[05:23]
-line guys
-
-[05:23]
-line guys
-if your green line winnings go up happy
-
-[05:26]
-if your green line winnings go up happy
-
-[05:26]
 if your green line winnings go up happy
 life
-
-[05:26]
-life
-
-[05:26]
-life
-who cares what the other lines do for
-
-[05:29]
-who cares what the other lines do for
-
-[05:29]
 who cares what the other lines do for
 that we need to ask ourselves where our
 
 [05:31]
 that we need to ask ourselves where our
-
-[05:31]
-that we need to ask ourselves where our
-ev
-
-[05:32]
-ev
-
-[05:32]
 ev
 value should come from giving our hand
-
-[05:34]
-value should come from giving our hand
-
-[05:34]
-value should come from giving our hand
-the spot and our opponent
-
-[05:36]
-the spot and our opponent
-
-[05:36]
 the spot and our opponent
 tendencies okay so i will try to take
-
-[05:40]
-tendencies okay so i will try to take
-
-[05:40]
-tendencies okay so i will try to take
-these points in consideration when
-
-[05:42]
-these points in consideration when
-
-[05:42]
 these points in consideration when
 looking at the example and without
-
-[05:43]
-looking at the example and without
-
-[05:43]
-looking at the example and without
-further ado
-
-[05:44]
-further ado
-
-[05:44]
 further ado
 we're going to take a look at it at a
 
 [05:46]
 we're going to take a look at it at a
-
-[05:46]
-we're going to take a look at it at a
-solver where it's playing in position as
-
-[05:48]
-solver where it's playing in position as
-
-[05:48]
 solver where it's playing in position as
 an
-
-[05:48]
-an
-
-[05:48]
-an
-initial razor i'm going to kind of look
-
-[05:50]
-initial razor i'm going to kind of look
-
-[05:50]
 initial razor i'm going to kind of look
 at it from both sides and kind of spot
-
-[05:52]
-at it from both sides and kind of spot
-
-[05:52]
-at it from both sides and kind of spot
-hands that
-
-[05:52]
-hands that
-
-[05:52]
 hands that
 are trying to gain their ev by redlining
-
-[05:54]
-are trying to gain their ev by redlining
-
-[05:54]
-are trying to gain their ev by redlining
-and hands and try to gain their ev by
-
-[05:56]
-and hands and try to gain their ev by
-
-[05:56]
 and hands and try to gain their ev by
 blue lining
-
-[05:57]
-blue lining
-
-[05:58]
-blue lining
-so we are playing button versus big
-
-[05:59]
-so we are playing button versus big
-
-[05:59]
 so we are playing button versus big
 blind flop comes queen eight
 
 [06:01]
 blind flop comes queen eight
-
-[06:02]
-blind flop comes queen eight
-six the big man checks and it's up to
-
-[06:04]
-six the big man checks and it's up to
-
-[06:04]
 six the big man checks and it's up to
 the in position
-
-[06:06]
-the in position
-
-[06:06]
-the in position
-okay and the first thing that we can
-
-[06:07]
-okay and the first thing that we can
-
-[06:07]
 okay and the first thing that we can
 notice is that there is
-
-[06:09]
-notice is that there is
-
-[06:09]
-notice is that there is
-some mixed betting going on okay we
-
-[06:11]
-some mixed betting going on okay we
-
-[06:11]
 some mixed betting going on okay we
 sometimes check
-
-[06:12]
-sometimes check
-
-[06:12]
-sometimes check
-we sometimes bet small and we sometimes
-
-[06:14]
-we sometimes bet small and we sometimes
-
-[06:14]
 we sometimes bet small and we sometimes
 bet very big
 
 [06:15]
 bet very big
-
-[06:15]
-bet very big
-it's kind of the preference on a board
-
-[06:17]
-it's kind of the preference on a board
-
-[06:18]
 it's kind of the preference on a board
 with these type of tendencies going
-
-[06:19]
-with these type of tendencies going
-
-[06:20]
-with these type of tendencies going
-on and we can immediately add certain
-
-[06:22]
-on and we can immediately add certain
-
-[06:22]
 on and we can immediately add certain
 hands in the darker red
-
-[06:23]
-hands in the darker red
-
-[06:24]
-hands in the darker red
 one to too bad big which usually leads
-
-[06:26]
-one to too bad big which usually leads
-
-[06:26]
-one to too bad big which usually leads
-to your opponent doing more
-
-[06:27]
-to your opponent doing more
-
-[06:28]
 to your opponent doing more
 folding okay so usually already our red
 
 [06:30]
 folding okay so usually already our red
-
-[06:30]
-folding okay so usually already our red
-line winnings go
-
-[06:31]
-line winnings go
-
-[06:31]
 line winnings go
 up a very important point is that
-
-[06:33]
-up a very important point is that
-
-[06:34]
-up a very important point is that
-certain hands
-
-[06:35]
-certain hands
-
-[06:35]
 certain hands
 might prefer a red line strategy so
-
-[06:38]
-might prefer a red line strategy so
-
-[06:38]
-might prefer a red line strategy so
-betting more often and maybe for a
-
-[06:39]
-betting more often and maybe for a
-
-[06:39]
 betting more often and maybe for a
 bigger sizing on the earlier street
-
-[06:41]
-bigger sizing on the earlier street
-
-[06:41]
-bigger sizing on the earlier street
-in order to set themselves up to gain
-
-[06:44]
-in order to set themselves up to gain
-
-[06:44]
 in order to set themselves up to gain
 more blue line winnings on a later hand
 
 [06:46]
 more blue line winnings on a later hand
-
-[06:46]
-more blue line winnings on a later hand
-okay this is actually a very big part of
-
-[06:49]
-okay this is actually a very big part of
-
-[06:49]
 okay this is actually a very big part of
 playing good poker if we then look at
-
-[06:52]
-playing good poker if we then look at
-
-[06:52]
-playing good poker if we then look at
-certain hands we can see for example i
-
-[06:54]
-certain hands we can see for example i
-
-[06:54]
 certain hands we can see for example i
 had like ace king checking most often
-
-[06:56]
-had like ace king checking most often
-
-[06:56]
-had like ace king checking most often
 this does not mean that batting is minus
-
-[06:59]
-this does not mean that batting is minus
-
-[06:59]
-this does not mean that batting is minus
-v
-
-[06:59]
 v
 
 [07:00]
 v
 for example if we ask the solver what is
-
-[07:03]
-for example if we ask the solver what is
-
-[07:03]
-for example if we ask the solver what is
-the ev
-
-[07:03]
-the ev
-
-[07:03]
 the ev
 of betting or checking being small
-
-[07:05]
-of betting or checking being small
-
-[07:05]
-of betting or checking being small
-betting big we can see here on the right
-
-[07:07]
-betting big we can see here on the right
-
-[07:07]
 betting big we can see here on the right
 bottom
-
-[07:08]
-bottom
-
-[07:08]
-bottom
 that um the evs are actually quite close
-
-[07:12]
-that um the evs are actually quite close
-
-[07:12]
-that um the evs are actually quite close
-and we shouldn't really take ev's in the
-
-[07:13]
-and we shouldn't really take ev's in the
-
-[07:14]
 and we shouldn't really take ev's in the
 solver all too seriously because you
 
 [07:16]
 solver all too seriously because you
-
-[07:16]
-solver all too seriously because you
-would see that with every hand that
-
-[07:17]
-would see that with every hand that
-
-[07:17]
 would see that with every hand that
 basically
-
-[07:18]
-basically
-
-[07:18]
-basically
-it doesn't really matter well it does in
-
-[07:21]
-it doesn't really matter well it does in
-
-[07:21]
 it doesn't really matter well it does in
 practice
-
-[07:21]
-practice
-
-[07:21]
-practice
-okay depending on the spot depending on
-
-[07:23]
-okay depending on the spot depending on
-
-[07:24]
 okay depending on the spot depending on
 your poo that you're playing as and
-
-[07:25]
-your poo that you're playing as and
-
-[07:25]
-your poo that you're playing as and
 specifically
-
-[07:26]
-specifically
-
-[07:26]
-specifically
-on your opponent but we can clearly see
-
-[07:29]
-on your opponent but we can clearly see
-
-[07:29]
 on your opponent but we can clearly see
 that
 
 [07:30]
 that
-
-[07:30]
-that
-if we take this example from the solver
-
-[07:34]
-if we take this example from the solver
-
-[07:34]
 if we take this example from the solver
 it clearly prefers a more passive
-
-[07:36]
-it clearly prefers a more passive
-
-[07:36]
-it clearly prefers a more passive
-strategy with ace king offsuit more
-
-[07:38]
-strategy with ace king offsuit more
-
-[07:38]
 strategy with ace king offsuit more
 often
-
-[07:38]
-often
-
-[07:38]
-often
-leading to higher blue light winnings
-
-[07:41]
-leading to higher blue light winnings
-
-[07:41]
 leading to higher blue light winnings
 okay
-
-[07:42]
-okay
-
-[07:42]
-okay
-other hands prefer betting so let's say
-
-[07:44]
-other hands prefer betting so let's say
-
-[07:44]
 other hands prefer betting so let's say
 for example we did that
 
 [07:47]
 for example we did that
-
-[07:47]
-for example we did that
-um actually let's go for the check and
-
-[07:50]
-um actually let's go for the check and
-
-[07:50]
 um actually let's go for the check and
 the turn is a deuce
-
-[07:51]
-the turn is a deuce
-
-[07:51]
-the turn is a deuce
-and film bats and we can actually see
-
-[07:53]
-and film bats and we can actually see
-
-[07:53]
 and film bats and we can actually see
 that we're now just folding a skin off
-
-[07:56]
-that we're now just folding a skin off
-
-[07:56]
-that we're now just folding a skin off
-most of the time okay so we were
-
-[07:58]
-most of the time okay so we were
-
-[07:58]
 most of the time okay so we were
 basically not really gaining
 
 [08:00]
 basically not really gaining
-
-[08:00]
-basically not really gaining
-a blue line and we're also not really
-
-[08:02]
-a blue line and we're also not really
-
-[08:02]
 a blue line and we're also not really
 gaining redline whereas if our opponent
-
-[08:04]
-gaining redline whereas if our opponent
-
-[08:04]
-gaining redline whereas if our opponent
-would bat a bit smaller let's say three
-
-[08:05]
-would bat a bit smaller let's say three
-
-[08:05]
 would bat a bit smaller let's say three
 quarters we're usually calling so if we
-
-[08:07]
-quarters we're usually calling so if we
-
-[08:07]
-quarters we're usually calling so if we
-would be checking back ace king and then
-
-[08:09]
-would be checking back ace king and then
-
-[08:09]
 would be checking back ace king and then
 folding to a bat that's smaller than
-
-[08:11]
-folding to a bat that's smaller than
-
-[08:11]
-folding to a bat that's smaller than
 over bat
-
-[08:12]
-over bat
-
-[08:12]
-over bat
-we're maybe making a mistake and not
-
-[08:14]
-we're maybe making a mistake and not
-
-[08:14]
 we're maybe making a mistake and not
 winning any green line
 
 [08:15]
 winning any green line
-
-[08:15]
-winning any green line
-okay this is an example whereas if for
-
-[08:18]
-okay this is an example whereas if for
-
-[08:18]
 okay this is an example whereas if for
 example fit in over bats and we are
-
-[08:19]
-example fit in over bats and we are
-
-[08:19]
-example fit in over bats and we are
-stubborn and decide to call with ace
-
-[08:21]
-stubborn and decide to call with ace
-
-[08:21]
 stubborn and decide to call with ace
 king off
-
-[08:22]
-king off
-
-[08:22]
-king off
-okay which means that we're going to win
-
-[08:24]
-okay which means that we're going to win
-
-[08:24]
 okay which means that we're going to win
 the pot more often
-
-[08:26]
-the pot more often
-
-[08:26]
-the pot more often
-okay then folding because obviously if
-
-[08:29]
-okay then folding because obviously if
-
-[08:29]
 okay then folding because obviously if
 we thought we'd never win it but it's
 
 [08:30]
 we thought we'd never win it but it's
-
-[08:30]
-we thought we'd never win it but it's
-not the most plus
-
-[08:31]
-not the most plus
-
-[08:31]
 not the most plus
 ev line usually uh leading to
-
-[08:34]
-ev line usually uh leading to
-
-[08:34]
-ev line usually uh leading to
-redline losses because often we can then
-
-[08:36]
-redline losses because often we can then
-
-[08:36]
 redline losses because often we can then
 fold the river
-
-[08:37]
-fold the river
-
-[08:37]
-fold the river
-if we also station the river so let's
-
-[08:39]
-if we also station the river so let's
-
-[08:39]
 if we also station the river so let's
 say for example you're a person who
-
-[08:40]
-say for example you're a person who
-
-[08:40]
-say for example you're a person who
 calls here the overhead we ace king and
-
-[08:42]
-calls here the overhead we ace king and
-
-[08:42]
-calls here the overhead we ace king and
-also calls the river
-
-[08:43]
-also calls the river
-
-[08:43]
 also calls the river
 we are losing massive on blue line okay
 
 [08:46]
 we are losing massive on blue line okay
-
-[08:46]
-we are losing massive on blue line okay
-because it's clearly a spot
-
-[08:48]
-because it's clearly a spot
-
-[08:48]
 because it's clearly a spot
 that the solver just prefers folding
-
-[08:50]
-that the solver just prefers folding
-
-[08:50]
-that the solver just prefers folding
-because villain is just not bluffing
-
-[08:51]
-because villain is just not bluffing
-
-[08:51]
 because villain is just not bluffing
 enough and
-
-[08:52]
-enough and
-
-[08:52]
-enough and
-if you recall is just too bad and now
-
-[08:54]
-if you recall is just too bad and now
-
-[08:54]
 if you recall is just too bad and now
 we're just playing red line for the sake
-
-[08:55]
-we're just playing red line for the sake
-
-[08:55]
-we're just playing red line for the sake
-of return okay we're just stationing
-
-[08:57]
-of return okay we're just stationing
-
-[08:57]
 of return okay we're just stationing
 obviously if you never fold uh you will
 
 [09:00]
 obviously if you never fold uh you will
-
-[09:00]
-obviously if you never fold uh you will
-win a lot of redline and your blue line
-
-[09:02]
-win a lot of redline and your blue line
-
-[09:02]
 win a lot of redline and your blue line
 will go down the drain this is not
-
-[09:03]
-will go down the drain this is not
-
-[09:03]
-will go down the drain this is not
-really how poker works in the end it has
-
-[09:05]
-really how poker works in the end it has
-
-[09:05]
 really how poker works in the end it has
 to be
-
-[09:05]
-to be
-
-[09:06]
-to be
-in so let's say for example we do decide
-
-[09:09]
-in so let's say for example we do decide
-
-[09:09]
 in so let's say for example we do decide
 to bet
-
-[09:10]
-to bet
-
-[09:10]
-to bet
 and here for example for the opposition
-
-[09:11]
-and here for example for the opposition
-
-[09:11]
-and here for example for the opposition
-we can already see a couple of
-
-[09:13]
-we can already see a couple of
-
-[09:13]
 we can already see a couple of
 red line blue line tendencies as well he
 
 [09:15]
 red line blue line tendencies as well he
-
-[09:15]
-red line blue line tendencies as well he
-mostly wants to check raise his king
-
-[09:17]
-mostly wants to check raise his king
-
-[09:17]
 mostly wants to check raise his king
 queen
-
-[09:17]
-queen
-
-[09:17]
-queen
-let's say for example you put that hand
-
-[09:19]
-let's say for example you put that hand
-
-[09:19]
 let's say for example you put that hand
 into a check call means that you will
-
-[09:21]
-into a check call means that you will
-
-[09:21]
-into a check call means that you will
-be a little bit more passive and
-
-[09:23]
-be a little bit more passive and
-
-[09:23]
 be a little bit more passive and
 therefore play king queen in the ev
-
-[09:25]
-therefore play king queen in the ev
-
-[09:25]
-therefore play king queen in the ev
 of blue lining which for example if you
-
-[09:28]
-of blue lining which for example if you
-
-[09:28]
-of blue lining which for example if you
-play versus someone who's over
-
-[09:29]
-play versus someone who's over
-
-[09:29]
 play versus someone who's over
 aggressive
 
 [09:30]
 aggressive
-
-[09:30]
-aggressive
-then by all means let your opponent
-
-[09:33]
-then by all means let your opponent
-
-[09:33]
 then by all means let your opponent
 bluff
-
-[09:33]
-bluff
-
-[09:33]
-bluff
-off and never fold and just gain a lot
-
-[09:36]
-off and never fold and just gain a lot
-
-[09:36]
 off and never fold and just gain a lot
 of blue line
-
-[09:37]
-of blue line
-
-[09:37]
-of blue line
-for example on the other hand like five
-
-[09:38]
-for example on the other hand like five
-
-[09:38]
 for example on the other hand like five
 six offsuit here you can see that it's
-
-[09:40]
-six offsuit here you can see that it's
-
-[09:40]
-six offsuit here you can see that it's
 sometimes check raising
-
-[09:42]
-sometimes check raising
-
-[09:42]
-sometimes check raising
-if we would always check raise that we
-
-[09:44]
-if we would always check raise that we
-
-[09:44]
 if we would always check raise that we
 are significantly gaining
 
 [09:46]
 are significantly gaining
-
-[09:46]
-are significantly gaining
-some redline okay and you can clearly
-
-[09:48]
-some redline okay and you can clearly
-
-[09:48]
 some redline okay and you can clearly
 see that the solver does prefer
-
-[09:50]
-see that the solver does prefer
-
-[09:50]
-see that the solver does prefer
-to do it some of the time so probably
-
-[09:52]
-to do it some of the time so probably
-
-[09:52]
 to do it some of the time so probably
 either blue line or redlining
-
-[09:54]
-either blue line or redlining
-
-[09:54]
-either blue line or redlining
-it's probably both fine if we get versus
-
-[09:56]
-it's probably both fine if we get versus
-
-[09:56]
 it's probably both fine if we get versus
 earlier positions i know that for
-
-[09:58]
-earlier positions i know that for
-
-[09:58]
-earlier positions i know that for
-example for epmp
-
-[09:59]
-example for epmp
-
-[09:59]
 example for epmp
 i had like five six gets check race a
 
 [10:01]
 i had like five six gets check race a
-
-[10:01]
-i had like five six gets check race a
-little bit more often
-
-[10:02]
-little bit more often
-
-[10:02]
 little bit more often
 and this is them because the red line up
-
-[10:04]
-and this is them because the red line up
-
-[10:04]
-and this is them because the red line up
-the red line option becomes more
-
-[10:06]
-the red line option becomes more
-
-[10:06]
 the red line option becomes more
 attractive than the blue line option
-
-[10:07]
-attractive than the blue line option
-
-[10:07]
-attractive than the blue line option
-because there's simply
-
-[10:09]
-because there's simply
-
-[10:09]
 because there's simply
 less winnings or expected winnings in
-
-[10:11]
-less winnings or expected winnings in
-
-[10:11]
-less winnings or expected winnings in
 the more passive line
-
-[10:13]
-the more passive line
-
-[10:13]
-the more passive line
-so let's say for example our opponent
-
-[10:14]
-so let's say for example our opponent
-
-[10:14]
 so let's say for example our opponent
 calls our small bat
 
 [10:16]
 calls our small bat
-
-[10:16]
-calls our small bat
-and the turn is to do so hearts and we
-
-[10:19]
-and the turn is to do so hearts and we
-
-[10:19]
 and the turn is to do so hearts and we
 can see that on the turn our strategy is
-
-[10:21]
-can see that on the turn our strategy is
-
-[10:21]
-can see that on the turn our strategy is
-again
-
-[10:22]
-again
-
-[10:22]
 again
 split we basically never want a bad
-
-[10:24]
-split we basically never want a bad
-
-[10:24]
-split we basically never want a bad
 small
-
-[10:25]
-small
-
-[10:25]
-small
-imposition usually this is not really a
-
-[10:27]
-imposition usually this is not really a
-
-[10:27]
 imposition usually this is not really a
 thing there are some exceptions
 
 [10:30]
 thing there are some exceptions
-
-[10:30]
-thing there are some exceptions
-but usually the bad sizing goes towards
-
-[10:33]
-but usually the bad sizing goes towards
-
-[10:33]
 but usually the bad sizing goes towards
 three quarters and
-
-[10:34]
-three quarters and
-
-[10:34]
-three quarters and
-over bat okay this is a very common
-
-[10:36]
-over bat okay this is a very common
-
-[10:36]
 over bat okay this is a very common
 split if you're playing in position as
-
-[10:38]
-split if you're playing in position as
-
-[10:38]
-split if you're playing in position as
-an initial razor
-
-[10:39]
-an initial razor
-
-[10:39]
 an initial razor
 which means that certain hands will bet
-
-[10:41]
-which means that certain hands will bet
-
-[10:41]
-which means that certain hands will bet
 a little bit smaller
-
-[10:42]
-a little bit smaller
-
-[10:42]
-a little bit smaller
-and villain will fault less often so we
-
-[10:44]
-and villain will fault less often so we
-
-[10:44]
 and villain will fault less often so we
 will get the showdown a little bit more
 
 [10:46]
 will get the showdown a little bit more
-
-[10:46]
-will get the showdown a little bit more
-often
-
-[10:46]
-often
-
-[10:46]
 often
 and certain hands that's very big and
-
-[10:48]
-and certain hands that's very big and
-
-[10:48]
-and certain hands that's very big and
-villain is going to fold more often
-
-[10:50]
-villain is going to fold more often
-
-[10:50]
 villain is going to fold more often
 okay now this doesn't necessarily mean
-
-[10:52]
-okay now this doesn't necessarily mean
-
-[10:52]
-okay now this doesn't necessarily mean
-let's say for example
-
-[10:53]
-let's say for example
-
-[10:53]
 let's say for example
 if you have pocket aces okay pockets is
-
-[10:55]
-if you have pocket aces okay pockets is
-
-[10:55]
-if you have pocket aces okay pockets is
-clearly is a hand that prefers over
-
-[10:57]
-clearly is a hand that prefers over
-
-[10:57]
 clearly is a hand that prefers over
 betting
-
-[10:58]
-betting
-
-[10:58]
-betting
-if you are the type that says hey i'm
-
-[10:59]
 if you are the type that says hey i'm
 
 [11:00]
 if you are the type that says hey i'm
 not going to overbat pocket aces because
-
-[11:02]
-not going to overbat pocket aces because
-
-[11:02]
-not going to overbat pocket aces because
-if i over bet
-
-[11:03]
-if i over bet
-
-[11:03]
 if i over bet
 finn is always full then i have like six
-
-[11:05]
-finn is always full then i have like six
-
-[11:05]
-finn is always full then i have like six
-five i don't want that okay
-
-[11:07]
-five i don't want that okay
-
-[11:07]
 five i don't want that okay
 this is an option but then you are
-
-[11:09]
-this is an option but then you are
-
-[11:09]
-this is an option but then you are
 confusing
-
-[11:10]
-confusing
-
-[11:10]
-confusing
-that you want to get called okay and
-
-[11:13]
-that you want to get called okay and
-
-[11:13]
 that you want to get called okay and
 finding a sizing for which you get
 
 [11:15]
 finding a sizing for which you get
-
-[11:15]
-finding a sizing for which you get
-called is not necessarily the most
-
-[11:16]
-called is not necessarily the most
-
-[11:16]
 called is not necessarily the most
 positively sizing
-
-[11:17]
-positively sizing
-
-[11:17]
-positively sizing
-because we can go very big with a hand
-
-[11:20]
-because we can go very big with a hand
-
-[11:20]
 because we can go very big with a hand
 like pocket aces
-
-[11:21]
-like pocket aces
-
-[11:21]
-like pocket aces
-and get called less often but still make
-
-[11:23]
-and get called less often but still make
-
-[11:23]
 and get called less often but still make
 more money okay and there's still quite
-
-[11:25]
-more money okay and there's still quite
-
-[11:25]
-more money okay and there's still quite
 a lot of blue line winnings
-
-[11:27]
-a lot of blue line winnings
-
-[11:27]
-a lot of blue line winnings
-to be gained here okay because we're
-
-[11:29]
-to be gained here okay because we're
-
-[11:29]
 to be gained here okay because we're
 getting for example called by any type
 
 [11:31]
 getting for example called by any type
-
-[11:31]
-getting for example called by any type
-of queen
-
-[11:32]
-of queen
-
-[11:32]
 of queen
 whereas for example certain other hands
-
-[11:34]
-whereas for example certain other hands
-
-[11:34]
-whereas for example certain other hands
-prefer checking
-
-[11:35]
-prefer checking
-
-[11:35]
 prefer checking
 again like the ace king for example
-
-[11:37]
-again like the ace king for example
-
-[11:37]
-again like the ace king for example
-checks quite often
-
-[11:40]
-checks quite often
-
-[11:40]
 checks quite often
 clearly a hand that we could also be
-
-[11:41]
-clearly a hand that we could also be
-
-[11:42]
-clearly a hand that we could also be
-betting so if you start over betting
-
-[11:43]
-betting so if you start over betting
-
-[11:43]
 betting so if you start over betting
 this yeah it's probably plus a fee
 
 [11:45]
 this yeah it's probably plus a fee
-
-[11:45]
-this yeah it's probably plus a fee
-so you could actually do that and win a
-
-[11:48]
-so you could actually do that and win a
-
-[11:48]
 so you could actually do that and win a
 lot of
-
-[11:48]
-lot of
-
-[11:48]
-lot of
-redline but it's not the highest ev
-
-[11:50]
-redline but it's not the highest ev
-
-[11:50]
 redline but it's not the highest ev
 option according to the solver
-
-[11:52]
-option according to the solver
-
-[11:52]
-option according to the solver
-now if you play versus someone who's
-
-[11:54]
-now if you play versus someone who's
-
-[11:54]
 now if you play versus someone who's
 overfolding the term massively you might
-
-[11:56]
-overfolding the term massively you might
-
-[11:56]
-overfolding the term massively you might
 say
-
-[11:56]
-say
-
-[11:56]
-say
-okay i'm gonna overbet a skin this is a
-
-[11:59]
-okay i'm gonna overbet a skin this is a
-
-[11:59]
 okay i'm gonna overbet a skin this is a
 valid option
 
 [12:00]
 valid option
-
-[12:00]
-valid option
-but we always still have to compare the
-
-[12:02]
-but we always still have to compare the
-
-[12:02]
 but we always still have to compare the
 ev of checking with the ev of betting
-
-[12:04]
-ev of checking with the ev of betting
-
-[12:04]
-ev of checking with the ev of betting
-let's say for example we have a hand
-
-[12:06]
-let's say for example we have a hand
-
-[12:06]
 let's say for example we have a hand
 that is very low even checking which is
-
-[12:08]
-that is very low even checking which is
-
-[12:08]
-that is very low even checking which is
-going to be maybe had like
-
-[12:09]
-going to be maybe had like
-
-[12:10]
 going to be maybe had like
 jack five of diamonds okay if your
-
-[12:12]
-jack five of diamonds okay if your
-
-[12:12]
-jack five of diamonds okay if your
 opponent
-
-[12:13]
-opponent
-
-[12:13]
-opponent
-significantly overfalled in the turn we
-
-[12:14]
-significantly overfalled in the turn we
-
-[12:14]
 significantly overfalled in the turn we
 might want to increase
 
 [12:16]
 might want to increase
-
-[12:16]
-might want to increase
-our redline winnings by over betting
-
-[12:18]
-our redline winnings by over betting
-
-[12:18]
 our redline winnings by over betting
 ahead like jack five of diamonds for
-
-[12:20]
-ahead like jack five of diamonds for
-
-[12:20]
-ahead like jack five of diamonds for
-example
-
-[12:21]
-example
-
-[12:21]
 example
 but keep our blue line when it's
-
-[12:22]
-but keep our blue line when it's
-
-[12:22]
-but keep our blue line when it's
 attacked intact by checking for example
-
-[12:25]
-attacked intact by checking for example
-
-[12:25]
-attacked intact by checking for example
-with a hand like ace king okay
-
-[12:27]
-with a hand like ace king okay
-
-[12:27]
 with a hand like ace king okay
 and this is kind of uh exploitation
 
 [12:31]
 and this is kind of uh exploitation
-
-[12:31]
-and this is kind of uh exploitation
-because if we then do this correctly we
-
-[12:34]
-because if we then do this correctly we
-
-[12:34]
 because if we then do this correctly we
 can get both our lines up
-
-[12:35]
-can get both our lines up
-
-[12:35]
-can get both our lines up
-which few am i playing in my opinion
-
-[12:39]
-which few am i playing in my opinion
-
-[12:39]
 which few am i playing in my opinion
 play a very good exploitative strategy
-
-[12:41]
-play a very good exploitative strategy
-
-[12:41]
-play a very good exploitative strategy
-uh it's definitely possible at least to
-
-[12:43]
-uh it's definitely possible at least to
-
-[12:43]
 uh it's definitely possible at least to
 get a nice break even redline
 
 [12:45]
 get a nice break even redline
-
-[12:45]
-get a nice break even redline
-and have good blue line winnings and i
-
-[12:48]
-and have good blue line winnings and i
-
-[12:48]
 and have good blue line winnings and i
 also think this is the
-
-[12:50]
-also think this is the
-
-[12:50]
-also think this is the
-this is a style that is hardest to play
-
-[12:52]
-this is a style that is hardest to play
-
-[12:52]
 this is a style that is hardest to play
 against
-
-[12:53]
-against
-
-[12:53]
-against
-from your opponent because if you're
-
-[12:54]
-from your opponent because if you're
-
-[12:54]
 from your opponent because if you're
 just always blue lining or if you're
-
-[12:56]
-just always blue lining or if you're
-
-[12:56]
-just always blue lining or if you're
 always focused on redlining and your
-
-[12:57]
-always focused on redlining and your
-
-[12:57]
-always focused on redlining and your
-opponent is onto that
-
-[12:59]
-opponent is onto that
-
-[12:59]
 opponent is onto that
 it kind of you don't really catch your
 
 [13:01]
 it kind of you don't really catch your
-
-[13:01]
-it kind of you don't really catch your
-opponent by surprise because if i have
-
-[13:03]
-opponent by surprise because if i have
-
-[13:03]
 opponent by surprise because if i have
 guys who are just over redline i don't
-
-[13:06]
-guys who are just over redline i don't
-
-[13:06]
-guys who are just over redline i don't
-really have a decision anymore
-
-[13:07]
-really have a decision anymore
-
-[13:08]
 really have a decision anymore
 as the defender because if the guy's
-
-[13:10]
-as the defender because if the guy's
-
-[13:10]
-as the defender because if the guy's
 just over aggressive i'm just gonna yeah
-
-[13:12]
-just over aggressive i'm just gonna yeah
-
-[13:12]
-just over aggressive i'm just gonna yeah
-okay
-
-[13:12]
-okay
-
-[13:12]
 okay
 call down and and hope because he's just
 
 [13:15]
 call down and and hope because he's just
-
-[13:15]
-call down and and hope because he's just
-out of line
-
-[13:15]
-out of line
-
-[13:16]
 out of line
 where something someone is way too
-
-[13:17]
-where something someone is way too
-
-[13:17]
-where something someone is way too
-passive if he just keeps on betting i'm
-
-[13:19]
-passive if he just keeps on betting i'm
-
-[13:19]
 passive if he just keeps on betting i'm
 just gonna keep on folding okay
-
-[13:20]
-just gonna keep on folding okay
-
-[13:20]
-just gonna keep on folding okay
-so i always try to find like that sweet
-
-[13:23]
-so i always try to find like that sweet
-
-[13:23]
 so i always try to find like that sweet
 spot in the middle
-
-[13:24]
-spot in the middle
-
-[13:24]
-spot in the middle
-so let's say for example we do decide to
-
-[13:26]
-so let's say for example we do decide to
-
-[13:26]
 so let's say for example we do decide to
 check which certain hands prefer
-
-[13:28]
-check which certain hands prefer
-
-[13:28]
-check which certain hands prefer
-let's say for example we have like
-
-[13:29]
 let's say for example we have like
 
 [13:30]
 let's say for example we have like
 pocket jacks we can clearly see it's
-
-[13:31]
-pocket jacks we can clearly see it's
-
-[13:31]
-pocket jacks we can clearly see it's
-preferring to bet
-
-[13:32]
-preferring to bet
-
-[13:32]
 preferring to bet
 nice for example clearly prefers to bet
-
-[13:35]
-nice for example clearly prefers to bet
-
-[13:35]
-nice for example clearly prefers to bet
-there's definitely a concept in there
-
-[13:37]
-there's definitely a concept in there
-
-[13:37]
 there's definitely a concept in there
 so let's say we check and the river is
-
-[13:40]
-so let's say we check and the river is
-
-[13:40]
-so let's say we check and the river is
 let's say the river is a four and we can
-
-[13:43]
-let's say the river is a four and we can
-
-[13:43]
-let's say the river is a four and we can
-now see the out of position
-
-[13:44]
-now see the out of position
-
-[13:44]
 now see the out of position
 strategy we can see that out of position
 
 [13:46]
 strategy we can see that out of position
-
-[13:46]
-strategy we can see that out of position
-should do quite some betting
-
-[13:48]
-should do quite some betting
-
-[13:48]
 should do quite some betting
 even with hands that are as weak as what
-
-[13:51]
-even with hands that are as weak as what
-
-[13:51]
-even with hands that are as weak as what
-is his weakest hands
-
-[13:52]
-is his weakest hands
-
-[13:52]
 is his weakest hands
 looks like a6 is sometimes betting uh
-
-[13:55]
-looks like a6 is sometimes betting uh
-
-[13:55]
-looks like a6 is sometimes betting uh
-which again he best for a small sizing
-
-[13:58]
-which again he best for a small sizing
-
-[13:58]
 which again he best for a small sizing
 but if we bet for a small sizing
 
 [14:00]
 but if we bet for a small sizing
-
-[14:00]
-but if we bet for a small sizing
-feeling a full 28 of the time and when
-
-[14:02]
-feeling a full 28 of the time and when
-
-[14:02]
 feeling a full 28 of the time and when
 he falls these winnings go to our
-
-[14:04]
-he falls these winnings go to our
-
-[14:04]
-he falls these winnings go to our
-redline winnings okay so we can clearly
-
-[14:06]
-redline winnings okay so we can clearly
-
-[14:06]
 redline winnings okay so we can clearly
 see we want to do
-
-[14:07]
-see we want to do
-
-[14:07]
-see we want to do
-quite some betting now let's say we
-
-[14:09]
-quite some betting now let's say we
-
-[14:09]
 quite some betting now let's say we
 never bat these small sizings and we
-
-[14:11]
-never bat these small sizings and we
-
-[14:11]
-never bat these small sizings and we
 only bet overbet for example
-
-[14:13]
-only bet overbet for example
-
-[14:13]
-only bet overbet for example
-that means that we're going to be
-
-[14:14]
-that means that we're going to be
-
-[14:14]
 that means that we're going to be
 betting less and therefore checking more
 
 [14:16]
 betting less and therefore checking more
-
-[14:16]
-betting less and therefore checking more
-and then your opponent can or check
-
-[14:18]
-and then your opponent can or check
-
-[14:18]
 and then your opponent can or check
 behind or bet and you
-
-[14:20]
-behind or bet and you
-
-[14:20]
-behind or bet and you
-then we usually call or fault but let's
-
-[14:22]
-then we usually call or fault but let's
-
-[14:22]
 then we usually call or fault but let's
 say for example we
-
-[14:24]
-say for example we
-
-[14:24]
-say for example we
-have an eight okay and we say okay we're
-
-[14:26]
-have an eight okay and we say okay we're
-
-[14:26]
 have an eight okay and we say okay we're
 never gonna check fold and eight on the
-
-[14:27]
-never gonna check fold and eight on the
-
-[14:27]
-never gonna check fold and eight on the
-river
-
-[14:28]
-river
-
-[14:28]
 river
 we could check film bats and as you can
 
 [14:31]
 we could check film bats and as you can
-
-[14:31]
-we could check film bats and as you can
-see
-
-[14:32]
-see
-
-[14:32]
 see
 we don't really want to get in this line
-
-[14:33]
-we don't really want to get in this line
-
-[14:34]
-we don't really want to get in this line
-that's why the hands are not really
-
-[14:35]
-that's why the hands are not really
-
-[14:35]
 that's why the hands are not really
 showing
-
-[14:35]
-showing
-
-[14:35]
-showing
-but any eight is probably calling okay
-
-[14:38]
-but any eight is probably calling okay
-
-[14:38]
 but any eight is probably calling okay
 so
-
-[14:38]
-so
-
-[14:38]
-so
-check calling the river against us blue
-
-[14:40]
-check calling the river against us blue
-
-[14:40]
 check calling the river against us blue
 line whereas
-
-[14:42]
-line whereas
-
-[14:42]
-line whereas
-clearly the spot in theory is preferred
-
-[14:44]
-clearly the spot in theory is preferred
-
-[14:44]
 clearly the spot in theory is preferred
 to do a more of a redline approach it
 
 [14:46]
 to do a more of a redline approach it
-
-[14:46]
-to do a more of a redline approach it
-bets
-
-[14:47]
-bets
-
-[14:47]
 bets
 himself right we can see that most of
-
-[14:50]
-himself right we can see that most of
-
-[14:50]
-himself right we can see that most of
-these hands are betting so if you would
-
-[14:52]
-these hands are betting so if you would
-
-[14:52]
 these hands are betting so if you would
 always check these hands you
-
-[14:53]
-always check these hands you
-
-[14:53]
-always check these hands you
-are missing on redline winnings right
-
-[14:56]
-are missing on redline winnings right
-
-[14:56]
 are missing on redline winnings right
 same with for example um a bluff if you
 
 [15:00]
 same with for example um a bluff if you
-
-[15:00]
-same with for example um a bluff if you
-let's say for example we have 910
-
-[15:01]
-let's say for example we have 910
-
-[15:01]
 let's say for example we have 910
 we clearly want to be bluffing if you
-
-[15:03]
-we clearly want to be bluffing if you
-
-[15:03]
-we clearly want to be bluffing if you
-don't bluff these hands you are
-
-[15:05]
-don't bluff these hands you are
-
-[15:05]
 don't bluff these hands you are
 missing on redline winnings so let's say
-
-[15:08]
-missing on redline winnings so let's say
-
-[15:08]
-missing on redline winnings so let's say
-for example
-
-[15:09]
-for example
-
-[15:09]
 for example
 our opponent does bat and remember the
-
-[15:11]
-our opponent does bat and remember the
-
-[15:12]
-our opponent does bat and remember the
-ace king that we talked about earlier
-
-[15:13]
-ace king that we talked about earlier
-
-[15:13]
 ace king that we talked about earlier
 you can see that it now wants to call
 
 [15:16]
 you can see that it now wants to call
-
-[15:16]
-you can see that it now wants to call
-or at least half of the time a head like
-
-[15:19]
-or at least half of the time a head like
-
-[15:20]
 or at least half of the time a head like
 pocket jacks even wants to race actually
-
-[15:21]
-pocket jacks even wants to race actually
-
-[15:21]
-pocket jacks even wants to race actually
-i will get to both these hands
-
-[15:23]
-i will get to both these hands
-
-[15:23]
 i will get to both these hands
 a skin for example if we were checking
-
-[15:25]
-a skin for example if we were checking
-
-[15:25]
-a skin for example if we were checking
 the turn and often folding the river
-
-[15:27]
-the turn and often folding the river
-
-[15:27]
-the turn and often folding the river
-we're not winning blue line because we
-
-[15:29]
-we're not winning blue line because we
-
-[15:29]
 we're not winning blue line because we
 fold it we're also not winning red line
 
 [15:30]
 fold it we're also not winning red line
-
-[15:30]
-fold it we're also not winning red line
-because we didn't barrel the turn
-
-[15:32]
-because we didn't barrel the turn
-
-[15:32]
 because we didn't barrel the turn
 and this is a clear example if you're
-
-[15:33]
-and this is a clear example if you're
-
-[15:33]
-and this is a clear example if you're
-just checking always folding you're
-
-[15:36]
-just checking always folding you're
-
-[15:36]
 just checking always folding you're
 just playing a poor strategy and you're
-
-[15:37]
-just playing a poor strategy and you're
-
-[15:37]
-just playing a poor strategy and you're
-losing green line
-
-[15:39]
-losing green line
-
-[15:39]
 losing green line
 okay same with jax jacks for example
-
-[15:43]
-okay same with jax jacks for example
-
-[15:43]
-okay same with jax jacks for example
-especially versus smaller sizing always
-
-[15:44]
-especially versus smaller sizing always
-
-[15:44]
 especially versus smaller sizing always
 wants to race basically a lot of your
 
 [15:47]
 wants to race basically a lot of your
-
-[15:47]
-wants to race basically a lot of your
-maybe ace 8 yeah you can see ace 8 king
-
-[15:49]
-maybe ace 8 yeah you can see ace 8 king
-
-[15:49]
 maybe ace 8 yeah you can see ace 8 king
 8 this is kind of the the bottom
-
-[15:50]
-8 this is kind of the the bottom
-
-[15:50]
-8 this is kind of the the bottom
 of hands that you want to be raising
-
-[15:54]
-of hands that you want to be raising
-
-[15:54]
-of hands that you want to be raising
-these type of holdings they
-
-[15:57]
-these type of holdings they
-
-[15:57]
 these type of holdings they
 they don't feel like that a one third
 
 [16:00]
 they don't feel like that a one third
-
-[16:00]
-they don't feel like that a one third
-bat and a one third bat is getting
-
-[16:02]
-bat and a one third bat is getting
-
-[16:02]
 bat and a one third bat is getting
 enough value so they now want to race
-
-[16:04]
-enough value so they now want to race
-
-[16:04]
-enough value so they now want to race
-if you don't make these races okay you
-
-[16:06]
-if you don't make these races okay you
-
-[16:06]
 if you don't make these races okay you
 might be better off
-
-[16:07]
-might be better off
-
-[16:08]
-might be better off
-barreling the turn more often okay else
-
-[16:10]
-barreling the turn more often okay else
-
-[16:10]
 barreling the turn more often okay else
 you're just clearly losing
-
-[16:12]
-you're just clearly losing
-
-[16:12]
-you're just clearly losing
-value same with for example we talked
-
-[16:14]
-value same with for example we talked
-
-[16:14]
 value same with for example we talked
 about the jack five diamonds
 
 [16:16]
 about the jack five diamonds
-
-[16:16]
-about the jack five diamonds
-it's very unfrequent but it raises a
-
-[16:18]
-it's very unfrequent but it raises a
-
-[16:18]
 it's very unfrequent but it raises a
 very small percentage of the time
-
-[16:20]
-very small percentage of the time
-
-[16:20]
-very small percentage of the time
-or like a hand like jack iv for example
-
-[16:22]
-or like a hand like jack iv for example
-
-[16:22]
 or like a hand like jack iv for example
 uh this is another example where
-
-[16:24]
-uh this is another example where
-
-[16:24]
-uh this is another example where
-if you're just overly passive you're not
-
-[16:26]
-if you're just overly passive you're not
-
-[16:26]
 if you're just overly passive you're not
 barring the turn and you're always
-
-[16:27]
-barring the turn and you're always
-
-[16:27]
-barring the turn and you're always
-folding the river with certain hands
-
-[16:29]
-folding the river with certain hands
-
-[16:29]
 folding the river with certain hands
 that now want to be bluffing
 
 [16:30]
 that now want to be bluffing
-
-[16:30]
-that now want to be bluffing
-you're again playing a poor strategy
-
-[16:33]
-you're again playing a poor strategy
-
-[16:33]
 you're again playing a poor strategy
 okay
-
-[16:34]
-okay
-
-[16:34]
-okay
-then it's no longer has something to do
-
-[16:35]
-then it's no longer has something to do
-
-[16:35]
 then it's no longer has something to do
 with being with something having a pre
-
-[16:38]
-with being with something having a pre
-
-[16:38]
-with being with something having a pre
 a preference right and also you can see
-
-[16:41]
-a preference right and also you can see
-
-[16:41]
-a preference right and also you can see
-that in order to
-
-[16:43]
-that in order to
-
-[16:43]
 that in order to
 increase the efficiency or increase more
 
 [16:45]
 increase the efficiency or increase more
-
-[16:45]
-increase the efficiency or increase more
-redline winnings
-
-[16:46]
-redline winnings
-
-[16:46]
 redline winnings
 uh it actually starts over betting ahead
-
-[16:48]
-uh it actually starts over betting ahead
-
-[16:48]
-uh it actually starts over betting ahead
-like ten nine
-
-[16:49]
-like ten nine
-
-[16:49]
 like ten nine
 so let's say for example you're always
-
-[16:51]
-so let's say for example you're always
-
-[16:51]
-so let's say for example you're always
-uh betting small width
-
-[16:53]
-uh betting small width
-
-[16:53]
 uh betting small width
 above like ten nine uh maybe this is
-
-[16:56]
-above like ten nine uh maybe this is
-
-[16:56]
-above like ten nine uh maybe this is
 also
-
-[16:56]
-also
-
-[16:56]
-also
-way bad if you're lacking some redline
-
-[16:58]
-way bad if you're lacking some redline
-
-[16:58]
 way bad if you're lacking some redline
 to add some more over betting in general
 
 [17:00]
 to add some more over betting in general
-
-[17:00]
-to add some more over betting in general
-to your game
-
-[17:02]
-to your game
-
-[17:02]
 to your game
 definitely also boosting redline now
-
-[17:04]
-definitely also boosting redline now
-
-[17:04]
-definitely also boosting redline now
-let's say for example
-
-[17:05]
-let's say for example
-
-[17:06]
 let's say for example
 um the the actually pocket sevens was i
-
-[17:09]
-um the the actually pocket sevens was i
-
-[17:09]
-um the the actually pocket sevens was i
 can actually
-
-[17:10]
-can actually
-
-[17:10]
-can actually
-now see the bottom together with a6
-
-[17:13]
-now see the bottom together with a6
-
-[17:13]
 now see the bottom together with a6
 uh which is important for the next card
 
 [17:15]
 uh which is important for the next card
-
-[17:15]
-uh which is important for the next card
-actually i want to take a look at so
-
-[17:16]
-actually i want to take a look at so
-
-[17:16]
 actually i want to take a look at so
 let's say for example the river is an
-
-[17:17]
-let's say for example the river is an
-
-[17:17]
-let's say for example the river is an
-ace
-
-[17:18]
-ace
-
-[17:18]
 ace
 also flush complete and actually we see
-
-[17:20]
-also flush complete and actually we see
-
-[17:20]
-also flush complete and actually we see
-that uh pocket sevens obviously a6 is
-
-[17:22]
-that uh pocket sevens obviously a6 is
-
-[17:22]
 that uh pocket sevens obviously a6 is
 now more likely to bet
-
-[17:23]
-now more likely to bet
-
-[17:23]
-now more likely to bet
-because the handstand but seven is never
-
-[17:25]
-because the handstand but seven is never
-
-[17:25]
 because the handstand but seven is never
 betting anymore also an eight
-
-[17:26]
-betting anymore also an eight
-
-[17:26]
-betting anymore also an eight
 is not betting anymore and this is a
-
-[17:28]
-is not betting anymore and this is a
-
-[17:28]
-is not betting anymore and this is a
-spot where maybe if you're winning too
-
-[17:29]
-spot where maybe if you're winning too
-
-[17:29]
 spot where maybe if you're winning too
 much redline
 
 [17:30]
 much redline
-
-[17:30]
-much redline
-um that you're not adjusting to the spot
-
-[17:33]
-um that you're not adjusting to the spot
-
-[17:33]
 um that you're not adjusting to the spot
 because here clearly we don't really
-
-[17:35]
-because here clearly we don't really
-
-[17:35]
-because here clearly we don't really
-want to be betting small anymore with a
-
-[17:36]
-want to be betting small anymore with a
-
-[17:36]
 want to be betting small anymore with a
 hand like 10 8
-
-[17:38]
-hand like 10 8
-
-[17:38]
-hand like 10 8
-obviously we can but that would just be
-
-[17:40]
-obviously we can but that would just be
-
-[17:40]
 obviously we can but that would just be
 betting for the sake of betting and no
-
-[17:42]
-betting for the sake of betting and no
-
-[17:42]
-betting for the sake of betting and no
-longer because it's the
-
-[17:44]
-longer because it's the
-
-[17:44]
 longer because it's the
 it's the most plus we play so this is a
 
 [17:45]
 it's the most plus we play so this is a
-
-[17:46]
-it's the most plus we play so this is a
-good example of
-
-[17:47]
-good example of
-
-[17:47]
 good example of
 uh same hand but a spot that now varies
-
-[17:50]
-uh same hand but a spot that now varies
-
-[17:50]
-uh same hand but a spot that now varies
-uh also we don't
-
-[17:51]
-uh also we don't
-
-[17:51]
 uh also we don't
 uh we actually see also that the over
-
-[17:53]
-uh we actually see also that the over
-
-[17:53]
-uh we actually see also that the over
-betting disappeared so if we either have
-
-[17:55]
-betting disappeared so if we either have
-
-[17:55]
 betting disappeared so if we either have
 like 109 you see it no longer wants to
-
-[17:57]
-like 109 you see it no longer wants to
-
-[17:57]
-like 109 you see it no longer wants to
-overlap
-
-[17:58]
-overlap
-
-[17:58]
 overlap
 there are some reasons for that as well
 
 [18:00]
 there are some reasons for that as well
-
-[18:00]
-there are some reasons for that as well
-just an overall strategy shift
-
-[18:02]
-just an overall strategy shift
-
-[18:02]
 just an overall strategy shift
 uh obviously there's still redline and
-
-[18:04]
-uh obviously there's still redline and
-
-[18:04]
-uh obviously there's still redline and
-green line uh redline blue line when is
-
-[18:06]
-green line uh redline blue line when is
-
-[18:06]
 green line uh redline blue line when is
 going on but
-
-[18:06]
-going on but
-
-[18:06]
-going on but
-the spot just plays a little bit
-
-[18:08]
-the spot just plays a little bit
-
-[18:08]
 the spot just plays a little bit
 differently okay
-
-[18:12]
-then if villain checks we can see that
-
-[18:14]
-then if villain checks we can see that
-
-[18:14]
 then if villain checks we can see that
 we now want to be bluffing ahead like
 
 [18:16]
 we now want to be bluffing ahead like
-
-[18:16]
-we now want to be bluffing ahead like
-jack five of diamonds
-
-[18:17]
-jack five of diamonds
-
-[18:18]
 jack five of diamonds
 which you know this makes quite a lot of
-
-[18:20]
-which you know this makes quite a lot of
-
-[18:20]
-which you know this makes quite a lot of
-sense on the term we had quite a shitty
-
-[18:22]
-sense on the term we had quite a shitty
-
-[18:22]
 sense on the term we had quite a shitty
 hand
-
-[18:22]
-hand
-
-[18:22]
-hand
-uh so we checked back and then the
-
-[18:24]
-uh so we checked back and then the
-
-[18:24]
 uh so we checked back and then the
 referee checks again and now we want to
-
-[18:26]
-referee checks again and now we want to
-
-[18:26]
-referee checks again and now we want to
 be
-
-[18:26]
-be
-
-[18:26]
-be
-bluffing again if you would miss these
-
-[18:29]
-bluffing again if you would miss these
-
-[18:29]
 bluffing again if you would miss these
 type of bluffs
 
 [18:30]
 type of bluffs
-
-[18:30]
-type of bluffs
-you are losing redline winnings okay
-
-[18:33]
-you are losing redline winnings okay
-
-[18:33]
 you are losing redline winnings okay
 you are clearly these are then
-
-[18:35]
-you are clearly these are then
-
-[18:35]
-you are clearly these are then
-definitely spots like patrick bad spots
-
-[18:37]
-definitely spots like patrick bad spots
-
-[18:37]
 definitely spots like patrick bad spots
 or maybe like some more turn barreling
-
-[18:39]
-or maybe like some more turn barreling
-
-[18:39]
-or maybe like some more turn barreling
-especially in spots where people are
-
-[18:41]
-especially in spots where people are
-
-[18:41]
 especially in spots where people are
 over
-
-[18:41]
-over
-
-[18:41]
-over
 folding these are spots where you can
-
-[18:43]
-folding these are spots where you can
-
-[18:43]
-folding these are spots where you can
-boost your redline winning so if you
-
-[18:44]
-boost your redline winning so if you
-
-[18:44]
 boost your redline winning so if you
 have a redline winning leak
 
 [18:46]
 have a redline winning leak
-
-[18:46]
-have a redline winning leak
-okay then you're maybe missing out on
-
-[18:48]
-okay then you're maybe missing out on
-
-[18:48]
 okay then you're maybe missing out on
 these type of barrels okay and we get a
-
-[18:51]
-these type of barrels okay and we get a
-
-[18:51]
-these type of barrels okay and we get a
-lot of
-
-[18:51]
-lot of
-
-[18:51]
 lot of
 nice hands to fold i think these type of
-
-[18:53]
-nice hands to fold i think these type of
-
-[18:53]
-nice hands to fold i think these type of
 hands usually automatically folding
-
-[18:55]
-hands usually automatically folding
-
-[18:55]
-hands usually automatically folding
-a standard ace jack the king jack are
-
-[18:58]
-a standard ace jack the king jack are
-
-[18:58]
 a standard ace jack the king jack are
 reasonable hands a lot of 6x are folding
 
 [19:00]
 reasonable hands a lot of 6x are folding
-
-[19:00]
-reasonable hands a lot of 6x are folding
-so i think this is a fine
-
-[19:02]
-so i think this is a fine
-
-[19:02]
 so i think this is a fine
 a fine play um also in terms of if you
-
-[19:06]
-a fine play um also in terms of if you
-
-[19:06]
-a fine play um also in terms of if you
-are a little bit struggling with your
-
-[19:07]
-are a little bit struggling with your
-
-[19:07]
 are a little bit struggling with your
 redline
-
-[19:08]
-redline
-
-[19:08]
-redline
-i mean he should for example call pocket
-
-[19:10]
-i mean he should for example call pocket
-
-[19:10]
 i mean he should for example call pocket
 trees if you think pocket trees are not
-
-[19:12]
-trees if you think pocket trees are not
-
-[19:12]
-trees if you think pocket trees are not
-calling in your population
-
-[19:13]
-calling in your population
-
-[19:14]
 calling in your population
 then obviously betting more often
 
 [19:15]
 then obviously betting more often
-
-[19:15]
-then obviously betting more often
-without like jack five of diamonds will
-
-[19:17]
-without like jack five of diamonds will
-
-[19:17]
 without like jack five of diamonds will
 gain you more money and this is actually
-
-[19:20]
-gain you more money and this is actually
-
-[19:20]
-gain you more money and this is actually
-something that
-
-[19:21]
-something that
-
-[19:21]
 something that
 the the mda movement the the mass
-
-[19:24]
-the the mda movement the the mass
-
-[19:24]
-the the mda movement the the mass
-data analysis movement always talks
-
-[19:25]
-data analysis movement always talks
-
-[19:26]
 data analysis movement always talks
 about that a lot of spots in the
-
-[19:27]
-about that a lot of spots in the
-
-[19:27]
-about that a lot of spots in the
-population
-
-[19:28]
-population
-
-[19:28]
 population
 it is more common that they do
 
 [19:30]
 it is more common that they do
-
-[19:30]
-it is more common that they do
-overfolding than underfolding
-
-[19:31]
-overfolding than underfolding
-
-[19:32]
 overfolding than underfolding
 therefore having more of a preference
-
-[19:34]
-therefore having more of a preference
-
-[19:34]
-therefore having more of a preference
-towards redline strategies is a good
-
-[19:36]
-towards redline strategies is a good
-
-[19:36]
 towards redline strategies is a good
 idea
-
-[19:37]
-idea
-
-[19:37]
-idea
-however if you are the type of
-
-[19:39]
-however if you are the type of
-
-[19:39]
 however if you are the type of
 overwinning on redline
-
-[19:40]
-overwinning on redline
-
-[19:40]
-overwinning on redline
 you are clearly ignoring the fact that
-
-[19:42]
-you are clearly ignoring the fact that
-
-[19:42]
-you are clearly ignoring the fact that
-certain hands should
-
-[19:44]
-certain hands should
-
-[19:44]
 certain hands should
 also have a lot of ev in trying to for
 
 [19:46]
 also have a lot of ev in trying to for
-
-[19:46]
-also have a lot of ev in trying to for
-example bluff catch or trying to get to
-
-[19:48]
-example bluff catch or trying to get to
-
-[19:48]
 example bluff catch or trying to get to
 showdown
-
-[19:49]
-showdown
-
-[19:49]
-showdown
-maybe setting up a little bit of uh
-
-[19:51]
-maybe setting up a little bit of uh
-
-[19:51]
 maybe setting up a little bit of uh
 reverse imply that situation for your
-
-[19:53]
-reverse imply that situation for your
-
-[19:53]
-reverse imply that situation for your
 opponent and you're kind of ignoring
-
-[19:54]
-opponent and you're kind of ignoring
-
-[19:54]
-opponent and you're kind of ignoring
-that so that would be a leak as well
-
-[19:58]
-that so that would be a leak as well
-
-[19:58]
 that so that would be a leak as well
 so i hope you guys start to understand i
 
 [20:00]
 so i hope you guys start to understand i
-
-[20:00]
-so i hope you guys start to understand i
-think a little bit different now about
-
-[20:02]
-think a little bit different now about
-
-[20:02]
 think a little bit different now about
 blue line and redline winnings after
-
-[20:04]
-blue line and redline winnings after
-
-[20:04]
-blue line and redline winnings after
-that example
-
-[20:05]
-that example
-
-[20:05]
 that example
 and kind of start to understand that
-
-[20:07]
-and kind of start to understand that
-
-[20:07]
-and kind of start to understand that
-some hands want to get their
-
-[20:09]
-some hands want to get their
-
-[20:09]
 some hands want to get their
 uh their value from blue lining and
-
-[20:11]
-uh their value from blue lining and
-
-[20:11]
-uh their value from blue lining and
 other hands want to get their value from
-
-[20:12]
-other hands want to get their value from
-
-[20:12]
-other hands want to get their value from
-redlining
-
-[20:13]
-redlining
-
-[20:13]
 redlining
 now obviously we could go on about this
 
 [20:15]
 now obviously we could go on about this
-
-[20:15]
-now obviously we could go on about this
-topic and there's
-
-[20:17]
-topic and there's
-
-[20:17]
 topic and there's
 a lot of things in play and
-
-[20:20]
-a lot of things in play and
-
-[20:20]
-a lot of things in play and
-it gets a little bit more complicated
-
-[20:22]
-it gets a little bit more complicated
-
-[20:22]
 it gets a little bit more complicated
 and we can add way more nuances but i
-
-[20:24]
-and we can add way more nuances but i
-
-[20:24]
-and we can add way more nuances but i
-would like to keep this video under 10
-
-[20:26]
-would like to keep this video under 10
-
-[20:26]
 would like to keep this video under 10
 hours
-
-[20:27]
-hours
-
-[20:27]
-hours
-and i wanted to end up with a couple of
-
-[20:28]
-and i wanted to end up with a couple of
-
-[20:28]
 and i wanted to end up with a couple of
 points to sum this video up
 
 [20:30]
 points to sum this video up
-
-[20:30]
-points to sum this video up
-that is this is for the redliners you
-
-[20:32]
-that is this is for the redliners you
-
-[20:32]
 that is this is for the redliners you
 cannot go to the ferrari dealer and say
-
-[20:33]
-cannot go to the ferrari dealer and say
-
-[20:34]
-cannot go to the ferrari dealer and say
-that you want to pay in redline winnings
-
-[20:35]
-that you want to pay in redline winnings
-
-[20:36]
 that you want to pay in redline winnings
 okay it is not about the redline
-
-[20:37]
-okay it is not about the redline
-
-[20:37]
-okay it is not about the redline
-winnings okay you're maybe confusing
-
-[20:39]
-winnings okay you're maybe confusing
-
-[20:39]
 winnings okay you're maybe confusing
 of winning the pop most often compared
-
-[20:42]
-of winning the pop most often compared
-
-[20:42]
-of winning the pop most often compared
-to making the highest ev decision okay
-
-[20:44]
-to making the highest ev decision okay
-
-[20:44]
 to making the highest ev decision okay
 this is a common league for people who
 
 [20:45]
 this is a common league for people who
-
-[20:46]
-this is a common league for people who
-are
-
-[20:46]
-are
-
-[20:46]
 are
 over fighting for pots however if you're
-
-[20:49]
-over fighting for pots however if you're
-
-[20:49]
-over fighting for pots however if you're
-losing more than necessarily this is
-
-[20:51]
-losing more than necessarily this is
-
-[20:51]
 losing more than necessarily this is
 definitely a leak
-
-[20:52]
-definitely a leak
-
-[20:52]
-definitely a leak
-okay people then say is it the leak to
-
-[20:54]
-okay people then say is it the leak to
-
-[20:54]
 okay people then say is it the leak to
 have redline losses i would say
-
-[20:56]
-have redline losses i would say
-
-[20:56]
-have redline losses i would say
-depends on how much let's say for
-
-[20:58]
-depends on how much let's say for
-
-[20:58]
 depends on how much let's say for
 example for every buy-in you win
 
 [21:00]
 example for every buy-in you win
-
-[21:00]
-example for every buy-in you win
-you lose around half a buy in
-
-[21:03]
-you lose around half a buy in
-
-[21:03]
 you lose around half a buy in
 so if you win one buy in a showdown and
-
-[21:05]
-so if you win one buy in a showdown and
-
-[21:05]
-so if you win one buy in a showdown and
-you lose around half a buy-in
-
-[21:07]
-you lose around half a buy-in
-
-[21:07]
 you lose around half a buy-in
 in red line i think that is kind of the
-
-[21:11]
-in red line i think that is kind of the
-
-[21:11]
-in red line i think that is kind of the
 yeah it shouldn't drop lower than that
-
-[21:13]
-yeah it shouldn't drop lower than that
-
-[21:13]
-yeah it shouldn't drop lower than that
-preferably it would go a little bit
-
-[21:14]
-preferably it would go a little bit
-
-[21:14]
 preferably it would go a little bit
 towards
 
 [21:15]
-towards
-
-[21:15]
-towards
-towards a little bit more towards break
-
-[21:17]
-towards a little bit more towards break
-
-[21:17]
 towards a little bit more towards break
 even but if it falls below that ratio i
-
-[21:19]
-even but if it falls below that ratio i
-
-[21:19]
-even but if it falls below that ratio i
-would say you're definitely leaking
-
-[21:21]
-would say you're definitely leaking
-
-[21:21]
 would say you're definitely leaking
 and you should definitely look to play a
-
-[21:23]
-and you should definitely look to play a
-
-[21:23]
-and you should definitely look to play a
-couple hands more aggressive
-
-[21:25]
-couple hands more aggressive
-
-[21:25]
 couple hands more aggressive
 in certain spots uh for example we saw
-
-[21:27]
-in certain spots uh for example we saw
-
-[21:27]
-in certain spots uh for example we saw
-that the five six hand
-
-[21:29]
-that the five six hand
-
-[21:29]
 that the five six hand
 on the queen 86 from the outer position
 
 [21:31]
 on the queen 86 from the outer position
-
-[21:31]
-on the queen 86 from the outer position
-was already check raising
-
-[21:32]
-was already check raising
-
-[21:32]
 was already check raising
 you're probably missing out on t stack
-
-[21:34]
-you're probably missing out on t stack
-
-[21:34]
-you're probably missing out on t stack
-of place okay
-
-[21:37]
-of place okay
-
-[21:37]
 of place okay
 it is not that one style is better than
-
-[21:39]
-it is not that one style is better than
-
-[21:39]
-it is not that one style is better than
-the other
-
-[21:40]
-the other
-
-[21:40]
 the other
 it depends on your hand the spot and
-
-[21:42]
-it depends on your hand the spot and
-
-[21:42]
-it depends on your hand the spot and
-your opponent okay
-
-[21:44]
-your opponent okay
-
-[21:44]
 your opponent okay
 if you have your opponent who's over
 
 [21:45]
 if you have your opponent who's over
-
-[21:45]
-if you have your opponent who's over
-folding then by all means be more
-
-[21:47]
-folding then by all means be more
-
-[21:47]
 folding then by all means be more
 aggressive
-
-[21:48]
-aggressive
-
-[21:48]
-aggressive
-okay if you have an opponent who's
-
-[21:50]
-okay if you have an opponent who's
-
-[21:50]
 okay if you have an opponent who's
 underfolding then by all means value bet
-
-[21:52]
-underfolding then by all means value bet
-
-[21:52]
-underfolding then by all means value bet
-the guy
-
-[21:53]
-the guy
-
-[21:53]
 the guy
 thinly and stop bluffing him
-
-[21:57]
-point number three we naturally lean
-
-[21:59]
-point number three we naturally lean
-
-[21:59]
 point number three we naturally lean
 towards
 
 [22:00]
 towards
-
-[22:00]
-towards
-one style know yours to see if you
-
-[22:03]
-one style know yours to see if you
-
-[22:03]
 one style know yours to see if you
 should be on the lookout for spots to be
-
-[22:04]
-should be on the lookout for spots to be
-
-[22:04]
-should be on the lookout for spots to be
-more aggressive or
-
-[22:05]
-more aggressive or
-
-[22:05]
 more aggressive or
 passive so in general
-
-[22:08]
-passive so in general
-
-[22:08]
-passive so in general
-your natural bias or your natural
-
-[22:10]
-your natural bias or your natural
-
-[22:10]
 your natural bias or your natural
 tendency can lean towards being more
-
-[22:12]
-tendency can lean towards being more
-
-[22:12]
-tendency can lean towards being more
-aggressive or passive
-
-[22:13]
-aggressive or passive
-
-[22:13]
 aggressive or passive
 mine in general for example pre-flop i
 
 [22:15]
 mine in general for example pre-flop i
-
-[22:15]
-mine in general for example pre-flop i
-tend to be a little bit more on the
-
-[22:17]
-tend to be a little bit more on the
-
-[22:17]
 tend to be a little bit more on the
 passive side by nature so
-
-[22:18]
-passive side by nature so
-
-[22:18]
-passive side by nature so
-if i don't focus on that i will do way
-
-[22:20]
-if i don't focus on that i will do way
-
-[22:20]
 if i don't focus on that i will do way
 too much calling and wait for less tree
-
-[22:22]
-too much calling and wait for less tree
-
-[22:22]
-too much calling and wait for less tree
 betting or for betting or fight betting
-
-[22:23]
-betting or for betting or fight betting
-
-[22:24]
-betting or for betting or fight betting
-whatever you want usually leading to
-
-[22:27]
-whatever you want usually leading to
-
-[22:27]
 whatever you want usually leading to
 a bit more slacking uh of my redline
 
 [22:30]
 a bit more slacking uh of my redline
-
-[22:30]
-a bit more slacking uh of my redline
-okay so this is an example of a natural
-
-[22:32]
-okay so this is an example of a natural
-
-[22:32]
 okay so this is an example of a natural
 tendency
-
-[22:33]
-tendency
-
-[22:33]
-tendency
-other guys may be a bit too aggressive
-
-[22:36]
-other guys may be a bit too aggressive
-
-[22:36]
 other guys may be a bit too aggressive
 on on certain streets
-
-[22:37]
-on on certain streets
-
-[22:37]
-on on certain streets
-and you know they're straight up
-
-[22:39]
-and you know they're straight up
-
-[22:39]
 and you know they're straight up
 barreling the the jack five
-
-[22:41]
-barreling the the jack five
-
-[22:41]
-barreling the the jack five
 diamonds the ace kings basically any
-
-[22:43]
-diamonds the ace kings basically any
-
-[22:43]
-diamonds the ace kings basically any
-hand that
-
-[22:44]
-hand that
-
-[22:44]
 hand that
 uh that they can they just say listen my
 
 [22:46]
 uh that they can they just say listen my
-
-[22:46]
-uh that they can they just say listen my
-opponent is overfalling i'm barreling
-
-[22:48]
-opponent is overfalling i'm barreling
-
-[22:48]
 opponent is overfalling i'm barreling
 range
-
-[22:48]
-range
-
-[22:48]
-range
-this is not necessarily how poker works
-
-[22:51]
-this is not necessarily how poker works
-
-[22:51]
 this is not necessarily how poker works
 okay guys
-
-[22:52]
-okay guys
-
-[22:52]
-okay guys
 you're kind of ignoring uh evs in other
-
-[22:55]
-you're kind of ignoring uh evs in other
-
-[22:55]
-you're kind of ignoring uh evs in other
-lines as well
-
-[22:56]
-lines as well
-
-[22:56]
 lines as well
 now if you guys need any help
 
 [23:00]
 now if you guys need any help
-
-[23:00]
-now if you guys need any help
-understanding when to redline or when to
-
-[23:02]
-understanding when to redline or when to
-
-[23:02]
 understanding when to redline or when to
 blue line this is all
-
-[23:04]
-blue line this is all
-
-[23:04]
-blue line this is all
-uh a concept of where should my ev come
-
-[23:06]
-uh a concept of where should my ev come
-
-[23:06]
 uh a concept of where should my ev come
 from
-
-[23:07]
-from
-
-[23:07]
-from
-how does certain strategies generate a
-
-[23:09]
-how does certain strategies generate a
-
-[23:09]
 how does certain strategies generate a
 fee we have a program the mechanics of
-
-[23:11]
-fee we have a program the mechanics of
-
-[23:12]
-fee we have a program the mechanics of
-poker in which we can
-
-[23:13]
-poker in which we can
-
-[23:13]
 poker in which we can
 help you get more clarity now if you're
 
 [23:16]
 help you get more clarity now if you're
-
-[23:16]
-help you get more clarity now if you're
-having trouble with
-
-[23:17]
-having trouble with
-
-[23:17]
 having trouble with
 your redline blue line ratio in a
-
-[23:19]
-your redline blue line ratio in a
-
-[23:19]
-your redline blue line ratio in a
-specific spot
-
-[23:20]
-specific spot
-
-[23:20]
 specific spot
 we also start to offer master classes of
-
-[23:23]
-we also start to offer master classes of
-
-[23:23]
-we also start to offer master classes of
 which the first one is now available
-
-[23:26]
-which the first one is now available
-
-[23:26]
-which the first one is now available
-which is how to play three web pods out
-
-[23:28]
-which is how to play three web pods out
-
-[23:28]
 which is how to play three web pods out
 of position definitely more of a redline
 
 [23:30]
 of position definitely more of a redline
-
-[23:30]
-of position definitely more of a redline
-spot than others giving the nature of
-
-[23:32]
-spot than others giving the nature of
-
-[23:32]
 spot than others giving the nature of
 the spot
-
-[23:32]
-the spot
-
-[23:32]
-the spot
-so maybe if you're lacking redline that
-
-[23:35]
-so maybe if you're lacking redline that
-
-[23:35]
 so maybe if you're lacking redline that
 could be a masterclass for
-
-[23:36]
-could be a masterclass for
-
-[23:36]
-could be a masterclass for
-you now if you are not interested in any
-
-[23:39]
-you now if you are not interested in any
-
-[23:40]
 you now if you are not interested in any
 of the products
-
-[23:40]
-of the products
-
-[23:40]
-of the products
-perfectly fine as well i'm sure or i
-
-[23:43]
-perfectly fine as well i'm sure or i
-
-[23:43]
 perfectly fine as well i'm sure or i
 hope you would have gotten some value
 
 [23:45]
 hope you would have gotten some value
-
-[23:45]
-hope you would have gotten some value
-out of this video make sure if you
-
-[23:48]
-out of this video make sure if you
-
-[23:48]
 out of this video make sure if you
 haven't done so to subscribe to our
-
-[23:50]
-haven't done so to subscribe to our
-
-[23:50]
-haven't done so to subscribe to our
-channel so you'll be first to know when
-
-[23:51]
-channel so you'll be first to know when
-
-[23:51]
 channel so you'll be first to know when
 we release new content
-
-[23:53]
-we release new content
-
-[23:53]
-we release new content
-and i wish you guys a lot of luck
-
-[23:55]
-and i wish you guys a lot of luck
-
-[23:55]
 and i wish you guys a lot of luck
 improving your red line and blue line
-
-[23:57]
-improving your red line and blue line
-
-[23:57]
-improving your red line and blue line
 winnings let us know in the comments
-
-[23:58]
-winnings let us know in the comments
-
-[23:58]
-winnings let us know in the comments
-down below
-
-[23:59]
-down below
-
-[23:59]
 down below
 what you were kind of struggling with
 
 [24:00]
 what you were kind of struggling with
-
-[24:00]
-what you were kind of struggling with
-and what are kind of the main takeaways
-
-[24:02]
-and what are kind of the main takeaways
-
-[24:02]
 and what are kind of the main takeaways
 from this video for you
-
-[24:04]
-from this video for you
-
-[24:04]
-from this video for you
 and i wish you guys a lot of luck at
-
-[24:07]
-and i wish you guys a lot of luck at
-
-[24:07]
-and i wish you guys a lot of luck at
-the tables
-
-[24:15]
 the tables
 
 [24:15]

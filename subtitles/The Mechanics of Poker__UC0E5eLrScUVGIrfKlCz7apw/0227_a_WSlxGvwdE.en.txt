@@ -1,1349 +1,281 @@
-Kind: captions
-Language: en
-
 [00:00]
 if you are playing your plock and pairs
-
-[00:01]
-if you are playing your plock and pairs
-
-[00:01]
-if you are playing your plock and pairs
-only to flop a set you're missing out on
-
-[00:04]
-only to flop a set you're missing out on
-
-[00:04]
 only to flop a set you're missing out on
 a lot of EV in this video I will show
-
-[00:06]
-a lot of EV in this video I will show
-
-[00:06]
-a lot of EV in this video I will show
-you guys the modern approach to playing
-
-[00:08]
-you guys the modern approach to playing
-
-[00:08]
 you guys the modern approach to playing
 these low Pairs and show you the five
-
-[00:11]
-these low Pairs and show you the five
-
-[00:11]
-these low Pairs and show you the five
-main reasons why these pairs are way
-
-[00:13]
-main reasons why these pairs are way
-
-[00:13]
 main reasons why these pairs are way
 more powerful than you think even if you
 
 [00:15]
 more powerful than you think even if you
-
-[00:16]
-more powerful than you think even if you
-do not flop a set let's go the first
-
-[00:19]
-do not flop a set let's go the first
-
-[00:19]
 do not flop a set let's go the first
 power of the pocket pair is the EV of
-
-[00:22]
-power of the pocket pair is the EV of
-
-[00:22]
-power of the pocket pair is the EV of
-its improvability Beyond flopping a set
-
-[00:24]
-its improvability Beyond flopping a set
-
-[00:25]
 its improvability Beyond flopping a set
 when I started playing poker the most
-
-[00:26]
-when I started playing poker the most
-
-[00:26]
-when I started playing poker the most
-popular advice around playing these
-
-[00:28]
-popular advice around playing these
-
-[00:28]
 popular advice around playing these
 pocket pairs was no set no bet meaning
 
 [00:32]
 pocket pairs was no set no bet meaning
-
-[00:32]
-pocket pairs was no set no bet meaning
-that you should try to get in pots
-
-[00:33]
-that you should try to get in pots
-
-[00:33]
 that you should try to get in pots
 cheaply with your low pairs try to flop
-
-[00:36]
-cheaply with your low pairs try to flop
-
-[00:36]
-cheaply with your low pairs try to flop
-a set and if you don't put no further
-
-[00:38]
-a set and if you don't put no further
-
-[00:38]
 a set and if you don't put no further
 money into the pot I even remember my
-
-[00:40]
-money into the pot I even remember my
-
-[00:40]
-money into the pot I even remember my
-coach back in the time telling me that
-
-[00:43]
-coach back in the time telling me that
-
-[00:43]
 coach back in the time telling me that
 if you see players barreling pocket pars
 
 [00:45]
 if you see players barreling pocket pars
-
-[00:45]
-if you see players barreling pocket pars
-you should call your friends the reason
-
-[00:47]
-you should call your friends the reason
-
-[00:47]
 you should call your friends the reason
 he said this was because pocket pars if
-
-[00:50]
-he said this was because pocket pars if
-
-[00:50]
-he said this was because pocket pars if
-they don't flop a set they have very
-
-[00:52]
-they don't flop a set they have very
-
-[00:52]
 they don't flop a set they have very
 little Equity to improve especially back
-
-[00:54]
-little Equity to improve especially back
-
-[00:55]
-little Equity to improve especially back
 then all our betting and calling was
-
-[00:57]
-then all our betting and calling was
-
-[00:57]
-then all our betting and calling was
-done around equity and while it's true
-
-[00:59]
-done around equity and while it's true
-
-[00:59]
 done around equity and while it's true
 that the pocket pairs have less outs and
 
 [01:01]
 that the pocket pairs have less outs and
-
-[01:01]
-that the pocket pairs have less outs and
-does Equity than let's say a straight
-
-[01:04]
-does Equity than let's say a straight
-
-[01:04]
 does Equity than let's say a straight
 draw or a flush draw we missed something
-
-[01:06]
-draw or a flush draw we missed something
-
-[01:06]
-draw or a flush draw we missed something
-very important the outs of these pocket
-
-[01:09]
-very important the outs of these pocket
-
-[01:09]
 very important the outs of these pocket
 pairs are way more disguised and
-
-[01:10]
-pairs are way more disguised and
-
-[01:10]
-pairs are way more disguised and
 therefore have greater implied odds
-
-[01:12]
-therefore have greater implied odds
-
-[01:12]
-therefore have greater implied odds
-meaning that if you do hit your set on a
-
-[01:14]
-meaning that if you do hit your set on a
-
-[01:14]
 meaning that if you do hit your set on a
 later Street your opponent won't see it
 
 [01:17]
 later Street your opponent won't see it
-
-[01:17]
-later Street your opponent won't see it
-coming and therefore is way more likely
-
-[01:18]
-coming and therefore is way more likely
-
-[01:19]
 coming and therefore is way more likely
 to put money in the pot as it perceives
-
-[01:21]
-to put money in the pot as it perceives
-
-[01:21]
-to put money in the pot as it perceives
-these turn and rivers to be blanks Power
-
-[01:23]
-these turn and rivers to be blanks Power
-
-[01:23]
 these turn and rivers to be blanks Power
 number two increased fold Equity due to
-
-[01:26]
-number two increased fold Equity due to
-
-[01:26]
-number two increased fold Equity due to
-its unblocking properties next to the EV
-
-[01:29]
-its unblocking properties next to the EV
-
-[01:29]
 its unblocking properties next to the EV
 of having it another reason we pick the
 
 [01:31]
 of having it another reason we pick the
-
-[01:31]
-of having it another reason we pick the
-Bluffs to seabat or Barrel it's due to
-
-[01:33]
-Bluffs to seabat or Barrel it's due to
-
-[01:33]
 Bluffs to seabat or Barrel it's due to
 its blocking and unblocking properties
-
-[01:36]
-its blocking and unblocking properties
-
-[01:36]
-its blocking and unblocking properties
-preferably blocking the hands that call
-
-[01:38]
-preferably blocking the hands that call
-
-[01:38]
 preferably blocking the hands that call
 your bet and unblocking the hands that
-
-[01:39]
-your bet and unblocking the hands that
-
-[01:40]
-your bet and unblocking the hands that
-fall to your B so we enjoy the maximum
-
-[01:42]
-fall to your B so we enjoy the maximum
-
-[01:42]
 fall to your B so we enjoy the maximum
 amount of fault Equity possible take the
 
 [01:45]
 amount of fault Equity possible take the
-
-[01:45]
-amount of fault Equity possible take the
-following example we are button versus
-
-[01:47]
-following example we are button versus
-
-[01:48]
 following example we are button versus
 big blind and after having seat the Flop
-
-[01:50]
-big blind and after having seat the Flop
-
-[01:50]
-big blind and after having seat the Flop
-we can now seat to turn let's look at
-
-[01:53]
-we can now seat to turn let's look at
-
-[01:53]
 we can now seat to turn let's look at
 our straight draws and our pocket pairs
-
-[01:56]
-our straight draws and our pocket pairs
-
-[01:56]
-our straight draws and our pocket pairs
-while with having a straight draw we
-
-[01:58]
-while with having a straight draw we
-
-[01:58]
 while with having a straight draw we
 have four or even eight out to the nuts
 
 [02:00]
 have four or even eight out to the nuts
-
-[02:00]
-have four or even eight out to the nuts
-and some additional outs forsus second
-
-[02:02]
-and some additional outs forsus second
-
-[02:02]
 and some additional outs forsus second
 and third pair we still prefer to check
-
-[02:05]
-and third pair we still prefer to check
-
-[02:05]
-and third pair we still prefer to check
-that hand often and instead use these
-
-[02:07]
-that hand often and instead use these
-
-[02:07]
 that hand often and instead use these
 low pocket pairs as Bluffs now the
-
-[02:10]
-low pocket pairs as Bluffs now the
-
-[02:10]
-low pocket pairs as Bluffs now the
 reason for that we find in venous
-
-[02:12]
-reason for that we find in venous
-
-[02:12]
-reason for that we find in venous
-folding range on the turn because the
-
-[02:13]
-folding range on the turn because the
-
-[02:13]
 folding range on the turn because the
 straight draws block a lot of the hands
 
 [02:15]
 straight draws block a lot of the hands
-
-[02:15]
-straight draws block a lot of the hands
-which villain is going to check F the
-
-[02:17]
-which villain is going to check F the
-
-[02:17]
 which villain is going to check F the
 turn rate which reduces our fault Equity
-
-[02:21]
-turn rate which reduces our fault Equity
-
-[02:21]
-turn rate which reduces our fault Equity
-but if we look at these low pocket pairs
-
-[02:23]
-but if we look at these low pocket pairs
-
-[02:23]
 but if we look at these low pocket pairs
 they don't interfere with the folding
-
-[02:25]
-they don't interfere with the folding
-
-[02:25]
-they don't interfere with the folding
-range AKA they have good unblockers to
-
-[02:27]
-range AKA they have good unblockers to
-
-[02:27]
 range AKA they have good unblockers to
 Barrel which makes them enjoy more more
 
 [02:30]
 Barrel which makes them enjoy more more
-
-[02:30]
-Barrel which makes them enjoy more more
-fault Equity than the straight draws if
-
-[02:32]
-fault Equity than the straight draws if
-
-[02:32]
 fault Equity than the straight draws if
 we continue on this example and we look
-
-[02:34]
-we continue on this example and we look
-
-[02:34]
-we continue on this example and we look
-at the EV of barreling our draw versus
-
-[02:36]
-at the EV of barreling our draw versus
-
-[02:36]
 at the EV of barreling our draw versus
 our pocket pairs you might see something
-
-[02:39]
-our pocket pairs you might see something
-
-[02:39]
-our pocket pairs you might see something
-very confusing barreling the draws has
-
-[02:42]
-very confusing barreling the draws has
-
-[02:42]
 very confusing barreling the draws has
 higher e than barreling the pocket pairs
 
 [02:45]
 higher e than barreling the pocket pairs
-
-[02:45]
-higher e than barreling the pocket pairs
-then why do we prefer beding pocket
-
-[02:48]
-then why do we prefer beding pocket
-
-[02:48]
 then why do we prefer beding pocket
 Pairs and checking straight
-
-[02:49]
-Pairs and checking straight
-
-[02:49]
-Pairs and checking straight
-[Music]
-
-[02:52]
-[Music]
-
-[02:52]
 [Music]
 draws now the reason for this is not
-
-[02:54]
-draws now the reason for this is not
-
-[02:54]
-draws now the reason for this is not
 necessarily a power of the pocket pair
-
-[02:57]
-necessarily a power of the pocket pair
-
-[02:57]
-necessarily a power of the pocket pair
-but more a theoretical principle around
-
-[02:59]
-but more a theoretical principle around
-
-[02:59]
 but more a theoretical principle around
 how to construct ranges that many
 
 [03:01]
 how to construct ranges that many
-
-[03:01]
-how to construct ranges that many
-players get wrong we don't just bet or
-
-[03:03]
-players get wrong we don't just bet or
-
-[03:03]
 players get wrong we don't just bet or
 barar our hands that have the highest EV
-
-[03:05]
-barar our hands that have the highest EV
-
-[03:05]
-barar our hands that have the highest EV
-to reach the desired frequency but
-
-[03:07]
-to reach the desired frequency but
-
-[03:07]
 to reach the desired frequency but
 instead we must compare the EV of
-
-[03:08]
-instead we must compare the EV of
-
-[03:08]
-instead we must compare the EV of
 betting our hand versus checking our
-
-[03:10]
-betting our hand versus checking our
-
-[03:10]
-betting our hand versus checking our
-hand and then choose the highest EV
-
-[03:13]
-hand and then choose the highest EV
-
-[03:13]
 hand and then choose the highest EV
 option now whilst barreling the draw has
 
 [03:15]
 option now whilst barreling the draw has
-
-[03:15]
-option now whilst barreling the draw has
-in the more potential ake checking the
-
-[03:18]
-in the more potential ake checking the
-
-[03:18]
 in the more potential ake checking the
 draw and always realizing our Equity
-
-[03:21]
-draw and always realizing our Equity
-
-[03:21]
-draw and always realizing our Equity
-sometimes hitting a pair on a later
-
-[03:23]
-sometimes hitting a pair on a later
-
-[03:23]
 sometimes hitting a pair on a later
 street that we can value bet or get to
-
-[03:25]
-street that we can value bet or get to
-
-[03:25]
-street that we can value bet or get to
 Showdown also has a lot of EV where
-
-[03:27]
-Showdown also has a lot of EV where
-
-[03:27]
-Showdown also has a lot of EV where
-these low pocket pairs often have way
-
-[03:29]
-these low pocket pairs often have way
-
-[03:29]
 these low pocket pairs often have way
 less Showdown value and improve ability
 
 [03:32]
 less Showdown value and improve ability
-
-[03:32]
-less Showdown value and improve ability
-to be played passively and therefore
-
-[03:34]
-to be played passively and therefore
-
-[03:34]
 to be played passively and therefore
 betting more easily outperforms the EV
-
-[03:36]
-betting more easily outperforms the EV
-
-[03:36]
-betting more easily outperforms the EV
-of
-
-[03:37]
-of
-
-[03:37]
 of
 checking the third power of the pocket
-
-[03:40]
-checking the third power of the pocket
-
-[03:40]
-checking the third power of the pocket
-pair is you are actually value betting
-
-[03:43]
-pair is you are actually value betting
-
-[03:43]
 pair is you are actually value betting
 next to generating EV by getting more
 
 [03:45]
 next to generating EV by getting more
-
-[03:45]
-next to generating EV by getting more
-and better hands to fold we actually
-
-[03:48]
-and better hands to fold we actually
-
-[03:48]
 and better hands to fold we actually
 also generate EV versus some parts of
-
-[03:50]
-also generate EV versus some parts of
-
-[03:50]
-also generate EV versus some parts of
-villains calling range as especially on
-
-[03:52]
-villains calling range as especially on
-
-[03:52]
 villains calling range as especially on
 boards that contain a lot of king and a
-
-[03:54]
-boards that contain a lot of king and a
-
-[03:54]
-boards that contain a lot of king and a
 high draws players will often continue
-
-[03:56]
-high draws players will often continue
-
-[03:56]
-high draws players will often continue
-calling these draws as they expect to be
-
-[03:58]
-calling these draws as they expect to be
-
-[03:58]
 calling these draws as they expect to be
 up against wor draws than them as these
 
 [04:01]
 up against wor draws than them as these
-
-[04:01]
-up against wor draws than them as these
-are the more traditional type of hands
-
-[04:03]
-are the more traditional type of hands
-
-[04:03]
 are the more traditional type of hands
 players would choose to barrel with this
-
-[04:05]
-players would choose to barrel with this
-
-[04:05]
-players would choose to barrel with this
-play Works especially well versus
-
-[04:07]
-play Works especially well versus
-
-[04:07]
 play Works especially well versus
 recreational players who tend to overall
-
-[04:09]
-recreational players who tend to overall
-
-[04:09]
-recreational players who tend to overall
 a lot of their draws and have way more
-
-[04:11]
-a lot of their draws and have way more
-
-[04:11]
-a lot of their draws and have way more
-random third and fourth pairs in their
-
-[04:13]
-random third and fourth pairs in their
-
-[04:13]
 random third and fourth pairs in their
 flop calling range which we can fold out
 
 [04:15]
 flop calling range which we can fold out
-
-[04:15]
-flop calling range which we can fold out
-on the
-
-[04:17]
-on the
-
-[04:17]
 on the
 turn power number four they back the
-
-[04:21]
-turn power number four they back the
-
-[04:21]
-turn power number four they back the
-team so far we've discussed how the pcka
-
-[04:23]
-team so far we've discussed how the pcka
-
-[04:23]
 team so far we've discussed how the pcka
 pair itself generates it TV but it
-
-[04:26]
-pair itself generates it TV but it
-
-[04:26]
-pair itself generates it TV but it
-actually serves a greater non-selfish
-
-[04:28]
-actually serves a greater non-selfish
-
-[04:28]
 actually serves a greater non-selfish
 purpose in your overall strategy a
 
 [04:31]
 purpose in your overall strategy a
-
-[04:31]
-purpose in your overall strategy a
-common problem with the way humans
-
-[04:32]
-common problem with the way humans
-
-[04:32]
 common problem with the way humans
 usually construct ranges is that they're
-
-[04:34]
-usually construct ranges is that they're
-
-[04:34]
-usually construct ranges is that they're
-too focused around Equity the problem
-
-[04:37]
-too focused around Equity the problem
-
-[04:37]
 too focused around Equity the problem
 with this is that when all the draws
-
-[04:39]
-with this is that when all the draws
-
-[04:39]
-with this is that when all the draws
 Miss on the river you will have way too
-
-[04:41]
-Miss on the river you will have way too
-
-[04:41]
-Miss on the river you will have way too
-many Bluffs in your range on the flip
-
-[04:44]
-many Bluffs in your range on the flip
-
-[04:44]
 many Bluffs in your range on the flip
 side if all the draws complete you will
 
 [04:46]
 side if all the draws complete you will
-
-[04:46]
-side if all the draws complete you will
-now no longer have any Bluffs which
-
-[04:49]
-now no longer have any Bluffs which
-
-[04:49]
 now no longer have any Bluffs which
 discourages your opponent from paying
-
-[04:51]
-discourages your opponent from paying
-
-[04:51]
-discourages your opponent from paying
-you off now not getting called in these
-
-[04:53]
-you off now not getting called in these
-
-[04:53]
 you off now not getting called in these
 kind of scenarios because you don't have
-
-[04:55]
-kind of scenarios because you don't have
-
-[04:55]
-kind of scenarios because you don't have
 enough Bluffs really hurts the EV of
-
-[04:58]
-enough Bluffs really hurts the EV of
-
-[04:58]
-enough Bluffs really hurts the EV of
-your value hands and while the attention
-
-[04:59]
-your value hands and while the attention
-
-[04:59]
 your value hands and while the attention
 in poker often goes to the cool Bluffs
 
 [05:02]
 in poker often goes to the cool Bluffs
-
-[05:02]
-in poker often goes to the cool Bluffs
-and big hero calls getting maximum
-
-[05:04]
-and big hero calls getting maximum
-
-[05:04]
 and big hero calls getting maximum
 amount of value out of your value hands
-
-[05:06]
-amount of value out of your value hands
-
-[05:06]
-amount of value out of your value hands
-is actually where most of your money is
-
-[05:08]
-is actually where most of your money is
-
-[05:08]
 is actually where most of your money is
 made a solver looks very far ahead and
-
-[05:11]
-made a solver looks very far ahead and
-
-[05:12]
-made a solver looks very far ahead and
-adjusts its ranges even as early as pre
-
-[05:14]
-adjusts its ranges even as early as pre
-
-[05:14]
 adjusts its ranges even as early as pre
 flop to make sure it has enough Bluffs
 
 [05:16]
 flop to make sure it has enough Bluffs
-
-[05:16]
-flop to make sure it has enough Bluffs
-on all possible boards and Runners that
-
-[05:19]
-on all possible boards and Runners that
-
-[05:19]
 on all possible boards and Runners that
 exist to make sure that its value hands
-
-[05:21]
-exist to make sure that its value hands
-
-[05:21]
-exist to make sure that its value hands
-can cash in for the maximum take the
-
-[05:24]
-can cash in for the maximum take the
-
-[05:24]
 can cash in for the maximum take the
 following example we call pocket Deuces
-
-[05:27]
-following example we call pocket Deuces
-
-[05:27]
-following example we call pocket Deuces
-to a three bat and the Flop comes king
-
-[05:29]
-to a three bat and the Flop comes king
-
-[05:29]
 to a three bat and the Flop comes king
 queen Jack our opponent bets one quarter
 
 [05:32]
 queen Jack our opponent bets one quarter
-
-[05:32]
-queen Jack our opponent bets one quarter
-of the pot and while most players would
-
-[05:34]
-of the pot and while most players would
-
-[05:34]
 of the pot and while most players would
 have mucked as soon as villain reaches
-
-[05:36]
-have mucked as soon as villain reaches
-
-[05:36]
-have mucked as soon as villain reaches
-for chips the solver actually has
-
-[05:38]
-for chips the solver actually has
-
-[05:38]
 for chips the solver actually has
 different plans and calls the seabat now
-
-[05:41]
-different plans and calls the seabat now
-
-[05:41]
-different plans and calls the seabat now
-the interesting point is the EV of the
-
-[05:44]
-the interesting point is the EV of the
-
-[05:44]
 the interesting point is the EV of the
 call the solver is actually not
 
 [05:46]
 call the solver is actually not
-
-[05:46]
-call the solver is actually not
-generating much to any EV with calling
-
-[05:48]
-generating much to any EV with calling
-
-[05:48]
 generating much to any EV with calling
 these low pairs however when we remove
-
-[05:51]
-these low pairs however when we remove
-
-[05:51]
-these low pairs however when we remove
-the calling of low pocket pairs to the
-
-[05:53]
-the calling of low pocket pairs to the
-
-[05:53]
 the calling of low pocket pairs to the
 cat and now compare the EV of our M
-
-[05:56]
-cat and now compare the EV of our M
-
-[05:56]
-cat and now compare the EV of our M
-hands we can see that these now generate
-
-[05:58]
-hands we can see that these now generate
-
-[05:58]
 hands we can see that these now generate
 significant less EV as when we always
 
 [06:01]
 significant less EV as when we always
-
-[06:01]
-significant less EV as when we always
-fold our Deuces on the Flop and the turn
-
-[06:03]
-fold our Deuces on the Flop and the turn
-
-[06:03]
 fold our Deuces on the Flop and the turn
 is a 10 or Ace for example it's
-
-[06:06]
-is a 10 or Ace for example it's
-
-[06:06]
-is a 10 or Ace for example it's
-impossible for us to generate EV as we
-
-[06:09]
-impossible for us to generate EV as we
-
-[06:09]
 impossible for us to generate EV as we
 have no Bluffs to encourage our opponent
-
-[06:11]
-have no Bluffs to encourage our opponent
-
-[06:11]
-have no Bluffs to encourage our opponent
-from putting money in the pot now while
-
-[06:13]
-from putting money in the pot now while
-
-[06:13]
 from putting money in the pot now while
 in theory this Bluff does not make you
 
 [06:15]
 in theory this Bluff does not make you
-
-[06:15]
-in theory this Bluff does not make you
-any money getting to these completing
-
-[06:17]
-any money getting to these completing
-
-[06:17]
 any money getting to these completing
 runouts with your low pocket pairs in
-
-[06:19]
-runouts with your low pocket pairs in
-
-[06:19]
-runouts with your low pocket pairs in
-practice will as it's likely that your
-
-[06:21]
-practice will as it's likely that your
-
-[06:21]
 practice will as it's likely that your
 opponent will not be able to put you on
-
-[06:22]
-opponent will not be able to put you on
-
-[06:22]
-opponent will not be able to put you on
-enough Bluffs and therefore will start
-
-[06:24]
-enough Bluffs and therefore will start
-
-[06:24]
 enough Bluffs and therefore will start
 over
-
-[06:26]
-over
-
-[06:26]
-over
-folding so to conclude the fourth power
-
-[06:29]
-folding so to conclude the fourth power
-
-[06:29]
 folding so to conclude the fourth power
 of the pocket pair increasing the EV of
 
 [06:32]
 of the pocket pair increasing the EV of
-
-[06:32]
-of the pocket pair increasing the EV of
-your mid Hands by having Bluffs on all
-
-[06:34]
-your mid Hands by having Bluffs on all
-
-[06:34]
 your mid Hands by having Bluffs on all
 possible runouts and taking one for the
-
-[06:37]
-possible runouts and taking one for the
-
-[06:37]
-possible runouts and taking one for the
-team now for the fifth and last power of
-
-[06:39]
-team now for the fifth and last power of
-
-[06:39]
 team now for the fifth and last power of
 the pocket pair I want you guys to play
-
-[06:41]
-the pocket pair I want you guys to play
-
-[06:41]
-the pocket pair I want you guys to play
-the following hand with me we defend
-
-[06:43]
-the following hand with me we defend
-
-[06:43]
 the following hand with me we defend
 from the big blind and check call a
 
 [06:45]
 from the big blind and check call a
-
-[06:45]
-from the big blind and check call a
-seabat on the turn we Face a barrel and
-
-[06:48]
-seabat on the turn we Face a barrel and
-
-[06:48]
 seabat on the turn we Face a barrel and
 decide to call again the river is the
-
-[06:51]
-decide to call again the river is the
-
-[06:51]
-decide to call again the river is the
-biggest brick in the deck and facing a
-
-[06:53]
-biggest brick in the deck and facing a
-
-[06:53]
 biggest brick in the deck and facing a
 bat we are pretty happy calling down as
-
-[06:57]
-bat we are pretty happy calling down as
-
-[06:57]
-bat we are pretty happy calling down as
-we have a strong hand and the board ran
-
-[06:59]
-we have a strong hand and the board ran
-
-[06:59]
 we have a strong hand and the board ran
 out in a way that it's impossible our
 
 [07:01]
 out in a way that it's impossible our
-
-[07:01]
-out in a way that it's impossible our
-opponent has improved to a better hand
-
-[07:03]
-opponent has improved to a better hand
-
-[07:03]
 opponent has improved to a better hand
 than ours right we call and villain
-
-[07:06]
-than ours right we call and villain
-
-[07:06]
-than ours right we call and villain
 shows up with pocket Deuces rivering a
-
-[07:09]
-shows up with pocket Deuces rivering a
-
-[07:09]
-shows up with pocket Deuces rivering a
-set the [ __ ] so for the fifth
-
-[07:12]
-set the [ __ ] so for the fifth
-
-[07:12]
 set the [ __ ] so for the fifth
 and last power of the pocket pair it's
 
 [07:15]
 and last power of the pocket pair it's
-
-[07:15]
-and last power of the pocket pair it's
-that pleasure you get and that pain you
-
-[07:17]
-that pleasure you get and that pain you
-
-[07:17]
 that pleasure you get and that pain you
 uce when hitting your set on the river
-
-[07:20]
-uce when hitting your set on the river
-
-[07:20]
-uce when hitting your set on the river
-go tilt them guys if you liked this
-
-[07:23]
-go tilt them guys if you liked this
-
-[07:23]
 go tilt them guys if you liked this
 video give it a thumbs up and subscribe
-
-[07:25]
-video give it a thumbs up and subscribe
-
-[07:25]
-video give it a thumbs up and subscribe
 to the channel if you like this video
-
-[07:27]
-to the channel if you like this video
-
-[07:27]
-to the channel if you like this video
-chances here you will like this video
-
-[07:29]
-chances here you will like this video
-
-[07:29]
 chances here you will like this video
 here as well so go check that out

@@ -1,5026 +1,997 @@
-Kind: captions
-Language: en
-
 [00:00]
 it's by exploiting basically you
-
-[00:03]
-it's by exploiting basically you
-
-[00:03]
-it's by exploiting basically you
-understand how eevee is generated in
-
-[00:04]
-understand how eevee is generated in
-
-[00:04]
 understand how eevee is generated in
 theory
-
-[00:05]
-theory
-
-[00:05]
-theory
-and now you're gonna go from defensive
-
-[00:07]
-and now you're gonna go from defensive
-
-[00:07]
 and now you're gonna go from defensive
 poker so you're trying to play
-
-[00:08]
-poker so you're trying to play
-
-[00:08]
-poker so you're trying to play
-as unexploitable as possible gto so
-
-[00:11]
-as unexploitable as possible gto so
-
-[00:11]
 as unexploitable as possible gto so
 basically if someone else deviates you
-
-[00:13]
-basically if someone else deviates you
-
-[00:13]
-basically if someone else deviates you
-win
-
-[00:13]
-win
-
-[00:13]
 win
 okay but now you're gonna go to how i
 
 [00:16]
 okay but now you're gonna go to how i
-
-[00:16]
-okay but now you're gonna go to how i
-would call it offensive poker basically
-
-[00:17]
-would call it offensive poker basically
-
-[00:17]
 would call it offensive poker basically
 you're gonna open your game up for
-
-[00:19]
-you're gonna open your game up for
-
-[00:19]
-you're gonna open your game up for
-exploitation
-
-[00:20]
-exploitation
-
-[00:20]
 exploitation
 you're gonna exploit your opponents if
-
-[00:23]
-you're gonna exploit your opponents if
-
-[00:23]
-you're gonna exploit your opponents if
-they don't
-
-[00:23]
-they don't
-
-[00:23]
 they don't
 re-exploit you you will have the
-
-[00:25]
-re-exploit you you will have the
-
-[00:25]
-re-exploit you you will have the
 maximizing strategy
-
-[00:26]
-maximizing strategy
-
-[00:26]
-maximizing strategy
-okay so it's exploitative but you're
-
-[00:29]
-okay so it's exploitative but you're
-
-[00:29]
 okay so it's exploitative but you're
 optimizing versus that exploit
 
 [00:31]
 optimizing versus that exploit
-
-[00:31]
-optimizing versus that exploit
-[Music]
-
-[00:37]
-[Music]
-
-[00:37]
 [Music]
 welcome fellow poker players to another
-
-[00:39]
-welcome fellow poker players to another
-
-[00:39]
-welcome fellow poker players to another
-video here on the poker ambition channel
-
-[00:41]
-video here on the poker ambition channel
-
-[00:41]
 video here on the poker ambition channel
 in which today we are going to be
-
-[00:43]
-in which today we are going to be
-
-[00:43]
-in which today we are going to be
-discussing
-
-[00:44]
-discussing
-
-[00:44]
 discussing
 how to go from 2bb to 8bb
 
 [00:48]
 how to go from 2bb to 8bb
-
-[00:48]
-how to go from 2bb to 8bb
-a little bit of a different touch this
-
-[00:50]
-a little bit of a different touch this
-
-[00:50]
 a little bit of a different touch this
 video okay we're not going to say check
-
-[00:52]
-video okay we're not going to say check
-
-[00:52]
-video okay we're not going to say check
-raise more
-
-[00:53]
-raise more
-
-[00:53]
 raise more
 see that more etc etc no we're going to
-
-[00:56]
-see that more etc etc no we're going to
-
-[00:56]
-see that more etc etc no we're going to
 go
-
-[00:56]
-go
-
-[00:56]
-go
-look at being a poker professional as a
-
-[00:59]
-look at being a poker professional as a
-
-[00:59]
 look at being a poker professional as a
 whole so not only the playing but
 
 [01:01]
 whole so not only the playing but
-
-[01:01]
-whole so not only the playing but
-also everything that goes around being a
-
-[01:03]
-also everything that goes around being a
-
-[01:04]
 also everything that goes around being a
 professional poker player
-
-[01:05]
-professional poker player
-
-[01:05]
-professional poker player
-okay it kind of all has to work at least
-
-[01:09]
-okay it kind of all has to work at least
-
-[01:09]
 okay it kind of all has to work at least
 into
-
-[01:09]
-into
-
-[01:09]
-into
 a certain level in order for you guys to
-
-[01:11]
-a certain level in order for you guys to
-
-[01:11]
-a certain level in order for you guys to
-succeed in your poker career
-
-[01:14]
-succeed in your poker career
-
-[01:14]
 succeed in your poker career
 now if you liked this video make sure to
 
 [01:17]
 now if you liked this video make sure to
-
-[01:17]
-now if you liked this video make sure to
-remember to give it a thumbs up and
-
-[01:18]
-remember to give it a thumbs up and
-
-[01:18]
 remember to give it a thumbs up and
 leave a comment down below
-
-[01:20]
-leave a comment down below
-
-[01:20]
-leave a comment down below
 and without further ado let's get into
-
-[01:23]
-and without further ado let's get into
-
-[01:23]
-and without further ado let's get into
-it so i named it going from 2bb
-
-[01:26]
-it so i named it going from 2bb
-
-[01:26]
 it so i named it going from 2bb
 to 8bb and this was actually based
 
 [01:30]
 to 8bb and this was actually based
-
-[01:30]
-to 8bb and this was actually based
-on a couple of questions that i got on
-
-[01:32]
-on a couple of questions that i got on
-
-[01:32]
 on a couple of questions that i got on
 twitch
-
-[01:33]
-twitch
-
-[01:33]
-twitch
-where i stream if you guys have never
-
-[01:36]
-where i stream if you guys have never
-
-[01:36]
 where i stream if you guys have never
 followed a twitch stream
-
-[01:37]
-followed a twitch stream
-
-[01:37]
-followed a twitch stream
-please come along to the waco show and
-
-[01:40]
-please come along to the waco show and
-
-[01:40]
 please come along to the waco show and
 basically
-
-[01:41]
-basically
-
-[01:41]
-basically
-they're asking well mr wacko what do you
-
-[01:43]
-they're asking well mr wacko what do you
-
-[01:43]
 they're asking well mr wacko what do you
 think your current win rate is
 
 [01:45]
 think your current win rate is
-
-[01:45]
-think your current win rate is
-okay this was me playing four hours a
-
-[01:48]
-okay this was me playing four hours a
-
-[01:48]
 okay this was me playing four hours a
 week
-
-[01:48]
-week
-
-[01:48]
-week
-having some fun at 500 zoom with the
-
-[01:50]
-having some fun at 500 zoom with the
-
-[01:50]
 having some fun at 500 zoom with the
 twitch chat
-
-[01:52]
-twitch chat
-
-[01:52]
-twitch chat
-and i said to them wow i don't know
-
-[01:54]
-and i said to them wow i don't know
-
-[01:54]
 and i said to them wow i don't know
 probably around 2 bb
-
-[01:56]
-probably around 2 bb
-
-[01:56]
-probably around 2 bb
-and then a session later someone asked
-
-[01:59]
-and then a session later someone asked
-
-[01:59]
 and then a session later someone asked
 me what do you what winrate do you think
 
 [02:00]
 me what do you what winrate do you think
-
-[02:00]
-me what do you what winrate do you think
-is possible
-
-[02:01]
-is possible
-
-[02:01]
 is possible
 and i answered 8bp so
-
-[02:04]
-and i answered 8bp so
-
-[02:04]
-and i answered 8bp so
-that means that there is a gap between
-
-[02:06]
-that means that there is a gap between
-
-[02:06]
 that means that there is a gap between
 what i'm currently winning
-
-[02:07]
-what i'm currently winning
-
-[02:08]
-what i'm currently winning
-and what i think it's possible to win at
-
-[02:09]
-and what i think it's possible to win at
-
-[02:09]
 and what i think it's possible to win at
 these games so then i started to think
-
-[02:11]
-these games so then i started to think
-
-[02:12]
-these games so then i started to think
-hey this is actually great content
-
-[02:13]
-hey this is actually great content
-
-[02:13]
 hey this is actually great content
 to explain to you guys guys how i would
 
 [02:16]
 to explain to you guys guys how i would
-
-[02:16]
-to explain to you guys guys how i would
-now close that gap
-
-[02:18]
-now close that gap
-
-[02:18]
 now close that gap
 okay if you don't follow me guys
-
-[02:21]
-okay if you don't follow me guys
-
-[02:21]
-okay if you don't follow me guys
-twitch.tv slash poker ambition the wacko
-
-[02:24]
-twitch.tv slash poker ambition the wacko
-
-[02:24]
 twitch.tv slash poker ambition the wacko
 show
-
-[02:24]
-show
-
-[02:24]
-show
 please come give a follow a stream uh go
-
-[02:27]
-please come give a follow a stream uh go
-
-[02:27]
-please come give a follow a stream uh go
-go over to the twitch stream
-
-[02:28]
-go over to the twitch stream
-
-[02:28]
 go over to the twitch stream
 and to the to the schedule and there you
 
 [02:31]
 and to the to the schedule and there you
-
-[02:31]
-and to the to the schedule and there you
-can see
-
-[02:32]
-can see
-
-[02:32]
 can see
 when i'll be live but without further
-
-[02:34]
-when i'll be live but without further
-
-[02:34]
-when i'll be live but without further
-ado let's get into point one
-
-[02:36]
-ado let's get into point one
-
-[02:36]
 ado let's get into point one
 which is quite obvious so how do we go
-
-[02:38]
-which is quite obvious so how do we go
-
-[02:38]
-which is quite obvious so how do we go
 from zero to one basically how do we
-
-[02:41]
-from zero to one basically how do we
-
-[02:41]
-from zero to one basically how do we
-you know become a non-losing player not
-
-[02:44]
-you know become a non-losing player not
-
-[02:44]
 you know become a non-losing player not
 break even player well these are like
 
 [02:45]
 break even player well these are like
-
-[02:45]
-break even player well these are like
-your fundamentals right
-
-[02:47]
-your fundamentals right
-
-[02:47]
 your fundamentals right
 um so i call them like your cb game this
-
-[02:50]
-um so i call them like your cb game this
-
-[02:50]
-um so i call them like your cb game this
-is kind of
-
-[02:51]
-is kind of
-
-[02:51]
 is kind of
 for example when i started streaming i
-
-[02:53]
-for example when i started streaming i
-
-[02:53]
-for example when i started streaming i
-hadn't played
-
-[02:54]
-hadn't played
-
-[02:54]
 hadn't played
 in quite a while so basically the game
-
-[02:56]
-in quite a while so basically the game
-
-[02:56]
-in quite a while so basically the game
 that showed up was gonna be my c game
-
-[02:58]
-that showed up was gonna be my c game
-
-[02:58]
-that showed up was gonna be my c game
-like the absolute
-
-[02:59]
-like the absolute
-
-[02:59]
 like the absolute
 bottom where i could fall back on
 
 [03:02]
 bottom where i could fall back on
-
-[03:02]
-bottom where i could fall back on
-in general in order for you to start
-
-[03:05]
-in general in order for you to start
-
-[03:06]
 in general in order for you to start
 winning at poker you're probably playing
-
-[03:07]
-winning at poker you're probably playing
-
-[03:07]
-winning at poker you're probably playing
-at the right stake for your skill and
-
-[03:09]
-at the right stake for your skill and
-
-[03:09]
 at the right stake for your skill and
 bankroll
-
-[03:10]
-bankroll
-
-[03:10]
-bankroll
-it's quite obvious you have some decent
-
-[03:13]
-it's quite obvious you have some decent
-
-[03:13]
 it's quite obvious you have some decent
 preflop ranges you have a certain
 
 [03:17]
 preflop ranges you have a certain
-
-[03:17]
-preflop ranges you have a certain
-default understanding of how poker works
-
-[03:19]
-default understanding of how poker works
-
-[03:19]
 default understanding of how poker works
 and then i mean
-
-[03:21]
-and then i mean
-
-[03:21]
-and then i mean
-how do you generate ev you are probably
-
-[03:24]
-how do you generate ev you are probably
-
-[03:24]
 how do you generate ev you are probably
 able to
-
-[03:25]
-able to
-
-[03:25]
-able to
-translate how to generate mv into a
-
-[03:27]
-translate how to generate mv into a
-
-[03:27]
 translate how to generate mv into a
 strategy that you can
-
-[03:28]
-strategy that you can
-
-[03:28]
-strategy that you can
-execute so this is like your
-
-[03:29]
-execute so this is like your
-
-[03:29]
 execute so this is like your
 interpretation of how poco works
 
 [03:32]
 interpretation of how poco works
-
-[03:32]
-interpretation of how poco works
-and you probably have certain basics of
-
-[03:35]
-and you probably have certain basics of
-
-[03:35]
 and you probably have certain basics of
 mental game performance
-
-[03:37]
-mental game performance
-
-[03:37]
-mental game performance
-and management of your career now you
-
-[03:39]
-and management of your career now you
-
-[03:39]
 and management of your career now you
 might be better in
-
-[03:40]
-might be better in
-
-[03:40]
-might be better in
-some areas and you slack in others but
-
-[03:43]
-some areas and you slack in others but
-
-[03:43]
 some areas and you slack in others but
 basically this
 
 [03:45]
 basically this
-
-[03:45]
-basically this
-if you would count up these what it is
-
-[03:47]
-if you would count up these what it is
-
-[03:48]
 if you would count up these what it is
 one two three four if you would count up
-
-[03:49]
-one two three four if you would count up
-
-[03:49]
-one two three four if you would count up
-these five points it would have a
-
-[03:50]
-these five points it would have a
-
-[03:50]
 these five points it would have a
 certain minimum which makes you a
-
-[03:52]
-certain minimum which makes you a
-
-[03:52]
-certain minimum which makes you a
 winning player
-
-[03:54]
-winning player
-
-[03:54]
-winning player
-very basic tend to go from one to two
-
-[03:58]
-very basic tend to go from one to two
-
-[03:58]
 very basic tend to go from one to two
 eliminating distractions and stop
 
 [04:00]
 eliminating distractions and stop
-
-[04:00]
-eliminating distractions and stop
-multitasking now obviously
-
-[04:02]
-multitasking now obviously
-
-[04:02]
 multitasking now obviously
 if i would if i'm streaming twitch i'm
-
-[04:04]
-if i would if i'm streaming twitch i'm
-
-[04:04]
-if i would if i'm streaming twitch i'm
-multitasking and i'm very distracted so
-
-[04:06]
-multitasking and i'm very distracted so
-
-[04:06]
 multitasking and i'm very distracted so
 obviously that doesn't really contribute
-
-[04:08]
-obviously that doesn't really contribute
-
-[04:08]
-obviously that doesn't really contribute
-to a high rim rate
-
-[04:09]
-to a high rim rate
-
-[04:09]
 to a high rim rate
 but i see a lot of players they might
-
-[04:11]
-but i see a lot of players they might
-
-[04:11]
-but i see a lot of players they might
-use skype discord whatever while playing
-
-[04:13]
-use skype discord whatever while playing
-
-[04:13]
 use skype discord whatever while playing
 they have their cell phone inside
 
 [04:15]
 they have their cell phone inside
-
-[04:15]
-they have their cell phone inside
-these are all attention killers okay
-
-[04:19]
-these are all attention killers okay
-
-[04:19]
 these are all attention killers okay
 your brain can not multitask
-
-[04:22]
-your brain can not multitask
-
-[04:22]
-your brain can not multitask
-all right you can maybe train it to
-
-[04:24]
-all right you can maybe train it to
-
-[04:24]
 all right you can maybe train it to
 shift between
-
-[04:25]
-shift between
-
-[04:25]
-shift between
 tasks faster but it's either focusing on
-
-[04:27]
-tasks faster but it's either focusing on
-
-[04:27]
-tasks faster but it's either focusing on
-one tasks or the other
-
-[04:29]
-one tasks or the other
-
-[04:29]
 one tasks or the other
 and the problem with this is as soon as
 
 [04:31]
 and the problem with this is as soon as
-
-[04:31]
-and the problem with this is as soon as
-you switch a task or as soon as you get
-
-[04:33]
-you switch a task or as soon as you get
-
-[04:33]
 you switch a task or as soon as you get
 distracted
-
-[04:34]
-distracted
-
-[04:34]
-distracted
-as point 2 mentions it takes your brain
-
-[04:37]
-as point 2 mentions it takes your brain
-
-[04:37]
 as point 2 mentions it takes your brain
 roughly
-
-[04:38]
-roughly
-
-[04:38]
-roughly
 20 to 25 minutes in order to refocus so
-
-[04:40]
-20 to 25 minutes in order to refocus so
-
-[04:40]
-20 to 25 minutes in order to refocus so
-to get back to the same level of focus
-
-[04:42]
-to get back to the same level of focus
-
-[04:42]
 to get back to the same level of focus
 now if you know this it's very important
 
 [04:45]
 now if you know this it's very important
-
-[04:45]
-now if you know this it's very important
-to
-
-[04:46]
-to
-
-[04:46]
 to
 protect your focus and protect your
-
-[04:48]
-protect your focus and protect your
-
-[04:48]
-protect your focus and protect your
-playing environment so you don't get
-
-[04:49]
-playing environment so you don't get
-
-[04:49]
 playing environment so you don't get
 disturbed
-
-[04:51]
-disturbed
-
-[04:51]
-disturbed
-okay another very important thing is to
-
-[04:53]
-okay another very important thing is to
-
-[04:53]
 okay another very important thing is to
 get your mind in the right place
-
-[04:56]
-get your mind in the right place
-
-[04:56]
-get your mind in the right place
-setting intention to focus and refocus
-
-[04:59]
-setting intention to focus and refocus
-
-[04:59]
 setting intention to focus and refocus
 setting the intention to focus is quite
 
 [05:01]
 setting the intention to focus is quite
-
-[05:01]
-setting the intention to focus is quite
-interesting and actually i have a point
-
-[05:02]
-interesting and actually i have a point
-
-[05:02]
 interesting and actually i have a point
 i think a couple of bb's later
-
-[05:04]
-i think a couple of bb's later
-
-[05:04]
-i think a couple of bb's later
-where i talk a little bit about how the
-
-[05:06]
-where i talk a little bit about how the
-
-[05:06]
 where i talk a little bit about how the
 brain works
-
-[05:07]
-brain works
-
-[05:07]
-brain works
 in involves how the brain works
-
-[05:11]
-in involves how the brain works
-
-[05:11]
-in involves how the brain works
-when it comes down to playing poker but
-
-[05:13]
-when it comes down to playing poker but
-
-[05:14]
 when it comes down to playing poker but
 i think especially setting the intention
 
 [05:16]
 i think especially setting the intention
-
-[05:16]
-i think especially setting the intention
-to refocus so when you notice that your
-
-[05:18]
-to refocus so when you notice that your
-
-[05:18]
 to refocus so when you notice that your
 mind is drifting off
-
-[05:20]
-mind is drifting off
-
-[05:20]
-mind is drifting off
-some mindfulness here making the
-
-[05:22]
-some mindfulness here making the
-
-[05:22]
 some mindfulness here making the
 commitment now that
-
-[05:23]
-commitment now that
-
-[05:23]
-commitment now that
-you will spot that and refocus okay as
-
-[05:25]
-you will spot that and refocus okay as
-
-[05:25]
 you will spot that and refocus okay as
 soon as you feel
-
-[05:27]
-soon as you feel
-
-[05:27]
-soon as you feel
-a little bit rushed or as soon as you
-
-[05:29]
-a little bit rushed or as soon as you
-
-[05:29]
 a little bit rushed or as soon as you
 feel a little bit impatient
 
 [05:30]
 feel a little bit impatient
-
-[05:30]
-feel a little bit impatient
-that you start to observe those feelings
-
-[05:32]
-that you start to observe those feelings
-
-[05:32]
 that you start to observe those feelings
 and have a point to come back to
-
-[05:34]
-and have a point to come back to
-
-[05:34]
-and have a point to come back to
-okay for example i would say okay how
-
-[05:37]
-okay for example i would say okay how
-
-[05:37]
 okay for example i would say okay how
 can i
-
-[05:38]
-can i
-
-[05:38]
-can i
 increase my win rate at this table if i
-
-[05:39]
-increase my win rate at this table if i
-
-[05:39]
-increase my win rate at this table if i
-feel like i'm zoning out because
-
-[05:41]
-feel like i'm zoning out because
-
-[05:41]
 feel like i'm zoning out because
 um the challenge might not be big enough
 
 [05:45]
 um the challenge might not be big enough
-
-[05:45]
-um the challenge might not be big enough
-or i
-
-[05:45]
-or i
-
-[05:45]
 or i
 in general i'm just autopiloting and i
-
-[05:48]
-in general i'm just autopiloting and i
-
-[05:48]
-in general i'm just autopiloting and i
-don't really feel engaged
-
-[05:49]
-don't really feel engaged
-
-[05:49]
 don't really feel engaged
 all right so i have points that i have
-
-[05:51]
-all right so i have points that i have
-
-[05:51]
-all right so i have points that i have
-the intention that i will refocus on
-
-[05:53]
-the intention that i will refocus on
-
-[05:53]
 the intention that i will refocus on
 certain points in order to
-
-[05:54]
-certain points in order to
-
-[05:54]
-certain points in order to
 re-engage myself into the session
-
-[05:57]
-re-engage myself into the session
-
-[05:58]
-re-engage myself into the session
-another thing you can do is invest in
-
-[05:59]
-another thing you can do is invest in
-
-[05:59]
 another thing you can do is invest in
 long-term concentration enhancing habits
 
 [06:02]
 long-term concentration enhancing habits
-
-[06:02]
-long-term concentration enhancing habits
-meditation definitely has shown to
-
-[06:04]
-meditation definitely has shown to
-
-[06:04]
 meditation definitely has shown to
 increase your focus because basically
-
-[06:05]
-increase your focus because basically
-
-[06:05]
-increase your focus because basically
-you're training your muscle to get
-
-[06:07]
-you're training your muscle to get
-
-[06:07]
 you're training your muscle to get
 better at refocusing
-
-[06:09]
-better at refocusing
-
-[06:09]
-better at refocusing
-actually adam has a whole part on how to
-
-[06:11]
-actually adam has a whole part on how to
-
-[06:11]
 actually adam has a whole part on how to
 do this and how to get better at this in
-
-[06:13]
-do this and how to get better at this in
-
-[06:13]
-do this and how to get better at this in
-the mechanics of
-
-[06:14]
-the mechanics of
-
-[06:14]
 the mechanics of
 poker so two to three bb okay we're
 
 [06:18]
 poker so two to three bb okay we're
-
-[06:18]
-poker so two to three bb okay we're
-starting to
-
-[06:19]
-starting to
-
-[06:19]
 starting to
 become an okay winner how do we get
-
-[06:22]
-become an okay winner how do we get
-
-[06:22]
-become an okay winner how do we get
-further well we have to increase
-
-[06:23]
-further well we have to increase
-
-[06:23]
 further well we have to increase
 our engagement and curiosity and this is
-
-[06:26]
-our engagement and curiosity and this is
-
-[06:26]
-our engagement and curiosity and this is
 kind of the point that i touched on
-
-[06:27]
-kind of the point that i touched on
-
-[06:27]
-kind of the point that i touched on
-about the brain
-
-[06:28]
-about the brain
-
-[06:28]
 about the brain
 the brain goes on autopilot if it
 
 [06:30]
 the brain goes on autopilot if it
-
-[06:30]
-the brain goes on autopilot if it
-identifies a repetitive task in order to
-
-[06:33]
-identifies a repetitive task in order to
-
-[06:33]
 identifies a repetitive task in order to
 save energy
-
-[06:34]
-save energy
-
-[06:34]
-save energy
-your brain is an energy consuming
-
-[06:36]
-your brain is an energy consuming
-
-[06:36]
 your brain is an energy consuming
 machine
-
-[06:37]
-machine
-
-[06:37]
-machine
-it knows that and you know your body and
-
-[06:39]
-it knows that and you know your body and
-
-[06:39]
 it knows that and you know your body and
 your brain they communicate quite well
-
-[06:42]
-your brain they communicate quite well
-
-[06:42]
-your brain they communicate quite well
-in order to save energy he sees okay
-
-[06:44]
-in order to save energy he sees okay
-
-[06:44]
 in order to save energy he sees okay
 you're playing poker every day
 
 [06:46]
 you're playing poker every day
-
-[06:46]
-you're playing poker every day
-and if you don't set new goals and are
-
-[06:49]
-and if you don't set new goals and are
-
-[06:49]
 and if you don't set new goals and are
 not engaged you will start your brain
-
-[06:50]
-not engaged you will start your brain
-
-[06:50]
-not engaged you will start your brain
-will start to recognize
-
-[06:51]
-will start to recognize
-
-[06:51]
 will start to recognize
 poker's repetitive tasks and will go on
-
-[06:54]
-poker's repetitive tasks and will go on
-
-[06:54]
-poker's repetitive tasks and will go on
 autopilot to save energy
-
-[06:56]
-autopilot to save energy
-
-[06:56]
-autopilot to save energy
-now think about that one for a second so
-
-[06:58]
-now think about that one for a second so
-
-[06:58]
 now think about that one for a second so
 the thing that's actually your work and
 
 [07:00]
 the thing that's actually your work and
-
-[07:00]
-the thing that's actually your work and
-that you're trying to excel one your
-
-[07:01]
-that you're trying to excel one your
-
-[07:01]
 that you're trying to excel one your
 brain
-
-[07:01]
-brain
-
-[07:02]
-brain
-is associating as a repetitive desk and
-
-[07:03]
-is associating as a repetitive desk and
-
-[07:03]
 is associating as a repetitive desk and
 therefore goes an autopilot
-
-[07:05]
-therefore goes an autopilot
-
-[07:05]
-therefore goes an autopilot
-big mistake okay this is not what we
-
-[07:07]
-big mistake okay this is not what we
-
-[07:07]
 big mistake okay this is not what we
 want the brain to do but
-
-[07:09]
-want the brain to do but
-
-[07:09]
-want the brain to do but
 you know the brain thinks this is good
-
-[07:10]
-you know the brain thinks this is good
-
-[07:10]
-you know the brain thinks this is good
-for us so how do we prevent that
-
-[07:12]
-for us so how do we prevent that
-
-[07:12]
 for us so how do we prevent that
 that is by erasing our curiosity and
 
 [07:15]
 that is by erasing our curiosity and
-
-[07:15]
-that is by erasing our curiosity and
-increasing our engagement
-
-[07:17]
-increasing our engagement
-
-[07:17]
 increasing our engagement
 like setting certain intentions having
-
-[07:19]
-like setting certain intentions having
-
-[07:19]
-like setting certain intentions having
-certain focus points that's why i think
-
-[07:20]
-certain focus points that's why i think
-
-[07:20]
 certain focus points that's why i think
 it's always important to
-
-[07:22]
-it's always important to
-
-[07:22]
-it's always important to
-work on certain strategy related topics
-
-[07:25]
-work on certain strategy related topics
-
-[07:25]
 work on certain strategy related topics
 not necessarily
-
-[07:26]
-not necessarily
-
-[07:26]
-not necessarily
-let's say for example you you have been
-
-[07:28]
-let's say for example you you have been
-
-[07:28]
 let's say for example you you have been
 putting extra work into your big blind
 
 [07:30]
 putting extra work into your big blind
-
-[07:30]
-putting extra work into your big blind
-check race ranges
-
-[07:32]
-check race ranges
-
-[07:32]
 check race ranges
 okay so every time that spot comes up
-
-[07:34]
-okay so every time that spot comes up
-
-[07:34]
-okay so every time that spot comes up
-you're like oh yeah this was that spot
-
-[07:35]
-you're like oh yeah this was that spot
-
-[07:35]
 you're like oh yeah this was that spot
 probably everyone has noticed it right
-
-[07:37]
-probably everyone has noticed it right
-
-[07:37]
-probably everyone has noticed it right
-after you've done strategy and you
-
-[07:38]
-after you've done strategy and you
-
-[07:38]
 after you've done strategy and you
 recognize that spot at the table you
-
-[07:40]
-recognize that spot at the table you
-
-[07:40]
-recognize that spot at the table you
 feel more engaged
-
-[07:41]
-feel more engaged
-
-[07:41]
-feel more engaged
-and in general you're more engaged
-
-[07:43]
-and in general you're more engaged
-
-[07:43]
 and in general you're more engaged
 because you've told your brain hey
 
 [07:45]
 because you've told your brain hey
-
-[07:45]
-because you've told your brain hey
-we got some things that we have to look
-
-[07:46]
-we got some things that we have to look
-
-[07:46]
 we got some things that we have to look
 out for so your brain is like okay so i
-
-[07:48]
-out for so your brain is like okay so i
-
-[07:48]
-out for so your brain is like okay so i
-have to pay attention okay i will pay
-
-[07:49]
-have to pay attention okay i will pay
-
-[07:49]
 have to pay attention okay i will pay
 attention
-
-[07:50]
-attention
-
-[07:50]
-attention
-and the result of that is that obviously
-
-[07:52]
-and the result of that is that obviously
-
-[07:52]
 and the result of that is that obviously
 that spot that you're studying
-
-[07:53]
-that spot that you're studying
-
-[07:53]
-that spot that you're studying
-is going better but in general you'll be
-
-[07:55]
-is going better but in general you'll be
-
-[07:55]
 is going better but in general you'll be
 more engaged because your brain is not
-
-[07:57]
-more engaged because your brain is not
-
-[07:57]
-more engaged because your brain is not
-on autopilot
-
-[07:57]
-on autopilot
-
-[07:58]
 on autopilot
 okay this is like a little hack here
 
 [08:00]
 okay this is like a little hack here
-
-[08:00]
-okay this is like a little hack here
-flow triggers this is in general kind of
-
-[08:03]
-flow triggers this is in general kind of
-
-[08:03]
 flow triggers this is in general kind of
 what brings you into the flow states for
-
-[08:05]
-what brings you into the flow states for
-
-[08:05]
-what brings you into the flow states for
-the people that don't know a flow state
-
-[08:07]
-the people that don't know a flow state
-
-[08:07]
 the people that don't know a flow state
 is basically that moment where you kind
-
-[08:08]
-is basically that moment where you kind
-
-[08:08]
-is basically that moment where you kind
-of forget about time and you're just so
-
-[08:10]
-of forget about time and you're just so
-
-[08:10]
 of forget about time and you're just so
 engaged and just
-
-[08:11]
-engaged and just
-
-[08:11]
-engaged and just
 the whole world around you seems to fade
-
-[08:13]
-the whole world around you seems to fade
-
-[08:13]
-the whole world around you seems to fade
-away and before you know it's only an
-
-[08:14]
-away and before you know it's only an
-
-[08:14]
 away and before you know it's only an
 hour has passed by
 
 [08:15]
 hour has passed by
-
-[08:15]
-hour has passed by
-and you played really good poker well
-
-[08:17]
-and you played really good poker well
-
-[08:17]
 and you played really good poker well
 guys this is not a coincidence
-
-[08:19]
-guys this is not a coincidence
-
-[08:19]
-guys this is not a coincidence
-you have certain flow triggers and i
-
-[08:21]
-you have certain flow triggers and i
-
-[08:21]
 you have certain flow triggers and i
 think raising your curiosity and
-
-[08:23]
-think raising your curiosity and
-
-[08:23]
-think raising your curiosity and
-engagement while playing is definitely
-
-[08:24]
-engagement while playing is definitely
-
-[08:24]
 engagement while playing is definitely
 one of them and
-
-[08:26]
-one of them and
-
-[08:26]
-one of them and
-in general this is very important in
-
-[08:28]
-in general this is very important in
-
-[08:28]
 in general this is very important in
 like long-term motivation and long-term
 
 [08:30]
 like long-term motivation and long-term
-
-[08:30]
-like long-term motivation and long-term
-engagement
-
-[08:31]
-engagement
-
-[08:31]
 engagement
 knowing where you're going and why okay
-
-[08:33]
-knowing where you're going and why okay
-
-[08:33]
-knowing where you're going and why okay
-so having a deep
-
-[08:34]
-so having a deep
-
-[08:34]
 so having a deep
 driver in order to sort of always be
-
-[08:38]
-driver in order to sort of always be
-
-[08:38]
-driver in order to sort of always be
-motivated
-
-[08:40]
-motivated
-
-[08:40]
 motivated
 if we go to point three and four i've
-
-[08:43]
-if we go to point three and four i've
-
-[08:43]
-if we go to point three and four i've
-added
-
-[08:43]
-added
-
-[08:43]
 added
 game selection and networking and i
 
 [08:45]
 game selection and networking and i
-
-[08:45]
-game selection and networking and i
-would like to start off with the first
-
-[08:47]
-would like to start off with the first
-
-[08:47]
 would like to start off with the first
 point
-
-[08:48]
-point
-
-[08:48]
-point
-that is if you are number six in the
-
-[08:50]
-that is if you are number six in the
-
-[08:50]
 that is if you are number six in the
 world and you play a six-handed game
-
-[08:52]
-world and you play a six-handed game
-
-[08:52]
-world and you play a six-handed game
-versus number one and five
-
-[08:54]
-versus number one and five
-
-[08:54]
 versus number one and five
 you will lose guys so if your definition
-
-[08:57]
-you will lose guys so if your definition
-
-[08:57]
-you will lose guys so if your definition
-of
-
-[08:58]
-of
-
-[08:58]
 of
 success as a poker player is make the
 
 [09:00]
 success as a poker player is make the
-
-[09:00]
-success as a poker player is make the
-most amount of money possible at the
-
-[09:01]
-most amount of money possible at the
-
-[09:01]
 most amount of money possible at the
 tables
-
-[09:02]
-tables
-
-[09:02]
-tables
-game selection is very important and
-
-[09:05]
-game selection is very important and
-
-[09:05]
 game selection is very important and
 that's something to see players
-
-[09:07]
-that's something to see players
-
-[09:07]
-that's something to see players
-just battle it out and you know this all
-
-[09:10]
-just battle it out and you know this all
-
-[09:10]
 just battle it out and you know this all
 all the panzer if they're just very
-
-[09:11]
-all the panzer if they're just very
-
-[09:11]
-all the panzer if they're just very
-competitive and they don't really care
-
-[09:13]
-competitive and they don't really care
-
-[09:13]
 competitive and they don't really care
 about the money as much and their
 
 [09:15]
 about the money as much and their
-
-[09:15]
-about the money as much and their
-definition of succeeding is trying to
-
-[09:16]
-definition of succeeding is trying to
-
-[09:16]
 definition of succeeding is trying to
 beat those guys then by all means this
-
-[09:18]
-beat those guys then by all means this
-
-[09:18]
-beat those guys then by all means this
-is very much in line with your goals
-
-[09:20]
-is very much in line with your goals
-
-[09:20]
 is very much in line with your goals
 but for a lot of people who are maybe
-
-[09:23]
-but for a lot of people who are maybe
-
-[09:23]
-but for a lot of people who are maybe
-less competitive or
-
-[09:24]
-less competitive or
-
-[09:24]
 less competitive or
 they the money the money matters more to
-
-[09:26]
-they the money the money matters more to
-
-[09:26]
-they the money the money matters more to
 them this is probably not a great
-
-[09:28]
-them this is probably not a great
-
-[09:28]
-them this is probably not a great
-strategy
-
-[09:29]
-strategy
-
-[09:29]
 strategy
 okay you have certain poker players that
 
 [09:30]
 okay you have certain poker players that
-
-[09:30]
-okay you have certain poker players that
-might not be
-
-[09:32]
-might not be
-
-[09:32]
 might not be
 as good theoretical okay i mean this
-
-[09:34]
-as good theoretical okay i mean this
-
-[09:34]
-as good theoretical okay i mean this
-guy's number six in the world
-
-[09:36]
-guy's number six in the world
-
-[09:36]
 guy's number six in the world
 he did create a quite a good job but
-
-[09:38]
-he did create a quite a good job but
-
-[09:38]
-he did create a quite a good job but
-let's say number 500 in the world while
-
-[09:40]
-let's say number 500 in the world while
-
-[09:40]
 let's say number 500 in the world while
 number 500 in the world plays against
-
-[09:42]
-number 500 in the world plays against
-
-[09:42]
-number 500 in the world plays against
-you know
-
-[09:43]
-you know
-
-[09:43]
 you know
 uh the number thousand and and down down
 
 [09:46]
 uh the number thousand and and down down
-
-[09:46]
-uh the number thousand and and down down
-onwards
-
-[09:47]
-onwards
-
-[09:47]
 onwards
 he's gonna make a lot of money so if you
-
-[09:50]
-he's gonna make a lot of money so if you
-
-[09:50]
-he's gonna make a lot of money so if you
-can get
-
-[09:50]
-can get
-
-[09:50]
 can get
 yourself into games where you're always
-
-[09:52]
-yourself into games where you're always
-
-[09:52]
-yourself into games where you're always
 the best player at the table
-
-[09:54]
-the best player at the table
-
-[09:54]
-the best player at the table
-preferably for as much money as you can
-
-[09:57]
-preferably for as much money as you can
-
-[09:57]
 preferably for as much money as you can
 afford to lose that is probably a very
 
 [10:01]
 afford to lose that is probably a very
-
-[10:01]
-afford to lose that is probably a very
-good way to make a lot of money playing
-
-[10:03]
-good way to make a lot of money playing
-
-[10:03]
 good way to make a lot of money playing
 poker and some
-
-[10:05]
-poker and some
-
-[10:05]
-poker and some
-this is kind of often forgot basically
-
-[10:08]
-this is kind of often forgot basically
-
-[10:08]
 this is kind of often forgot basically
 and you have a lot of people that like
-
-[10:10]
-and you have a lot of people that like
-
-[10:10]
-and you have a lot of people that like
 no the 500 zoom pool for example no you
-
-[10:13]
-no the 500 zoom pool for example no you
-
-[10:13]
-no the 500 zoom pool for example no you
-know comfortable
-
-[10:14]
-know comfortable
-
-[10:14]
 know comfortable
 i just sit down or i just click play i
 
 [10:17]
 i just sit down or i just click play i
-
-[10:17]
-i just sit down or i just click play i
-don't have to
-
-[10:19]
-don't have to
-
-[10:19]
 don't have to
 okay make a conscious commitment but i
-
-[10:20]
-okay make a conscious commitment but i
-
-[10:20]
-okay make a conscious commitment but i
-usually find just that as an excuse it
-
-[10:23]
-usually find just that as an excuse it
-
-[10:23]
 usually find just that as an excuse it
 will definitely
-
-[10:24]
-will definitely
-
-[10:24]
-will definitely
 slow down your career depending on your
-
-[10:26]
-slow down your career depending on your
-
-[10:26]
-slow down your career depending on your
-goals of course
-
-[10:28]
-goals of course
-
-[10:28]
 goals of course
 knowing when not to play also i put it
 
 [10:31]
 knowing when not to play also i put it
-
-[10:31]
-knowing when not to play also i put it
-here management basically i mean like
-
-[10:33]
-here management basically i mean like
-
-[10:33]
 here management basically i mean like
 energy management
-
-[10:34]
-energy management
-
-[10:34]
-energy management
-time management uh but take the 500 zoom
-
-[10:37]
-time management uh but take the 500 zoom
-
-[10:37]
 time management uh but take the 500 zoom
 pool for example
-
-[10:39]
-pool for example
-
-[10:39]
-pool for example
-if i would want to go from 2 8 b i would
-
-[10:41]
-if i would want to go from 2 8 b i would
-
-[10:41]
 if i would want to go from 2 8 b i would
 definitely be more selective in when i
-
-[10:42]
-definitely be more selective in when i
-
-[10:42]
-definitely be more selective in when i
-play the poo because
-
-[10:44]
-play the poo because
-
-[10:44]
 play the poo because
 i think sometimes the poo offers me a 10
 
 [10:45]
 i think sometimes the poo offers me a 10
-
-[10:45]
-i think sometimes the poo offers me a 10
-bb win rate and sometimes i definitely
-
-[10:47]
-bb win rate and sometimes i definitely
-
-[10:47]
 bb win rate and sometimes i definitely
 break even depending on how the pool
-
-[10:49]
-break even depending on how the pool
-
-[10:49]
-break even depending on how the pool
-looks
-
-[10:50]
-looks
-
-[10:50]
 looks
 and i do see players grinding that stick
-
-[10:53]
-and i do see players grinding that stick
-
-[10:53]
-and i do see players grinding that stick
-for a living and then i think
-
-[10:55]
-for a living and then i think
-
-[10:55]
 for a living and then i think
 i think your game selection or your pool
-
-[10:57]
-i think your game selection or your pool
-
-[10:57]
-i think your game selection or your pool
-selection in that case
-
-[10:58]
-selection in that case
-
-[10:58]
 selection in that case
 it's not really spot on also know when
 
 [11:01]
 it's not really spot on also know when
-
-[11:01]
-it's not really spot on also know when
-to play
-
-[11:02]
-to play
-
-[11:02]
 to play
 it's also like it's an ego thing okay
-
-[11:04]
-it's also like it's an ego thing okay
-
-[11:04]
-it's also like it's an ego thing okay
-you have to take
-
-[11:05]
-you have to take
-
-[11:05]
 you have to take
 poker series you should you do this as a
-
-[11:07]
-poker series you should you do this as a
-
-[11:07]
-poker series you should you do this as a
-career it's not just something
-
-[11:09]
-career it's not just something
-
-[11:09]
 career it's not just something
 you know you're not just putting your
-
-[11:11]
-you know you're not just putting your
-
-[11:11]
-you know you're not just putting your
 dick on a table and seeing who has the
-
-[11:12]
-dick on a table and seeing who has the
-
-[11:12]
-dick on a table and seeing who has the
-biggest
-
-[11:13]
-biggest
-
-[11:13]
 biggest
 you know you have to kind of surpass
 
 [11:15]
 you know you have to kind of surpass
-
-[11:15]
-you know you have to kind of surpass
-that and surpass your ego
-
-[11:18]
-that and surpass your ego
-
-[11:18]
 that and surpass your ego
 another good thing about networking and
-
-[11:20]
-another good thing about networking and
-
-[11:20]
-another good thing about networking and
-actually the next slide i will go a
-
-[11:21]
-actually the next slide i will go a
-
-[11:21]
 actually the next slide i will go a
 little bit further into networking
-
-[11:23]
-little bit further into networking
-
-[11:23]
-little bit further into networking
-is that you will be the first to know
-
-[11:25]
-is that you will be the first to know
-
-[11:25]
 is that you will be the first to know
 about opportunities in games and being
-
-[11:27]
-about opportunities in games and being
-
-[11:27]
-about opportunities in games and being
-able to play in them okay if you're
-
-[11:29]
-able to play in them okay if you're
-
-[11:29]
 able to play in them okay if you're
 for good networking skills you might get
 
 [11:31]
 for good networking skills you might get
-
-[11:31]
-for good networking skills you might get
-invited into certain games
-
-[11:33]
-invited into certain games
-
-[11:33]
 invited into certain games
 or you might get a tip because you know
-
-[11:35]
-or you might get a tip because you know
-
-[11:36]
-or you might get a tip because you know
-you have a broad range of networks
-
-[11:37]
-you have a broad range of networks
-
-[11:37]
 you have a broad range of networks
 people like you
-
-[11:38]
-people like you
-
-[11:38]
-people like you
-they will give you a tip about some site
-
-[11:40]
-they will give you a tip about some site
-
-[11:40]
 they will give you a tip about some site
 that you know it's a little bit
-
-[11:42]
-that you know it's a little bit
-
-[11:42]
-that you know it's a little bit
 underground still but they can keep
-
-[11:44]
-underground still but they can keep
-
-[11:44]
-underground still but they can keep
-get you in so i think it's a very
-
-[11:46]
 get you in so i think it's a very
 
 [11:46]
 get you in so i think it's a very
 important and underrated skill
-
-[11:50]
-four and five i will get to the feedback
-
-[11:53]
-four and five i will get to the feedback
-
-[11:53]
 four and five i will get to the feedback
 loop
-
-[11:53]
-loop
-
-[11:53]
-loop
 and the feedback loop is something that
-
-[11:57]
-and the feedback loop is something that
-
-[11:57]
-and the feedback loop is something that
-basically it stands for continuous
-
-[11:59]
-basically it stands for continuous
-
-[11:59]
 basically it stands for continuous
 improvement
 
 [12:00]
 improvement
-
-[12:00]
-improvement
-and basically if you can optimize the
-
-[12:02]
-and basically if you can optimize the
-
-[12:02]
 and basically if you can optimize the
 feedback loop
-
-[12:04]
-feedback loop
-
-[12:04]
-feedback loop
-you will become a better player and a
-
-[12:07]
-you will become a better player and a
-
-[12:07]
 you will become a better player and a
 more consistent player
-
-[12:08]
-more consistent player
-
-[12:08]
-more consistent player
-and your improvement will be continuous
-
-[12:10]
-and your improvement will be continuous
-
-[12:10]
 and your improvement will be continuous
 that's why it's called continuous
-
-[12:12]
-that's why it's called continuous
-
-[12:12]
-that's why it's called continuous
 improvement
-
-[12:13]
-improvement
-
-[12:13]
-improvement
-very important here that you have a
-
-[12:14]
-very important here that you have a
-
-[12:14]
 very important here that you have a
 growth mindset so
 
 [12:16]
 growth mindset so
-
-[12:16]
-growth mindset so
-the way you look at obstacles any way
-
-[12:18]
-the way you look at obstacles any way
-
-[12:18]
 the way you look at obstacles any way
 you look at mistakes
-
-[12:19]
-you look at mistakes
-
-[12:19]
-you look at mistakes
-there are opportunities for growth so
-
-[12:21]
-there are opportunities for growth so
-
-[12:21]
 there are opportunities for growth so
 you actually look at them and see what
-
-[12:23]
-you actually look at them and see what
-
-[12:23]
-you actually look at them and see what
-you can learn from them in order to
-
-[12:24]
-you can learn from them in order to
-
-[12:24]
 you can learn from them in order to
 improve
-
-[12:25]
-improve
-
-[12:26]
-improve
 so the power of continuous improvement
-
-[12:27]
-so the power of continuous improvement
-
-[12:27]
-so the power of continuous improvement
-that i've touched on
-
-[12:29]
-that i've touched on
-
-[12:29]
 that i've touched on
 basically it's managing your poker
 
 [12:31]
 basically it's managing your poker
-
-[12:31]
-basically it's managing your poker
-career
-
-[12:32]
-career
-
-[12:32]
 career
 and becoming a more professional player
-
-[12:35]
-and becoming a more professional player
-
-[12:35]
-and becoming a more professional player
-in general okay so less
-
-[12:37]
-in general okay so less
-
-[12:37]
 in general okay so less
 being less of the gamer you know i feel
-
-[12:39]
-being less of the gamer you know i feel
-
-[12:39]
-being less of the gamer you know i feel
 like playing poker oh it's a
-
-[12:41]
-like playing poker oh it's a
-
-[12:41]
-like playing poker oh it's a
-bit i'm a bit tired now i feel like i
-
-[12:43]
-bit i'm a bit tired now i feel like i
-
-[12:43]
 bit i'm a bit tired now i feel like i
 now go to bed everything is based on
 
 [12:45]
 now go to bed everything is based on
-
-[12:45]
-now go to bed everything is based on
-feeling and not based on structure
-
-[12:47]
-feeling and not based on structure
-
-[12:47]
 feeling and not based on structure
 and in general success is habitual so
-
-[12:49]
-and in general success is habitual so
-
-[12:49]
-and in general success is habitual so
-actually i have the feedback loop
-
-[12:50]
-actually i have the feedback loop
-
-[12:50]
 actually i have the feedback loop
 right here this is kind of what i came
-
-[12:53]
-right here this is kind of what i came
-
-[12:53]
-right here this is kind of what i came
-up with
-
-[12:54]
-up with
-
-[12:54]
 up with
 a little while ago i haven't really
-
-[12:56]
-a little while ago i haven't really
-
-[12:56]
-a little while ago i haven't really
-redone it probably if i would take a new
-
-[12:57]
-redone it probably if i would take a new
-
-[12:58]
 redone it probably if i would take a new
 look at it i could probably improve some
-
-[12:59]
-look at it i could probably improve some
-
-[12:59]
-look at it i could probably improve some
-things
-
-[12:59]
-things
-
-[12:59]
 things
 but basically it starts with your
 
 [13:01]
 but basically it starts with your
-
-[13:01]
-but basically it starts with your
-preparation then you go into performance
-
-[13:04]
-preparation then you go into performance
-
-[13:04]
 preparation then you go into performance
 then you're gonna evaluate the
-
-[13:05]
-then you're gonna evaluate the
-
-[13:05]
-then you're gonna evaluate the
-performance so basically you have the
-
-[13:06]
-performance so basically you have the
-
-[13:06]
 performance so basically you have the
 outcome
-
-[13:07]
-outcome
-
-[13:07]
-outcome
-and the outcome you're going to evaluate
-
-[13:09]
-and the outcome you're going to evaluate
-
-[13:09]
 and the outcome you're going to evaluate
 very important to not evaluate it on
-
-[13:10]
-very important to not evaluate it on
-
-[13:10]
-very important to not evaluate it on
-dollars one okay this is a mindset flaw
-
-[13:13]
-dollars one okay this is a mindset flaw
-
-[13:13]
 dollars one okay this is a mindset flaw
 but evaluated on how well you did on
 
 [13:16]
 but evaluated on how well you did on
-
-[13:16]
-but evaluated on how well you did on
-certain focus points remember the
-
-[13:17]
-certain focus points remember the
-
-[13:18]
 certain focus points remember the
 refocus that we set
-
-[13:19]
-refocus that we set
-
-[13:19]
-refocus that we set
-how well did we do on refocusing okay
-
-[13:22]
-how well did we do on refocusing okay
-
-[13:22]
 how well did we do on refocusing okay
 then you can monitor basically this is
-
-[13:25]
-then you can monitor basically this is
-
-[13:25]
-then you can monitor basically this is
 more of a
-
-[13:26]
-more of a
-
-[13:26]
-more of a
-a statistical thing for example how
-
-[13:29]
-a statistical thing for example how
-
-[13:29]
 a statistical thing for example how
 often you manage to get your mind back
 
 [13:31]
 often you manage to get your mind back
-
-[13:31]
-often you manage to get your mind back
-to the present moment
-
-[13:32]
-to the present moment
-
-[13:32]
 to the present moment
 or the check raising example of did we
-
-[13:36]
-or the check raising example of did we
-
-[13:36]
-or the check raising example of did we
-indeed increase our check raise
-
-[13:37]
-indeed increase our check raise
-
-[13:37]
 indeed increase our check raise
 percentage okay this is a stat for
-
-[13:39]
-percentage okay this is a stat for
-
-[13:39]
-percentage okay this is a stat for
-example that we can monitor
-
-[13:41]
-example that we can monitor
-
-[13:41]
 example that we can monitor
 to see if we're actually executing what
-
-[13:43]
-to see if we're actually executing what
-
-[13:43]
-to see if we're actually executing what
-we're trying to do
-
-[13:44]
-we're trying to do
-
-[13:44]
 we're trying to do
 then you're going to analyze so you kind
 
 [13:46]
 then you're going to analyze so you kind
-
-[13:46]
-then you're going to analyze so you kind
-of analyze for example your data or your
-
-[13:48]
-of analyze for example your data or your
-
-[13:48]
 of analyze for example your data or your
 performance
-
-[13:49]
-performance
-
-[13:49]
-performance
-and with those data you're gonna go or
-
-[13:52]
-and with those data you're gonna go or
-
-[13:52]
 and with those data you're gonna go or
 with certain hands
-
-[13:53]
-with certain hands
-
-[13:53]
-with certain hands
-you're gonna go and discuss with your
-
-[13:55]
-you're gonna go and discuss with your
-
-[13:55]
 you're gonna go and discuss with your
 network that's why it's very important
-
-[13:57]
-network that's why it's very important
-
-[13:57]
-network that's why it's very important
-to have a team around you which is
-
-[13:59]
-to have a team around you which is
-
-[13:59]
 to have a team around you which is
 i'm going further in the next slide
 
 [14:02]
 i'm going further in the next slide
-
-[14:02]
-i'm going further in the next slide
-you're gonna discuss certain hands or
-
-[14:04]
-you're gonna discuss certain hands or
-
-[14:04]
 you're gonna discuss certain hands or
 certain data
-
-[14:05]
-certain data
-
-[14:05]
-certain data
-with your peer group from that you will
-
-[14:07]
-with your peer group from that you will
-
-[14:08]
 with your peer group from that you will
 get feedback
-
-[14:08]
-get feedback
-
-[14:08]
-get feedback
-you will process that feedback in to
-
-[14:11]
-you will process that feedback in to
-
-[14:11]
 you will process that feedback in to
 your strategy
-
-[14:12]
-your strategy
-
-[14:12]
-your strategy
-then you will train your strategy
-
-[14:13]
-then you will train your strategy
-
-[14:13]
 then you will train your strategy
 there's various ways to do that gto
 
 [14:15]
 there's various ways to do that gto
-
-[14:15]
-there's various ways to do that gto
-trainer for example is
-
-[14:16]
-trainer for example is
-
-[14:16]
 trainer for example is
 is is a way to do that and then
-
-[14:18]
-is is a way to do that and then
-
-[14:18]
-is is a way to do that and then
-basically
-
-[14:19]
-basically
-
-[14:20]
 basically
 you're gonna enter the loop again you're
-
-[14:21]
-you're gonna enter the loop again you're
-
-[14:22]
-you're gonna enter the loop again you're
-gonna prepare
-
-[14:23]
-gonna prepare
-
-[14:23]
 gonna prepare
 with the new knowledge you learn from
-
-[14:24]
-with the new knowledge you learn from
-
-[14:24]
-with the new knowledge you learn from
-your knowledge you're gonna try to
-
-[14:25]
-your knowledge you're gonna try to
-
-[14:25]
 your knowledge you're gonna try to
 perform again
-
-[14:26]
-perform again
-
-[14:26]
-perform again
-you're then gonna evaluate how you did
-
-[14:28]
-you're then gonna evaluate how you did
-
-[14:28]
 you're then gonna evaluate how you did
 etc etc i said the loop never continues
 
 [14:30]
 etc etc i said the loop never continues
-
-[14:30]
-etc etc i said the loop never continues
-as soon as soon as you basically stop
-
-[14:32]
-as soon as soon as you basically stop
-
-[14:32]
 as soon as soon as you basically stop
 the loop and you think like oh i'm not
-
-[14:33]
-the loop and you think like oh i'm not
-
-[14:33]
-the loop and you think like oh i'm not
-good enough
-
-[14:34]
-good enough
-
-[14:34]
 good enough
 that's the point where you go down okay
-
-[14:36]
-that's the point where you go down okay
-
-[14:36]
-that's the point where you go down okay
-guys there's no stagnation
-
-[14:38]
-guys there's no stagnation
-
-[14:38]
 guys there's no stagnation
 there's only forward or backwards and
-
-[14:40]
-there's only forward or backwards and
-
-[14:40]
-there's only forward or backwards and
 it's up to you
-
-[14:41]
-it's up to you
-
-[14:41]
-it's up to you
-if you go forward or backwards
-
-[14:43]
-if you go forward or backwards
-
-[14:43]
 if you go forward or backwards
 especially in poker because the rest is
 
 [14:45]
 especially in poker because the rest is
-
-[14:45]
-especially in poker because the rest is
-always trying to improve
-
-[14:46]
-always trying to improve
-
-[14:46]
 always trying to improve
 so basically if you slack off the rest
-
-[14:47]
-so basically if you slack off the rest
-
-[14:47]
-so basically if you slack off the rest
-will just surpass you
-
-[14:50]
-will just surpass you
-
-[14:50]
 will just surpass you
 five and six evaluation and input
-
-[14:53]
-five and six evaluation and input
-
-[14:53]
-five and six evaluation and input
-basically
-
-[14:54]
-basically
-
-[14:54]
 basically
 at the evaluation point you can get very
-
-[14:57]
-at the evaluation point you can get very
-
-[14:57]
-at the evaluation point you can get very
-good at that okay you have
-
-[14:58]
-good at that okay you have
-
-[14:58]
 good at that okay you have
 solvers nowadays to evaluate how you did
 
 [15:00]
 solvers nowadays to evaluate how you did
-
-[15:00]
-solvers nowadays to evaluate how you did
-in certain spots you can track
-
-[15:02]
-in certain spots you can track
-
-[15:02]
 in certain spots you can track
 kpis which stands for key performance
-
-[15:05]
-kpis which stands for key performance
-
-[15:05]
-kpis which stands for key performance
-indicators
-
-[15:06]
-indicators
-
-[15:06]
 indicators
 like for example uh how did you do on
-
-[15:08]
-like for example uh how did you do on
-
-[15:08]
-like for example uh how did you do on
-the big blind check race
-
-[15:10]
-the big blind check race
-
-[15:10]
 the big blind check race
 the statistic that you could that that
-
-[15:12]
-the statistic that you could that that
-
-[15:12]
-the statistic that you could that that
-you could monitor
-
-[15:13]
-you could monitor
-
-[15:13]
 you could monitor
 okay you can set for example i often set
 
 [15:15]
 okay you can set for example i often set
-
-[15:15]
-okay you can set for example i often set
-a goal if
-
-[15:17]
-a goal if
-
-[15:17]
 a goal if
 if i see certain points of my game are
-
-[15:19]
-if i see certain points of my game are
-
-[15:19]
-if i see certain points of my game are
-off i might say i might set a
-
-[15:21]
-off i might say i might set a
-
-[15:21]
 off i might say i might set a
 statistical goal
-
-[15:22]
-statistical goal
-
-[15:22]
-statistical goal
-and i might have a filter ready after
-
-[15:23]
-and i might have a filter ready after
-
-[15:23]
 and i might have a filter ready after
 every session i will load in that filter
-
-[15:26]
-every session i will load in that filter
-
-[15:26]
-every session i will load in that filter
-okay i'm in a big blind i could check
-
-[15:27]
-okay i'm in a big blind i could check
-
-[15:27]
 okay i'm in a big blind i could check
 raise the flop how did i do in this spot
 
 [15:30]
 raise the flop how did i do in this spot
-
-[15:30]
-raise the flop how did i do in this spot
-okay setting the intention and
-
-[15:32]
-okay setting the intention and
-
-[15:32]
 okay setting the intention and
 evaluating it as long as you're not
-
-[15:33]
-evaluating it as long as you're not
-
-[15:33]
-evaluating it as long as you're not
-tracking it as long as you're not trying
-
-[15:35]
-tracking it as long as you're not trying
-
-[15:35]
 tracking it as long as you're not trying
 to evaluate it
-
-[15:36]
-to evaluate it
-
-[15:36]
-to evaluate it
-you don't know if you're actually doing
-
-[15:37]
-you don't know if you're actually doing
-
-[15:37]
 you don't know if you're actually doing
 it correctly it will be based on feeling
-
-[15:40]
-it correctly it will be based on feeling
-
-[15:40]
-it correctly it will be based on feeling
 the bigger the dream the more important
-
-[15:43]
-the bigger the dream the more important
-
-[15:43]
-the bigger the dream the more important
-the team
-
-[15:44]
-the team
-
-[15:44]
 the team
 okay and i cannot emphasize this enough
 
 [15:46]
 okay and i cannot emphasize this enough
-
-[15:46]
-okay and i cannot emphasize this enough
-i think eliot wrote a great quote
-
-[15:48]
-i think eliot wrote a great quote
-
-[15:48]
 i think eliot wrote a great quote
 that sad high six players don't hang out
-
-[15:50]
-that sad high six players don't hang out
-
-[15:50]
-that sad high six players don't hang out
-with each other because they're
-
-[15:51]
-with each other because they're
-
-[15:51]
 with each other because they're
 high-tech players but they're high six
-
-[15:53]
-high-tech players but they're high six
-
-[15:53]
-high-tech players but they're high six
-players because they hang out with each
-
-[15:54]
-players because they hang out with each
-
-[15:54]
 players because they hang out with each
 other
-
-[15:55]
-other
-
-[15:55]
-other
 think about that one for a second so
-
-[15:57]
-think about that one for a second so
-
-[15:57]
-think about that one for a second so
-basically
-
-[15:58]
-basically
-
-[15:58]
 basically
 you see this or same you're the average
 
 [16:00]
 you see this or same you're the average
-
-[16:00]
-you see this or same you're the average
-of five of the five people you hang out
-
-[16:02]
-of five of the five people you hang out
-
-[16:02]
 of five of the five people you hang out
 most with
-
-[16:03]
-most with
-
-[16:03]
-most with
-it all comes down to the same thing guys
-
-[16:05]
-it all comes down to the same thing guys
-
-[16:05]
 it all comes down to the same thing guys
 gathering yourself in the right team
-
-[16:07]
-gathering yourself in the right team
-
-[16:07]
-gathering yourself in the right team
 for example in the feedback loop to
-
-[16:09]
-for example in the feedback loop to
-
-[16:09]
-for example in the feedback loop to
-discuss and get better feedback
-
-[16:11]
-discuss and get better feedback
-
-[16:11]
 discuss and get better feedback
 is very important i for example
 
 [16:15]
 is very important i for example
-
-[16:15]
-is very important i for example
-if you look at my team it's a i mean
-
-[16:18]
-if you look at my team it's a i mean
-
-[16:18]
 if you look at my team it's a i mean
 there are strat buddies students
-
-[16:20]
-there are strat buddies students
-
-[16:20]
-there are strat buddies students
-some fellow coaches of poker ambition
-
-[16:21]
-some fellow coaches of poker ambition
-
-[16:21]
 some fellow coaches of poker ambition
 made a little list here
-
-[16:23]
-made a little list here
-
-[16:23]
-made a little list here
 explode can't be seven tunis knee two my
-
-[16:26]
-explode can't be seven tunis knee two my
-
-[16:26]
-explode can't be seven tunis knee two my
-three elusive mark
-
-[16:28]
-three elusive mark
-
-[16:28]
 three elusive mark
 flusu poker klutka bill lewinsky tinu
 
 [16:31]
 flusu poker klutka bill lewinsky tinu
-
-[16:31]
-flusu poker klutka bill lewinsky tinu
-mulder
-
-[16:31]
-mulder
-
-[16:31]
 mulder
 believe me guys if if i have a question
-
-[16:34]
-believe me guys if if i have a question
-
-[16:34]
-believe me guys if if i have a question
-some of these guys will have
-
-[16:35]
-some of these guys will have
-
-[16:36]
 some of these guys will have
 probably the best answer in the world so
-
-[16:38]
-probably the best answer in the world so
-
-[16:38]
-probably the best answer in the world so
 i'm very confident
-
-[16:40]
-i'm very confident
-
-[16:40]
-i'm very confident
-in my ability to be a poker coach and a
-
-[16:43]
-in my ability to be a poker coach and a
-
-[16:43]
 in my ability to be a poker coach and a
 poker player
 
 [16:45]
 poker player
-
-[16:45]
-poker player
-not necessarily because how i play today
-
-[16:48]
-not necessarily because how i play today
-
-[16:48]
 not necessarily because how i play today
 but i have a lot of confidence in the
-
-[16:50]
-but i have a lot of confidence in the
-
-[16:50]
-but i have a lot of confidence in the
-future as well because i'm not alone
-
-[16:52]
-future as well because i'm not alone
-
-[16:52]
 future as well because i'm not alone
 okay all these guys are willing to help
-
-[16:55]
-okay all these guys are willing to help
-
-[16:55]
-okay all these guys are willing to help
-me whenever i ask they're willing to
-
-[16:57]
-me whenever i ask they're willing to
-
-[16:57]
 me whenever i ask they're willing to
 give me input whenever i want to ask
-
-[16:59]
-give me input whenever i want to ask
-
-[16:59]
-give me input whenever i want to ask
-okay this is very important to invest
-
-[17:02]
 okay this is very important to invest
 
 [17:02]
 okay this is very important to invest
 timing guys to get a network
-
-[17:06]
-six to seven mental game analyzing
-
-[17:09]
-six to seven mental game analyzing
-
-[17:09]
 six to seven mental game analyzing
 self-sabotaging behaviors
-
-[17:11]
-self-sabotaging behaviors
-
-[17:11]
-self-sabotaging behaviors
-basically at some point in your career
-
-[17:14]
-basically at some point in your career
-
-[17:14]
 basically at some point in your career
 you will
 
 [17:15]
 you will
-
-[17:15]
-you will
-encounter certain difficulties basically
-
-[17:17]
-encounter certain difficulties basically
-
-[17:17]
 encounter certain difficulties basically
 you know you should do something but
-
-[17:19]
-you know you should do something but
-
-[17:19]
-you know you should do something but
-you're not doing it
-
-[17:20]
-you're not doing it
-
-[17:20]
 you're not doing it
 and sometimes it can be good to kind of
-
-[17:24]
-and sometimes it can be good to kind of
-
-[17:24]
-and sometimes it can be good to kind of
-put that under the under the loop and
-
-[17:26]
-put that under the under the loop and
-
-[17:26]
 put that under the under the loop and
 see
-
-[17:27]
-see
-
-[17:27]
-see
-what's going on here and sometimes you
-
-[17:29]
-what's going on here and sometimes you
-
-[17:29]
 what's going on here and sometimes you
 will see that it's something self
 
 [17:30]
 will see that it's something self
-
-[17:30]
-will see that it's something self
-sabotaging meaning
-
-[17:31]
-sabotaging meaning
-
-[17:31]
 sabotaging meaning
 that you think you want something but
-
-[17:33]
-that you think you want something but
-
-[17:33]
-that you think you want something but
-actually in your head you have a certain
-
-[17:35]
-actually in your head you have a certain
-
-[17:35]
 actually in your head you have a certain
 belief
-
-[17:36]
-belief
-
-[17:36]
-belief
-that if you get there it will come to
-
-[17:38]
-that if you get there it will come to
-
-[17:38]
 that if you get there it will come to
 the cost of something and then
-
-[17:40]
-the cost of something and then
-
-[17:40]
-the cost of something and then
 you will show self-sabotaging behavior
-
-[17:43]
-you will show self-sabotaging behavior
-
-[17:43]
-you will show self-sabotaging behavior
-another very important point is a
-
-[17:44]
-another very important point is a
-
-[17:44]
 another very important point is a
 limiting belief
 
 [17:45]
 limiting belief
-
-[17:46]
-limiting belief
-these kind of go hand in hand
-
-[17:49]
-these kind of go hand in hand
-
-[17:49]
 these kind of go hand in hand
 for example if you don't believe that
-
-[17:51]
-for example if you don't believe that
-
-[17:51]
-for example if you don't believe that
-you can learn from your mistakes
-
-[17:53]
-you can learn from your mistakes
-
-[17:53]
 you can learn from your mistakes
 okay then why would you even start
-
-[17:55]
-okay then why would you even start
-
-[17:55]
-okay then why would you even start
-looking at mistakes in the first place
-
-[17:58]
-looking at mistakes in the first place
-
-[17:58]
 looking at mistakes in the first place
 all right same with if you have the
 
 [18:00]
 all right same with if you have the
-
-[18:00]
-all right same with if you have the
-belief that you have to be
-
-[18:02]
-belief that you have to be
-
-[18:02]
 belief that you have to be
 super intelligent in order to beat
-
-[18:04]
-super intelligent in order to beat
-
-[18:04]
-super intelligent in order to beat
-high-sex poker
-
-[18:05]
-high-sex poker
-
-[18:05]
 high-sex poker
 and you don't think you're very
-
-[18:06]
-and you don't think you're very
-
-[18:06]
-and you don't think you're very
-intelligent then basically
-
-[18:08]
-intelligent then basically
-
-[18:08]
 intelligent then basically
 you will never get to high-sex poker
-
-[18:10]
-you will never get to high-sex poker
-
-[18:10]
-you will never get to high-sex poker
 because this belief will always be in
-
-[18:12]
-because this belief will always be in
-
-[18:12]
-because this belief will always be in
-the way
-
-[18:13]
-the way
-
-[18:13]
 the way
 why would you put in extra effort if you
 
 [18:15]
 why would you put in extra effort if you
-
-[18:15]
-why would you put in extra effort if you
-believe that it's
-
-[18:16]
-believe that it's
-
-[18:16]
 believe that it's
 iq that you need to play 2k or higher
-
-[18:20]
-iq that you need to play 2k or higher
-
-[18:20]
-iq that you need to play 2k or higher
-for example
-
-[18:21]
-for example
-
-[18:21]
 for example
 and your iq doesn't match that of
-
-[18:23]
-and your iq doesn't match that of
-
-[18:23]
-and your iq doesn't match that of
 players who play 2k and higher why would
-
-[18:25]
-players who play 2k and higher why would
-
-[18:25]
-players who play 2k and higher why would
-you even put in the extra work
-
-[18:29]
-you even put in the extra work
-
-[18:29]
 you even put in the extra work
 consistency is everything and basically
 
 [18:30]
 consistency is everything and basically
-
-[18:30]
-consistency is everything and basically
-mental game will
-
-[18:32]
-mental game will
-
-[18:32]
 mental game will
 make you perform more consistently
-
-[18:33]
-make you perform more consistently
-
-[18:33]
-make you perform more consistently
-because your confidence will be stabler
-
-[18:36]
-because your confidence will be stabler
-
-[18:36]
 because your confidence will be stabler
 you will have less tilt you will show up
-
-[18:38]
-you will have less tilt you will show up
-
-[18:38]
-you will have less tilt you will show up
-more consistently
-
-[18:39]
-more consistently
-
-[18:39]
 more consistently
 and basically if you have a very solid b
-
-[18:41]
-and basically if you have a very solid b
-
-[18:41]
-and basically if you have a very solid b
-game and that always shows up your down
-
-[18:43]
-game and that always shows up your down
-
-[18:43]
 game and that always shows up your down
 swings will also get
 
 [18:45]
 swings will also get
-
-[18:45]
-swings will also get
-less basically because you're performing
-
-[18:46]
-less basically because you're performing
-
-[18:46]
 less basically because you're performing
 at a higher rim rate more consistently
-
-[18:48]
-at a higher rim rate more consistently
-
-[18:48]
-at a higher rim rate more consistently
-so basically also you will need you will
-
-[18:51]
-so basically also you will need you will
-
-[18:51]
 so basically also you will need you will
 need your mental game
-
-[18:52]
-need your mental game
-
-[18:52]
-need your mental game
-less because you have less swings in
-
-[18:54]
-less because you have less swings in
-
-[18:54]
 less because you have less swings in
 your game if that makes sense
-
-[18:57]
-your game if that makes sense
-
-[18:57]
-your game if that makes sense
-mental game mistakes in game and i will
-
-[18:59]
-mental game mistakes in game and i will
-
-[18:59]
 mental game mistakes in game and i will
 basically just as tilt
 
 [19:01]
 basically just as tilt
-
-[19:01]
-basically just as tilt
-and mental game mistakes anything that
-
-[19:04]
-and mental game mistakes anything that
-
-[19:04]
 and mental game mistakes anything that
 is that you would afterwards know
-
-[19:07]
-is that you would afterwards know
-
-[19:07]
-is that you would afterwards know
-the right answer to but in game you did
-
-[19:09]
-the right answer to but in game you did
-
-[19:09]
 the right answer to but in game you did
 something else is
-
-[19:10]
-something else is
-
-[19:10]
-something else is
 a form of tilt or a mental game mistake
-
-[19:12]
-a form of tilt or a mental game mistake
-
-[19:12]
-a form of tilt or a mental game mistake
-for example the majority of my mistakes
-
-[19:14]
-for example the majority of my mistakes
-
-[19:14]
 for example the majority of my mistakes
 that i make
 
 [19:15]
 that i make
-
-[19:15]
-that i make
-while playing often after i made the
-
-[19:19]
-while playing often after i made the
-
-[19:19]
 while playing often after i made the
 made to play i already knew [ __ ] this
-
-[19:21]
-made to play i already knew [ __ ] this
-
-[19:21]
-made to play i already knew [ __ ] this
-was not a good idea or afterwards i know
-
-[19:23]
-was not a good idea or afterwards i know
-
-[19:24]
 was not a good idea or afterwards i know
 like um yeah this was indeed a mistake
-
-[19:27]
-like um yeah this was indeed a mistake
-
-[19:27]
-like um yeah this was indeed a mistake
-then it's a mental game mistake not a
-
-[19:29]
-then it's a mental game mistake not a
-
-[19:29]
 then it's a mental game mistake not a
 technical mistake so i can go to a
 
 [19:30]
 technical mistake so i can go to a
-
-[19:30]
-technical mistake so i can go to a
-solver
-
-[19:31]
-solver
-
-[19:31]
 solver
 and it will tell me something but yeah
-
-[19:34]
-and it will tell me something but yeah
-
-[19:34]
-and it will tell me something but yeah
-it's something that i already knew i
-
-[19:36]
-it's something that i already knew i
-
-[19:36]
 it's something that i already knew i
 have to then figure out okay what was i
-
-[19:37]
-have to then figure out okay what was i
-
-[19:37]
-have to then figure out okay what was i
-thinking about in game in which order
-
-[19:39]
-thinking about in game in which order
-
-[19:40]
 thinking about in game in which order
 in order of importance and how is that
-
-[19:43]
-in order of importance and how is that
-
-[19:43]
-in order of importance and how is that
-different
-
-[19:43]
-different
-
-[19:43]
 different
 than how i now look at the situation
 
 [19:45]
 than how i now look at the situation
-
-[19:45]
-than how i now look at the situation
-what was the point that i've overrated
-
-[19:47]
-what was the point that i've overrated
-
-[19:47]
 what was the point that i've overrated
 or underrated what was the point that i
-
-[19:48]
-or underrated what was the point that i
-
-[19:48]
-or underrated what was the point that i
-forgot
-
-[19:49]
-forgot
-
-[19:49]
 forgot
 okay then going back to the feedback
-
-[19:51]
-okay then going back to the feedback
-
-[19:51]
-okay then going back to the feedback
-loop i can set that as an intention
-
-[19:53]
-loop i can set that as an intention
-
-[19:53]
 loop i can set that as an intention
 or i can even train that way of thinking
-
-[19:55]
-or i can even train that way of thinking
-
-[19:55]
-or i can even train that way of thinking
 by playing the hand
-
-[19:57]
-by playing the hand
-
-[19:57]
-by playing the hand
-and out loud saying how i want to be
-
-[19:59]
-and out loud saying how i want to be
-
-[19:59]
 and out loud saying how i want to be
 thinking about that hand putting that
 
 [20:00]
 thinking about that hand putting that
-
-[20:00]
-thinking about that hand putting that
-also in my session intentions
-
-[20:02]
-also in my session intentions
-
-[20:02]
 also in my session intentions
 this is how i want to think in this kind
-
-[20:05]
-this is how i want to think in this kind
-
-[20:05]
-this is how i want to think in this kind
-of situations in this order of
-
-[20:07]
-of situations in this order of
-
-[20:07]
 of situations in this order of
 importance
-
-[20:07]
-importance
-
-[20:07]
-importance
-you could even visualize that i'm a big
-
-[20:09]
-you could even visualize that i'm a big
-
-[20:09]
 you could even visualize that i'm a big
 fan of visualization before your session
-
-[20:11]
-fan of visualization before your session
-
-[20:11]
-fan of visualization before your session
-so you can actually visualize yourself
-
-[20:13]
-so you can actually visualize yourself
-
-[20:13]
 so you can actually visualize yourself
 being in that situation and thinking
 
 [20:15]
 being in that situation and thinking
-
-[20:15]
-being in that situation and thinking
-about the right
-
-[20:15]
-about the right
-
-[20:15]
 about the right
 things in the right order actually adam
-
-[20:18]
-things in the right order actually adam
-
-[20:18]
-things in the right order actually adam
-carmichael has a big
-
-[20:19]
-carmichael has a big
-
-[20:19]
 carmichael has a big
 part of visualization in the mechanics
-
-[20:21]
-part of visualization in the mechanics
-
-[20:21]
-part of visualization in the mechanics
-of poker as well which i'm very excited
-
-[20:23]
-of poker as well which i'm very excited
-
-[20:23]
 of poker as well which i'm very excited
 about
-
-[20:24]
-about
-
-[20:24]
-about
-it's a very very very useful skill guys
-
-[20:27]
-it's a very very very useful skill guys
-
-[20:27]
 it's a very very very useful skill guys
 and the last point because as you can
 
 [20:30]
 and the last point because as you can
-
-[20:30]
-and the last point because as you can
-see we're reaching the abb
-
-[20:31]
-see we're reaching the abb
-
-[20:31]
 see we're reaching the abb
 is exploitation so i'm
-
-[20:35]
-is exploitation so i'm
-
-[20:35]
-is exploitation so i'm
-assuming that by now you have a very
-
-[20:37]
-assuming that by now you have a very
-
-[20:37]
 assuming that by now you have a very
 solid
-
-[20:38]
-solid
-
-[20:38]
-solid
-uh game you have a very solid feedback
-
-[20:40]
-uh game you have a very solid feedback
-
-[20:40]
 uh game you have a very solid feedback
 loop you have a very solid team around
-
-[20:42]
-loop you have a very solid team around
-
-[20:42]
-loop you have a very solid team around
-you basically you're unstoppable
-
-[20:44]
-you basically you're unstoppable
-
-[20:44]
 you basically you're unstoppable
 so how do you get to that next level
 
 [20:46]
 so how do you get to that next level
-
-[20:46]
-so how do you get to that next level
-well it's
-
-[20:47]
-well it's
-
-[20:47]
 well it's
 by exploiting basically you understand
-
-[20:50]
-by exploiting basically you understand
-
-[20:50]
-by exploiting basically you understand
-how eevee is generated in theory
-
-[20:52]
-how eevee is generated in theory
-
-[20:52]
 how eevee is generated in theory
 and now you're gonna go from defensive
-
-[20:53]
-and now you're gonna go from defensive
-
-[20:53]
-and now you're gonna go from defensive
-poker so you're trying to play as
-
-[20:55]
-poker so you're trying to play as
-
-[20:55]
 poker so you're trying to play as
 unexploitable as possible gto
-
-[20:57]
-unexploitable as possible gto
-
-[20:57]
-unexploitable as possible gto
-so basically if someone else deviates
-
-[20:59]
-so basically if someone else deviates
-
-[20:59]
 so basically if someone else deviates
 you win okay
 
 [21:01]
 you win okay
-
-[21:01]
-you win okay
-but now you're gonna go to how i would
-
-[21:03]
-but now you're gonna go to how i would
-
-[21:03]
 but now you're gonna go to how i would
 call it offensive poker basically you're
-
-[21:04]
-call it offensive poker basically you're
-
-[21:04]
-call it offensive poker basically you're
-gonna open your game up for exploitation
-
-[21:06]
-gonna open your game up for exploitation
-
-[21:06]
 gonna open your game up for exploitation
 you're gonna exploit your opponents if
-
-[21:09]
-you're gonna exploit your opponents if
-
-[21:09]
-you're gonna exploit your opponents if
 they don't re-exploit you you will have
-
-[21:11]
-they don't re-exploit you you will have
-
-[21:11]
-they don't re-exploit you you will have
-the maximizing strategy
-
-[21:13]
-the maximizing strategy
-
-[21:13]
 the maximizing strategy
 okay so it's exploitative but you're
 
 [21:16]
 okay so it's exploitative but you're
-
-[21:16]
-okay so it's exploitative but you're
-optimizing versus that exploit
-
-[21:18]
-optimizing versus that exploit
-
-[21:18]
 optimizing versus that exploit
 and this is kind of i think where the
-
-[21:19]
-and this is kind of i think where the
-
-[21:19]
-and this is kind of i think where the
-next level comes in
-
-[21:21]
-next level comes in
-
-[21:21]
 next level comes in
 because it's basically impossible for a
-
-[21:23]
-because it's basically impossible for a
-
-[21:23]
-because it's basically impossible for a
 human to play gto we only try
-
-[21:25]
-human to play gto we only try
-
-[21:25]
-human to play gto we only try
-to and i think playing a good exploitive
-
-[21:28]
-to and i think playing a good exploitive
-
-[21:28]
 to and i think playing a good exploitive
 strategy is actually in
 
 [21:30]
 strategy is actually in
-
-[21:30]
-strategy is actually in
-in our grasp we can actually do that
-
-[21:32]
-in our grasp we can actually do that
-
-[21:32]
 in our grasp we can actually do that
 while playing good
-
-[21:33]
-while playing good
-
-[21:33]
-while playing good
-gto exact gto is impossible so i think
-
-[21:36]
-gto exact gto is impossible so i think
-
-[21:36]
 gto exact gto is impossible so i think
 you have a better
-
-[21:37]
-you have a better
-
-[21:37]
-you have a better
-chance at succeeding if you obviously
-
-[21:40]
-chance at succeeding if you obviously
-
-[21:40]
 chance at succeeding if you obviously
 understand gto you understand how eevee
-
-[21:42]
-understand gto you understand how eevee
-
-[21:42]
-understand gto you understand how eevee
-works you understand
-
-[21:44]
-works you understand
-
-[21:44]
 works you understand
 how poker works basically if you don't
 
 [21:46]
 how poker works basically if you don't
-
-[21:46]
-how poker works basically if you don't
-yet i will explain you that in the
-
-[21:47]
-yet i will explain you that in the
-
-[21:47]
 yet i will explain you that in the
 mechanics of poker
-
-[21:49]
-mechanics of poker
-
-[21:49]
-mechanics of poker
-and then from there you're gonna go to
-
-[21:51]
-and then from there you're gonna go to
-
-[21:52]
 and then from there you're gonna go to
 maximize your ev
-
-[21:53]
-maximize your ev
-
-[21:53]
-maximize your ev
-and basically how do you do that is you
-
-[21:55]
-and basically how do you do that is you
-
-[21:55]
 and basically how do you do that is you
 understand where your ev is going to
-
-[21:57]
-understand where your ev is going to
-
-[21:57]
-understand where your ev is going to
-come from
-
-[21:58]
-come from
-
-[21:58]
 come from
 based on all factors so gto generates ev
 
 [22:00]
 based on all factors so gto generates ev
-
-[22:00]
-based on all factors so gto generates ev
-in a certain way it turns his equity
-
-[22:02]
-in a certain way it turns his equity
-
-[22:02]
 in a certain way it turns his equity
 into ev
-
-[22:03]
-into ev
-
-[22:03]
-into ev
-and he does that based on certain things
-
-[22:05]
-and he does that based on certain things
-
-[22:05]
 and he does that based on certain things
 that are going to happen
-
-[22:07]
-that are going to happen
-
-[22:07]
-that are going to happen
-now or later in the tree in practice
-
-[22:09]
-now or later in the tree in practice
-
-[22:09]
 now or later in the tree in practice
 other things happen and that have
-
-[22:11]
-other things happen and that have
-
-[22:11]
-other things happen and that have
-impact on your ev okay
-
-[22:14]
-impact on your ev okay
-
-[22:14]
 impact on your ev okay
 so when you understand how ev is
 
 [22:16]
 so when you understand how ev is
-
-[22:16]
-so when you understand how ev is
-generated you then also understand
-
-[22:18]
-generated you then also understand
-
-[22:18]
 generated you then also understand
 how it's not generated based on certain
-
-[22:20]
-how it's not generated based on certain
-
-[22:20]
-how it's not generated based on certain
-practical situations
-
-[22:21]
-practical situations
-
-[22:21]
 practical situations
 so you will learn how to adjust
-
-[22:23]
-so you will learn how to adjust
-
-[22:23]
-so you will learn how to adjust
 correctly and that's kind of when
-
-[22:25]
-correctly and that's kind of when
-
-[22:25]
-correctly and that's kind of when
-the real high win rates start to get in
-
-[22:29]
-the real high win rates start to get in
-
-[22:29]
 the real high win rates start to get in
 so now you know guys how to get from 2
 
 [22:31]
 so now you know guys how to get from 2
-
-[22:31]
-so now you know guys how to get from 2
-to 8bp
-
-[22:32]
-to 8bp
-
-[22:32]
 to 8bp
 if you need any help with that we have a
-
-[22:34]
-if you need any help with that we have a
-
-[22:34]
-if you need any help with that we have a
-program the mechanics of poker which
-
-[22:37]
-program the mechanics of poker which
-
-[22:37]
 program the mechanics of poker which
 basically gives you extra ways um
-
-[22:40]
-basically gives you extra ways um
-
-[22:40]
-basically gives you extra ways um
-in order to increase your win rate
-
-[22:41]
-in order to increase your win rate
-
-[22:42]
 in order to increase your win rate
 everything where you explained what to
-
-[22:43]
-everything where you explained what to
-
-[22:43]
-everything where you explained what to
-do when to do it
-
-[22:44]
-do when to do it
-
-[22:44]
 do when to do it
 how to do it all the other questions
 
 [22:46]
 how to do it all the other questions
-
-[22:46]
-how to do it all the other questions
-that might remain go over to
-
-[22:48]
-that might remain go over to
-
-[22:48]
 that might remain go over to
 pokermission.com and check it out and
-
-[22:50]
-pokermission.com and check it out and
-
-[22:50]
-pokermission.com and check it out and
-see if it's something for you
-
-[22:51]
-see if it's something for you
-
-[22:51]
 see if it's something for you
 if not i'm pretty sure there were a
-
-[22:53]
-if not i'm pretty sure there were a
-
-[22:53]
-if not i'm pretty sure there were a
-couple points in this video that have
-
-[22:54]
-couple points in this video that have
-
-[22:54]
 couple points in this video that have
 helped you
-
-[22:55]
-helped you
-
-[22:55]
-helped you
 make sure to give this video a thumbs up
-
-[22:57]
-make sure to give this video a thumbs up
-
-[22:57]
-make sure to give this video a thumbs up
-guys if you liked it and i'll see you at
-
-[22:59]
-guys if you liked it and i'll see you at
-
-[22:59]
 guys if you liked it and i'll see you at
 the next video
 
 [23:00]
 the next video
-
-[23:00]
-the next video
-subscribe to our channel and good luck
-
-[23:02]
-subscribe to our channel and good luck
-
-[23:02]
 subscribe to our channel and good luck
 at the tables
-
-[23:12]
 i

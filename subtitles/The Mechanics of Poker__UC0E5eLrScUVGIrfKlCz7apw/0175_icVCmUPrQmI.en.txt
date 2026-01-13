@@ -1,1142 +1,256 @@
-Kind: captions
-Language: en
-
 [00:00]
 uh do you remember the concept of 1
-
-[00:04]
-uh do you remember the concept of 1
-
-[00:04]
-uh do you remember the concept of 1
-minus Alpha
-
-[00:07]
-minus Alpha
-
-[00:07]
 minus Alpha
 so
-
-[00:08]
-so
-
-[00:08]
-so
-um for our viewers who do not uh know
-
-[00:12]
-um for our viewers who do not uh know
-
-[00:12]
 um for our viewers who do not uh know
 that it's uh the minimum defense
 
 [00:15]
 that it's uh the minimum defense
-
-[00:15]
-that it's uh the minimum defense
-frequency
-
-[00:17]
-frequency
-
-[00:17]
 frequency
 so uh
-
-[00:20]
 let's say yeah I'll describe it real
-
-[00:23]
-let's say yeah I'll describe it real
-
-[00:23]
-let's say yeah I'll describe it real
-quick so let's say you face a port size
-
-[00:26]
-quick so let's say you face a port size
-
-[00:26]
 quick so let's say you face a port size
 bat on the river and uh your opponent's
 
 [00:30]
 bat on the river and uh your opponent's
-
-[00:30]
-bat on the river and uh your opponent's
-range consists of
-
-[00:33]
-range consists of
-
-[00:33]
 range consists of
 um nuts and the air nuts and Bluffs and
-
-[00:37]
-um nuts and the air nuts and Bluffs and
-
-[00:37]
-um nuts and the air nuts and Bluffs and
-the orange consists of blocking
-
-[00:38]
-the orange consists of blocking
-
-[00:39]
 the orange consists of blocking
 blockages so in order to make your
-
-[00:42]
-blockages so in order to make your
-
-[00:42]
-blockages so in order to make your
-opponents blast in different you have to
-
-[00:44]
-opponents blast in different you have to
-
-[00:44]
 opponents blast in different you have to
 defend uh 50 of your range if you're
 
 [00:48]
 defend uh 50 of your range if you're
-
-[00:48]
-defend uh 50 of your range if you're
-facing upon that
-
-[00:49]
-facing upon that
-
-[00:49]
 facing upon that
 so uh this idea of the minimum defense
-
-[00:53]
-so uh this idea of the minimum defense
-
-[00:53]
-so uh this idea of the minimum defense
 frequency was uh initially extrapolated
-
-[00:56]
-frequency was uh initially extrapolated
-
-[00:56]
-frequency was uh initially extrapolated
-to alert streets
-
-[00:58]
-to alert streets
-
-[00:58]
 to alert streets
 to turn
 
 [01:00]
 to turn
-
-[01:00]
-to turn
-flop and even pre-flop
-
-[01:02]
-flop and even pre-flop
-
-[01:02]
 flop and even pre-flop
 and as we know nowadays
-
-[01:05]
-and as we know nowadays
-
-[01:05]
-and as we know nowadays
-it's not true on the flop
-
-[01:08]
-it's not true on the flop
-
-[01:08]
 it's not true on the flop
 it's a special not true if the ranges
-
-[01:11]
-it's a special not true if the ranges
-
-[01:11]
-it's a special not true if the ranges
-are
-
-[01:12]
-are
-
-[01:12]
 are
 um very asymmetric asymmetrical
 
 [01:16]
 um very asymmetric asymmetrical
-
-[01:16]
-um very asymmetric asymmetrical
-if one range has a significant advantage
-
-[01:18]
-if one range has a significant advantage
-
-[01:18]
 if one range has a significant advantage
 over other the defense the optimal
-
-[01:21]
-over other the defense the optimal
-
-[01:21]
-over other the defense the optimal
 defense frequency is way uh lower than
-
-[01:26]
-defense frequency is way uh lower than
-
-[01:26]
-defense frequency is way uh lower than
-this minimum defense frequency
-
-[01:28]
-this minimum defense frequency
-
-[01:28]
 this minimum defense frequency
 and
 
 [01:31]
 So speaking of the AHA moments that
-
-[01:36]
-So speaking of the AHA moments that
-
-[01:36]
-So speaking of the AHA moments that
 I found in Source videos
-
-[01:39]
-I found in Source videos
-
-[01:39]
-I found in Source videos
-um remember I was uh
-
-[01:42]
-um remember I was uh
-
-[01:42]
 um remember I was uh
 studying a theory with Matthew agenda
 
 [01:45]
 studying a theory with Matthew agenda
-
-[01:45]
-studying a theory with Matthew agenda
-yeah he was very much about that why a
-
-[01:49]
-yeah he was very much about that why a
-
-[01:49]
 yeah he was very much about that why a
 woman is Alpha stuff right yeah yeah
-
-[01:51]
-woman is Alpha stuff right yeah yeah
-
-[01:51]
-woman is Alpha stuff right yeah yeah
-definitely and I took the ranges
-
-[01:56]
-definitely and I took the ranges
-
-[01:56]
 definitely and I took the ranges
 and I always tried to found to find that
 
 [02:00]
 and I always tried to found to find that
-
-[02:00]
-and I always tried to found to find that
-uh
-
-[02:01]
-uh
-
-[02:01]
 uh
 borderline hand to defend
-
-[02:04]
-borderline hand to defend
-
-[02:04]
-borderline hand to defend
-and as you might imagine
-
-[02:07]
-and as you might imagine
-
-[02:07]
 and as you might imagine
 it is usually quite a weekend in your
-
-[02:10]
-it is usually quite a weekend in your
-
-[02:10]
-it is usually quite a weekend in your
 range a week and it's a very not obvious
-
-[02:13]
-range a week and it's a very not obvious
-
-[02:13]
-range a week and it's a very not obvious
-and
-
-[02:14]
-and
-
-[02:14]
 and
 so uh
 
 [02:15]
 so uh
-
-[02:15]
-so uh
-I did not I did not recognize those
-
-[02:19]
-I did not I did not recognize those
-
-[02:19]
 I did not I did not recognize those
 plays in Source sources videos
-
-[02:22]
-plays in Source sources videos
-
-[02:22]
-plays in Source sources videos
 and
-
-[02:25]
-and
-
-[02:25]
-and
-in fact he was folding
-
-[02:28]
-in fact he was folding
-
-[02:28]
 in fact he was folding
 um a little bit more than I was folding
 
 [02:32]
 um a little bit more than I was folding
-
-[02:32]
-um a little bit more than I was folding
-um during that time
-
-[02:34]
-um during that time
-
-[02:34]
 um during that time
 and I guess the fact that you that you
-
-[02:36]
-and I guess the fact that you that you
-
-[02:36]
-and I guess the fact that you that you
 do not have to defend those weekends uh
-
-[02:39]
-do not have to defend those weekends uh
-
-[02:39]
-do not have to defend those weekends uh
-was um
-
-[02:42]
-was um
-
-[02:42]
 was um
 well if not to break breakthrough but
 
 [02:45]
 well if not to break breakthrough but
-
-[02:45]
-well if not to break breakthrough but
-definitely a huge boost in terms of
-
-[02:49]
-definitely a huge boost in terms of
-
-[02:49]
 definitely a huge boost in terms of
 my win rates and in terms of the
-
-[02:53]
-my win rates and in terms of the
-
-[02:53]
-my win rates and in terms of the
 confidence in my game
-
-[02:54]
-confidence in my game
-
-[02:54]
-confidence in my game
-because I was doing those marginal plays
-
-[02:58]
-because I was doing those marginal plays
-
-[02:58]
 because I was doing those marginal plays
 on earlier streets and they never really
 
 [03:00]
 on earlier streets and they never really
-
-[03:00]
-on earlier streets and they never really
-worked
-
-[03:01]
-worked
-
-[03:01]
 worked
 and by simply eliminating them I started
-
-[03:05]
-and by simply eliminating them I started
-
-[03:05]
-and by simply eliminating them I started
-to get more enjoyment and more
-
-[03:09]
-to get more enjoyment and more
-
-[03:09]
 to get more enjoyment and more
 more confidence in the place in My
-
-[03:12]
-more confidence in the place in My
-
-[03:12]
-more confidence in the place in My
-overall strategy that I was implementing
-
-[03:14]
-overall strategy that I was implementing
-
-[03:14]
 overall strategy that I was implementing
 in that time
 
 [03:15]
 in that time
-
-[03:15]
-in that time
-yeah I'm gonna quote you there you said
-
-[03:18]
-yeah I'm gonna quote you there you said
-
-[03:18]
 yeah I'm gonna quote you there you said
 have to I have to do this that kind of
-
-[03:21]
-have to I have to do this that kind of
-
-[03:21]
-have to I have to do this that kind of
-you you were in this phase your career
-
-[03:23]
-you you were in this phase your career
-
-[03:23]
 you you were in this phase your career
 you're kind of Breaking Free from that I
-
-[03:25]
-you're kind of Breaking Free from that I
-
-[03:25]
-you're kind of Breaking Free from that I
 don't have to do anything okay I can
-
-[03:27]
-don't have to do anything okay I can
-
-[03:27]
-don't have to do anything okay I can
-just do what I have to to go back to the
-
-[03:29]
-just do what I have to to go back to the
-
-[03:29]
 just do what I have to to go back to the
 Stefan the Stefan era right now I just
 
 [03:31]
 Stefan the Stefan era right now I just
-
-[03:31]
-Stefan the Stefan era right now I just
-do whatever I want and you deal with it
-
-[03:33]
-do whatever I want and you deal with it
-
-[03:33]
 do whatever I want and you deal with it
 right that's kind of the the the the the
-
-[03:36]
-right that's kind of the the the the the
-
-[03:36]
-right that's kind of the the the the the
-the
-
-[03:38]
-the
-
-[03:38]
 the
 sort of the new approach I was never
-
-[03:41]
-sort of the new approach I was never
-
-[03:41]
-sort of the new approach I was never
-Theory oriented mathematically oriented
-
-[03:43]
-Theory oriented mathematically oriented
-
-[03:43]
 Theory oriented mathematically oriented
 so I would always just be like it's it
 
 [03:46]
 so I would always just be like it's it
-
-[03:46]
-so I would always just be like it's it
-was very feeling based like listen I
-
-[03:48]
-was very feeling based like listen I
-
-[03:48]
 was very feeling based like listen I
 just don't see good things happening
-
-[03:49]
-just don't see good things happening
-
-[03:49]
-just don't see good things happening
-with this hand in this situation that's
-
-[03:51]
-with this hand in this situation that's
-
-[03:51]
 with this hand in this situation that's
 more how I would then approach it and
-
-[03:53]
-more how I would then approach it and
-
-[03:53]
-more how I would then approach it and
-probably when you were playing like you
-
-[03:55]
-probably when you were playing like you
-
-[03:55]
 probably when you were playing like you
 probably also had that feeling right
-
-[03:56]
-probably also had that feeling right
-
-[03:57]
-probably also had that feeling right
-because you as you said it never worked
-
-[03:59]
-because you as you said it never worked
-
-[03:59]
 because you as you said it never worked
 out with those hands but there was kind
 
 [04:01]
 out with those hands but there was kind
-
-[04:01]
-out with those hands but there was kind
-of a conflict between what your gut was
-
-[04:03]
-of a conflict between what your gut was
-
-[04:03]
 of a conflict between what your gut was
 telling you and what your brain was
-
-[04:04]
-telling you and what your brain was
-
-[04:04]
-telling you and what your brain was
-telling you like ah but I have to but
-
-[04:05]
-telling you like ah but I have to but
-
-[04:05]
 telling you like ah but I have to but
 your gut was saying yeah but this isn't
-
-[04:07]
-your gut was saying yeah but this isn't
-
-[04:07]
-your gut was saying yeah but this isn't
-working so I guess you felt really
-
-[04:08]
-working so I guess you felt really
-
-[04:09]
 working so I guess you felt really
 relieved after that especially again if
-
-[04:11]
-relieved after that especially again if
-
-[04:11]
-relieved after that especially again if
-you have someone like sauce showing you
-
-[04:13]
-you have someone like sauce showing you
-
-[04:13]
 you have someone like sauce showing you
 like oh wow sauce is a very good player
 
 [04:15]
 like oh wow sauce is a very good player
-
-[04:15]
-like oh wow sauce is a very good player
-and he doesn't do this [ __ ] this I'm
-
-[04:17]
-and he doesn't do this [ __ ] this I'm
-
-[04:17]
 and he doesn't do this [ __ ] this I'm
 free now
-
-[04:19]
-free now
-
-[04:19]
-free now
-yeah yeah definitely and Adam asked
-
-[04:22]
-yeah yeah definitely and Adam asked
-
-[04:22]
 yeah yeah definitely and Adam asked
 about
-
-[04:23]
-about
-
-[04:23]
-about
-um mental leaks that I had earlier in my
-
-[04:27]
-um mental leaks that I had earlier in my
-
-[04:27]
 um mental leaks that I had earlier in my
 career and yeah you know this rivalry uh
 
 [04:31]
 career and yeah you know this rivalry uh
-
-[04:31]
-career and yeah you know this rivalry uh
-between having to do something that uh
-
-[04:35]
-between having to do something that uh
-
-[04:35]
 between having to do something that uh
 the theory dictated and
-
-[04:39]
-the theory dictated and
-
-[04:39]
-the theory dictated and
-um
-
-[04:39]
-um
-
-[04:39]
 um
 that action
-
-[04:42]
-that action
-
-[04:42]
-that action
-not really working
-
-[04:44]
-not really working
-
-[04:44]
 not really working
 yeah that was a very huge at uh earliest
 
 [04:47]
 yeah that was a very huge at uh earliest
-
-[04:47]
-yeah that was a very huge at uh earliest
-stages of my career and that's
-
-[04:50]
-stages of my career and that's
-
-[04:50]
 stages of my career and that's
 worried me quite a bit because I thought
-
-[04:52]
-worried me quite a bit because I thought
-
-[04:52]
-worried me quite a bit because I thought
-that I was not understanding something I
-
-[04:56]
-that I was not understanding something I
-
-[04:56]
 that I was not understanding something I
 was not uh doing stuff right
 
 [05:00]
 was not uh doing stuff right
-
-[05:00]
-was not uh doing stuff right
-and yeah
-
-[05:02]
-and yeah
-
-[05:02]
 and yeah
 I even thought that
-
-[05:05]
-I even thought that
-
-[05:05]
-I even thought that
 yeah maybe the theory was not that good
-
-[05:08]
-yeah maybe the theory was not that good
-
-[05:08]
-yeah maybe the theory was not that good
-even at that time I yeah had those
-
-[05:13]
-even at that time I yeah had those
-
-[05:13]
 even at that time I yeah had those
 insights in my mind
 
 [05:15]
 insights in my mind
-
-[05:15]
-insights in my mind
-while you the truth was actually that
-
-[05:17]
-while you the truth was actually that
-
-[05:17]
 while you the truth was actually that
 you very much understood it only you
-
-[05:19]
-you very much understood it only you
-
-[05:19]
-you very much understood it only you
-were listening to your brain and through
-
-[05:21]
-were listening to your brain and through
-
-[05:21]
 were listening to your brain and through
 your gut right
-
-[05:23]
-your gut right
-
-[05:23]
-your gut right
 [Music]
-
-[05:25]
-[Music]
-
-[05:25]
-[Music]
-um
-
-[05:27]
-um
-
-[05:27]
 um
 we around this time you're playing I
 
 [05:30]
 we around this time you're playing I
-
-[05:30]
-we around this time you're playing I
-think mistakes you mentioned that it was
-
-[05:33]
-think mistakes you mentioned that it was
-
-[05:33]
 think mistakes you mentioned that it was
 around 2016 I believe when you reached
-
-[05:36]
-around 2016 I believe when you reached
-
-[05:36]
-around 2016 I believe when you reached
 2K was this then Breaking Free was that
-
-[05:39]
-2K was this then Breaking Free was that
-
-[05:39]
-2K was this then Breaking Free was that
-enough to reach 2K
-
-[05:41]
-enough to reach 2K
-
-[05:41]
 enough to reach 2K
 for you
 
 [05:46]
 um
-
-[05:48]
-um
-
-[05:48]
-um
-I guess
-
-[05:51]
-I guess
-
-[05:51]
 I guess
 at that time I asked
-
-[05:57]
-I was still playing a more or less uh
-
-[06:00]
 I was still playing a more or less uh
 
 [06:00]
 I was still playing a more or less uh
 the fixed game but uh
-
-[06:05]
-it it will it was a way more uh free
-
-[06:09]
-it it will it was a way more uh free
-
-[06:09]
 it it will it was a way more uh free
 free strategy than uh than originally so
-
-[06:12]
-free strategy than uh than originally so
-
-[06:12]
-free strategy than uh than originally so
 uh
-
-[06:13]
-uh
-
-[06:13]
-uh
-um
-
-[06:14]
-um
-
-[06:14]
 um
 I gave myself
 
 [06:16]
 I gave myself
-
-[06:16]
-I gave myself
 uh
-
-[06:19]
-uh
-
-[06:19]
-uh
-I gave myself opportunities to deviate
-
-[06:22]
-I gave myself opportunities to deviate
-
-[06:22]
 I gave myself opportunities to deviate
 and
-
-[06:25]
 yeah
-
-[06:26]
-yeah
-
-[06:26]
-yeah
-it felt like uh like a relief
-
-[06:29]
-it felt like uh like a relief
-
-[06:29]
 it felt like uh like a relief
 um
 
 [06:32]
 one another thing that helped me a lot
-
-[06:34]
-one another thing that helped me a lot
-
-[06:34]
-one another thing that helped me a lot
-with establishing myself but that's okay
-
-[06:38]
-with establishing myself but that's okay
-
-[06:38]
 with establishing myself but that's okay
 was when I analyzed
-
-[06:42]
-was when I analyzed
-
-[06:42]
-was when I analyzed
-um
-
-[06:43]
-um
-
-[06:43]
 um
 the database of
 
 [06:46]
 the database of
-
-[06:46]
-the database of
-OTB Red Baron
-
-[06:47]
-OTB Red Baron
-
-[06:47]
 OTB Red Baron
 if you remember that guy like like many
-
-[06:50]
-if you remember that guy like like many
-
-[06:50]
-if you remember that guy like like many
 has done before you yeah yeah exactly
-
-[06:53]
-has done before you yeah yeah exactly
-
-[06:53]
-has done before you yeah yeah exactly
-and I I've seen
-
-[06:57]
-and I I've seen
-
-[06:57]
 and I I've seen
 how how freely he played uh how
 
 [07:01]
 how how freely he played uh how
-
-[07:01]
-how how freely he played uh how
-how much he deviated from the the
-
-[07:04]
-how much he deviated from the the
-
-[07:04]
 how much he deviated from the the
 optimal game and that
-
-[07:09]
-that gave me you know this it's
-
-[07:12]
-that gave me you know this it's
-
-[07:12]
 that gave me you know this it's
 permission myself to not to play a fixed
 
 [07:15]
 permission myself to not to play a fixed
-
-[07:15]
-permission myself to not to play a fixed
-game not to play the strategy uh that is
-
-[07:19]
-game not to play the strategy uh that is
-
-[07:19]
 game not to play the strategy uh that is
 uh
-
-[07:20]
-uh
-
-[07:20]
-uh
-um very fixed and not allow allowing for
-
-[07:24]
-um very fixed and not allow allowing for
-
-[07:24]
 um very fixed and not allow allowing for
 any creativity
-
-[07:26]
-any creativity
-
-[07:26]
-any creativity
-so uh
-
-[07:28]
-so uh
-
-[07:28]
 so uh
 yeah I guess uh OTB
 
 [07:31]
 yeah I guess uh OTB
-
-[07:31]
-yeah I guess uh OTB
-will always be in my heart
-
-[07:34]
-will always be in my heart
-
-[07:34]
 will always be in my heart
 [Music]

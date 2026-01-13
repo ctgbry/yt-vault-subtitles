@@ -1,1440 +1,291 @@
-Kind: captions
-Language: en
-
 [00:00]
 You mentioned the node locking. Do you
-
-[00:01]
-You mentioned the node locking. Do you
-
-[00:01]
-You mentioned the node locking. Do you
-recall a time in your career where you
-
-[00:04]
-recall a time in your career where you
-
-[00:04]
 recall a time in your career where you
 started to play with that and that kind
-
-[00:05]
-started to play with that and that kind
-
-[00:05]
-started to play with that and that kind
-of opened your mind? It's like [ __ ] You
-
-[00:07]
-of opened your mind? It's like [ __ ] You
-
-[00:07]
 of opened your mind? It's like [ __ ] You
 mentioned like this 250k break even
-
-[00:09]
-mentioned like this 250k break even
-
-[00:09]
-mentioned like this 250k break even
-stretch and you were really focus too
-
-[00:11]
-stretch and you were really focus too
-
-[00:11]
 stretch and you were really focus too
 focused on GTO.
-
-[00:12]
-focused on GTO.
-
-[00:12]
-focused on GTO.
-&gt;&gt; Was that like the turnaround point
-
-[00:14]
-&gt;&gt; Was that like the turnaround point
-
-[00:14]
 &gt;&gt; Was that like the turnaround point
 there? Was that when you started not
 
 [00:16]
 there? Was that when you started not
-
-[00:16]
-there? Was that when you started not
-locking and seeing like oh [ __ ] I've
-
-[00:18]
-locking and seeing like oh [ __ ] I've
-
-[00:18]
 locking and seeing like oh [ __ ] I've
 I've been applying all these things and
-
-[00:19]
-I've been applying all these things and
-
-[00:19]
-I've been applying all these things and
-they're true right to a certain degree.
-
-[00:21]
-they're true right to a certain degree.
-
-[00:21]
 they're true right to a certain degree.
 A lot of things you can hear people say
-
-[00:23]
-A lot of things you can hear people say
-
-[00:23]
-A lot of things you can hear people say
-a lot of things. Yeah it's all true but
-
-[00:24]
-a lot of things. Yeah it's all true but
-
-[00:24]
 a lot of things. Yeah it's all true but
 is it really that relevant? Like is it
-
-[00:27]
-is it really that relevant? Like is it
-
-[00:27]
-is it really that relevant? Like is it
-the most relevant factor at this moment?
-
-[00:29]
 the most relevant factor at this moment?
 
 [00:30]
 the most relevant factor at this moment?
 Yeah, exactly. Well, the solver is
-
-[00:31]
-Yeah, exactly. Well, the solver is
-
-[00:31]
-Yeah, exactly. Well, the solver is
-always correct. You just have to set up
-
-[00:33]
-always correct. You just have to set up
-
-[00:33]
 always correct. You just have to set up
 the solver correctly. So, when people
-
-[00:35]
-the solver correctly. So, when people
-
-[00:35]
-the solver correctly. So, when people
-say GTO, they often mean against a basic
-
-[00:37]
-say GTO, they often mean against a basic
-
-[00:37]
 say GTO, they often mean against a basic
 output rather than the actual output.
-
-[00:39]
-output rather than the actual output.
-
-[00:39]
-output rather than the actual output.
 So, you can have a GTO counter strategy
-
-[00:41]
-So, you can have a GTO counter strategy
-
-[00:41]
-So, you can have a GTO counter strategy
-against a compromised strategy. For
-
-[00:43]
-against a compromised strategy. For
-
-[00:43]
 against a compromised strategy. For
 example, you can you can bet 50% on the
 
 [00:45]
 example, you can you can bet 50% on the
-
-[00:45]
-example, you can you can bet 50% on the
-river for full pot. And then if your
-
-[00:48]
-river for full pot. And then if your
-
-[00:48]
 river for full pot. And then if your
 opponent, let's say, overfolds, then
-
-[00:50]
-opponent, let's say, overfolds, then
-
-[00:50]
-opponent, let's say, overfolds, then
-you'd be betting, let's say, 60% of the
-
-[00:52]
-you'd be betting, let's say, 60% of the
-
-[00:52]
 you'd be betting, let's say, 60% of the
 time. And with not locking, you're
-
-[00:54]
-time. And with not locking, you're
-
-[00:54]
-time. And with not locking, you're
-finding out what the thresholds are.
-
-[00:55]
-finding out what the thresholds are.
-
-[00:55]
 finding out what the thresholds are.
 Let's say he overfolds by 10 percentage
-
-[00:57]
-Let's say he overfolds by 10 percentage
-
-[00:57]
-Let's say he overfolds by 10 percentage
-points. Do you bet 10 percentage points
-
-[00:59]
-points. Do you bet 10 percentage points
-
-[00:59]
 points. Do you bet 10 percentage points
 more? Do you change the way you're
 
 [01:01]
 more? Do you change the way you're
-
-[01:01]
-more? Do you change the way you're
-betting? Do you start, for example,
-
-[01:02]
-betting? Do you start, for example,
-
-[01:02]
 betting? Do you start, for example,
 having two sizes where, you know, in the
-
-[01:05]
-having two sizes where, you know, in the
-
-[01:05]
-having two sizes where, you know, in the
-past what I would have done, let's say
-
-[01:07]
-past what I would have done, let's say
-
-[01:07]
 past what I would have done, let's say
 10 years ago, I just go all in for five
-
-[01:09]
-10 years ago, I just go all in for five
-
-[01:09]
-10 years ago, I just go all in for five
-times a pot with almost exclusively
-
-[01:10]
-times a pot with almost exclusively
-
-[01:10]
 times a pot with almost exclusively
 bluffs because people just weren't
-
-[01:12]
-bluffs because people just weren't
-
-[01:12]
-bluffs because people just weren't
-calling me. I recall not getting called
-
-[01:14]
-calling me. I recall not getting called
-
-[01:14]
 calling me. I recall not getting called
 down like that for about a year. So
 
 [01:16]
 down like that for about a year. So
-
-[01:16]
-down like that for about a year. So
-having a bunch of value hands in that
-
-[01:18]
-having a bunch of value hands in that
-
-[01:18]
 having a bunch of value hands in that
 sizing obviously doesn't make sense. My
-
-[01:20]
-sizing obviously doesn't make sense. My
-
-[01:20]
-sizing obviously doesn't make sense. My
-strategy is super easy to exploit. I
-
-[01:22]
-strategy is super easy to exploit. I
-
-[01:22]
 strategy is super easy to exploit. I
 mean, if you basically win the pot
-
-[01:23]
-mean, if you basically win the pot
-
-[01:23]
-mean, if you basically win the pot
-whenever you click call, then I'm
-
-[01:25]
-whenever you click call, then I'm
-
-[01:25]
 whenever you click call, then I'm
 getting wrecked. But as long as they
-
-[01:27]
-getting wrecked. But as long as they
-
-[01:27]
-getting wrecked. But as long as they
-don't call, then they're getting
-
-[01:28]
-don't call, then they're getting
-
-[01:28]
 don't call, then they're getting
 wrecked. And then if I bet 75 on the
 
 [01:30]
 wrecked. And then if I bet 75 on the
-
-[01:30]
-wrecked. And then if I bet 75 on the
-river, that's where I put my value hands
-
-[01:32]
-river, that's where I put my value hands
-
-[01:32]
 river, that's where I put my value hands
 in. And I might still put some bluffs
-
-[01:34]
-in. And I might still put some bluffs
-
-[01:34]
-in. And I might still put some bluffs
-in. So overall, my my ratio of value to
-
-[01:37]
-in. So overall, my my ratio of value to
-
-[01:37]
 in. So overall, my my ratio of value to
 bluffs might be correct, but since I'm
-
-[01:39]
-bluffs might be correct, but since I'm
-
-[01:39]
-bluffs might be correct, but since I'm
 splitting them over two ranges, and it's
-
-[01:41]
-splitting them over two ranges, and it's
-
-[01:41]
-splitting them over two ranges, and it's
-completely unbalanced, they could be
-
-[01:43]
-completely unbalanced, they could be
-
-[01:43]
 completely unbalanced, they could be
 exploiting me very badly. But as long as
 
 [01:45]
 exploiting me very badly. But as long as
-
-[01:45]
-exploiting me very badly. But as long as
-they don't, I'm winning. Obviously, this
-
-[01:48]
-they don't, I'm winning. Obviously, this
-
-[01:48]
 they don't, I'm winning. Obviously, this
 was 10 years ago and nowadays you cannot
-
-[01:51]
-was 10 years ago and nowadays you cannot
-
-[01:51]
-was 10 years ago and nowadays you cannot
-just go for crazy strategies and expect
-
-[01:53]
-just go for crazy strategies and expect
-
-[01:53]
 just go for crazy strategies and expect
 everybody to just, you know, get owned
-
-[01:56]
-everybody to just, you know, get owned
-
-[01:56]
-everybody to just, you know, get owned
-by you. Your opponents are much better
-
-[01:57]
-by you. Your opponents are much better
-
-[01:58]
 by you. Your opponents are much better
 than they were back then. So now having
 
 [02:00]
 than they were back then. So now having
-
-[02:00]
-than they were back then. So now having
-uh let's say GTO base is far more
-
-[02:03]
-uh let's say GTO base is far more
-
-[02:03]
 uh let's say GTO base is far more
 important than it was back then. I
-
-[02:04]
-important than it was back then. I
-
-[02:04]
-important than it was back then. I
-remember there was a guy called Sir
-
-[02:06]
-remember there was a guy called Sir
-
-[02:06]
 remember there was a guy called Sir
 Donald from Spain. Do you remember him?
-
-[02:09]
-Donald from Spain. Do you remember him?
-
-[02:09]
-Donald from Spain. Do you remember him?
 &gt;&gt; Yeah. Yeah.
-
-[02:09]
-&gt;&gt; Yeah. Yeah.
-
-[02:09]
-&gt;&gt; Yeah. Yeah.
-&gt;&gt; And he was 3.5xing the button. And my
-
-[02:12]
-&gt;&gt; And he was 3.5xing the button. And my
-
-[02:12]
 &gt;&gt; And he was 3.5xing the button. And my
 and me in my, you know, black and white
 
 [02:15]
 and me in my, you know, black and white
-
-[02:15]
-and me in my, you know, black and white
-mindset was thinking, "No, that's bad."
-
-[02:16]
-mindset was thinking, "No, that's bad."
-
-[02:16]
 mindset was thinking, "No, that's bad."
 2.5 is the size in the go. Even though
-
-[02:19]
-2.5 is the size in the go. Even though
-
-[02:19]
-2.5 is the size in the go. Even though
-there's a case an argument to be made
-
-[02:21]
-there's a case an argument to be made
-
-[02:21]
 there's a case an argument to be made
 for almost every sizing, but he was
-
-[02:23]
-for almost every sizing, but he was
-
-[02:23]
-for almost every sizing, but he was
-basically the ultimate exploitative
-
-[02:25]
-basically the ultimate exploitative
-
-[02:25]
 basically the ultimate exploitative
 player. I I still remember he opened the
-
-[02:27]
-player. I I still remember he opened the
-
-[02:27]
-player. I I still remember he opened the
-button and I would have A2 offsuit
-
-[02:29]
-button and I would have A2 offsuit
-
-[02:29]
 button and I would have A2 offsuit
 against 3.5x at 500 zoom where the
 
 [02:31]
 against 3.5x at 500 zoom where the
-
-[02:32]
-against 3.5x at 500 zoom where the
-rake's pretty high and I thought, well,
-
-[02:33]
-rake's pretty high and I thought, well,
-
-[02:33]
 rake's pretty high and I thought, well,
 how can I fold an ace? Even though
-
-[02:36]
-how can I fold an ace? Even though
-
-[02:36]
-how can I fold an ace? Even though
-calling ASUS offsuit against 3.5x button
-
-[02:39]
-calling ASUS offsuit against 3.5x button
-
-[02:39]
 calling ASUS offsuit against 3.5x button
 is massively losing. So he's essentially
-
-[02:42]
-is massively losing. So he's essentially
-
-[02:42]
-is massively losing. So he's essentially
-using exploit an exploitative strategy.
-
-[02:44]
-using exploit an exploitative strategy.
-
-[02:44]
 using exploit an exploitative strategy.
 He's basically saying, "You don't have a
 
 [02:45]
 He's basically saying, "You don't have a
-
-[02:46]
-He's basically saying, "You don't have a
-3.5x defending range. You don't know how
-
-[02:48]
-3.5x defending range. You don't know how
-
-[02:48]
 3.5x defending range. You don't know how
 to defend flops, turns, and rivers here.
-
-[02:50]
-to defend flops, turns, and rivers here.
-
-[02:50]
-to defend flops, turns, and rivers here.
-So, I'm going to use a strategy that
-
-[02:51]
-So, I'm going to use a strategy that
-
-[02:51]
 So, I'm going to use a strategy that
 maybe in theory loses slightly to GTO,
-
-[02:54]
-maybe in theory loses slightly to GTO,
-
-[02:54]
-maybe in theory loses slightly to GTO,
 but you're going to make such massive
-
-[02:55]
-but you're going to make such massive
-
-[02:55]
-but you're going to make such massive
-mistakes that it more than makes up for
-
-[02:58]
-mistakes that it more than makes up for
-
-[02:58]
 mistakes that it more than makes up for
 it." And he was a massive winner. And
 
 [03:00]
 it." And he was a massive winner. And
-
-[03:00]
-it." And he was a massive winner. And
-then I thought, "Oh, well, he must be
-
-[03:02]
-then I thought, "Oh, well, he must be
-
-[03:02]
 then I thought, "Oh, well, he must be
 running hot." So, I dismissed him. But I
-
-[03:04]
-running hot." So, I dismissed him. But I
-
-[03:04]
-running hot." So, I dismissed him. But I
-should not have dismissed him. I should
-
-[03:06]
-should not have dismissed him. I should
-
-[03:06]
 should not have dismissed him. I should
 have asked myself, he's playing such an
-
-[03:09]
-have asked myself, he's playing such an
-
-[03:09]
-have asked myself, he's playing such an
 a funny strategy, but clearly it's
-
-[03:11]
-a funny strategy, but clearly it's
-
-[03:11]
-a funny strategy, but clearly it's
-working. So, let me find whatever it is
-
-[03:13]
-working. So, let me find whatever it is
-
-[03:13]
 working. So, let me find whatever it is
 that's working. There was another player
 
 [03:15]
 that's working. There was another player
-
-[03:15]
-that's working. There was another player
-called Eccentric BG from Bulgaria and he
-
-[03:18]
-called Eccentric BG from Bulgaria and he
-
-[03:18]
 called Eccentric BG from Bulgaria and he
 was limping and I thought the same
-
-[03:20]
-was limping and I thought the same
-
-[03:20]
-was limping and I thought the same
-thing. I thought the rakes way too high.
-
-[03:22]
-thing. I thought the rakes way too high.
-
-[03:22]
 thing. I thought the rakes way too high.
 People probably waver fold to steals.
-
-[03:24]
-People probably waver fold to steals.
-
-[03:24]
-People probably waver fold to steals.
 Why are you limping here? But if people
-
-[03:27]
-Why are you limping here? But if people
-
-[03:27]
-Why are you limping here? But if people
-are, you know, isolating king eight
-
-[03:28]
-are, you know, isolating king eight
-
-[03:28]
 are, you know, isolating king eight
 offsuit against his, you know, 18% MP
 
 [03:31]
 offsuit against his, you know, 18% MP
-
-[03:31]
-offsuit against his, you know, 18% MP
-limp, then they're just getting wrecked
-
-[03:33]
-limp, then they're just getting wrecked
-
-[03:33]
 limp, then they're just getting wrecked
 against limp calls and then three bets,
-
-[03:35]
-against limp calls and then three bets,
-
-[03:35]
-against limp calls and then three bets,
-right? So there's value in every
-
-[03:37]
-right? So there's value in every
-
-[03:37]
 right? So there's value in every
 strategy and it's very important to not
-
-[03:40]
-strategy and it's very important to not
-
-[03:40]
-strategy and it's very important to not
 just say things are bad or good. There's
-
-[03:42]
-just say things are bad or good. There's
-
-[03:42]
-just say things are bad or good. There's
-almost nothing in life that is
-
-[03:43]
-almost nothing in life that is
-
-[03:44]
 almost nothing in life that is
 inherently only bad or only good. Right?
 
 [03:46]
 inherently only bad or only good. Right?
-
-[03:46]
-inherently only bad or only good. Right?
-Yon had a famous uh expression about
-
-[03:49]
-Yon had a famous uh expression about
-
-[03:49]
 Yon had a famous uh expression about
 that.
-
-[03:51]
-that.
-
-[03:51]
-that.
 &gt;&gt; So how did uh eccentric and sir Donald
-
-[03:55]
-&gt;&gt; So how did uh eccentric and sir Donald
-
-[03:55]
-&gt;&gt; So how did uh eccentric and sir Donald
-uh motivate you in terms of thinking
-
-[03:58]
-uh motivate you in terms of thinking
-
-[03:58]
 uh motivate you in terms of thinking
 more creatively about strategy and what
 
 [04:00]
 more creatively about strategy and what
-
-[04:00]
-more creatively about strategy and what
-was the result of that?
-
-[04:02]
-was the result of that?
-
-[04:02]
 was the result of that?
 &gt;&gt; They didn't I I only figured this out
-
-[04:04]
-&gt;&gt; They didn't I I only figured this out
-
-[04:04]
-&gt;&gt; They didn't I I only figured this out
-years later. I just thought back at the
-
-[04:06]
-years later. I just thought back at the
-
-[04:06]
 years later. I just thought back at the
 players who I found tough to play
-
-[04:08]
-players who I found tough to play
-
-[04:08]
-players who I found tough to play
 against and they had great results and I
-
-[04:10]
-against and they had great results and I
-
-[04:10]
-against and they had great results and I
-asked myself, well, why is that? And I
-
-[04:13]
-asked myself, well, why is that? And I
-
-[04:13]
 asked myself, well, why is that? And I
 just realized there's something to their
 
 [04:15]
 just realized there's something to their
-
-[04:15]
-just realized there's something to their
-strategy and it's not just whatever is a
-
-[04:18]
-strategy and it's not just whatever is a
-
-[04:18]
 strategy and it's not just whatever is a
 high CV in theory. So, I started
-
-[04:20]
-high CV in theory. So, I started
-
-[04:20]
-high CV in theory. So, I started
-implementing this uh maybe 3 four years
-
-[04:23]
-implementing this uh maybe 3 four years
-
-[04:23]
 implementing this uh maybe 3 four years
 ago. I went to Colombia with one of my
-
-[04:26]
-ago. I went to Colombia with one of my
-
-[04:26]
-ago. I went to Colombia with one of my
-best friends in poker, show force, and
-
-[04:29]
-best friends in poker, show force, and
-
-[04:29]
 best friends in poker, show force, and
 we started raising 3x from every
 
 [04:31]
 we started raising 3x from every
-
-[04:31]
-we started raising 3x from every
-position, which is kind of the old
-
-[04:33]
-position, which is kind of the old
-
-[04:33]
 position, which is kind of the old
 school strategy, right? 3x or 3.5x.
-
-[04:36]
-school strategy, right? 3x or 3.5x.
-
-[04:36]
-school strategy, right? 3x or 3.5x.
-And because we are the only two players
-
-[04:38]
-And because we are the only two players
-
-[04:38]
 And because we are the only two players
 using that strategy,
-
-[04:40]
-using that strategy,
-
-[04:40]
-using that strategy,
 people are not going to study against
-
-[04:41]
-people are not going to study against
-
-[04:41]
-people are not going to study against
-us. If you've got 50 opponents, you're
-
-[04:43]
-us. If you've got 50 opponents, you're
-
-[04:43]
 us. If you've got 50 opponents, you're
 not going to study against two of them.
 
 [04:45]
 not going to study against two of them.
-
-[04:45]
-not going to study against two of them.
-And the same was probably true for
-
-[04:46]
-And the same was probably true for
-
-[04:46]
 And the same was probably true for
 Eccentric BG. He was the only guy in the
-
-[04:49]
-Eccentric BG. He was the only guy in the
-
-[04:49]
-Eccentric BG. He was the only guy in the
-pool limping. So people didn't thought
-
-[04:50]
-pool limping. So people didn't thought
-
-[04:50]
 pool limping. So people didn't thought
 it was worth the effort to study how to
-
-[04:53]
-it was worth the effort to study how to
-
-[04:53]
-it was worth the effort to study how to
-play against limps. So we we know how
-
-[04:56]
-play against limps. So we we know how
-
-[04:56]
 play against limps. So we we know how
 our opponents are going to make
-
-[04:57]
-our opponents are going to make
-
-[04:57]
-our opponents are going to make
-mistakes. We've prepared. They don't
-
-[04:59]
-mistakes. We've prepared. They don't
-
-[04:59]
 mistakes. We've prepared. They don't
 know our strategy which gives us a
 
 [05:01]
 know our strategy which gives us a
-
-[05:01]
-know our strategy which gives us a
-significant diff um advantage obviously
-
-[05:04]
-significant diff um advantage obviously
-
-[05:04]
 significant diff um advantage obviously
 if we prepare well. So you have to
-
-[05:06]
-if we prepare well. So you have to
-
-[05:06]
-if we prepare well. So you have to
-change your preop ranges your flop
-
-[05:08]
-change your preop ranges your flop
-
-[05:08]
 change your preop ranges your flop
 turner reverse sebed strategies you have
-
-[05:10]
-turner reverse sebed strategies you have
-
-[05:10]
-turner reverse sebed strategies you have
 to change almost everything. But the
-
-[05:13]
-to change almost everything. But the
-
-[05:13]
-to change almost everything. But the
-good thing about being the only person
-
-[05:14]
-good thing about being the only person
-
-[05:14]
 good thing about being the only person
 with a certain strategy is that if it
 
 [05:16]
 with a certain strategy is that if it
-
-[05:16]
-with a certain strategy is that if it
-works you're going to crush. Obviously
-
-[05:18]
-works you're going to crush. Obviously
-
-[05:18]
 works you're going to crush. Obviously
 if you're the only person making that
-
-[05:19]
-if you're the only person making that
-
-[05:20]
-if you're the only person making that
-mistake and nobody else is you will get
-
-[05:21]
-mistake and nobody else is you will get
-
-[05:22]
 mistake and nobody else is you will get
 crushed. That's why I'm not a fan of for
-
-[05:24]
-crushed. That's why I'm not a fan of for
-
-[05:24]
-crushed. That's why I'm not a fan of for
 example saying oh I could limp. I could
-
-[05:26]
-example saying oh I could limp. I could
-
-[05:26]
-example saying oh I could limp. I could
-don here. let me dunk. Let me try.
-
-[05:28]
-don here. let me dunk. Let me try.
-
-[05:28]
 don here. let me dunk. Let me try.
 Because you don't understand whether
 
 [05:30]
 Because you don't understand whether
-
-[05:30]
-Because you don't understand whether
-you're range donking, how large you're
-
-[05:32]
-you're range donking, how large you're
-
-[05:32]
 you're range donking, how large you're
 doning, what your turn and river
-
-[05:33]
-doning, what your turn and river
-
-[05:33]
-doning, what your turn and river
-strategy is. So maybe you're capturing a
-
-[05:36]
-strategy is. So maybe you're capturing a
-
-[05:36]
 strategy is. So maybe you're capturing a
 little bit of EV just by donking the
-
-[05:38]
-little bit of EV just by donking the
-
-[05:38]
-little bit of EV just by donking the
-flop, but you're going to give it back
-
-[05:40]
-flop, but you're going to give it back
-
-[05:40]
 flop, but you're going to give it back
 uh on the turn in the river by getting
-
-[05:42]
-uh on the turn in the river by getting
-
-[05:42]
-uh on the turn in the river by getting
-own because you don't know what you're
-
-[05:43]
-own because you don't know what you're
-
-[05:43]
 own because you don't know what you're
 doing.
 
 [05:45]
 doing.
-
-[05:45]
-doing.
-&gt;&gt; Yeah. So if you start to apply different
-
-[05:47]
-&gt;&gt; Yeah. So if you start to apply different
-
-[05:47]
 &gt;&gt; Yeah. So if you start to apply different
 strategies, you have to know what you're
-
-[05:48]
-strategies, you have to know what you're
-
-[05:48]
-strategies, you have to know what you're
-trying to achieve with those, right?
-
-[05:50]
-trying to achieve with those, right?
-
-[05:50]
 trying to achieve with those, right?
 where where's the EV of this strategy
-
-[05:52]
-where where's the EV of this strategy
-
-[05:52]
-where where's the EV of this strategy
-come from and execute that to to as
-
-[05:55]
-come from and execute that to to as
-
-[05:55]
 come from and execute that to to as
 close to perfection as as you can
-
-[05:56]
-close to perfection as as you can
-
-[05:56]
-close to perfection as as you can
-because that's in the end you know
-
-[05:58]
-because that's in the end you know
-
-[05:58]
 because that's in the end you know
 whatever strategy you decide it's the
 
 [06:00]
 whatever strategy you decide it's the
-
-[06:00]
-whatever strategy you decide it's the
-execution behind it that's going to
-
-[06:01]
-execution behind it that's going to
-
-[06:01]
 execution behind it that's going to
 determine the EV now obviously certain
-
-[06:04]
-determine the EV now obviously certain
-
-[06:04]
-determine the EV now obviously certain
-strategies will indeed be more optimal
-
-[06:06]
-strategies will indeed be more optimal
-
-[06:06]
 strategies will indeed be more optimal
 either in theory or just simply because
-
-[06:08]
-either in theory or just simply because
-
-[06:08]
-either in theory or just simply because
 how people will respond to them I saw
-
-[06:10]
-how people will respond to them I saw
-
-[06:10]
-how people will respond to them I saw
-for example in I think it was the world
-
-[06:12]
-for example in I think it was the world
-
-[06:12]
 for example in I think it was the world
 championship on coin poker I saw Jason
 
 [06:16]
 championship on coin poker I saw Jason
-
-[06:16]
-championship on coin poker I saw Jason
-Gil he was opening 5x I think small bit
-
-[06:20]
-Gil he was opening 5x I think small bit
-
-[06:20]
 Gil he was opening 5x I think small bit
 Yeah, I'm pretty sure he was opening 5x
-
-[06:22]
-Yeah, I'm pretty sure he was opening 5x
-
-[06:22]
-Yeah, I'm pretty sure he was opening 5x
-and he was tree betting to out of
-
-[06:24]
-and he was tree betting to out of
-
-[06:24]
 and he was tree betting to out of
 position from like 2.5 to seven or
-
-[06:26]
-position from like 2.5 to seven or
-
-[06:26]
-position from like 2.5 to seven or
 something from the big blind something
-
-[06:27]
-something from the big blind something
-
-[06:28]
-something from the big blind something
-stuff like that. So trying to drag
-
-[06:29]
-stuff like that. So trying to drag
-
-[06:29]
 stuff like that. So trying to drag
 people in parts of the game tree that
 
 [06:32]
 people in parts of the game tree that
-
-[06:32]
-people in parts of the game tree that
-you know you know but they don't. Right.
-
-[06:35]
-you know you know but they don't. Right.
-
-[06:35]
 you know you know but they don't. Right.
 Exactly. It's actually I actually recall
-
-[06:37]
-Exactly. It's actually I actually recall
-
-[06:37]
-Exactly. It's actually I actually recall
-as well in the past I would open do the
-
-[06:39]
-as well in the past I would open do the
-
-[06:39]
 as well in the past I would open do the
 same. I would open like 4x or something
-
-[06:40]
-same. I would open like 4x or something
-
-[06:40]
-same. I would open like 4x or something
 from the small blind trip with 5x and
-
-[06:42]
-from the small blind trip with 5x and
-
-[06:42]
-from the small blind trip with 5x and
-then I remember the board comes low and
-
-[06:44]
-then I remember the board comes low and
-
-[06:44]
 then I remember the board comes low and
 then people thought this is a good board
 
 [06:45]
 then people thought this is a good board
-
-[06:45]
-then people thought this is a good board
-for me. Well I just opened 4x so you
-
-[06:47]
-for me. Well I just opened 4x so you
-
-[06:47]
 for me. Well I just opened 4x so you
 raise a bit tighter. So people were
-
-[06:49]
-raise a bit tighter. So people were
-
-[06:49]
-raise a bit tighter. So people were
-overstabbing low boards because they
-
-[06:51]
-overstabbing low boards because they
-
-[06:51]
 overstabbing low boards because they
 thought they were good for them, but I
-
-[06:53]
-thought they were good for them, but I
-
-[06:53]
-thought they were good for them, but I
-was either opening bigger on the bottom
-
-[06:54]
-was either opening bigger on the bottom
-
-[06:54]
 was either opening bigger on the bottom
 or big on the small blind and therefore
-
-[06:55]
-or big on the small blind and therefore
-
-[06:56]
-or big on the small blind and therefore
 the boards was no longer good for them.
-
-[06:57]
-the boards was no longer good for them.
-
-[06:57]
-the boards was no longer good for them.
-So that was kind of a way that you know
-
-[06:59]
-So that was kind of a way that you know
-
-[06:59]
 So that was kind of a way that you know
 people were not really keeping track of
 
 [07:01]
 people were not really keeping track of
-
-[07:01]
-people were not really keeping track of
 the ranges properly. Um, so yeah, I
-
-[07:04]
-the ranges properly. Um, so yeah, I
-
-[07:04]
-the ranges properly. Um, so yeah, I
-definitely think there's a lot of value
-
-[07:05]
-definitely think there's a lot of value
-
-[07:05]
 definitely think there's a lot of value
 in
