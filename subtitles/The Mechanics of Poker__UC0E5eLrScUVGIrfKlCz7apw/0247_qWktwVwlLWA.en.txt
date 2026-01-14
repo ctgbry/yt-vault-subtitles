@@ -1,0 +1,394 @@
+[00:00]
+listening to you by the way it it got me
+thinking about something interesting
+because how so nor I think the majority
+of people would also write would also
+put it in JPT but it would just say give
+me give me the perfect give me just a
+
+[00:15]
+me give me the perfect give me just a
+perfect outcome people have the desire
+that they just want the outcome right
+whereas you were curious like hey don't
+just give me the answer tell me how you
+got to it so I want to learn but I think
+the majority of people just want the
+outcome come which I think you can link
+
+[00:31]
+outcome come which I think you can link
+perfectly back to poker with like
+solvers. A lot of people just want want
+to know what do I have to do and they
+kind of miss the they don't have the
+curiosity to uncover like hey how you
+got there that that I find the
+interesting part and then I thought like
+
+[00:46]
+interesting part and then I thought like
+okay on one side you could say that with
+AI more people have access to it so it
+could level the playing field but like
+you just said I think actually it will
+only make the gap bigger because it's
+your mindset towards it right and how
+
+[01:00]
+your mindset towards it right and how
+you use it you will only get you will
+only get better and the people who are
+looking for shortcuts they will only
+fall further behind. Do you think it do
+you think it will level the playing
+field or do you agree with me that it
+will probably only amplify uh the people
+who have your approach they will only
+
+[01:15]
+who have your approach they will only
+become better and the rest will only
+fall further behind even though you
+could say we now have access to the same
+tool. I mean, it depends how many bots
+are in the pool, right? Like
+like like that's that's the danger. Like
+the the existential danger is is that
+
+[01:32]
+the the existential danger is is that
+you're actually not playing against a
+human and that they are either like
+assisted or completely like there that
+there's a bot playing because that
+outcome it was always kind of like
+annoying in poker. like just just being
+
+[01:47]
+annoying in poker. like just just being
+up against bots is uh annoying because
+they're filling the seat of a
+potentially weaker player whether it's a
+regular or or a recreational player. Um
+so it makes for like a different type of
+
+[02:01]
+so it makes for like a different type of
+playing experience. But the bots used to
+be
+uh pretty bad. I like like I I have some
+I'd never really battled bots, but I had
+some heads up guys that were like
+dealing bots for 5B00 and just like
+taking that money to the bank and and
+
+[02:16]
+taking that money to the bank and and
+enjoying it. But the problem becomes
+once you started applying real time
+analytics to that. Uh you're not going
+to be able to run them over by
+overbuffing the river and they're
+they're not adjusting right. So um is
+
+[02:30]
+they're not adjusting right. So um is
+kind of rolling it back to to that. I
+think that's a bigger picture question
+that I think is undertalked about in
+poker. Um I I I have some potential like
+maybe want to explore a couple of
+solutions. I don't like talking about
+problems. I like talking about like how
+would I solve this? Um
+
+[02:47]
+would I solve this? Um
+but I think from a from a personal
+competitive advantage point of view
+definitely right like it's like that
+with everything. Like just going back to
+the analogy of the guy showing up to the
+job interview with a shovel when when
+there's a concrete truck or like a
+
+[03:01]
+there's a concrete truck or like a
+concrete spaceship even uh to to really
+drive home on the point. Um
+uh that's of course uh going to be
+natural selection and I think we're
+already seeing that. If you would like
+
+[03:15]
+already seeing that. If you would like
+map out the poker ecosystem and see
+who's winning and who's losing and why
+and like do a deeper dive analysis
+there, you're probably going to realize
+that the people that are
+more curious,
+more actionoriented,
+
+[03:31]
+more actionoriented,
+solutions oriented. Maybe solutions
+oriented is better than action or like
+they're more solutionsoriented and then
+like they take action to to make those
+craft those solutions.
+um they're going to be the big winners
+in the pool and they're all it's always
+
+[03:45]
+in the pool and they're all it's always
+going to be like that in any
+environment. It doesn't matter if it's
+poker. Poker is nice because it is this
+kind of like dynamic and and relatively
+flexible equilibrium, but you can map it
+out easily. Like it doesn't it doesn't
+
+[04:00]
+out easily. Like it doesn't it doesn't
+you don't have to be rocket scientist to
+understand how it works. Uh because
+you're constantly trading money. Like I
+see poker players as a hybrid between a
+trader and a tennis player. Like you
+have to show up for practice yourself.
+
+[04:16]
+have to show up for practice yourself.
+You have to keep hitting the ball. It's
+kind of grueling. It's ups and downs.
+Like tennis has less variance and but
+then you like integrate trading in that
+part of the algorithm and now your job
+is just to like make as many like small
+
+[04:31]
+is just to like make as many like small
+trades as possible. Every bet is a trade
+essentially. I mean both has a ball,
+right? Like if you look at I'm not an
+expert at Novak Dookovic. I haven't read
+his biography, but like the way that
+he's managed his career seems like very
+on point and that's why he has the
+
+[04:46]
+on point and that's why he has the
+results that he has. And you can look at
+some YouTube videos where like the
+statistics is not that much, right? Like
+like he used to bat an average of like
+winning whatever like slightly less than
+50% of points and to to go from that to
+
+[05:00]
+50% of points and to to go from that to
+world class, he's like winning slightly
+more than average now. and then like
+keep pushing that those like small
+incremental gains by all of the
+lifestyle changes whatever like all the
+stuff that that goes into uh becoming
+Novakovich versus traders where um I
+
+[05:19]
+Novakovich versus traders where um I
+recently through Perplexity by the way I
+forgot that that's all the only place I
+read my news is on Perplexity great
+place to they have like a digest page
+that you can read your news which is not
+the doom and gloom from regular media
+
+[05:31]
+the doom and gloom from regular media
+it's more like hey here's the scientific
+breakthrough through and like hey here's
+something you find very interesting and
+hey here is a world new that news that
+you should actually pay attention to
+because it matters uh and it's backed by
+source and relevant because any anything
+
+[05:45]
+source and relevant because any anything
+else is just an opinion and we can read
+opinion pieces that's great but when I
+when I want to know what's going on I
+need facts
+um so the the fact that I was I found in
+that news feed was that index fund had
+
+[06:01]
+that news feed was that index fund had
+outperformed traders by 2x like Wall
+Street traders was outperformed by
+simple index funds by twice. Like
+there's a ginormous margin when you
+really like think about why that is. And
+then you know they do why why why
+
+[06:18]
+then you know they do why why why
+it's like lower costs uh less human
+error less like general overhead
+um better real time um adjustments right
+so like like I think it's like a perfect
+
+[06:31]
+so like like I think it's like a perfect
+example that kind of illustrates the
+point of
+when you augment both right like the
+noakovich
+uh and his process to become an elite
+competitor and like doing those
+incremental gains for you as an athlete
+
+[06:46]
+incremental gains for you as an athlete
+like in our case mind athletes for the
+most part but like you have to power
+that with your physical performance as
+well obviously uh nutrition and anything
+else that that kind of fuels performance
+um and you add the data analytics and
+
+[07:02]
+um and you add the data analytics and
+insights and real-time predictions and
+cutting cost and becoming more
+efficient. Now you're supercharged,
+right? like now you have the best of
+both worlds
+um and a very datadriven way as well to
+
+[07:16]
+um and a very datadriven way as well to
+to get predictably good outcomes which I
+think is like the there's never been a a
+more sure time to be successful if you
+apply yourself because you can now do
+your market research like I could I
+
+[07:30]
+your market research like I could I
+could have an idea I I have I do this
+all the time I have an idea and I used
+to have to go through this whole
+process of proving that this is a good
+idea
+
+[07:45]
+idea
+and imagine like going back to like the
+the distractions like imagine how many
+times I get distracted in that process
+and I go off and I do something I'm not
+supposed to do like that's the biggest
+cost in that like the actual work that I
+do can be quite efficient and rewarding
+and it's fun and you know you get a
+
+[08:01]
+and it's fun and you know you get a
+group together with people and you talk
+about it and figure out some solution
+and it's worthwhile that's that's Right.
+Um, but the distractions, that's a big
+cost. And
+now I can do my market research. I can
+
+[08:17]
+now I can do my market research. I can
+say like, "Hey, I have this idea I think
+is really good. Could you help me kind
+of spawn the idea a little bit further
+so it's not my halfbaked idea of what
+that would be? Could you make that into
+something compact?" And then I put it
+
+[08:31]
+something compact?" And then I put it
+through to some one of the research
+engines. I can't wait to use Manis. I
+haven't used it yet, but like some kind
+of research engine like deep search like
+um elillicit. It's if you haven't
+checked out elicit, I will give you a
+
+[08:45]
+checked out elicit, I will give you a
+recommendation.
+It's
+incredibly powerful. It's like they
+they're outperforming every other the
+research engine on the benchmark. So, so
+check that one out. Um it's also more
+like it's more
+um
+
+[09:01]
+um
+it's putting the it like you would in in
+a very academic paper, right? It's like
+it's it's an academic paper engine. Um,
+so you can if you have a big question, I
+go there, but it cost you cost you a
+fair bit of money to run your data that
+way. Uh, if you have a smaller question,
+
+[09:16]
+way. Uh, if you have a smaller question,
+you just do like a quick like grock
+search uh on a deep search and you're
+going to get back here's your initial
+market research. And remember how I said
+that you can now do all everything in
+like this virtual simulator with the
+
+[09:30]
+like this virtual simulator with the
+robots, right? Like what you can do now
+is you can virtually simulate your
+product from market research, target
+audience,
+sub audiences. Who would be more likely
+
+[09:46]
+sub audiences. Who would be more likely
+to actually like adopt this kind of
+technology? Why?
+Then send that to prototype. Create a
+demo. Send demo back to my table.
+
+[10:01]
+demo. Send demo back to my table.
+Say, "Hey, I have this demo. Now giving
+the marketing plan, right? like I want
+to use score app to uh craft a mini
+survey where I start initiating my
+clients, my my potential customers
+
+[10:16]
+clients, my my potential customers
+and from that how can I engage them in a
+way where
+they're not going to find me dreadfully
+boring.
+They're going to actually like maximize
+their engagement because of our
+attention span having dropped from 8 12
+
+[10:32]
+attention span having dropped from 8 12
+seconds to 8 fact. It's like we have to
+people's attention is lower and lower
+and and it's being commoditized and
+people are waking up to that

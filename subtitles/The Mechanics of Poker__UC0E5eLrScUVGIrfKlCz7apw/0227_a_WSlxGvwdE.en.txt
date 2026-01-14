@@ -1,0 +1,281 @@
+[00:00]
+if you are playing your plock and pairs
+only to flop a set you're missing out on
+a lot of EV in this video I will show
+you guys the modern approach to playing
+these low Pairs and show you the five
+main reasons why these pairs are way
+more powerful than you think even if you
+
+[00:15]
+more powerful than you think even if you
+do not flop a set let's go the first
+power of the pocket pair is the EV of
+its improvability Beyond flopping a set
+when I started playing poker the most
+popular advice around playing these
+pocket pairs was no set no bet meaning
+
+[00:32]
+pocket pairs was no set no bet meaning
+that you should try to get in pots
+cheaply with your low pairs try to flop
+a set and if you don't put no further
+money into the pot I even remember my
+coach back in the time telling me that
+if you see players barreling pocket pars
+
+[00:45]
+if you see players barreling pocket pars
+you should call your friends the reason
+he said this was because pocket pars if
+they don't flop a set they have very
+little Equity to improve especially back
+then all our betting and calling was
+done around equity and while it's true
+that the pocket pairs have less outs and
+
+[01:01]
+that the pocket pairs have less outs and
+does Equity than let's say a straight
+draw or a flush draw we missed something
+very important the outs of these pocket
+pairs are way more disguised and
+therefore have greater implied odds
+meaning that if you do hit your set on a
+later Street your opponent won't see it
+
+[01:17]
+later Street your opponent won't see it
+coming and therefore is way more likely
+to put money in the pot as it perceives
+these turn and rivers to be blanks Power
+number two increased fold Equity due to
+its unblocking properties next to the EV
+of having it another reason we pick the
+
+[01:31]
+of having it another reason we pick the
+Bluffs to seabat or Barrel it's due to
+its blocking and unblocking properties
+preferably blocking the hands that call
+your bet and unblocking the hands that
+fall to your B so we enjoy the maximum
+amount of fault Equity possible take the
+
+[01:45]
+amount of fault Equity possible take the
+following example we are button versus
+big blind and after having seat the Flop
+we can now seat to turn let's look at
+our straight draws and our pocket pairs
+while with having a straight draw we
+have four or even eight out to the nuts
+
+[02:00]
+have four or even eight out to the nuts
+and some additional outs forsus second
+and third pair we still prefer to check
+that hand often and instead use these
+low pocket pairs as Bluffs now the
+reason for that we find in venous
+folding range on the turn because the
+straight draws block a lot of the hands
+
+[02:15]
+straight draws block a lot of the hands
+which villain is going to check F the
+turn rate which reduces our fault Equity
+but if we look at these low pocket pairs
+they don't interfere with the folding
+range AKA they have good unblockers to
+Barrel which makes them enjoy more more
+
+[02:30]
+Barrel which makes them enjoy more more
+fault Equity than the straight draws if
+we continue on this example and we look
+at the EV of barreling our draw versus
+our pocket pairs you might see something
+very confusing barreling the draws has
+higher e than barreling the pocket pairs
+
+[02:45]
+higher e than barreling the pocket pairs
+then why do we prefer beding pocket
+Pairs and checking straight
+[Music]
+draws now the reason for this is not
+necessarily a power of the pocket pair
+but more a theoretical principle around
+how to construct ranges that many
+
+[03:01]
+how to construct ranges that many
+players get wrong we don't just bet or
+barar our hands that have the highest EV
+to reach the desired frequency but
+instead we must compare the EV of
+betting our hand versus checking our
+hand and then choose the highest EV
+option now whilst barreling the draw has
+
+[03:15]
+option now whilst barreling the draw has
+in the more potential ake checking the
+draw and always realizing our Equity
+sometimes hitting a pair on a later
+street that we can value bet or get to
+Showdown also has a lot of EV where
+these low pocket pairs often have way
+less Showdown value and improve ability
+
+[03:32]
+less Showdown value and improve ability
+to be played passively and therefore
+betting more easily outperforms the EV
+of
+checking the third power of the pocket
+pair is you are actually value betting
+next to generating EV by getting more
+
+[03:45]
+next to generating EV by getting more
+and better hands to fold we actually
+also generate EV versus some parts of
+villains calling range as especially on
+boards that contain a lot of king and a
+high draws players will often continue
+calling these draws as they expect to be
+up against wor draws than them as these
+
+[04:01]
+up against wor draws than them as these
+are the more traditional type of hands
+players would choose to barrel with this
+play Works especially well versus
+recreational players who tend to overall
+a lot of their draws and have way more
+random third and fourth pairs in their
+flop calling range which we can fold out
+
+[04:15]
+flop calling range which we can fold out
+on the
+turn power number four they back the
+team so far we've discussed how the pcka
+pair itself generates it TV but it
+actually serves a greater non-selfish
+purpose in your overall strategy a
+
+[04:31]
+purpose in your overall strategy a
+common problem with the way humans
+usually construct ranges is that they're
+too focused around Equity the problem
+with this is that when all the draws
+Miss on the river you will have way too
+many Bluffs in your range on the flip
+side if all the draws complete you will
+
+[04:46]
+side if all the draws complete you will
+now no longer have any Bluffs which
+discourages your opponent from paying
+you off now not getting called in these
+kind of scenarios because you don't have
+enough Bluffs really hurts the EV of
+your value hands and while the attention
+in poker often goes to the cool Bluffs
+
+[05:02]
+in poker often goes to the cool Bluffs
+and big hero calls getting maximum
+amount of value out of your value hands
+is actually where most of your money is
+made a solver looks very far ahead and
+adjusts its ranges even as early as pre
+flop to make sure it has enough Bluffs
+
+[05:16]
+flop to make sure it has enough Bluffs
+on all possible boards and Runners that
+exist to make sure that its value hands
+can cash in for the maximum take the
+following example we call pocket Deuces
+to a three bat and the Flop comes king
+queen Jack our opponent bets one quarter
+
+[05:32]
+queen Jack our opponent bets one quarter
+of the pot and while most players would
+have mucked as soon as villain reaches
+for chips the solver actually has
+different plans and calls the seabat now
+the interesting point is the EV of the
+call the solver is actually not
+
+[05:46]
+call the solver is actually not
+generating much to any EV with calling
+these low pairs however when we remove
+the calling of low pocket pairs to the
+cat and now compare the EV of our M
+hands we can see that these now generate
+significant less EV as when we always
+
+[06:01]
+significant less EV as when we always
+fold our Deuces on the Flop and the turn
+is a 10 or Ace for example it's
+impossible for us to generate EV as we
+have no Bluffs to encourage our opponent
+from putting money in the pot now while
+in theory this Bluff does not make you
+
+[06:15]
+in theory this Bluff does not make you
+any money getting to these completing
+runouts with your low pocket pairs in
+practice will as it's likely that your
+opponent will not be able to put you on
+enough Bluffs and therefore will start
+over
+folding so to conclude the fourth power
+of the pocket pair increasing the EV of
+
+[06:32]
+of the pocket pair increasing the EV of
+your mid Hands by having Bluffs on all
+possible runouts and taking one for the
+team now for the fifth and last power of
+the pocket pair I want you guys to play
+the following hand with me we defend
+from the big blind and check call a
+
+[06:45]
+from the big blind and check call a
+seabat on the turn we Face a barrel and
+decide to call again the river is the
+biggest brick in the deck and facing a
+bat we are pretty happy calling down as
+we have a strong hand and the board ran
+out in a way that it's impossible our
+
+[07:01]
+out in a way that it's impossible our
+opponent has improved to a better hand
+than ours right we call and villain
+shows up with pocket Deuces rivering a
+set the [ __ ] so for the fifth
+and last power of the pocket pair it's
+
+[07:15]
+and last power of the pocket pair it's
+that pleasure you get and that pain you
+uce when hitting your set on the river
+go tilt them guys if you liked this
+video give it a thumbs up and subscribe
+to the channel if you like this video
+chances here you will like this video
+here as well so go check that out

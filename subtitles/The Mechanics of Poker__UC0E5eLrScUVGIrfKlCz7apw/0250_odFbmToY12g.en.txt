@@ -1,0 +1,291 @@
+[00:00]
+You mentioned the node locking. Do you
+recall a time in your career where you
+started to play with that and that kind
+of opened your mind? It's like [ __ ] You
+mentioned like this 250k break even
+stretch and you were really focus too
+focused on GTO.
+&gt;&gt; Was that like the turnaround point
+there? Was that when you started not
+
+[00:16]
+there? Was that when you started not
+locking and seeing like oh [ __ ] I've
+I've been applying all these things and
+they're true right to a certain degree.
+A lot of things you can hear people say
+a lot of things. Yeah it's all true but
+is it really that relevant? Like is it
+the most relevant factor at this moment?
+
+[00:30]
+the most relevant factor at this moment?
+Yeah, exactly. Well, the solver is
+always correct. You just have to set up
+the solver correctly. So, when people
+say GTO, they often mean against a basic
+output rather than the actual output.
+So, you can have a GTO counter strategy
+against a compromised strategy. For
+example, you can you can bet 50% on the
+
+[00:45]
+example, you can you can bet 50% on the
+river for full pot. And then if your
+opponent, let's say, overfolds, then
+you'd be betting, let's say, 60% of the
+time. And with not locking, you're
+finding out what the thresholds are.
+Let's say he overfolds by 10 percentage
+points. Do you bet 10 percentage points
+more? Do you change the way you're
+
+[01:01]
+more? Do you change the way you're
+betting? Do you start, for example,
+having two sizes where, you know, in the
+past what I would have done, let's say
+10 years ago, I just go all in for five
+times a pot with almost exclusively
+bluffs because people just weren't
+calling me. I recall not getting called
+down like that for about a year. So
+
+[01:16]
+down like that for about a year. So
+having a bunch of value hands in that
+sizing obviously doesn't make sense. My
+strategy is super easy to exploit. I
+mean, if you basically win the pot
+whenever you click call, then I'm
+getting wrecked. But as long as they
+don't call, then they're getting
+wrecked. And then if I bet 75 on the
+
+[01:30]
+wrecked. And then if I bet 75 on the
+river, that's where I put my value hands
+in. And I might still put some bluffs
+in. So overall, my my ratio of value to
+bluffs might be correct, but since I'm
+splitting them over two ranges, and it's
+completely unbalanced, they could be
+exploiting me very badly. But as long as
+
+[01:45]
+exploiting me very badly. But as long as
+they don't, I'm winning. Obviously, this
+was 10 years ago and nowadays you cannot
+just go for crazy strategies and expect
+everybody to just, you know, get owned
+by you. Your opponents are much better
+than they were back then. So now having
+
+[02:00]
+than they were back then. So now having
+uh let's say GTO base is far more
+important than it was back then. I
+remember there was a guy called Sir
+Donald from Spain. Do you remember him?
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; And he was 3.5xing the button. And my
+and me in my, you know, black and white
+
+[02:15]
+and me in my, you know, black and white
+mindset was thinking, "No, that's bad."
+2.5 is the size in the go. Even though
+there's a case an argument to be made
+for almost every sizing, but he was
+basically the ultimate exploitative
+player. I I still remember he opened the
+button and I would have A2 offsuit
+against 3.5x at 500 zoom where the
+
+[02:31]
+against 3.5x at 500 zoom where the
+rake's pretty high and I thought, well,
+how can I fold an ace? Even though
+calling ASUS offsuit against 3.5x button
+is massively losing. So he's essentially
+using exploit an exploitative strategy.
+He's basically saying, "You don't have a
+
+[02:45]
+He's basically saying, "You don't have a
+3.5x defending range. You don't know how
+to defend flops, turns, and rivers here.
+So, I'm going to use a strategy that
+maybe in theory loses slightly to GTO,
+but you're going to make such massive
+mistakes that it more than makes up for
+it." And he was a massive winner. And
+
+[03:00]
+it." And he was a massive winner. And
+then I thought, "Oh, well, he must be
+running hot." So, I dismissed him. But I
+should not have dismissed him. I should
+have asked myself, he's playing such an
+a funny strategy, but clearly it's
+working. So, let me find whatever it is
+that's working. There was another player
+
+[03:15]
+that's working. There was another player
+called Eccentric BG from Bulgaria and he
+was limping and I thought the same
+thing. I thought the rakes way too high.
+People probably waver fold to steals.
+Why are you limping here? But if people
+are, you know, isolating king eight
+offsuit against his, you know, 18% MP
+
+[03:31]
+offsuit against his, you know, 18% MP
+limp, then they're just getting wrecked
+against limp calls and then three bets,
+right? So there's value in every
+strategy and it's very important to not
+just say things are bad or good. There's
+almost nothing in life that is
+inherently only bad or only good. Right?
+
+[03:46]
+inherently only bad or only good. Right?
+Yon had a famous uh expression about
+that.
+&gt;&gt; So how did uh eccentric and sir Donald
+uh motivate you in terms of thinking
+more creatively about strategy and what
+
+[04:00]
+more creatively about strategy and what
+was the result of that?
+&gt;&gt; They didn't I I only figured this out
+years later. I just thought back at the
+players who I found tough to play
+against and they had great results and I
+asked myself, well, why is that? And I
+just realized there's something to their
+
+[04:15]
+just realized there's something to their
+strategy and it's not just whatever is a
+high CV in theory. So, I started
+implementing this uh maybe 3 four years
+ago. I went to Colombia with one of my
+best friends in poker, show force, and
+we started raising 3x from every
+
+[04:31]
+we started raising 3x from every
+position, which is kind of the old
+school strategy, right? 3x or 3.5x.
+And because we are the only two players
+using that strategy,
+people are not going to study against
+us. If you've got 50 opponents, you're
+not going to study against two of them.
+
+[04:45]
+not going to study against two of them.
+And the same was probably true for
+Eccentric BG. He was the only guy in the
+pool limping. So people didn't thought
+it was worth the effort to study how to
+play against limps. So we we know how
+our opponents are going to make
+mistakes. We've prepared. They don't
+know our strategy which gives us a
+
+[05:01]
+know our strategy which gives us a
+significant diff um advantage obviously
+if we prepare well. So you have to
+change your preop ranges your flop
+turner reverse sebed strategies you have
+to change almost everything. But the
+good thing about being the only person
+with a certain strategy is that if it
+
+[05:16]
+with a certain strategy is that if it
+works you're going to crush. Obviously
+if you're the only person making that
+mistake and nobody else is you will get
+crushed. That's why I'm not a fan of for
+example saying oh I could limp. I could
+don here. let me dunk. Let me try.
+Because you don't understand whether
+
+[05:30]
+Because you don't understand whether
+you're range donking, how large you're
+doning, what your turn and river
+strategy is. So maybe you're capturing a
+little bit of EV just by donking the
+flop, but you're going to give it back
+uh on the turn in the river by getting
+own because you don't know what you're
+doing.
+
+[05:45]
+doing.
+&gt;&gt; Yeah. So if you start to apply different
+strategies, you have to know what you're
+trying to achieve with those, right?
+where where's the EV of this strategy
+come from and execute that to to as
+close to perfection as as you can
+because that's in the end you know
+whatever strategy you decide it's the
+
+[06:00]
+whatever strategy you decide it's the
+execution behind it that's going to
+determine the EV now obviously certain
+strategies will indeed be more optimal
+either in theory or just simply because
+how people will respond to them I saw
+for example in I think it was the world
+championship on coin poker I saw Jason
+
+[06:16]
+championship on coin poker I saw Jason
+Gil he was opening 5x I think small bit
+Yeah, I'm pretty sure he was opening 5x
+and he was tree betting to out of
+position from like 2.5 to seven or
+something from the big blind something
+stuff like that. So trying to drag
+people in parts of the game tree that
+
+[06:32]
+people in parts of the game tree that
+you know you know but they don't. Right.
+Exactly. It's actually I actually recall
+as well in the past I would open do the
+same. I would open like 4x or something
+from the small blind trip with 5x and
+then I remember the board comes low and
+then people thought this is a good board
+
+[06:45]
+then people thought this is a good board
+for me. Well I just opened 4x so you
+raise a bit tighter. So people were
+overstabbing low boards because they
+thought they were good for them, but I
+was either opening bigger on the bottom
+or big on the small blind and therefore
+the boards was no longer good for them.
+So that was kind of a way that you know
+people were not really keeping track of
+
+[07:01]
+people were not really keeping track of
+the ranges properly. Um, so yeah, I
+definitely think there's a lot of value
+in

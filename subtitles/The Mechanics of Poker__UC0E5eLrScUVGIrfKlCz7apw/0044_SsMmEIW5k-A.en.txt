@@ -1,0 +1,1059 @@
+[00:00]
+same with for example we talked about
+the jack five diamonds
+it's very unfrequent but it raises a
+very small percentage of the time
+or like a hand like jack four for
+example uh this is another example where
+if you're just overly passive you're not
+burying the turn and you're always
+folding the river with certain hands
+
+[00:16]
+folding the river with certain hands
+that not want to be bluffing
+you're again playing a poor strategy
+[Music]
+do you want to know what is inside the
+
+[00:31]
+do you want to know what is inside the
+mechanics of poker program go over to
+the site where you can watch a free
+one hour demo hi there
+boys and girls and welcome back to
+another video here at the poker ambition
+channel and where today i'm going to
+
+[00:45]
+channel and where today i'm going to
+educate you guys a little bit
+on the lifelong debate on blue line
+versus red line winnings okay how does
+it actually work do we actually need a
+winning red line
+in order to have bigger successes in
+poker
+
+[01:00]
+poker
+now before you guys forget make sure to
+give this video a thumbs up
+uh leave some comments down below any
+questions see
+what you are struggling with is it the
+red line or is it the blue line
+without further ado let's get into a
+couple of points that i want to start
+
+[01:15]
+couple of points that i want to start
+off with
+and afterwards we'll go into solver to
+see how this kind of
+plays out the first point i wanted to
+start off with
+in giving you guys some more general
+understanding of how blue light versus
+redline winnings actually win
+is that some hands at certain spots
+
+[01:30]
+is that some hands at certain spots
+or playing versus specific opponent
+tendencies
+gain their ev by betting and raising
+okay which is usually means
+winnings in red line because when we do
+betting or raising or we put our
+opponent in a situation where he's more
+
+[01:45]
+opponent in a situation where he's more
+likely to fold okay our one was a flop
+goes up or when to shut and goes down
+which usually leads to redline winnings
+and in some spots by checking and
+calling
+so if we take the more passive line or
+what was the flop will go down
+or when the shoulder will go up
+depending on if we afterwards call or
+
+[02:00]
+depending on if we afterwards call or
+fault which is a point that i will get
+to later
+and that will usually lead to blue line
+winnings
+and if we obviously do more betting and
+raising we will gain more redline if we
+do less betting and raising we will gain
+uh gain more blue line but it's not that
+
+[02:16]
+uh gain more blue line but it's not that
+one is necessarily better than the other
+it all depends on certain hands
+or the spot you're in or the opponent
+you're playing against okay
+the second spot is if we take the
+aggressive or passive action more often
+or do it for the sake of being
+
+[02:31]
+or do it for the sake of being
+aggressive or passive
+and i think doing it for the sake of
+being aggressive is more common than the
+sake of being passive
+if you're just doing it for the sake of
+being passive it's probably your natural
+tendency your natural bias leaning
+towards specificity
+we will win more redline or blue line
+
+[02:47]
+we will win more redline or blue line
+okay
+kind of goes hand in hand with the point
+above
+if we try to win too much pots okay so
+we're doing too much betting and raising
+this will usually come then cost off our
+blue line okay because we are
+
+[03:00]
+blue line okay because we are
+then moving hands that should win money
+in blue line we're now moving them to
+redline and if pushed too far also or
+redline in general if you're trying to
+win for too much spots
+you're starting to invest in a lot of
+pots that you're gonna end up losing for
+
+[03:16]
+pots that you're gonna end up losing for
+example you're maybe a bit too sticky on
+flop and turn
+or try to pull out bluffs and then at
+some point winning is just never folding
+anymore and we've invested a lot of
+money in the pot that we're often going
+to lose for example if someone just
+significantly overfolds the flop but we
+
+[03:30]
+significantly overfolds the flop but we
+do follow it up with aggression
+later on a bit too often it will usually
+lead to losses okay if we fight two pots
+too little
+okay our redline losses will have to be
+compensated by our blue line winnings
+now i'm not necessarily saying that this
+
+[03:45]
+now i'm not necessarily saying that this
+is very bad okay obviously in some spots
+we need
+to try to win the pot uh usually leading
+to redline winnings
+but if you are a bit more on the passive
+side
+but let's say for example every time you
+play there's a very big will
+
+[04:00]
+play there's a very big will
+on the table who's going to give you
+their money at some point
+that means that you have very high blue
+line winnings which means that you can
+get away with losing more on redline
+because your blue line winnings will
+compensate that because of a certain
+will on the table
+for example this is a good example of
+
+[04:15]
+for example this is a good example of
+for example opponent tendencies
+if we have a very big will who never
+falls it's very hard
+to and probably not advisable to try to
+win redline versus them
+the last point if we are not aggressive
+with hands that should bet and raise
+
+[04:31]
+with hands that should bet and raise
+okay so we are moving redline hands that
+should be betting and raising into a
+more passive line
+and don't get too showdown because we
+fold these hands
+okay that should call we will be losing
+green line in the end guys it is about
+
+[04:47]
+green line in the end guys it is about
+the green line
+so if we move a hand that should win its
+head
+its money by redlining so by being
+betting and raising
+if we move that to a more passive line
+where in order we should maybe call the
+river
+but we ended up folding we ended up not
+
+[05:01]
+but we ended up folding we ended up not
+winning red line by being aggressive and
+we also didn't win blue light by getting
+to showdown
+okay usually if both lions go down your
+green line which is in the end is going
+to be the most important we'll also go
+down okay so these are a couple of like
+introduction points that i think is very
+
+[05:15]
+introduction points that i think is very
+important
+uh before we get to the actual example
+and in the end it is about that green
+line guys
+if your green line winnings go up happy
+life
+who cares what the other lines do for
+that we need to ask ourselves where our
+
+[05:31]
+that we need to ask ourselves where our
+ev
+value should come from giving our hand
+the spot and our opponent
+tendencies okay so i will try to take
+these points in consideration when
+looking at the example and without
+further ado
+we're going to take a look at it at a
+
+[05:46]
+we're going to take a look at it at a
+solver where it's playing in position as
+an
+initial razor i'm going to kind of look
+at it from both sides and kind of spot
+hands that
+are trying to gain their ev by redlining
+and hands and try to gain their ev by
+blue lining
+so we are playing button versus big
+blind flop comes queen eight
+
+[06:01]
+blind flop comes queen eight
+six the big man checks and it's up to
+the in position
+okay and the first thing that we can
+notice is that there is
+some mixed betting going on okay we
+sometimes check
+we sometimes bet small and we sometimes
+bet very big
+
+[06:15]
+bet very big
+it's kind of the preference on a board
+with these type of tendencies going
+on and we can immediately add certain
+hands in the darker red
+one to too bad big which usually leads
+to your opponent doing more
+folding okay so usually already our red
+
+[06:30]
+folding okay so usually already our red
+line winnings go
+up a very important point is that
+certain hands
+might prefer a red line strategy so
+betting more often and maybe for a
+bigger sizing on the earlier street
+in order to set themselves up to gain
+more blue line winnings on a later hand
+
+[06:46]
+more blue line winnings on a later hand
+okay this is actually a very big part of
+playing good poker if we then look at
+certain hands we can see for example i
+had like ace king checking most often
+this does not mean that batting is minus
+v
+
+[07:00]
+v
+for example if we ask the solver what is
+the ev
+of betting or checking being small
+betting big we can see here on the right
+bottom
+that um the evs are actually quite close
+and we shouldn't really take ev's in the
+solver all too seriously because you
+
+[07:16]
+solver all too seriously because you
+would see that with every hand that
+basically
+it doesn't really matter well it does in
+practice
+okay depending on the spot depending on
+your poo that you're playing as and
+specifically
+on your opponent but we can clearly see
+that
+
+[07:30]
+that
+if we take this example from the solver
+it clearly prefers a more passive
+strategy with ace king offsuit more
+often
+leading to higher blue light winnings
+okay
+other hands prefer betting so let's say
+for example we did that
+
+[07:47]
+for example we did that
+um actually let's go for the check and
+the turn is a deuce
+and film bats and we can actually see
+that we're now just folding a skin off
+most of the time okay so we were
+basically not really gaining
+
+[08:00]
+basically not really gaining
+a blue line and we're also not really
+gaining redline whereas if our opponent
+would bat a bit smaller let's say three
+quarters we're usually calling so if we
+would be checking back ace king and then
+folding to a bat that's smaller than
+over bat
+we're maybe making a mistake and not
+winning any green line
+
+[08:15]
+winning any green line
+okay this is an example whereas if for
+example fit in over bats and we are
+stubborn and decide to call with ace
+king off
+okay which means that we're going to win
+the pot more often
+okay then folding because obviously if
+we thought we'd never win it but it's
+
+[08:30]
+we thought we'd never win it but it's
+not the most plus
+ev line usually uh leading to
+redline losses because often we can then
+fold the river
+if we also station the river so let's
+say for example you're a person who
+calls here the overhead we ace king and
+also calls the river
+we are losing massive on blue line okay
+
+[08:46]
+we are losing massive on blue line okay
+because it's clearly a spot
+that the solver just prefers folding
+because villain is just not bluffing
+enough and
+if you recall is just too bad and now
+we're just playing red line for the sake
+of return okay we're just stationing
+obviously if you never fold uh you will
+
+[09:00]
+obviously if you never fold uh you will
+win a lot of redline and your blue line
+will go down the drain this is not
+really how poker works in the end it has
+to be
+in so let's say for example we do decide
+to bet
+and here for example for the opposition
+we can already see a couple of
+red line blue line tendencies as well he
+
+[09:15]
+red line blue line tendencies as well he
+mostly wants to check raise his king
+queen
+let's say for example you put that hand
+into a check call means that you will
+be a little bit more passive and
+therefore play king queen in the ev
+of blue lining which for example if you
+play versus someone who's over
+aggressive
+
+[09:30]
+aggressive
+then by all means let your opponent
+bluff
+off and never fold and just gain a lot
+of blue line
+for example on the other hand like five
+six offsuit here you can see that it's
+sometimes check raising
+if we would always check raise that we
+are significantly gaining
+
+[09:46]
+are significantly gaining
+some redline okay and you can clearly
+see that the solver does prefer
+to do it some of the time so probably
+either blue line or redlining
+it's probably both fine if we get versus
+earlier positions i know that for
+example for epmp
+i had like five six gets check race a
+
+[10:01]
+i had like five six gets check race a
+little bit more often
+and this is them because the red line up
+the red line option becomes more
+attractive than the blue line option
+because there's simply
+less winnings or expected winnings in
+the more passive line
+so let's say for example our opponent
+calls our small bat
+
+[10:16]
+calls our small bat
+and the turn is to do so hearts and we
+can see that on the turn our strategy is
+again
+split we basically never want a bad
+small
+imposition usually this is not really a
+thing there are some exceptions
+
+[10:30]
+thing there are some exceptions
+but usually the bad sizing goes towards
+three quarters and
+over bat okay this is a very common
+split if you're playing in position as
+an initial razor
+which means that certain hands will bet
+a little bit smaller
+and villain will fault less often so we
+will get the showdown a little bit more
+
+[10:46]
+will get the showdown a little bit more
+often
+and certain hands that's very big and
+villain is going to fold more often
+okay now this doesn't necessarily mean
+let's say for example
+if you have pocket aces okay pockets is
+clearly is a hand that prefers over
+betting
+if you are the type that says hey i'm
+
+[11:00]
+if you are the type that says hey i'm
+not going to overbat pocket aces because
+if i over bet
+finn is always full then i have like six
+five i don't want that okay
+this is an option but then you are
+confusing
+that you want to get called okay and
+finding a sizing for which you get
+
+[11:15]
+finding a sizing for which you get
+called is not necessarily the most
+positively sizing
+because we can go very big with a hand
+like pocket aces
+and get called less often but still make
+more money okay and there's still quite
+a lot of blue line winnings
+to be gained here okay because we're
+getting for example called by any type
+
+[11:31]
+getting for example called by any type
+of queen
+whereas for example certain other hands
+prefer checking
+again like the ace king for example
+checks quite often
+clearly a hand that we could also be
+betting so if you start over betting
+this yeah it's probably plus a fee
+
+[11:45]
+this yeah it's probably plus a fee
+so you could actually do that and win a
+lot of
+redline but it's not the highest ev
+option according to the solver
+now if you play versus someone who's
+overfolding the term massively you might
+say
+okay i'm gonna overbet a skin this is a
+valid option
+
+[12:00]
+valid option
+but we always still have to compare the
+ev of checking with the ev of betting
+let's say for example we have a hand
+that is very low even checking which is
+going to be maybe had like
+jack five of diamonds okay if your
+opponent
+significantly overfalled in the turn we
+might want to increase
+
+[12:16]
+might want to increase
+our redline winnings by over betting
+ahead like jack five of diamonds for
+example
+but keep our blue line when it's
+attacked intact by checking for example
+with a hand like ace king okay
+and this is kind of uh exploitation
+
+[12:31]
+and this is kind of uh exploitation
+because if we then do this correctly we
+can get both our lines up
+which few am i playing in my opinion
+play a very good exploitative strategy
+uh it's definitely possible at least to
+get a nice break even redline
+
+[12:45]
+get a nice break even redline
+and have good blue line winnings and i
+also think this is the
+this is a style that is hardest to play
+against
+from your opponent because if you're
+just always blue lining or if you're
+always focused on redlining and your
+opponent is onto that
+it kind of you don't really catch your
+
+[13:01]
+it kind of you don't really catch your
+opponent by surprise because if i have
+guys who are just over redline i don't
+really have a decision anymore
+as the defender because if the guy's
+just over aggressive i'm just gonna yeah
+okay
+call down and and hope because he's just
+
+[13:15]
+call down and and hope because he's just
+out of line
+where something someone is way too
+passive if he just keeps on betting i'm
+just gonna keep on folding okay
+so i always try to find like that sweet
+spot in the middle
+so let's say for example we do decide to
+check which certain hands prefer
+let's say for example we have like
+
+[13:30]
+let's say for example we have like
+pocket jacks we can clearly see it's
+preferring to bet
+nice for example clearly prefers to bet
+there's definitely a concept in there
+so let's say we check and the river is
+let's say the river is a four and we can
+now see the out of position
+strategy we can see that out of position
+
+[13:46]
+strategy we can see that out of position
+should do quite some betting
+even with hands that are as weak as what
+is his weakest hands
+looks like a6 is sometimes betting uh
+which again he best for a small sizing
+but if we bet for a small sizing
+
+[14:00]
+but if we bet for a small sizing
+feeling a full 28 of the time and when
+he falls these winnings go to our
+redline winnings okay so we can clearly
+see we want to do
+quite some betting now let's say we
+never bat these small sizings and we
+only bet overbet for example
+that means that we're going to be
+betting less and therefore checking more
+
+[14:16]
+betting less and therefore checking more
+and then your opponent can or check
+behind or bet and you
+then we usually call or fault but let's
+say for example we
+have an eight okay and we say okay we're
+never gonna check fold and eight on the
+river
+we could check film bats and as you can
+
+[14:31]
+we could check film bats and as you can
+see
+we don't really want to get in this line
+that's why the hands are not really
+showing
+but any eight is probably calling okay
+so
+check calling the river against us blue
+line whereas
+clearly the spot in theory is preferred
+to do a more of a redline approach it
+
+[14:46]
+to do a more of a redline approach it
+bets
+himself right we can see that most of
+these hands are betting so if you would
+always check these hands you
+are missing on redline winnings right
+same with for example um a bluff if you
+
+[15:00]
+same with for example um a bluff if you
+let's say for example we have 910
+we clearly want to be bluffing if you
+don't bluff these hands you are
+missing on redline winnings so let's say
+for example
+our opponent does bat and remember the
+ace king that we talked about earlier
+you can see that it now wants to call
+
+[15:16]
+you can see that it now wants to call
+or at least half of the time a head like
+pocket jacks even wants to race actually
+i will get to both these hands
+a skin for example if we were checking
+the turn and often folding the river
+we're not winning blue line because we
+fold it we're also not winning red line
+
+[15:30]
+fold it we're also not winning red line
+because we didn't barrel the turn
+and this is a clear example if you're
+just checking always folding you're
+just playing a poor strategy and you're
+losing green line
+okay same with jax jacks for example
+especially versus smaller sizing always
+wants to race basically a lot of your
+
+[15:47]
+wants to race basically a lot of your
+maybe ace 8 yeah you can see ace 8 king
+8 this is kind of the the bottom
+of hands that you want to be raising
+these type of holdings they
+they don't feel like that a one third
+
+[16:00]
+they don't feel like that a one third
+bat and a one third bat is getting
+enough value so they now want to race
+if you don't make these races okay you
+might be better off
+barreling the turn more often okay else
+you're just clearly losing
+value same with for example we talked
+about the jack five diamonds
+
+[16:16]
+about the jack five diamonds
+it's very unfrequent but it raises a
+very small percentage of the time
+or like a hand like jack iv for example
+uh this is another example where
+if you're just overly passive you're not
+barring the turn and you're always
+folding the river with certain hands
+that now want to be bluffing
+
+[16:30]
+that now want to be bluffing
+you're again playing a poor strategy
+okay
+then it's no longer has something to do
+with being with something having a pre
+a preference right and also you can see
+that in order to
+increase the efficiency or increase more
+
+[16:45]
+increase the efficiency or increase more
+redline winnings
+uh it actually starts over betting ahead
+like ten nine
+so let's say for example you're always
+uh betting small width
+above like ten nine uh maybe this is
+also
+way bad if you're lacking some redline
+to add some more over betting in general
+
+[17:00]
+to add some more over betting in general
+to your game
+definitely also boosting redline now
+let's say for example
+um the the actually pocket sevens was i
+can actually
+now see the bottom together with a6
+uh which is important for the next card
+
+[17:15]
+uh which is important for the next card
+actually i want to take a look at so
+let's say for example the river is an
+ace
+also flush complete and actually we see
+that uh pocket sevens obviously a6 is
+now more likely to bet
+because the handstand but seven is never
+betting anymore also an eight
+is not betting anymore and this is a
+spot where maybe if you're winning too
+much redline
+
+[17:30]
+much redline
+um that you're not adjusting to the spot
+because here clearly we don't really
+want to be betting small anymore with a
+hand like 10 8
+obviously we can but that would just be
+betting for the sake of betting and no
+longer because it's the
+it's the most plus we play so this is a
+
+[17:45]
+it's the most plus we play so this is a
+good example of
+uh same hand but a spot that now varies
+uh also we don't
+uh we actually see also that the over
+betting disappeared so if we either have
+like 109 you see it no longer wants to
+overlap
+there are some reasons for that as well
+
+[18:00]
+there are some reasons for that as well
+just an overall strategy shift
+uh obviously there's still redline and
+green line uh redline blue line when is
+going on but
+the spot just plays a little bit
+differently okay
+then if villain checks we can see that
+we now want to be bluffing ahead like
+
+[18:16]
+we now want to be bluffing ahead like
+jack five of diamonds
+which you know this makes quite a lot of
+sense on the term we had quite a shitty
+hand
+uh so we checked back and then the
+referee checks again and now we want to
+be
+bluffing again if you would miss these
+type of bluffs
+
+[18:30]
+type of bluffs
+you are losing redline winnings okay
+you are clearly these are then
+definitely spots like patrick bad spots
+or maybe like some more turn barreling
+especially in spots where people are
+over
+folding these are spots where you can
+boost your redline winning so if you
+have a redline winning leak
+
+[18:46]
+have a redline winning leak
+okay then you're maybe missing out on
+these type of barrels okay and we get a
+lot of
+nice hands to fold i think these type of
+hands usually automatically folding
+a standard ace jack the king jack are
+reasonable hands a lot of 6x are folding
+
+[19:00]
+reasonable hands a lot of 6x are folding
+so i think this is a fine
+a fine play um also in terms of if you
+are a little bit struggling with your
+redline
+i mean he should for example call pocket
+trees if you think pocket trees are not
+calling in your population
+then obviously betting more often
+
+[19:15]
+then obviously betting more often
+without like jack five of diamonds will
+gain you more money and this is actually
+something that
+the the mda movement the the mass
+data analysis movement always talks
+about that a lot of spots in the
+population
+it is more common that they do
+
+[19:30]
+it is more common that they do
+overfolding than underfolding
+therefore having more of a preference
+towards redline strategies is a good
+idea
+however if you are the type of
+overwinning on redline
+you are clearly ignoring the fact that
+certain hands should
+also have a lot of ev in trying to for
+
+[19:46]
+also have a lot of ev in trying to for
+example bluff catch or trying to get to
+showdown
+maybe setting up a little bit of uh
+reverse imply that situation for your
+opponent and you're kind of ignoring
+that so that would be a leak as well
+so i hope you guys start to understand i
+
+[20:00]
+so i hope you guys start to understand i
+think a little bit different now about
+blue line and redline winnings after
+that example
+and kind of start to understand that
+some hands want to get their
+uh their value from blue lining and
+other hands want to get their value from
+redlining
+now obviously we could go on about this
+
+[20:15]
+now obviously we could go on about this
+topic and there's
+a lot of things in play and
+it gets a little bit more complicated
+and we can add way more nuances but i
+would like to keep this video under 10
+hours
+and i wanted to end up with a couple of
+points to sum this video up
+
+[20:30]
+points to sum this video up
+that is this is for the redliners you
+cannot go to the ferrari dealer and say
+that you want to pay in redline winnings
+okay it is not about the redline
+winnings okay you're maybe confusing
+of winning the pop most often compared
+to making the highest ev decision okay
+this is a common league for people who
+
+[20:45]
+this is a common league for people who
+are
+over fighting for pots however if you're
+losing more than necessarily this is
+definitely a leak
+okay people then say is it the leak to
+have redline losses i would say
+depends on how much let's say for
+example for every buy-in you win
+
+[21:00]
+example for every buy-in you win
+you lose around half a buy in
+so if you win one buy in a showdown and
+you lose around half a buy-in
+in red line i think that is kind of the
+yeah it shouldn't drop lower than that
+preferably it would go a little bit
+towards
+
+[21:15]
+towards a little bit more towards break
+even but if it falls below that ratio i
+would say you're definitely leaking
+and you should definitely look to play a
+couple hands more aggressive
+in certain spots uh for example we saw
+that the five six hand
+on the queen 86 from the outer position
+
+[21:31]
+on the queen 86 from the outer position
+was already check raising
+you're probably missing out on t stack
+of place okay
+it is not that one style is better than
+the other
+it depends on your hand the spot and
+your opponent okay
+if you have your opponent who's over
+
+[21:45]
+if you have your opponent who's over
+folding then by all means be more
+aggressive
+okay if you have an opponent who's
+underfolding then by all means value bet
+the guy
+thinly and stop bluffing him
+point number three we naturally lean
+towards
+
+[22:00]
+towards
+one style know yours to see if you
+should be on the lookout for spots to be
+more aggressive or
+passive so in general
+your natural bias or your natural
+tendency can lean towards being more
+aggressive or passive
+mine in general for example pre-flop i
+
+[22:15]
+mine in general for example pre-flop i
+tend to be a little bit more on the
+passive side by nature so
+if i don't focus on that i will do way
+too much calling and wait for less tree
+betting or for betting or fight betting
+whatever you want usually leading to
+a bit more slacking uh of my redline
+
+[22:30]
+a bit more slacking uh of my redline
+okay so this is an example of a natural
+tendency
+other guys may be a bit too aggressive
+on on certain streets
+and you know they're straight up
+barreling the the jack five
+diamonds the ace kings basically any
+hand that
+uh that they can they just say listen my
+
+[22:46]
+uh that they can they just say listen my
+opponent is overfalling i'm barreling
+range
+this is not necessarily how poker works
+okay guys
+you're kind of ignoring uh evs in other
+lines as well
+now if you guys need any help
+
+[23:00]
+now if you guys need any help
+understanding when to redline or when to
+blue line this is all
+uh a concept of where should my ev come
+from
+how does certain strategies generate a
+fee we have a program the mechanics of
+poker in which we can
+help you get more clarity now if you're
+
+[23:16]
+help you get more clarity now if you're
+having trouble with
+your redline blue line ratio in a
+specific spot
+we also start to offer master classes of
+which the first one is now available
+which is how to play three web pods out
+of position definitely more of a redline
+
+[23:30]
+of position definitely more of a redline
+spot than others giving the nature of
+the spot
+so maybe if you're lacking redline that
+could be a masterclass for
+you now if you are not interested in any
+of the products
+perfectly fine as well i'm sure or i
+hope you would have gotten some value
+
+[23:45]
+hope you would have gotten some value
+out of this video make sure if you
+haven't done so to subscribe to our
+channel so you'll be first to know when
+we release new content
+and i wish you guys a lot of luck
+improving your red line and blue line
+winnings let us know in the comments
+down below
+what you were kind of struggling with
+
+[24:00]
+what you were kind of struggling with
+and what are kind of the main takeaways
+from this video for you
+and i wish you guys a lot of luck at
+the tables
+
+[24:15]
+the tables
+[Music]

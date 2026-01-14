@@ -1,0 +1,4502 @@
+[00:02]
+see someone's leaks.
+Any worries then that people uh people
+might see your leaks
+&gt;&gt; or it's worth it it's it's worth the
+tradeoff.
+
+[00:21]
+&gt;&gt; Nice.
+&gt;&gt; So you you fought this all out.
+
+[00:31]
+Let me see.
+I think we should be live. Check.
+So, that's good.
+
+[00:48]
+There is some delay. Don't know why.
+Quite a bit of delay actually. probably
+like 10 seconds or so,
+
+[01:00]
+like 10 seconds or so,
+but uh I mean it shouldn't
+shouldn't ruin the party.
+So, how about uh we start off maybe a
+little bit introduction of yourself. I
+made a post a while back already uh on
+
+[01:15]
+made a post a while back already uh on
+on on YouTube that I was looking for
+some people who would be interested in
+having their game reviewed live on
+YouTube. You were one of the guys who
+responded uh wrote down your story to
+me. me. I thought it was interesting.
+So, we we started chatting and here we
+
+[01:30]
+So, we we started chatting and here we
+are. So, maybe you give the audience a
+little bit some info about yourself.
+
+[01:57]
+The last
+
+[02:14]
+year and a half or so.
+
+[02:17]
+year and a half or so.
+player, so playing online and um yeah,
+just finding my feet, learning a lot and
+uh yeah, doing my best to improve and
+yeah, I'm originally from Scotland but
+currently living in Brazil
+
+[02:31]
+currently living in Brazil
+and looking forward to getting into it.
+&gt;&gt; All right, I think I think we're going
+to have to do that again because I I get
+comments and nobody hears you. So, I'm
+checking here my settings. Let me fix
+that.
+&gt;&gt; Okay,
+&gt;&gt; maybe they started hearing you at some
+point.
+
+[02:45]
+point.
+Uh if some people could confirm that
+better now. Okay. Yeah. So okay now.
+Yeah. Okay. So I know what the problem
+was then.
+&gt;&gt; So they heard nothing of me or should I
+do it again or
+
+[03:04]
+&gt;&gt; Yeah. No. Now that should be good. So I
+think everyone can hear you. I think
+everyone can hear me. So let's let's do
+this again.
+&gt;&gt; Excellent.
+&gt;&gt; Damn. All right. Okay.
+&gt;&gt; How about if you tell us a little bit
+
+[03:16]
+&gt;&gt; How about if you tell us a little bit
+something about yourself this time with
+audio so you know the audience can also
+listen.
+&gt;&gt; Sounds great. Sounds great. Well, hi
+everybody. Um, so my name is Dan. H go
+by Dan C in these poker Discord worlds.
+
+[03:30]
+by Dan C in these poker Discord worlds.
+Probably best known for playing as
+Peaceful Journey over on Coin Poker. Uh,
+it's where the bulk of my volume is. And
+yeah, I currently play 200 NL online.
+I've played for the best best part of
+the last 10 years. and I'm currently 29
+
+[03:45]
+the last 10 years. and I'm currently 29
+years old. For the bulk of the time when
+I've played poker, I've been a
+recreational player whilst working in
+the industry. I worked for Run at Once
+Poker for a good period of time and
+yeah, for the past year or so, I've been
+
+[04:00]
+yeah, for the past year or so, I've been
+playing full-time trying to make it as a
+professional player. And that's it's
+been up and down and as we'll see, but
+uh yeah, I'm learning a lot and looking
+forward to seeing what we can discover
+here about my game.
+
+[04:15]
+here about my game.
+&gt;&gt; All right, for the people uh that
+haven't noticed, it's hard because we've
+been pushing it. Uh we brought out a new
+leakbuster program and uh step one in if
+you want to become a better poker player
+in my opinion is to become aware, right?
+
+[04:30]
+in my opinion is to become aware, right?
+We talked about that last week in the
+live stream as well. And I think I said
+this in the in the post leading up to
+this as well. Um, and that usually
+starts with analyzing your data because
+that's the best way to get feedback on
+what you're really doing, right?
+Unbiased feedback. Many times in my
+
+[04:45]
+Unbiased feedback. Many times in my
+poker career, I thought that I was doing
+something or thought that I was not
+doing something and then I looked at
+data and it was completely or at least I
+might do something, right? One hand
+stood out or another hand stood out. But
+if I looked at the frequency, I was just
+not reaching the frequency or I was
+starting to do things that I actually
+
+[05:00]
+starting to do things that I actually
+was not aware of that I was starting to
+do. So uh becoming aware right of your
+tendencies
+uh and from your tendencies seeing what
+are leaks and what are actual deviations
+that are actually uh making you money
+
+[05:15]
+that are actually uh making you money
+right a leak is not necessarily any
+deviation made from from theory. Um, so
+the step one in how to best improve as a
+poker player is to do some is to do like
+a database review, right? In our league
+buster program, we have a tool which
+
+[05:31]
+buster program, we have a tool which
+you'll get with the program. It's the
+mechanics leagueinder. I used to have
+this tool already exclusively in our
+CFP. Then in our mechanics of poker
+program, I've done database reviews,
+leak findings, stat checking, however
+you want to call it for probably the
+
+[05:45]
+you want to call it for probably the
+last 10 years of my career. And that has
+evolved from I think I showed you guys
+this last last week from writing notes
+writing stuff down on a whiteboard or
+pen and paper uh to what we have
+nowadays right in the past also we
+
+[06:00]
+nowadays right in the past also we
+didn't have GTO benchmarks available
+across the tree nowadays we have so we
+have a lot more clarity and we kind of
+know what's quote quote correct um so
+yeah today I will walk through the leak
+finder tab by tap and we will I will
+
+[06:15]
+finder tab by tap and we will I will
+kind of show you guys how to go about
+leak finding and doing a database
+review. And this is also kind of what
+the program is about, right? It's about
+teaching you how to do it, giving you
+the tools and then teaching you how to
+best work with data. Uh so it's not like
+
+[06:30]
+best work with data. Uh so it's not like
+here's a tool, good luck because I think
+a lot of mistakes actually are made.
+It's a powerful tool, but in the wrong
+hands, uh I think it can do a lot of
+harm as well. So the education around
+working with data and how to leak find
+and then obviously after you found the
+leaks now now what right I chatted
+
+[06:45]
+leaks now now what right I chatted
+already a little bit with them prior
+going in okay these are kind of your
+main leaks that I found now what right
+and the now what is usually then what's
+missing and that's what I've been trying
+to focus on with this program like I
+said I wanted to bring a program that
+was different than others there's plenty
+of programs like this like stat checking
+
+[07:01]
+of programs like this like stat checking
+leak finding type of uh hand toot step
+packages uh I think we did a better job
+right it's way more complete. Uh, but
+obviously we help you after you found
+your leaks as well. Um, any questions in
+
+[07:15]
+your leaks as well. Um, any questions in
+the meantime, you know, I will keep an
+eye on the chat. I believe my partner in
+crime, Dan, is somewhere around here as
+well to answer some of your questions.
+And yeah, without further ado, uh, let's
+get into it. You excited, Dan? You
+curious?
+&gt;&gt; Buzzing, mate. Let's go.
+&gt;&gt; All right. So, we start at the start,
+
+[07:32]
+&gt;&gt; All right. So, we start at the start,
+uh, the general overview where we just
+see your win rate. Uh also based on 700,
+5 to 600 3 to 400, we see that you've
+done a decent amount of battles, doing
+well there. Uh this brown number that
+you see is the average number of
+
+[07:45]
+you see is the average number of
+population. So on average, the
+population loses when they're uh rack
+battling. You seem to be doing well.
+This is actually something that's very
+present in my game usually as well. It's
+just when I battle, I'm way more
+engaged, way more focused, uh and I
+usually play well. So it's not
+necessarily that my opponents are worse,
+
+[08:01]
+necessarily that my opponents are worse,
+they're actually better, but I play
+better as well. It's actually something
+that I explain in the program as well
+that u you know the reason why you might
+do something is might not even be a
+technical mistake. It might be a focus
+and engagement mistake right and that's
+
+[08:15]
+and engagement mistake right and that's
+why it's very important to diagnose
+correctly. So if we look at this tab
+this is just very basic some win rates.
+The first thing that I noticed actually
+in your game is this one. If we look at
+the win rates per position I think we're
+working with like 150k hands right yeah
+
+[08:30]
+working with like 150k hands right yeah
+here on the right top 150k hands. This
+is the this is your win rate. This is
+the win rate of bots. Now take in
+consideration these bots, you know, they
+have a win rate of zero in the end,
+right? Because they're playing against
+bots and they don't pay any rake. So
+ideally, we would outperform the bots,
+
+[08:45]
+ideally, we would outperform the bots,
+right? Um and the win rates behind that
+are the win rates of an average
+population. So obviously we would like
+that's kind of more of maybe a real
+benchmark in terms of okay, what win
+rates can I expect on average for a
+human being playing in these games? And
+
+[09:00]
+human being playing in these games? And
+then the one thing that I straight away
+noticed was the big blind minus 88 minus
+848.
+Uh on the other in the other areas, you
+know, you perform the same or even
+better. So like EPMP cut off, it's
+mainly in the blinds where at first
+glance, right, if you if we just look
+
+[09:16]
+glance, right, if you if we just look
+purely at the win rate, uh that's kind
+of where there's room for improvement.
+Now this is very important uh when you
+do database analysis that you don't go
+blind on one stat. Now some people might
+look, yeah, okay, win rate is not
+reliable 150k hands. I completely agree.
+
+[09:30]
+reliable 150k hands. I completely agree.
+But it's one piece of information.
+That's usually how I how I like to do
+database reviews. This is something that
+I will now note down. Okay. At at the
+first layer that we start gathering
+information about your game. We've
+identified that your big blend rim rate
+is quite low. Okay. Let's keep that in
+mind. Let's note that somewhere and
+
+[09:45]
+mind. Let's note that somewhere and
+let's continue gathering evidence.
+Right? And as you will later see uh if
+we go through the tabs that this this
+point will ever time come back. And this
+is very important to help identify where
+exactly something is going wrong. Right?
+So for now, that's basically the most
+
+[10:02]
+So for now, that's basically the most
+important thing that I want to get from
+this tab. Like I said, you can just get
+some general information, win rate
+information. Obviously, you need huge
+samples for just this individual stat to
+be actual accurate. Right? In the short
+
+[10:15]
+be actual accurate. Right? In the short
+term, it can also serve more as like
+variance indicators, especially um stuff
+like facing a treebat. So for example,
+here versus three bet. Uh so this is in
+general when you face a three bet uh you
+seem to be losing less uh more than you
+should. Um but obviously just this alone
+
+[10:33]
+should. Um but obviously just this alone
+is is is not really going to say much
+here. We can do see like versus the
+open. So let's say you're in the big
+blind and you face an open we see that
+when you call you lose twice as what
+you're supposed to lose. So based on
+
+[10:45]
+you're supposed to lose. So based on
+just this sheet, we could say that okay,
+defending from the big blind is probably
+going to be a problem area for you
+purely based on this first sheet, right?
+Um and we're going to gather information
+later on and then see if that's true or
+that's false or we have to re uh um kind
+
+[11:02]
+that's false or we have to re uh um kind
+of retest this observation. So if we can
+then go to the next tab, sub games,
+there we can just see your win rates
+across all um all spots. And if we
+straight away look at for example out of
+position pre flop collar single race
+
+[11:16]
+position pre flop collar single race
+spot. So that would be for example big
+blind defense we can indeed see you're
+winning at minus or you're losing at
+minus 108 whereas GTO would be minus 45.
+But obviously they pay no rake right if
+you defend in the big blind you will pay
+some rake and population is minus 58. So
+
+[11:31]
+some rake and population is minus 58. So
+this is definitely an area of attention
+and the same imposition pre flop collar
+big blind you're losing at minus 81
+where you should be -5 or - 44. So this
+kind of confirms again that the big
+blind is probably where uh you know it
+needs some attention especially when we
+
+[11:46]
+needs some attention especially when we
+now work with 150k hand sample and we go
+towards three bet for pots win rate
+stats are not going to be very accurate.
+However they can still be useful right
+also if we look at the next step which
+is going to be about variance in the
+short-term sample it can give you a good
+indication of how hot you've been
+
+[12:01]
+indication of how hot you've been
+running. It's like one of the most
+important things in poker is
+consistency, right? The person who shows
+up consistently is in the end who's
+going to be the biggest winner, right?
+And something that throws people off is
+because they go with the ups and downs.
+
+[12:16]
+because they go with the ups and downs.
+So, in my experience, I started to do
+this in my CFP as well, give people like
+variance reports, basically how hot
+they've been running. So, this way when
+people were doing very well, they would
+kind of, you know, keep their ego in
+check. Uh, and when people are doing
+
+[12:30]
+check. Uh, and when people are doing
+very bad, we could see that, hey,
+listen, this is a lot of varian. So, for
+you, for example, it shows imposition
+prefab caller in a three by pot, you're
+losing at minus 283. That's like three
+times what roughly three times what an
+average population would do. Now, could
+it be that, you know, you're not playing
+
+[12:46]
+it be that, you know, you're not playing
+that spot perfectly? Sure. But are you
+going to lose three times as much? Nah,
+unlikely, right? Are are you really
+three times worse than the population?
+And especially three pots, four by pots
+over a smallish sample, 150 g hands,
+
+[13:00]
+over a smallish sample, 150 g hands,
+maybe not the smallest, but it can
+definitely give you a good indicator of
+like, okay, in three pots, as we can see
+here, you've not been running great,
+right? All these numbers both in PFR and
+P of color, you're not really doing
+great. Now, behind that, we can look at
+more like uh how things are played, but
+
+[13:17]
+more like uh how things are played, but
+so far, this is kind of the the big
+blind is what I take out of this, right?
+That that's kind of confirming. And
+that's in three pot. So far you've not
+been running great. In former pots,
+however, you seem to be outperforming.
+So that kind of uh compensates a little
+
+[13:31]
+So that kind of uh compensates a little
+bit for it. Um then moving on to
+variance tab and after that that's kind
+of the the wrapping up like kind of the
+win rate part and then I quickly want to
+reflect with you then see if you have
+anything to add to that. Um, again
+
+[13:46]
+anything to add to that. Um, again
+continuing on like the variance, I think
+it's very important even like for
+example monthly to to check in like okay
+I think it's very nice if you have a
+diagnose right if you're losing you kind
+of want to know why or if you're winning
+you want to know maybe a little bit less
+but it's good to know why right have you
+
+[14:01]
+but it's good to know why right have you
+just been playing well or have you just
+been running good um chances are usually
+when you're playing when things are
+going badly right way worse than normal
+uh there is some bad run involved and
+the same if you're running better than
+normal there's some good run involved.
+
+[14:15]
+normal there's some good run involved.
+So for example at pre pre flop all wins
+uh usually if you if you would go mine
+hands over let's say the last six months
+last year and you g all the biggest
+winners and you look at their pre flop
+all win rate I can tell you it's usually
+3x of what it's supposed to be. So all
+
+[14:30]
+3x of what it's supposed to be. So all
+the biggest winners over a small sample
+usually run very well in pre flop or
+wins. Um so this is again like to keep
+your confidence a bit in check to keep
+your ego a bit in check. Sure you're
+playing better but also you know stay
+realistic. Okay. Well, you my my win
+rate all in for example was 3x of what
+
+[14:45]
+rate all in for example was 3x of what
+it should be. Your win rate all in seems
+to be fine. Uh nothing like if you look
+at GTO 1.1 uh pool 550 taking
+consideration because you know all in
+big pots they don't have to pay rake. Uh
+so you probably want to land somewhere
+somewhere in the middle. Uh it seems
+
+[15:01]
+somewhere in the middle. Uh it seems
+like you know that's fine. Nothing
+nothing too crazy here. And here we can
+actually see how often you made certain
+hands over a short term uh over this
+period of time especially when it
+becomes a shorter period of time. So
+let's say things have not been going
+well for like a month or a couple weeks.
+It's very good to check. So actually
+
+[15:16]
+It's very good to check. So actually
+over the sample of 150k hands, you got
+dealt ace king and queens a bit less
+than you should. And guess what guys,
+almost all your winnings in poker come
+from ace king plus and queens plus. It's
+uh it's less sexy than it sounds, but
+this is a very big part of your winning.
+
+[15:30]
+this is a very big part of your winning.
+So let's say for example over two week
+period things have not really been going
+your way and you see hey I've not got
+dealt premiums and when I or when I got
+dealt them my $1 showdown was way lower
+or I did not get them in pre flop that's
+actually you know it can give you like
+
+[15:45]
+actually you know it can give you like
+some peace of mind and from a state of
+peace of mind it's easier to play good
+poker so this is kind of like I kind of
+designed this tab because I noticed that
+is a has a very big impact on your
+performance if we look at how often you
+flop the set that seems seems to be
+
+[16:00]
+flop the set that seems seems to be
+fine. Turn set, you actually turn them a
+little bit more often. Your rivet sets a
+bit less often. However, if we look at
+your $1 at showdown and your win rate,
+your win rate is a little bit lower of
+what it should be. And actually, we can
+see that at your $1 showdown
+
+[16:15]
+see that at your $1 showdown
+compared to GTO, you're winning at
+Showdown definitely less than what it
+should be. So, this is also like an
+indicator of variance. Yes, you made
+your sets, but did you now also win it,
+right? Or did you ended up losing? And
+it based on the $1 showdown here and
+what it should be. You should be winning
+
+[16:30]
+what it should be. You should be winning
+your sets at showdown more often. Uh
+could also be for example that you
+didn't make the correct hero faults etc.
+Uh but for most for the most part this
+is just an indicator of variance. You
+made your sets but you were not able to
+uh uh to how can I say kind of collect
+
+[16:47]
+uh uh to how can I say kind of collect
+the winnings because when you had to
+turn over your cards you lost, right?
+And this kind of basically goes for all
+all hand classes. One thing actually I
+also wanted to point out that was a
+clear indicator of variance in your game
+is this is if you if you've three batted
+
+[17:00]
+is this is if you if you've three batted
+or four batted um
+then how often if you have tens to kings
+how often you actually flop an over
+pair. This is actually especially in a
+short term it's a huge indicator of
+variance. Let's say you three pocket
+queens three times in a row and every
+time the flop is ace high that's that's
+
+[17:16]
+time the flop is ace high that's that's
+going to hurt your or hurt your win rate
+over a short sample. Whereas if every
+time the flop was 10i, man, you might
+you might win three stacks more over a
+10k hand sample, right? So that's
+actually a huge indicator of variance.
+And for you actually, we can see that
+you're supposed to flop an over pair
+
+[17:30]
+you're supposed to flop an over pair
+with this hand around 50% of the time.
+You're only at 44k. So a bit you saw an
+overcard a bit more often in three and
+four pots. Uh you're also your win rate
+is way lower. Your $1 showdown is way
+lower. Uh which means uh that again when
+the when the cards went open, you lost.
+
+[17:46]
+the when the cards went open, you lost.
+So probably you got cooler here. And
+then on the turn, how often how often it
+remained an over pair, way less as well.
+43% instead of 56%. So you were not able
+to and that's also probably where this
+win rate comes from, right? Half of the
+win rate what it should be in a very
+
+[18:01]
+win rate what it should be in a very
+important spot to make money in poker.
+Um, so this is a great indicator of
+variance. You run quite bad in three and
+four by pot over pairs. So uh, if you
+now you really have something to
+complain about. You can say, "Hey, I'm
+not just whining. It's the data that can
+
+[18:15]
+not just whining. It's the data that can
+back this up." Um, so that's kind of uh
+it from like a whim rate and variance
+perspective. Anything uh you would like
+to add or any comment you have so far?
+&gt;&gt; Yeah, know it's it's it's cool to see.
+Um I think every poker player we sort of
+
+[18:33]
+Um I think every poker player we sort of
+feel like we're running bad, you know,
+to a certain degree. But um and you know
+when I think back over over this year
+there's there's been periods up and down
+but oftentimes we only really pay
+attention to the all NEV and the
+
+[18:47]
+attention to the all NEV and the
+difference we are from from that number
+and it's important to realize that you
+know that's not the only place that
+variance comes from and uh yeah I think
+about you know there was
+&gt;&gt; a period June July where I was doing
+quite well and then August where I got
+
+[19:01]
+quite well and then August where I got
+destroyed and I think the period in June
+July I think I was quite under EV and In
+August, I was actually over EV despite
+getting destroyed. So, I would guess I'd
+ran pretty averageish in this sample.
+I'm not going to It looks like I might
+
+[19:16]
+I'm not going to It looks like I might
+be a little bit more unlucky than than
+what I thought, but you know, at the end
+of the day, I'm with the way that I'm
+playing, I'm sure I'm making mistakes
+all over the place. I'm leaving money
+off the on the table where if I was
+playing optimally or or the best win
+
+[19:32]
+playing optimally or or the best win
+rate poker that was possible to be
+played in my pools, I would be crushing
+the game. So, I'm not going to use these
+variance numbers as an excuse, but it's
+it's obviously very good to to dive in
+and give a little bit of a reality check
+
+[19:46]
+and give a little bit of a reality check
+to to the sample.
+&gt;&gt; Yeah. Yeah, and especially like you said
+in that in that one month that things
+were going way worse. It's very nice to
+have a diagnose. So, it doesn't doesn't
+influence your game as much, right?
+Obviously, we try to focus on the
+controllable variance like you said,
+
+[20:00]
+controllable variance like you said,
+right? You try to just play good poker,
+but it's it's it's very easy for doubt
+to start creeping in if you start losing
+over a longer period of time. And what I
+found from like a mental game
+performance perspective having like this
+data that can show you uh what's
+actually going wrong uh or you know you
+
+[20:17]
+actually going wrong uh or you know you
+might actually be losing and you look at
+this data and like [ __ ] I'm actually
+running hot as well right this was
+actually like in when I was playing this
+cash game world championship I talked
+about that last week here on stream uh
+at some point also I was looking at I'm
+not doing it's not going so well over
+
+[20:30]
+not doing it's not going so well over
+this period over this week uh but I've
+actually been running hot so maybe I
+should you know I cannot blame it on
+that so I have to really really really
+zone in. Uh so from that perspective
+actually it can also uh really work. So
+yeah that's kind of it for like the
+first and how I like to use uh whim
+
+[20:45]
+first and how I like to use uh whim
+rates. Now I know some a lot of a lot of
+people they don't like to work with whim
+rates because of the variance but I hope
+I kind of um showed that it's just one
+piece of the puzzle and it's actually a
+great indicator for variance in some
+cases. Um so yeah moving on to like uh
+
+[21:01]
+cases. Um so yeah moving on to like uh
+the other two overview tabs which you
+could see more as like a hut, right?
+just a very broad overview of your game
+and then mainly around as you can see
+here the range construction and like
+sebat versus seb. So basically mainly
+how you construct your ranges um from
+
+[21:17]
+how you construct your ranges um from
+like the the most global perspective we
+can look at it right from from the top
+down. So the first thing that I noticed
+uh when I was looking at this tab is 541
+was a flop. So, you're definitely
+fighting. But if we then looked at your
+
+[21:31]
+fighting. But if we then looked at your
+um at your red line and blue line, like
+your red line was not necessarily going
+through the roof, which people would
+often associate with 541s of flop,
+right? So, that's something to pay
+attention to. Uh and then if your red
+line is not going high, you know, your
+blue line should make up for it. And but
+
+[21:46]
+blue line should make up for it. And but
+that was actually also stagnating. So,
+you didn't have like some players have
+like a clear blue line or clear red line
+problem with you. That was not really
+the case because both lines they kind of
+ended up breaking even and so you ended
+up breaking even, right? So it seems to
+
+[22:00]
+up breaking even, right? So it seems to
+be that you might usually this for me is
+an indicator that it's more of a blue
+line problem. I think that's where you
+can make uh uh most money uh that you're
+now winning pots especially with your
+stronger hands that are going to be less
+than what they should be. But we will
+
+[22:16]
+than what they should be. But we will
+get to that later on as well.
+Especially, for example, if you look at
+your aggression here on the river,
+you're in general, you seem to be a
+little bit overaggressive. Uh especially
+on the river, that means that you're not
+uh trapping enough, which is actually
+going to be something that I want to
+
+[22:30]
+going to be something that I want to
+dive into. So, if we now look at uh your
+range construction
+uh on flop actually looks pretty well in
+terms of how often you bet with strong,
+how often you uh bet with weak. So, this
+is kind of just flop CBAT or flop
+balancing. uh we see nothing like out of
+
+[22:47]
+balancing. uh we see nothing like out of
+the ordinary per se. Uh where later we
+will I will get to that in a second. If
+you see things coloring green that means
+that you're more on the passive side. If
+it turns red you're more on the
+aggressive side. Um
+
+[23:00]
+aggressive side. Um
+the reason I use green kind of comes
+from my philosophy that I usually use
+this in a hut and I also always saw
+green as this gives you the green light
+or this gives me the green light. And
+also I know that many many players might
+use blue. it's also perfectly fine. But
+that would say that blue line is
+
+[23:16]
+that would say that blue line is
+associated with passive play and red
+line is associated with with aggressive
+play. And that I just don't think is
+true as just to say, you know, in
+certain areas that's true, but I don't
+think as a whole that's true. For
+example, you're super aggressive, but
+you are not winning at red line, right?
+
+[23:30]
+you are not winning at red line, right?
+So if that statement would be true
+alone, uh then you your red line should
+go to the roof. My legend should also go
+to the roof, but it doesn't. Um,
+something else I want to focus on
+quickly on the flop before we go to the
+turn. I will pick something from the
+flop. Some turns on the river is your
+
+[23:45]
+flop. Some turns on the river is your
+range construction in raising. If we can
+look at your flop range, uh, flop race
+range, it's 50% strong where it should
+be only 36% strong and it should be 57%
+weak and you are only 47% weak. So, that
+means that you're fast playing a lot of
+
+[24:01]
+means that you're fast playing a lot of
+your value. That's one. And you're not
+including anywhere near enough bluffs.
+uh both in position out position as you
+can see these numbers are huge
+deviations like I said 49 to 36 46 to 37
+50 to 36 these are huge gaps like 14%
+
+[24:16]
+50 to 36 these are huge gaps like 14%
+15% gaps from from theory so for example
+we could take a look at this tab single
+race pot out position preop color so
+this is when you're in the big blind
+right which was kind of the first
+suspicion that there could be something
+wrong here uh we can indeed see again
+
+[24:32]
+wrong here uh we can indeed see again
+this win rate minus 108 instead of
+basically you're losing twice as what
+you should. And then if we go to lines,
+we can indeed see that your check
+raising here is 12% and it should be
+14%. So you're you're lacking check
+
+[24:45]
+14%. So you're you're lacking check
+raises here. Um where actually we can
+see that especially versus one-/ird
+sizings, you're getting 6% more success
+with your check races. So this is just
+direct feedback on how often something
+is working in your game. So obviously we
+could look at, oh, let's look at
+
+[25:01]
+could look at, oh, let's look at
+population tendencies. Do they overfold
+to check race? uh obviously great to
+look at but this then gives the feedback
+how is my strategy working in game right
+which is often missing I hear many play
+say people say that like oh yeah I look
+at the data but I don't know if it's
+
+[25:15]
+at the data but I don't know if it's
+working versus me uh well here now you
+get feedback basically with with the
+success numbers and if we look at the
+range construction because then the
+first thing is okay I'm under check
+raising well then where does this come
+from therefore we have and then normally
+you would for example click check race
+
+[25:31]
+you would for example click check race
+uh and then you could see the range
+construction structionction here on the
+right. Right? But then we have no
+benchmarks. So what what is the correct
+number? Yeah, I can see that I'm check
+raising uh low pair 4% of the time. But
+is that correct? Is that more? That's
+why we also added it here. And then we
+
+[25:45]
+why we also added it here. And then we
+can add benchmark next to it. So as you
+can see here, two pair plus you're check
+raising 70% 69 roughly 70% of the time
+it should be 52 which kind of confirms
+that you're not slow playing enough. Now
+in this sitinuation it's not necessarily
+
+[26:01]
+in this sitinuation it's not necessarily
+uh I would say a big problem. Um but for
+example I will get to the tree by pot
+tap in a second as well where the SPR is
+lower. Uh there it would indeed be more
+of a problem. Whereas if we look at air
+pure air you're only check raising half
+of the pure air what you should whereas
+
+[26:16]
+of the pure air what you should whereas
+if we look at the success number
+especially versus one/3 you're getting
+6% over folds. So, and actually the
+times that you did did do it with your
+air, this 45 should be 35, you're
+getting 10% more success. So, this is
+like a deviation from theory. You're
+
+[26:31]
+like a deviation from theory. You're
+doing something less than theory. Then
+the next question is, well, is this
+deviation on purpose? Let's say for
+example, you've identified that people
+underfold to check race. That would be a
+good reason not to do it. But we can see
+here actually that when you check it is
+actually working and on average versus
+
+[26:46]
+actually working and on average versus
+the population especially at like lower
+stakes especially versus a one-/3 Cbat
+you're going to get overfold. So
+actually your deviation is not playing
+in the weakness of the pool it's
+actually doing the opposite. So you
+actually want to check race way more air
+right and then way more also for example
+here with low pairs we see at five
+
+[27:00]
+here with low pairs we see at five
+instead of eight draws we said 23 of 29.
+So across the board you're missing
+bluffs in your flop check raising game.
+Does that make sense? Do you do you say
+like, hey, this is definitely something
+that I've identified as well or what's
+
+[27:16]
+that I've identified as well or what's
+kind of maybe maybe also your thoughts
+behind uh
+&gt;&gt; um yeah, not not not slow playing enough
+or fast playing more value in general?
+Yeah, I mean I definitely think that um
+when I look at my game
+
+[27:32]
+when I look at my game
+I've I've noticed myself I have a little
+bit of a lesser understanding of uh of
+big blind play um especially as the out
+of position caller whereas I think you
+know it's it's easier to study it's
+
+[27:45]
+know it's it's easier to study it's
+nicer to study your your seb strategy
+but when you're in the big blinds it it
+sometimes gets a little bit um a little
+bit fuzzier a little bit more
+complicated so yeah I think
+that makes a lot of sense to me that we
+see that I'm I'm leaking there and then
+yeah when the pool from from just my
+
+[28:02]
+yeah when the pool from from just my
+experience and I'm sure uh you could you
+can see the data as well people do tend
+to just default to these small range
+seat sizes a lot right and it makes a
+lot of sense that we need to be
+attacking those and yeah the fact that
+
+[28:16]
+attacking those and yeah the fact that
+I'm not uh yeah that's this is going to
+be like a very quick easy win to to
+throw into my game to to be able to uh
+to gain some more win rate there. As for
+trapping, yeah, I think definitely,
+
+[28:30]
+trapping, yeah, I think definitely,
+especially as they're out of position,
+you know, there's a natural fear that
+you don't want them to go bed flop,
+check back, turn and you're sitting
+there with with top set and you know,
+there's whatever seven big blinds in the
+pot. it's not not a so there's an urge
+to to raise and as you say it might not
+
+[28:46]
+to to raise and as you say it might not
+necessarily be bad if if people are
+are calling too much or or whatever but
+yeah I think being a little bit trickier
+and a little bit um yeah more more
+
+[29:00]
+and a little bit um yeah more more
+willing to mix it up in the big blinds
+definitely looks like a a good
+adjustment for me and
+&gt;&gt; yeah actually you mentioned something
+you mentioned the tendency of po right
+that's very easy to just press that one
+third button
+Uh and you can actually see that in your
+success as well when you check race. If
+
+[29:15]
+success as well when you check race. If
+you start check racing versus bigger
+sizings, you can see the success kind of
+plumbering, right? 37 32 because
+basically when people start to see that
+for half pot or three quarters, you tend
+to usually see that that is a little bit
+stronger. Um which means that you know
+
+[29:31]
+stronger. Um which means that you know
+actually we want to kind of actually I
+can see your fold numbers. You're
+actually under check folding uh to like
+this bigger C bets and still check
+raising quite a lot. That is mostly
+value though. So that's fine. Uh but so
+it's a plus mainly that you should
+probably add versus the one/irds, right?
+
+[29:45]
+probably add versus the one/irds, right?
+And I would say that you could probably
+even find some more folds versus bigger
+sebat sizings. Actually, this is
+something that we can actually see here
+at uh at our flop defense. Just in
+general overview. Um
+
+[30:00]
+we can see here
+how often you face a certain sizing. Let
+me see if that's a general trend. No.
+Okay. you do seem to adjust versus uh uh
+versus bigger sizings but we can see
+here as well the success percentage from
+raising versus smaller sizing compared
+
+[30:15]
+raising versus smaller sizing compared
+to a bigger that's usually you will see
+that that's going to be less so
+something to point out on one thing
+actually I wanted to add is let's say
+for example in terms of the slow playing
+let's say we go to three pots uh and we
+look at for example your race strategy
+
+[30:31]
+look at for example your race strategy
+um no three pots in position prefab
+caller
+we can see here that for example your
+flop race strategy. Where are we here?
+Race. So again, you're raising for
+example two pair plus uh double the
+
+[30:45]
+example two pair plus uh double the
+amount of the time and especially I saw
+like some hands here. Let's say you have
+uh a set let's say let's say for example
+something like this
+like at a low SPR dry board. There's
+
+[31:01]
+like at a low SPR dry board. There's
+just not a lot of reason to start
+raising straight away with strong hands.
+So like in single race pots, obviously
+we we want a check race to get more
+money in. Uh but especially in three
+pots, there's way less of a need to do a
+lot of fast playing. So that's
+
+[31:16]
+lot of fast playing. So that's
+definitely something uh a point of
+attention that I would uh uh same here
+with, for example, this this queen seven
+that I'm seeing here.
+Yeah, just just just let him let let him
+
+[31:30]
+Yeah, just just just let him let let him
+do his thing, right? Like especially
+when also you're in position so he can
+just check towards you. you can still
+build a pot. So that's definitely an
+area that I would say okay uh be careful
+then and then maybe another point
+actually I didn't see if that's true uh
+but if we go to your flop check race and
+
+[31:46]
+but if we go to your flop check race and
+let's say two pair plus
+uh I know people cannot see now the hand
+I will have to uh uh point that out but
+maybe there's like certain hands for
+example actually something like this
+it's very dry as well where is it
+
+[32:03]
+it's very dry as well where is it
+you know I wouldn't mind letting someone
+catch up here a little bit and then
+either go for uh a turn check raise or
+river check race versus bat check bat
+something along those lines. Um, and I'm
+
+[32:16]
+something along those lines. Um, and I'm
+trying to see if maybe you're check
+raising,
+this is maybe not the best example,
+but on boards like this, like very
+connected boards, for example, a hand
+like jack eight or something. Uh, that
+is sort of strong, but it's not really
+
+[32:32]
+is sort of strong, but it's not really
+strong, right? So, for example, I would
+much rather check race queen 10 here or
+queen nine than a hand like jack eight.
+Um, so I don't know if that's the case.
+Like, this is just a random hand. I just
+saw the texture. Uh, but then that's
+something if the board is either super
+
+[32:45]
+something if the board is either super
+dry like the A73i, I wouldn't mind slow
+playing. And I would I wouldn't even
+call it slow playing, but it's more that
+I wouldn't check raise a a bat to pair
+on a very wet board, for example.
+&gt;&gt; Yeah, makes a lot of sense. And yeah,
+especially on the dry boards where you
+
+[33:00]
+especially on the dry boards where you
+have the set or you have the top two
+pair, it's like there's not a turn that
+I'm scared of, right? So,
+&gt;&gt; it makes a lot of sense in that
+situation to
+&gt;&gt; to go h to go a little bit slower. And
+then yeah, this queen jacket example, it
+was yeah, your jacket is on a lot of
+
+[33:16]
+was yeah, your jacket is on a lot of
+turns and rivers is going to not be
+something that you're going to want to
+put your stack in with. So it would make
+more sense, you know, maybe raise uh,
+you know, either like a queen that's got
+some like a king queen type of hand
+that's going to perhaps, you know,
+
+[33:32]
+that's going to perhaps, you know,
+there's not if the overcard comes, it
+actually improves the hand or if the 10
+comes, it gives you a straight draw or
+something like your your equity is a
+little bit more robust in that scenario.
+&gt;&gt; Yeah. So it's kind of the relative
+versus absolute strength that uh you
+
+[33:46]
+versus absolute strength that uh you
+know if you have the tendency to just
+pass play a lot maybe you kind of
+consider two pair there a strong board a
+strong hand. So then if we look at the
+turn uh there's actually like the turn
+check the raising game here on the turn
+is actually the same the same point as
+
+[34:01]
+is actually the same the same point as
+on the flop. But I made actually wanted
+to now zoom in on the turn. We can see
+your betting range is way too strong. So
+again, like if you look at how often
+that's strong, it's 55 instead of 42.
+And how often it's weak, it's only 35
+instead of 50. So you're again missing
+
+[34:16]
+instead of 50. So you're again missing
+bluffs on the turn by a lot, 15%, and
+you're betting way too much strong hands
+on the turn. Now again, like the
+definition of strong here is important.
+Um, so let's say for example, we go to
+single race pots in position PFR lines
+
+[34:33]
+single race pots in position PFR lines
+and we go to turn Cbetting. We see that
+in general you do little turn C betting
+and there again we can see that two pair
+plus uh but most most importantly and
+that's actually the one that I think is
+the leak is top pair over pair so one
+
+[34:47]
+the leak is top pair over pair so one
+usually like one street value type of
+hands that people like to play bat bat
+check way too often kind of to avoid a
+river decision that's usually kind of
+kind of what's going on right two pair
+
+[35:01]
+kind of what's going on right two pair
+plus again that could be that uh you're
+not really understanding like the
+relative versus absolute hand strength.
+You're not spotting that. So again like
+the queen jack eight that I had like
+queen 10 would for example always be a
+barrel and I had like jack eight could
+for example be a check. So that's more
+
+[35:15]
+for example be a check. So that's more
+like what I would say in the two pair
+region. Normally in position in this
+spot we don't really do slow playing in
+terms of actual slow playing. Right? If
+we slow play a hand like two pair it's
+just because it's a relatively weak hand
+compared to how wet the board is. Um but
+
+[35:32]
+compared to how wet the board is. Um but
+for example if we look at so we look at
+bat bat and we look at let's say for
+example a middle pair that's maybe a
+good example
+and
+let's say this hand I think this
+
+[35:46]
+let's say this hand I think this
+probably a good example
+we open 10 get a call in the big blind
+flop comes check 65 we see bet one/3
+villain calls and the turn is a five and
+he doesn't lead this what what's kind of
+
+[36:02]
+he doesn't lead this what what's kind of
+your your thought process here in terms
+of uh coming to a turnbo conclusion?
+&gt;&gt; Yeah. Well, uh, first off, I probably
+nowadays would play this board a little
+bit more polar and would check back more
+
+[36:15]
+bit more polar and would check back more
+often on the flop, but I think as played
+on this turn, um, yeah, at these stakes,
+there are still a lot of players that
+just don't play dons, so therefore
+they're going to be a little bit maybe
+stronger than they should be on this
+turn because I imagine solver is
+
+[36:31]
+turn because I imagine solver is
+supposed to play a lot of dons. Um,
+but yeah, I think now I'd be more
+inclined to go a little bit mergier and
+do a higher frequency like third pot
+sort of size. Um, whereas I think for
+
+[36:46]
+sort of size. Um, whereas I think for
+most of this sample I was leaning
+towards thinking, okay, I'm going to
+over bet on the turn a lot. So
+therefore, I'm checking my my middling
+sort of hands. Um, but yeah, this yeah,
+as player, I feel like this is one that
+
+[37:00]
+as player, I feel like this is one that
+you could probably go either way. My
+instinct right now as I look at it is to
+check. But um yeah, it's uh
+yeah, I can see I can see arguments for
+for both, right? Because on this board,
+you're you're going to have the big
+
+[37:15]
+you're you're going to have the big
+blind's going to have a six. They're
+going to have hands like pocket sevens,
+pocket eights, even pocket fours, ace
+highs that are going to be able to be
+put in a tough spot against a a smaller
+barrel. So, um, yeah, I think it, yeah,
+with this I think you could probably bet
+
+[37:30]
+with this I think you could probably bet
+this hand, but I don't think I could do
+it for this size. It seems a little bit
+weird to me looking at it now. But
+&gt;&gt; I think I think actually sizing wise, I
+would probably just play this size. Just
+top of my head. I would think that, for
+example, a hand like sevens, for
+example, getting value of a six. Uh, I
+
+[37:47]
+example, getting value of a six. Uh, I
+think like sevens and tens is a very big
+difference here. Sevens, for example,
+the the folding range will have more
+equity versus seven. Think of a head
+like ace 9. If you have 10, you don't
+mind keeping ace9 in. River is a nine.
+You can actually maybe he blocks, you
+can make a small raise or he checks, you
+
+[38:01]
+can make a small raise or he checks, you
+can make a nice bet check bet.
+Obviously, when you have sevens, you
+don't you you prefer a nine to fold.
+Also, if this hand goes check check and
+he bets the river, a lot of his bluffs
+are going to come from like 78 79. Uh
+so, you know, you're not blocking any of
+the bluffs. Uh but in general to kind of
+
+[38:17]
+the bluffs. Uh but in general to kind of
+betting too much too straight hands on
+the turn. That seems to be like kind of
+the main the main leak I would say. And
+this is kind of where
+&gt;&gt; you're lacking blue line. You're putting
+a hand that's supposed to make his money
+
+[38:30]
+a hand that's supposed to make his money
+from blue line from checking back
+letting villain catch up with ace9 or
+letting him bluff with 79. You're you're
+putting that hand into a red line
+strategy, right? Whereas this this is
+clearly a blue line blue line type of
+situation. Same with the with this hand
+for example that I saw here. 96 on quite
+
+[38:48]
+for example that I saw here. 96 on quite
+a coordinated board. I would say
+actually flop is
+maybe this guy's a recreational. I don't
+know. Um but this is this is quite quite
+thin already. We're we're we're going to
+get called by hands that have a lot of
+
+[39:01]
+get called by hands that have a lot of
+equity or that already have us beat,
+right? Jack six, king six, A6, you name
+it. Um so yeah, these are like just
+randomly two hands that I saw here in
+the database. Uh what's this?
+&gt;&gt; Yeah. You see a lot of people in the in
+
+[39:15]
+&gt;&gt; Yeah. You see a lot of people in the in
+the world, they
+&gt;&gt; they check or they they miss a bet
+because they're scared. This is this is
+like betting because I'm scared.
+&gt;&gt; Yeah, exactly. And and scared of what's
+supposed to come on the river, right? At
+least if you now just bet tens again in
+the turn. Actually, this is kind of that
+
+[39:30]
+the turn. Actually, this is kind of that
+example with sevens that I kind of gave
+earlier, but here the position is a bit
+tighter. So seven, you know, he has now
+more eights, nines himself compared to
+bottom versus big blind. So I would
+again say that this is uh probably just
+a check in these positions and let him
+bluff the river. So this is where this
+
+[39:45]
+bluff the river. So this is where this
+will be a note where I think you can
+definitely increase your blue line. Um
+then for example um turn if we go to for
+example another note that actually not
+uh uh not trapping is actually a problem
+
+[40:02]
+uh uh not trapping is actually a problem
+is for example yeah let's go again to uh
+to the big blind defense right as we
+kind of concluded that that's probably
+where the issue is um this one. So flop
+goes check check and you have the
+
+[40:15]
+goes check check and you have the
+opportunity to probe the turn. We see
+that you're at 87. Your two pair plus
+bets 87% of the time where it should
+only bet 62% of the time. So again, way
+too much uh betting yourself with two
+pair plus and especially when you're out
+of position in the big blind on as well
+
+[40:31]
+of position in the big blind on as well
+turn or river. You can actually often
+make way more money by check raising
+your your top of range than betting them
+out to sell. So here for example top
+pair over pair like the 52 versus 45.
+This is perfect like a one pair hand.
+
+[40:45]
+This is perfect like a one pair hand.
+you kind of want to just put the money
+in yourself. You your hand is not strong
+enough to check race. But the two pair
+plus region, so like your very strong
+hands, they can often make way more
+money by taking an alternative line than
+just betting themselves. So in this
+case, it would be check raising versus
+delay. Or let's say we go and let me see
+
+[41:01]
+delay. Or let's say we go and let me see
+the line. Check all check um check call
+check raise for example. That would be a
+good one. Check all check bet. We can
+indeed see that two pair plus actually
+here so far 72 a little bit a little bit
+
+[41:16]
+here so far 72 a little bit a little bit
+too often but the general trend would be
+the same like okay I have top of range
+how can I get the most amount of money
+in when we're out of position that could
+actually also be check raising same as
+for example if we are the PFR let's say
+small bet versus big blind and we look
+
+[41:30]
+small bet versus big blind and we look
+at your flop uh turn check race strategy
+it's basically non-existent so you see
+that flop uh check turn and we can
+indeed barreling again 82
+um uh two pair plus instead of 64. So a
+
+[41:45]
+um uh two pair plus instead of 64. So a
+lot of hands that for example see bet
+flop and that we I don't know if you do
+if you do a lot of over betting here.
+Okay, you do a reasonable amount of over
+betting. I personally don't really do a
+lot of over betting small and first big
+blind and kind of the hands that over
+bet I move to a check race actually
+
+[42:00]
+bet I move to a check race actually
+myself. So I kind of bet more closer to
+like three quarters of pot and when my
+hand actually wants to go bigger I
+actually move that hand to a check race.
+That's actually going to be way more
+efficient. You can get way more money in
+the pot than an overb yourself if that
+makes sense. So, these are like some
+spots where you're you're kind of I
+
+[42:17]
+spots where you're you're kind of I
+don't want to necessarily say
+misplaying, but it's kind of a
+suboptimal way. You think strong hand,
+let's put money in the pot, but you can
+actually get more money in the pot by
+checking either on the turn or on the
+river. And then, especially on the
+river, you can sometimes check jam a
+
+[42:31]
+river, you can sometimes check jam a
+hand that you would otherwise just over
+bet yourself and that actually loses a
+lot of money. I know that usually
+actually a lot of focus in poker goes to
+hero cost spots, plus spots, you know,
+all these this type of thing, but
+misplaying your value in terms of not
+
+[42:45]
+misplaying your value in terms of not
+getting the most out of your value
+hands. This is actually huge in terms of
+if I would say leaks. Uh finding it's
+also a bit harder to detect. Um now with
+this range construction breakdown, it's
+a bit easier already. Um but these are
+definitely spots where you can make a
+
+[43:01]
+definitely spots where you can make a
+lot more money with top of your range.
+This is also we saw your blue line not
+really picking up. That's for that
+reason. But in the same time, we did see
+that people
+um we do actually see that people do a
+lot of overfolding on turns, right? So
+
+[43:15]
+lot of overfolding on turns, right? So
+your betting range was too strong and
+not weak enough. Whereas if we go to
+turn on average uh when you bet you can
+see that you're betting 35% on average
+on the turn, which is normal compared to
+GTO, but your success is 49 with your
+bets where it should be 41. So this is a
+
+[43:31]
+bets where it should be 41. So this is a
+general trend of just massive
+overfolding of the pool and what you're
+doing actually you're creating a betting
+range that's way too strong. Okay. So
+this actually again it doesn't play in
+the weakness of the pool. It's the
+opposite. The pool kind of exploits you
+naturally which is usually the worst
+
+[43:46]
+naturally which is usually the worst
+thing that that kind of can happen. Um
+so that's definitely something uh to
+point out on like one note if we go back
+to your big blind game right that was
+very kind of I think what's going to be
+most important that stabbing strategy.
+Uh you can also see this if you do MDA
+
+[44:01]
+Uh you can also see this if you do MDA
+of like low stakes usually the checkback
+range is too weak and then for people
+overfall to probes feedback in your game
+specifically you're getting 48% success
+with your turn probe where it should be
+35. So you're getting uh 13% overfold
+
+[44:16]
+35. So you're getting uh 13% overfold
+with the stab
+&gt;&gt; and you're under under stabbing with air
+28 versus 34.
+&gt;&gt; So again like definitely a point of
+point of intention. So slow play more
+the top of your range and bet more air
+
+[44:30]
+the top of your range and bet more air
+and then naturally actually you you your
+range right if we how we started here
+right where we went to just to like the
+overview and we saw this range breakdown
+you want to get this closer to GTO
+numbers
+if that makes sense.
+&gt;&gt; Yeah for sure.
+
+[44:45]
+&gt;&gt; Yeah for sure.
+&gt;&gt; Um
+&gt;&gt; yeah it strikes me as another like fear
+sort of thing right you're you're out of
+possession and you're the turn with a
+good hand. It's like
+it there's there's an urge you to bet
+because you don't want it to go check
+check and you've got a good hand and the
+
+[45:01]
+check and you've got a good hand and the
+river is there's you're in a small pot
+but in reality in that spot people do
+tend to just stab quite often right if
+you check to them or if you've you've
+shown weakness people people tend to
+stab and then you've got a check raise
+opportunity and you actually get more
+
+[45:15]
+opportunity and you actually get more
+money in the pot. So
+&gt;&gt; yeah, that's the thing, right? Because
+yes, sure, you're going to miss it more
+often than if you bet yourself, but the
+times that you hit it, you suddenly make
+you can make three times more money.
+&gt;&gt; Yeah, for sure.
+&gt;&gt; Right. So that's kind of the the the the
+correction there. Um
+
+[45:32]
+correction there. Um
+let me see. Then I had one point to add
+here on the river. Um and this I think
+is another very big issue in your game.
+Um river river hero calling sounds
+familiar?
+
+[45:45]
+familiar?
+Yes,
+&gt;&gt; usually usually when I say this, people
+know people know that they have a
+problem.
+&gt;&gt; And that's the fascinating thing, right?
+A lot of people out here maybe also now
+listening, they know they have a
+problem. You know, they they make the
+bluff when they know they shouldn't make
+
+[46:00]
+bluff when they know they shouldn't make
+the bluff. They make the call when they
+know they shouldn't make the call,
+right? And we can do a database review
+here and it doesn't fix the problem.
+That's also why in in the program,
+right, we've identified the drawer in
+the camp. I tend to be too sticky on the
+river. Uh why is that and how do we fix
+it? Right? That's something that just
+
+[46:15]
+it? Right? That's something that just
+handinote will not show you. So that's
+kind of what I go deeper into the in the
+leak buster, right? This is just the
+analyze phase and after that I think we
+talked briefly in the beginning as well.
+If you go through all these stats, you
+will find hundreds of leaks, right? I
+also find hundreds of leaks. How do we
+
+[46:30]
+also find hundreds of leaks. How do we
+prioritize that? And then how do we
+diagnose what's the problem? How do we
+fix it? Right? So there's more steps uh
+than just hey I'm a station. Okay, you
+shouldn't station anymore. Good luck.
+You probably tried that, right?
+&gt;&gt; Yeah. Yeah, I've had the the post-it
+
+[46:45]
+&gt;&gt; Yeah. Yeah, I've had the the post-it
+note on the monitor like just fold fold
+river.
+&gt;&gt; I love it. Post-it notes.
+&gt;&gt; Easier said than done.
+&gt;&gt; Yes, exactly right. It's uh you're
+you're trying to manage manage symptoms
+and not co and not fix the root cause.
+
+[47:00]
+and not co and not fix the root cause.
+Uh so this is something that actually we
+help you with. So and you also arrive to
+the river actually already with a weaker
+range. That's even more concerning. So
+you're underfolding the river which is
+in some spots actually is good. Uh but
+in your game, as we will see in a
+second, it's more I like to call more
+
+[47:15]
+second, it's more I like to call more
+emotional bluff catching than rational
+bluff catching. Um
+and like I said, it's an extra problem
+if I look at the amount of fast playing
+that you already did and in some lines
+some overfalling that you already did on
+earlier street. So then to still fold at
+a very low percentage, yeah, that's a
+
+[47:31]
+a very low percentage, yeah, that's a
+problem. Now, in some spots actually
+hero calling is good and very effective
+and want to continue doing that. Uh but
+there's a specific area. You might
+already know it when you're in the big
+blind maybe. Uh and in position uh in
+position goes crazy. Uh we probably have
+
+[47:45]
+position goes crazy. Uh we probably have
+to hit that full button a little bit
+more uh little bit more often. Um
+&gt;&gt; yeah.
+&gt;&gt; So that's actually something that for
+example if we go to again that note that
+I kind of suspected was your problem. If
+I look at river fold, we can see that
+
+[48:00]
+I look at river fold, we can see that
+you're folding 48 on the river. It
+should be 57. Um, so you're you're
+folding flop normal, but taking in
+consideration that you're already doing
+way more fast playing, right? And then
+you're underfolding turn and then you're
+underfolding river again. Now, versus
+
+[48:15]
+underfolding river again. Now, versus
+the button, and that's why I actually
+have this breakdown versus the button,
+you know, a wider range. Generally, when
+people have a wider range, it's easier
+for them to overbluff. So therefore,
+it's it can't be it can be too bad to be
+a station in a wide spot. That's kind of
+usually my model, right?
+
+[48:30]
+usually my model, right?
+uh but especially also versus uh versus
+earlier position. Big one versus early
+for example the fold 50 and bigger for
+scholar fold 44. H these these are going
+to be issues. These are not really going
+to be calls uh that are going to make
+you a money and we can see here as well
+
+[48:45]
+you a money and we can see here as well
+your river call win is 36 where it
+should be 41. Uh so your your calls
+they're they're not really performing.
+Um
+so that's actually a point of attention
+but we will get back to that when we
+look at the river the river
+
+[49:00]
+look at the river the river
+specifically.
+Uh the next point where we can actually
+look at is like a breakdown of still
+we're at like an overview right general
+overview. I keep linking it already back
+to like specific spots. That's like
+usually how I like to look at it because
+if you go straight only into specific
+
+[49:16]
+if you go straight only into specific
+spots even with 150k sample it's quite
+very insensitive. Whereas I feel like
+just general flop turn overviews to kind
+of start getting information there and
+then looking at the line itself to
+either conform or see okay well if
+that's true how would that look in this
+
+[49:30]
+that's true how would that look in this
+specific spot for example then we can
+look at the hands and then we can kind
+of find uh link link the two together in
+a way whereas if you would just look at
+okay single spot in position it's harder
+to find the pattern basically I find
+these general overview tabs way more
+efficient um so this like the last step
+
+[49:46]
+efficient um so this like the last step
+in the overview is kind of how you
+construct betting We already talked
+briefly that before the call that you
+said that you changed something. So we
+can actually see that your sizing scheme
+on flop uh it's actually pretty GTO. So
+congrats there in terms of how often you
+bet 1/3 often you bet uh 3/4 bigger etc.
+
+[50:03]
+bet 1/3 often you bet uh 3/4 bigger etc.
+Um we can see that your bluffing game is
+mainly like the over bets you you you
+like to bluff there and it's actually uh
+it's actually also very very effective.
+Um we will get to that in a second as
+
+[50:16]
+Um we will get to that in a second as
+well. So I wouldn't necessarily change
+too much. This though is a point of
+attention. So if we look at versus bet
+sizing, we can see that specifically
+when people overb
+you start to call more. What's going on
+there? It's supposed to be the opposite.
+
+[50:31]
+there? It's supposed to be the opposite.
+When people bet less, you call more.
+When people bet bigger, you you fold
+less. So what's going on here then?
+&gt;&gt; Well, it's cuz I'm always bluffing in
+the over bet. So therefore, I just
+assume everyone else is. But uh
+&gt;&gt; the classic projection.
+&gt;&gt; Yeah, for sure. I mean, I I think yeah,
+
+[50:46]
+&gt;&gt; Yeah, for sure. I mean, I I think yeah,
+there it's just definitely a an element
+of it is just theoretical
+misunderstanding of the spots that, you
+know, you have to be okay with folding
+plenty of hands. Another level of it is
+the data. It does seem to say that when
+people bet big, they usually just have
+
+[51:01]
+people bet big, they usually just have
+it. So, I should just listen to that and
+and fold it more. I think it's it's that
+situation where if somebody jams on me
+on the river, they're usually repping
+such a narrow range and it's, you know,
+and maybe emotionally I just want to
+
+[51:15]
+and maybe emotionally I just want to
+call to to to be cool to have a fancy
+play to be like, you know, this look at
+how how I've owned the guy or whatever
+when he was repping a set and he
+actually had the the pair that he's
+turned into a bluff. Like those moments
+feel good. So there's probably a bit of
+
+[51:31]
+feel good. So there's probably a bit of
+just uh confirmation bias in the times
+that it's felt good to do that, but the
+reality is these are not good spots to
+to station people down. So yeah, I I
+think uh more and more it's just going
+to be studying the the hands where that
+
+[51:45]
+to be studying the the hands where that
+happens and and slowly integrate that.
+But also just just listen to listen to
+the data and not my my feelings that I
+that I just want to call, you know.
+&gt;&gt; Yeah. And again like this very rational,
+right? Listen to the data and not my
+feelings. Whereas the problem is if you
+get into those situations, you don't
+have access to your rational thoughts.
+
+[52:01]
+have access to your rational thoughts.
+It's purely emotional. Your emotions
+take over. This is actually this part
+was actually one of the reasons why this
+program delayed a little bit. Uh you
+know like we first had this tool and I
+said okay I don't want to just release
+this tool. Sure I think it's better than
+what's out there on the market but I
+
+[52:16]
+what's out there on the market but I
+want to really bring something that's
+that really helps people. So that's why
+I built kind of the course content
+around it. And then this part, diagnose
+and fix someone's leak is like, "Oh,
+well, this is actually a little bit
+harder than I thought." So, also I
+
+[52:31]
+harder than I thought." So, also I
+teamed up a lot with with my co-host
+Adam. Adam helped me a lot in this
+section as well, right? Because what
+what you're describing uh and this is
+how usually people like to fix it. Oh,
+yeah. I I'm going to study the data
+again. Oh, indeed. The data sets that
+they're under bluffing and then next
+
+[52:45]
+they're under bluffing and then next
+time you're in the spot, you still press
+call. So, it's not it's not a knowledge
+mistake. You know, right? you know, so
+we cannot fix it with knowledge. Then
+how do we fix it, right? So it's it's
+usually it's either a focus or
+engagement mistake or it's a mental game
+mistake. That's kind of the three errors
+
+[53:01]
+mistake. That's kind of the three errors
+that I kind of concluded in the end
+where we can make mistakes. We can make
+mistakes because there's a lack of
+knowledge. Uh we can make mistake
+because there's a lack of focus and
+engagement, right? We kind of know it.
+It's also not necessarily meant to
+problem, but we're just not engaged
+enough to execute or it's simply a
+
+[53:15]
+enough to execute or it's simply a
+mental game problem. We know it. We know
+we shouldn't do it, but we keep on doing
+it. Uh that part ended up taking a
+little bit longer uh to fix. Um but
+there I think is is is where the most
+value is especially in spots to narrow
+this down where people show continuous
+
+[53:32]
+this down where people show continuous
+aggression. So think bad bet lines and
+that kind of seems in line right when
+people bat bigger so go overbat or they
+show a lot of interest and aggression
+that's when you have the urge to fight
+back the most. Now, I can already tell
+you this is something that you can try
+
+[53:46]
+you this is something that you can try
+to manage or you can post as much
+post-it notes on your screen as
+possible. It's not gonna it's not gonna
+uh it's not going to resolve like that.
+Um uh so yeah, in the in the league
+buster program for people listening, if
+you want to get rid of these these
+
+[54:00]
+you want to get rid of these these
+mistakes, so the mistakes that you know
+that you have, and I've I've done so
+many database reviews and one-on-one
+coaching session, they say, "Well, are
+you aware of this?" Say, "Yeah, I know."
+Uh and then I say, "Okay, yeah, well
+then then now what?" Right? Uh so that's
+kind of the question that I wanted to uh
+
+[54:15]
+kind of the question that I wanted to uh
+to answer and I believe we did a good
+job. Um so especially like I said in
+continuous aggression if you look at
+your call call win. So this is any spot
+where people do on the flop whatever but
+on the turn they bet and on the river
+they bet again you can see that that's
+specifically and then specifically again
+
+[54:30]
+specifically and then specifically again
+out of position where you're only
+winning 35 or should be winning 45. So
+again like that big blind defense that's
+I think like your your main area where
+where things go wrong when you're in
+position. That's usually for example
+when you big versus small blind aka the
+range is way wider aka people bluff on
+
+[54:46]
+range is way wider aka people bluff on
+average more therefore calling down is
+actually not that bad. So it's not and
+this is then something that also goes
+off and wrong then people like okay I
+should be less of a station but you have
+to be very specific with the directions
+you give your mind if you just tell your
+mind I have to be less of a station it
+
+[55:00]
+mind I have to be less of a station it
+starts to just randomly fold everywhere
+no there's certain spots where you
+actually want to be a station and
+there's certain spots where you don't
+want to be station right so it's their
+ability to process the information
+correctly and rationally and then make
+good in-game decisions that's kind of
+
+[55:15]
+good in-game decisions that's kind of
+what separates the best from the rest
+sure they're better players
+But it's just their ability to see spots
+as they are, right? Whereas if you get
+into a spot like that, there's all types
+of things going on that have nothing to
+do with actually getting to the right
+conclusion in the hand, right? And
+that's kind of what separates the best
+
+[55:31]
+that's kind of what separates the best
+uh from the rest. So yeah, this this
+hero calling um yeah, definitely is is
+going to be one of the one of the bigger
+issues.
+&gt;&gt; Yeah, for sure. Yeah. So it makes a lot
+of sense especially and we saw before I
+
+[55:46]
+of sense especially and we saw before I
+was losing more to the early positions
+and losing as the three bet in position
+caller and things like that. It might be
+that I'm you know these spots where
+players are tight. I'm particularly
+feeling like I need to to call down and
+uh you know these are these are not just
+
+[56:02]
+uh you know these are these are not just
+just a priority. These are these are
+strong ranges and also, you know, just
+data wise, people tend to to play in a
+strong put their hands in the in the
+they're strong hands in the in the
+aggressive lines. So, yeah, these are
+
+[56:15]
+aggressive lines. So, yeah, these are
+not good spots to call, but you know,
+the blind first blinds when they have
+lots of hands available to bluff and,
+you know, they just want to win the pot,
+then then you can go ahead and station
+down. But
+&gt;&gt; yeah, or or you know, they just throw a
+little check check bat line or bet check
+
+[56:30]
+little check check bat line or bet check
+bat line, something along those lines.
+But those are usually the smaller pots
+and that's that's kind of the thing with
+you probably and many players have this
+uh their level of engagement is not the
+same. There's something about bigger
+pots, overbats, triple barrels, people
+putting a lot of aggression in you that
+
+[56:46]
+putting a lot of aggression in you that
+turns that turn something on. There's
+there's a consistent pattern here that
+you're going to have to break. Um and
+you're going to have to understand
+what's happening on a deeper level,
+right? you're going to really have to
+understand, okay, what's going on
+physiologically, not only in my brain,
+
+[57:00]
+physiologically, not only in my brain,
+but also what's going on in my body
+because that's in the end what takes
+over. Your body is taking over. You have
+no you no longer have access to that
+part of your brain that knows the data
+says that this spot is under bluff
+because if you would have, you would not
+call, right? Um, so yeah, I teach you I
+teach everyone uh if you want to
+
+[57:16]
+teach everyone uh if you want to
+overcome this, I teach exactly how to do
+it in the program. I just wanted to to
+to show that you can see for example if
+you make uh um hero calls. So this is
+any hero call versus versus sizing.
+Let's to isolate that. So we already
+
+[57:31]
+Let's to isolate that. So we already
+concluded like versus continuous
+aggression the hero calls are not going
+that well. Whereas versus broken
+aggression is actually not that bad. But
+if you look at your action profit uh so
+this is all your hero calls on the river
+
+[57:45]
+this is all your hero calls on the river
+uh where they went all in. You lost
+minus 7 big blinds. uh big overbats, two
+samples. These over bets, you're losing
+minus 23 big blinds. The other overbats,
+minus 10 big blinds. Smaller overbats,
+minus eight big blinds. These are a lot
+
+[58:00]
+minus eight big blinds. These are a lot
+of big blinds. So, if we can just fix
+this this hero call leak on the river,
+you're saving a lot of uh a lot of
+money. So, big upsizing 12 and then
+three quarters still minus three. So,
+hero calling still not going great. And
+then when we go lower 60 to 70% pots,
+
+[58:15]
+then when we go lower 60 to 70% pots,
+that's when you start to make money
+versus half pot, you're making money
+versus one/ird, you're making money
+versus very small, you're making money.
+It's like the per perfect evidence is
+right here in terms of feedback how how
+you've been doing. So imagine we could
+just actually I used to do this
+sometimes with with one student of mine.
+
+[58:30]
+sometimes with with one student of mine.
+I would go to his database and I would
+take out all the puns and then I would
+send it back to him and said, "What do
+you think of this graph?" It's like,
+"Oh, it is amazing. Great work." Yeah, I
+just took off all your punts. So you
+don't have to your problem is not
+strategically. You just have to stop
+punting, right? Uh so it's kind of the
+
+[58:47]
+punting, right? Uh so it's kind of the
+same here if if you would not have made
+all these big hero calls. Um so in terms
+of helping to prioritize what's your
+what's your biggest priority, it's going
+to be these the these these river hero
+calls and really understanding what goes
+on that makes you make these calls,
+
+[59:01]
+on that makes you make these calls,
+right? And this is not something uh like
+oh I give you a data point in MDA that
+they, you know, that's a quick fix.
+There's no quick fix for this that that
+I can tell you. It's a process. Uh but
+it's definitely fixable if uh if you're
+willing to go uh down that route. So
+
+[59:16]
+willing to go uh down that route. So
+this is kind of uh it for uh kind of the
+general overview. The next point we then
+have is what you're probably what people
+what everyone is used to is pre flop.
+Actually I already took a look at your
+pre flop game. I would say not much to
+note here. Just quickly for the viewers
+
+[59:31]
+note here. Just quickly for the viewers
+some points that are maybe different
+than what you're used to. Um we can see
+here how often again like from a
+performance perspective. So how often
+you made the race then how often you
+face the three bet and how often your
+steel was success right so you want to
+
+[59:45]
+steel was success right so you want to
+in an ideal world especially when you go
+wider which you are going like in the
+button and the small blind you're
+stealing wider than you quote quote
+should you want then there to be more
+success and less three bets and we can
+see indeed on the button that you have
+4% less three bets um and also four 4%
+
+[1:00:04]
+4% less three bets um and also four 4%
+less success so these two kind of
+balance each other out um but in general
+if you make a losser button open. If you
+can see a flop, they make money. If you
+look at if you would filter now, go to a
+
+[1:00:15]
+look at if you would filter now, go to a
+holder manager, you would filter them
+bottom of your range, you open and you
+didn't face a three bet, meaning that
+you got to realize at least a part of
+your equity. All these hands make money.
+So, your wider button opens, they don't
+get they don't get high three bets. Keep
+doing those. You could even push it a
+little bit more if we fix some of the
+
+[1:00:31]
+little bit more if we fix some of the
+postup stuff we talked about. Uh same
+with small blind. Small blind, you're
+getting more folds and less three bets.
+So, you're already overdoing it. keep on
+pounding on these spots and on the right
+players. Um then we have like the versus
+open tab uh in terms of um how often
+
+[1:00:48]
+open tab uh in terms of um how often
+you're defending. There's a small bug
+here actually which is aware we're now
+at version 1.6 1.7 is already almost
+going out. So basically what we do is
+every month based on also people that
+are in the discord that using the
+
+[1:01:00]
+are in the discord that using the
+program like there's many stats guys it
+there it's almost impossible to have
+them all perfect straight away. Uh so we
+are every month we kind of go through
+all the feedback and things that we
+found and then we update them because we
+saw that these three bet success numbers
+for example it says zero. It's obviously
+not zero. Uh so this actually something
+
+[1:01:16]
+not zero. Uh so this actually something
+that we already noticed so that's on the
+list and then next month we bring out
+the update so it's fixed. But in terms
+of like big blind defense everything was
+perfectly fine. Uh the only thing that I
+found there was one point of attention
+pre flop. If we look at the facing three
+
+[1:01:31]
+pre flop. If we look at the facing three
+bets. So this is shows again
+performance, how often you face three
+bets, uh how often you're four betting
+and how often the four bets are
+successful. And we can see that your
+four bet bluffs um they do well 2% more
+than GTO. But specifically in position
+
+[1:01:47]
+than GTO. But specifically in position
+versus big blind, which is something
+actually that you're doing a lot. You're
+for bluffing uh quite a lot. Um but for
+big blind, it is something that you will
+see as well. It's just not very
+effective. Uh so you're actually getting
+way less folds than you should for his
+big blind because on average it's the
+
+[1:02:01]
+big blind because on average it's the
+big blind three bet people are just not
+po polar enough and they're just strong.
+It's just too easy even though everyone
+know this is again it's something
+everyone here knows it by now right. Uh
+but it's again it's like every time it's
+just too easy to press the call button.
+
+[1:02:15]
+just too easy to press the call button.
+It's a it's a leak that everyone knows
+but it's still not fixed. Why not?
+Because people don't know how to fix
+their leaks. They are aware of a leak
+which is not the same as knowing.
+Knowing I like to say knowing is when
+awareness survives pressure right so you
+are aware that the that for example the
+
+[1:02:31]
+are aware that the that for example the
+population on the blast the river but
+you don't know it because it doesn't
+survive the pressure of the in of the of
+the moment right so we have to bridge
+the gap between becoming aware which is
+what hand toote helps you with to
+actually knowing and that's kind of
+
+[1:02:46]
+actually knowing and that's kind of
+where what we do in with the league
+buster program we kind of close that gap
+so like all your for bluffs all works
+fine you're overdoing it versus the big
+blind which is actually not
+incentivized. So again like a deviation
+from theory you're doing something too
+much. If the population is overfalling
+
+[1:03:01]
+much. If the population is overfalling
+great keep on doing it like your button
+ste small blind steals right you're
+doing it too much and it's very
+effective but in this case cut out four
+by bluffing versus big blind and then
+you're good it's a very easy uh easy
+practical thing like I said other than
+that your pre flop game very solid just
+
+[1:03:17]
+that your pre flop game very solid just
+yeah not much to add here.
+&gt;&gt; Any comments? Pre flop was something.
+Yeah, pre flop was something that I I
+put a good amount of time into. I made
+myself some
+&gt;&gt; some charts and did some drilling and
+flashcards and all that kind of stuff.
+
+[1:03:31]
+flashcards and all that kind of stuff.
+So, I feel like at least my knowledge of
+the the most common pre flop spots in
+terms of GTO is uh is pretty good. I
+would say above average for for the pool
+from what I've seen. But
+&gt;&gt; I still need to be more flexible, right?
+
+[1:03:46]
+&gt;&gt; I still need to be more flexible, right?
+And I think it's easy to be flexible
+in some ways. you know, opening wider on
+the button, opening wider the small
+blind, that's like really fun because
+people don't three bet enough, but the
+flip side of that, as you say, is
+because they don't three bet enough, you
+
+[1:04:01]
+because they don't three bet enough, you
+have to actually overfold when they do
+three bet, and that's not as fun. So,
+&gt;&gt; so, so it's again kind of kind of the
+fight just like with the facing over
+bets, facing barrels, when someone
+fights back, something gets triggered in
+you that you want to fight back more.
+
+[1:04:16]
+you that you want to fight back more.
+Whereas yeah, how I approach poker and
+not to be narcissistic but I think this
+is a very efficient way Sunzu approved
+you try to avoid what is strong and
+strike at what's weak. So in poker
+basically your job is to identify when
+
+[1:04:30]
+basically your job is to identify when
+people are too strong that's when you
+you know you you you take a step back
+and when people are too weak you start
+pounding on them. Whereas a lot of
+people have this problem that they get
+triggered by people showing aggression,
+showing strength, and they want to fight
+
+[1:04:45]
+showing strength, and they want to fight
+that. And that's actually the opposite
+of what you should want to do.
+&gt;&gt; Um,
+&gt;&gt; y
+I was just going to say for
+button verse pipeline, for example,
+&gt;&gt; it's for bluffing is not even it's
+
+[1:05:00]
+&gt;&gt; it's for bluffing is not even it's
+something I studied and it's something
+that I wasn't doing before and it's
+something that a lot of people don't do.
+So, it makes it feels like it's a
+skillful play because I've spent time,
+you know, learning what hands are good
+to do that with. And it feels like I
+should get to use that knowledge, but
+
+[1:05:15]
+should get to use that knowledge, but
+you only get to use it in the right
+situation against someone that's
+actually wellstied. If someone's not
+well studied and they have a leak, the
+way to exploit that leak is just to to
+do to take the the boring play, you
+know, and uh and just fold. So, that's
+that's something to that that I that I
+
+[1:05:32]
+that's something to that that I that I
+need to deal with as well, for sure. I
+was going to say this is something
+actually that new school players or like
+newer generations kind of sometimes miss
+but we are I mean you're not new not old
+I think you said 10 years like I've
+already been in poker basically a
+
+[1:05:45]
+already been in poker basically a
+dinosaur by now like 18 years or
+something. Uh
+&gt;&gt; yeah.
+&gt;&gt; So in the past for example if you wanted
+to for bet bluff someone you would look
+at okay well does he fold to for bet.
+Nowadays, people look at the hands like
+which hands are used as a for bluff but
+they miss the most important piece of
+
+[1:06:00]
+they miss the most important piece of
+information. Does the guy actually fall
+enough or is it the clear spot where
+people don't have the don't have enough
+bluffs which is step one then if we have
+identified that then GTO can help us
+identify what are the best candidates
+but the most important thing is first to
+identify well is this actually a good
+
+[1:06:15]
+identify well is this actually a good
+spot to for bluff and if it is then we
+now know which hands would be optimal
+right uh so it's kind of you know we
+messed up the order um so going to the
+next step like I said pre flop uh not
+much to to find there uh this is just a
+general overview Q broken down flop
+
+[1:06:32]
+general overview Q broken down flop
+flops turns uh basically just flops and
+turns. So we have offense so that's when
+we are do the betting and then we have
+defense. So basically when we we are
+defending in general your offense game
+um seems fine. Uh one thing to highlight
+
+[1:06:48]
+um seems fine. Uh one thing to highlight
+fellow don batter here you could you
+could up it a little bit 3.5% GTO is at
+4%. Um, we can actually see the success.
+You're getting 6% overfolds. Um, and
+
+[1:07:01]
+You're getting 6% overfolds. Um, and
+you're facing a raise at the same
+frequency. So 6% if I do my uh if I do
+my note locking math, you can probably
+stab 20% more on average if we just note
+lock this in our head. So hey,
+&gt;&gt; y
+
+[1:07:15]
+&gt;&gt; you know, definitely keep on dunking. On
+the turn, by the way, we see the same
+thing. I see you dunk 5% should be 10%.
+So you're missing some dunks here.
+you're getting 11% overfolds and 14%
+under raises so far. And in general also
+if you look at my if I look at every
+
+[1:07:31]
+if you look at my if I look at every
+database that I've seen, if I look at my
+own database, even at higher stakes or
+if you just look at data, just something
+that's again good to overdo. Uh so I
+cannot I cannot do a a live without
+telling people to dunk web more, right?
+That would be unethical. Um
+
+[1:07:46]
+That would be unethical. Um
+&gt;&gt; of course,
+&gt;&gt; so I'm I'm happy to see at least that
+that that you're somewhat in the camp.
+uh makes me makes me proud. Um bet
+folding flops was another piece of
+attention. So if I look at fold versus
+race, we can see here 42 instead of 36.
+
+[1:08:03]
+race, we can see here 42 instead of 36.
+Um now we can look at okay, well where
+does it come from? After which sizing,
+after which hand class? Um if we look at
+the hand class, we can see weak draws 49
+instead of 34. So batfolding gutshots,
+
+[1:08:17]
+instead of 34. So batfolding gutshots,
+for example, seems to be a problem.
+you're even bat folding good draws 8.2
+versus two. So that's definitely a
+problem. Um and you're folding some
+middle pairs. So if I look at fold to
+raise and let's look at for example a
+gutsh shot.
+
+[1:08:31]
+gutsh shot.
+Um you usually don't really want to fold
+gut shots
+depending on if the SPR is low. But for
+example, this is a blind versus blind
+spot. We see bat fill and raises. This
+is a in general you don't want to fold a
+gutshot with an SPR like this. It's very
+
+[1:08:46]
+gutshot with an SPR like this. It's very
+very rare. Uh so that's definitely some
+point to pay attention to. Uh or we
+should maybe not bet the gutshot in the
+first place if we expect a lot of
+raises. So what's this?
+
+[1:09:00]
+raises. So what's this?
+This is for example uh I find this
+actually a good example that I would
+much rather stab here with five six no
+diamonds. Kind of my philosophy here is
+the hands that you're bet puking that's
+the hands you want to check back. So
+this hand for example, you step the
+
+[1:09:15]
+this hand for example, you step the
+thing half pot and he check raises. You
+kind of puked. You folded but probably
+not with you know I mean you to be fair
+I don't think this is actually a fold.
+He does go a bit bigger but probably is
+not a fold. Um so again it would be uh
+but to kind of help with this let's say
+
+[1:09:31]
+but to kind of help with this let's say
+for example if I expect to get check
+raised often that's the first question
+right and this board I think that's
+definitely the case. Low board he
+probably does quite a lot of checking
+and a check race is a big part of the
+strategy. I would much rather just bet
+fold 64 offuit, no diamond. So that's
+
+[1:09:46]
+fold 64 offuit, no diamond. So that's
+the hand that I would bet and then I
+would check back 64 with a diamond. If I
+have 54 with a diamond, I would
+obviously bet that always because I can
+always call a check race. It doesn't
+matter which size he goes. So maybe
+something to uh to take in
+consideration. Uh but yeah, I don't
+
+[1:10:00]
+consideration. Uh but yeah, I don't
+think this hand is actually a fold, but
+that that is a philosophy that uh that
+you could use. Um
+so let me see. Yeah. So, you're either
+bet betting a draw like I said here on
+the 56 that you shouldn't you should
+
+[1:10:15]
+the 56 that you shouldn't you should
+maybe be shouldn't be betting or you
+should just call to the check race. So,
+the draws is definitely a problem. I
+even saw you folded good draw. So, I
+don't know what good draw would be draw
+but I don't think we get to fold a good
+draw
+
+[1:10:33]
+especially not at this SPR.
+This is a recreational. So maybe we get
+a ridiculously big sizing. No, but this
+definitely also a call. So you're
+folding
+&gt;&gt; Yeah,
+&gt;&gt; you're folding you're folding draws
+
+[1:10:45]
+&gt;&gt; you're folding you're folding draws
+where you simply shouldn't. So maybe you
+you don't see good things happening. Um
+where there's actually, you know, a lot
+of good things that can happen. Like
+this one is quite big and this could
+actually be a case of
+Yeah. said this one maybe I this one is
+
+[1:11:02]
+Yeah. said this one maybe I this one is
+close because I do expect quite a lot of
+folds and you kind of block the main
+trap. Uh but I do feel like I would much
+rather stab like king jack here and I
+would check back my ace9 you know I
+would bet a6 again would be the
+
+[1:11:16]
+would bet a6 again would be the
+difference right if I have a6 I don't
+mind getting check race because I always
+call this hand specifically
+&gt;&gt; I would much rather stab nothing than
+this gutshot because getting check race
+is just not nice.
+&gt;&gt; Does that make sense? Like,
+&gt;&gt; yeah, it makes a lot of sense. Or I
+
+[1:11:30]
+&gt;&gt; yeah, it makes a lot of sense. Or I
+could stab fold with I mean, queen nine
+is two overs, but yeah, something like
+that where I'm a little bit less about
+it.
+&gt;&gt; Exactly. Um, and I think we also saw
+like some middle pairs.
+Um,
+so this one would be a great example.
+
+[1:11:51]
+You see, one third you face a check
+race. I mean, he could check race. This
+is a spot where for example in theory
+you should be check raising 54 76. So
+
+[1:12:00]
+you should be check raising 54 76. So
+there's plenty of even worse and pocket
+eights probably maybe check race at a
+very low frequency. Um, and I think
+maybe you're underestimating, but
+turning a nine, I know it's very
+unfrequent, but turning a nine could win
+you a stack, right? So, if you just
+think about implied odds, odds, you you
+
+[1:12:15]
+think about implied odds, odds, you you
+probably already there. So, uh, that
+would be
+&gt;&gt; I think
+&gt;&gt; yeah,
+&gt;&gt; this was probably one of those where I
+my huristic was something like I would
+call if I had a pair on the board, but
+if I have a pocket pair, I don't really
+like it as much, which is I mean, it's
+
+[1:12:30]
+like it as much, which is I mean, it's
+true, but just in this situation where
+I've essentially range bet and then face
+a not huge check raise, you just have to
+be have to be calling second pair or
+hands better than second pair.
+&gt;&gt; Yeah. So, for example, especially here,
+
+[1:12:45]
+&gt;&gt; Yeah. So, for example, especially here,
+if you think about, for example, if you
+have sixes, well, then you're dead
+against sevens, right? Uh, nines at
+least can still draw out against seven.
+So, even if you see your hand as a draw,
+uh, which in general, I think is a good
+way to look at poker, uh, just think
+about every hand in terms of drawing to
+
+[1:13:01]
+about every hand in terms of drawing to
+towards equity and the EV of that. Well,
+drawing towards the turn set or ri set
+is pretty good money if he has a bottom
+set. So if we just add only that factor
+already in this actually we can actually
+make quite some money. We will just
+maximally lose what is this five and a
+
+[1:13:16]
+maximally lose what is this five and a
+half big blinds more and we could
+potentially win a stack. Um if you look
+at poker optimistically like like I do
+learning to look at poker optimistically
+uh is actually something that and I
+actually I pointed out this 89 as well
+
+[1:13:30]
+actually I pointed out this 89 as well
+just again like he could raise 78 uh so
+he could even raise worse. So this is um
+yeah definitely a point to pay attention
+to. So like these flop pet faults um is
+something that I noticed other than
+that. So but I also wanted to see like
+just if you just have fault versus race
+
+[1:13:46]
+just if you just have fault versus race
+you still don't really know right.
+Right. So this are where I think I hope
+I can see now the value that you
+straight away can see okay which hand
+class is causing the problem. Right. So
+that's kind of where uh where I think
+the values of an extensive breakdown
+like this. Um flop defense
+
+[1:14:04]
+I
+that's something to note here as well.
+Um that in position I saw an overfold 35
+verse 27 again. Then we can look at uh
+
+[1:14:18]
+verse 27 again. Then we can look at uh
+for example the hand class mainly going
+to be like basically air and then if I
+can tie it to a spot that's you know to
+go back to your big blind win rate right
+uh single spot imposition prefab caller
+
+[1:14:31]
+uh single spot imposition prefab caller
+go to lines
+we can see that versus a 13 bed you're
+folding 34 where it should be folding 21
+so that's 13% overfold so quite
+significant uh and again here we can see
+that the air part
+
+[1:14:45]
+that the air part
+um So you're folding hands that are air.
+So if we look at air, I mean you're
+folding low pockets. Usually you don't
+really fold a one pair hand unless it's
+a bigger bet. So let me see. This is
+actually an unintuitive float, but I
+would I don't blame you for not floating
+
+[1:15:00]
+would I don't blame you for not floating
+this one. But this is actually
+unintuitive float. It's a great hand to
+to start bluffing with later. Um but
+this is not something that I would blame
+you for not finding. And where is a
+better example? This one. Ah, he's
+
+[1:15:15]
+better example? This one. Ah, he's
+betting half pot. But first one third,
+for example, you would not fold fold
+this hand for half pot. I would I would
+definitely fold it. But in general, like
+high cards, ace highs,
+uh definitely hands that you do not want
+to be folding like this one. Definitely
+
+[1:15:32]
+to be folding like this one. Definitely
+not a fold. Back door straight draw,
+back door flush draw, overcard. This is
+a fine race candidate as well, I would
+say. Like the three is a great
+unblocker. You I have good equity.
+Sometimes get called by worse. Think
+about hands like 10, eight, jack eight,
+
+[1:15:46]
+about hands like 10, eight, jack eight,
+check 10, king jack, king 10. Um, so
+this is, for example, if I show you
+these hands, is there for example, do
+you now know looking at this that this
+is not a fold?
+&gt;&gt; Yeah. Yeah. This this one seems Yeah.
+
+[1:16:02]
+&gt;&gt; Yeah. Yeah. This this one seems Yeah.
+Especially given it's uh Yeah. With so
+many back doors and and the ace high
+overcard is is just such a a nice one to
+continue with. Yeah, it makes a lot of
+sense. And
+&gt;&gt; my being aware of just when people are
+
+[1:16:16]
+&gt;&gt; my being aware of just when people are
+when it's wide ranges and when it's
+small sizes that you know this is when
+we get to we get to battle. I'm I'm
+battling in the wrong places and I'm not
+battling enough here.
+&gt;&gt; That's what I said about the the
+emotional bluff catching. So it's like
+you get triggered by strength instead of
+
+[1:16:31]
+you get triggered by strength instead of
+triggered by weakness. Um so this is
+more of a and this is kind of the next
+process right in terms of how do we
+diagnose? Well, we've identified that
+we're, for example, overflowing to the
+sea bets. Let's go through these hand
+classes and let's see, oh, I didn't know
+
+[1:16:46]
+classes and let's see, oh, I didn't know
+I should be defending this hand. Great.
+This is could be just a knowledge
+problem. You you set up a drill in the
+solver, you know, or you look at it
+like, okay, now I know. And if tomorrow
+you go play, you might be able to
+execute it. No problem. But if you kind
+of if you're like, no, actually, I know
+
+[1:17:00]
+of if you're like, no, actually, I know
+this should be defense, then apparently
+it's not a knowledge problem, right?
+Usually like a flop defense spot like
+this is not necessarily mental games
+problem. It's usually then more of a
+focus or engagement issue. You're just
+not caring enough,
+&gt;&gt; right?
+&gt;&gt; So, how do we fix that? Well, that as
+
+[1:17:16]
+&gt;&gt; So, how do we fix that? Well, that as
+well. You know, I have answers to I have
+answers to all these problems. So, but
+we first need to make the correct
+diagnose. And people usually only think
+about mistakes in terms of technical
+like, oh yeah, the solver said so and
+they only try to solve poker with that
+part of their brain. It doesn't work
+
+[1:17:31]
+part of their brain. It doesn't work
+like that. Uh so, the correct diagnose
+is very important. So, this would be
+another one. Ace5. I would say this
+either raise or call. uh we press fold.
+Um so this is definitely uh something to
+pay attention to. Usually quite an e
+
+[1:17:45]
+pay attention to. Usually quite an e
+like I said an easy thing to fix if it's
+probably like a bit a bit half of them
+will maybe be knowledge right because
+it's quite a big overfold. So it cannot
+be only focus or engagement. Uh so I
+would say half is probably just
+knowledge. So like maybe the the deuces
+
+[1:18:00]
+knowledge. So like maybe the the deuces
+float that I that I showed you earlier
+on a 109 maybe that's one where like oh
+should I call that? I didn't know that.
+Um, so that could be knowledge for
+example. Sorry,
+&gt;&gt; I I was just going to say it seems like
+blind versus blind particularly. This is
+one that I could I could use some
+drilling on is Yeah. You know,
+
+[1:18:16]
+drilling on is Yeah. You know,
+&gt;&gt; so the the blind versus blind float.
+&gt;&gt; Yeah.
+&gt;&gt; This would be another great one. And
+like you like the nice thing about this
+because you need bluffs on an ace or a
+10 or a nine.
+&gt;&gt; Um,
+&gt;&gt; and the best bluffs are the ones that do
+
+[1:18:30]
+&gt;&gt; and the best bluffs are the ones that do
+the most unblocking and that's always
+your lowest pairs and they also have the
+most amount of equity. think about
+looking poker through an optimistic
+lens. We can turn a set, man. We can
+rever a set that just like with the
+pocket knights. Um, so that's kind of
+where
+&gt;&gt; this is this is the thing. If you're
+
+[1:18:45]
+&gt;&gt; this is this is the thing. If you're
+facing a whatever two big blind bet,
+it's like you turn the set whatever four
+or five% of the time and then it's like,
+okay, so that means I need to I need to
+win 20 times the money when I do hit and
+it's like, can you win an extra 20 or
+
+[1:19:01]
+it's like, can you win an extra 20 or
+whatever it works out to 30 big blinds
+here? probably if they have ace king ace
+ace queen they pro you or you know uh
+whatever like king queen king king jack
+you you probably get a stack so uh works
+out quite quite well you need these
+
+[1:19:16]
+out quite quite well you need these
+these asymmetric upside situations
+&gt;&gt; yeah so that's definitely uh one of the
+points to uh to pay attention to uh we
+already talked about the missing races
+right so both scenarios actually with
+
+[1:19:31]
+right so both scenarios actually with
+that with that uh a3 for example You
+could also raise or you're missing the
+calls or the raises. We already talked
+about the flop check raise from the big
+blind. Definitely also a point to pay
+attention to. Um
+if I go to turn offense, we already
+
+[1:19:46]
+if I go to turn offense, we already
+talked about this bats the range
+construction, right? We already saw that
+the bet strong bet weak where actually
+we saw that in terms of success, you're
+very incentivized to do a lot of
+probing. So again, if we take the big
+blind note for example, stabbing from
+
+[1:20:00]
+blind note for example, stabbing from
+the big blind facing a check pack
+definitely something we should be
+overdoing. So actually you want to kind
+of you want to kind of flip your current
+strategy. You want to trap more and bet
+more air. So you want to flip it around
+that would be way more effective. Um
+
+[1:20:17]
+that would be way more effective. Um
+other than that uh like I said, dunk
+more always my model as well. Other than
+that, not much to add there. Again, for
+the people looking, this is again just a
+breakdown sizings that you use. Uh, in
+terms of, like I said, in terms of
+
+[1:20:30]
+terms of, like I said, in terms of
+sizings, you seem to be doing very well.
+Sizing scheme, flop, turn. When you're
+the offense game, like I said, from the
+offense game, I think just on the turn,
+uh, there's this this imbalance, but I
+think flop, for example, is fine. It's
+mainly when you face aggression, that's
+when that's when there's, uh, there's
+
+[1:20:47]
+when that's when there's, uh, there's
+more work to be done. And that's
+specifically from the big blind. Um
+yes turn. So again the defense problem.
+Let me take this away.
+Turn defense problem.
+
+[1:21:03]
+Turn defense problem.
+So
+if we look at folding, you're actually
+underfolding when you're out of position
+mainly. So this is mainly going to be
+when you're in the when you're in the
+big plant, right? And you're again
+you're overfolding in position. I would
+
+[1:21:15]
+you're overfolding in position. I would
+much rather see this be the other way
+around if that makes sense.
+Yeah. Yeah, that makes that makes sense
+for sure.
+&gt;&gt; But actually looking at like phase back
+in terms of your game, this is quite an
+interesting stat. So this is how often
+when you call the turn, how often you
+
+[1:21:31]
+when you call the turn, how often you
+face aggression on the river. So this is
+direct feedback from the games, the
+hands that you played and the pools that
+you played, what people are doing
+against you. And actually, we can see
+that when you're out of position and you
+call the turn, you're going to actually
+face aggression on the river 3% less
+
+[1:21:47]
+face aggression on the river 3% less
+than average. Now, this is actually not
+specifically versus you. This is
+actually a trend that I mainly see
+overall. And that's because kind of what
+you're doing. A lot of people they play
+bat bat check with medium holdings. So,
+
+[1:22:00]
+bat bat check with medium holdings. So,
+what you usually see in just real games
+compared to GTO is that people's turn
+aggression is higher and then on the
+river their aggression is lower. And
+then the opportunity there is then
+usually to overfold the turn to some
+degree because yes, they're betting more
+
+[1:22:15]
+degree because yes, they're betting more
+and they're giving up the river, but
+they're betting more value hands that
+actually should be defending them. So
+the correct exploit is usually overfold
+versus the turn CBAT and then over bluff
+versus the check back or over attack the
+check back. Right? If we think about
+that philosophy of avoid what is strong,
+
+[1:22:31]
+that philosophy of avoid what is strong,
+well, what's strong? Their turn betting
+range. And if something is too strong,
+there's always something that's too
+weak, right? That's the whole idea. if
+you come off balance. Um so that's
+actually uh um yeah that's a point I
+
+[1:22:45]
+actually uh um yeah that's a point I
+wanted to to add there as well. Um
+so actually maybe we can look at like
+some some turn calls out of position
+maybe also first like some bigger
+sizings. Let me see. Range. Maybe a
+
+[1:23:02]
+sizings. Let me see. Range. Maybe a
+middle pair type of hand.
+What would be a good example?
+This is a one-/3 bet.
+
+[1:23:23]
+This blind versus blind.
+Uh, what is a good example
+
+[1:23:30]
+Uh, what is a good example
+of a hand that's quiet?
+Queen eight.
+This is usually danger when I see this
+board.
+
+[1:23:46]
+Yeah, this this this one is definitely I
+think on the looser side. It is blind
+versus blind though. But usually when
+the board is this three high connected,
+people have to do a bit more slow
+playing. And people again, they like to
+leave their checking range unprotected
+and bet way too much ace for already on
+
+[1:24:01]
+and bet way too much ace for already on
+the turn. This is just a general
+horistic in poker. Anyone listening any
+games that you're playing, people
+usually just strengthen their betting
+ranges
+&gt;&gt; and you're you're kind of victim of that
+as well to some degree, right? Or guilty
+of that, I guess, would be the would be
+the better word. Um, so in this spots
+
+[1:24:16]
+the better word. Um, so in this spots
+then and and like I said actually in
+this case it would be good that people
+don't float the pocket deuces because
+they would have turned a set. Uh, but
+they usually then lack like the the
+pocket threes bluffs on the turn, stuff
+like that and they kind of miss the ace
+do slow play on the turn for example and
+
+[1:24:30]
+do slow play on the turn for example and
+they just always bet themselves. Um, so
+yeah, definitely definitely something to
+to watch out for like board textures
+that are sensitive
+to having that bias exaggerated like
+this. And also against spots like
+
+[1:24:45]
+this. And also against spots like
+probably if we look at like some big
+blind versus MP barreling. Let me see.
+Sing spot opposition prefab caller.
+Big blind versus early call weak.
+Oh, it's always going to be low pair.
+
+[1:25:05]
+pocket sevens. There's a EP range.
+Oh, he checks back. That's first a small
+bet. That doesn't count.
+
+[1:25:17]
+There we have a gutshot.
+We face check back. Why do we keep on
+facing checks?
+[Music]
+
+[1:25:34]
+This one probably.
+Oh, we Oh, we don't bet. Don't bet
+ourselves. Okay, then we check all the I
+would probably just check fold the turn
+unless you want to go fancy. Again, this
+this is again one of these spots where
+
+[1:25:46]
+this is again one of these spots where
+people should protect their checking
+range, but they don't. They just going
+to always bet always bet their value
+hands. Uh
+um
+&gt;&gt; yeah, it's the spot where the ranges are
+starting to tighten up. It's a it's a a
+
+[1:26:00]
+starting to tighten up. It's a it's a a
+turn bet now and it's early position
+ranges like these are these are where we
+have to to get a bit more honest. But,
+you know, if when it's the big blind
+just versus a C bet, I need to be that's
+when I can be a bit wider, you know,
+calling I should be calling more with
+
+[1:26:16]
+calling I should be calling more with
+the gut shots and the the weaker pairs
+and things like that. So this one I
+would probably already fold the flop
+&gt;&gt; and definitely fold the turn.
+&gt;&gt; Yeah.
+&gt;&gt; And definitely fold the river.
+&gt;&gt; So yeah, again versus like earlier
+
+[1:26:31]
+&gt;&gt; So yeah, again versus like earlier
+positions we just have to be a little
+bit careful. So this would for example
+be a great hand. Um in the process I
+explain how to basically fix this this
+problem. This would it all starts with
+the awareness right that's we've became
+aware and now we have to start gathering
+
+[1:26:46]
+aware and now we have to start gathering
+evidence start have to replay the event
+in our in in our head we have to write
+down our thoughts write down our
+sensations um yeah this is great piece
+of information that we can use to fix
+your leak for example um
+
+[1:27:01]
+your leak for example um
+all right let's move to the river and
+then we're after that we kind of are
+going to wrap it up uh but obviously not
+not an inort important street uh the
+river.
+&gt;&gt; So we actually see that in general when
+
+[1:27:15]
+&gt;&gt; So we actually see that in general when
+you see the river your win rate is minus
+10 instead of 42. So that's a problem.
+And like I said it's mainly going to be
+uh from making these hero calls. Like I
+think your your bluffing your betting
+game yourself is not necessarily where
+the problem is. However, uh there is
+
+[1:27:33]
+the problem is. However, uh there is
+definitely some work. Now your bet
+percentage is going to be quite high,
+but that's also because your bet
+percentage on the turn is going to be
+quite low. Um,
+and one thing that I noticed in terms of
+your your bluffing game, you seem to be
+
+[1:27:45]
+your your bluffing game, you seem to be
+over bluffing, but it's very like
+one-dimensional. You seem to have like
+one or two lines or sizings. That's kind
+of what you like, we talked about that I
+think bit before trick before stream as
+well. Kind of called you like a one
+trick pony. You know, you have one line
+that you like to overdo or one sizing
+
+[1:28:01]
+that you like to overdo or one sizing
+that you like to overdo. uh which can be
+very can work very effectively and can
+actually be incentivized when uh when
+you're playing for example lower stakes
+let's say 110l where the deviations are
+just bigger um but it's something it can
+
+[1:28:15]
+just bigger um but it's something it can
+I would call it maybe a bad habit if
+you're trying to move up where you just
+have to you need to add more tricks in
+your game you have to be a bit more
+diverse in where you can show up with
+bluffs because also uh the people people
+become uh better on average right they
+
+[1:28:31]
+become uh better on average right they
+will still have leaks but they become
+smaller So therefore, nuances start to
+add in more. Um, and the pools become
+big, smaller, so people pay a bit more
+attention to you. So then if they know
+your trick, uh, yeah, then you're you're
+kind of you're kind of lost. Um,
+
+[1:28:46]
+kind of you're kind of lost. Um,
+then if actually if I looked at check
+strong actually, I saw that you were
+value betting quite thin when you're in
+position. Um, which means that on the
+river, your check strong is 14 should be
+
+[1:29:00]
+river, your check strong is 14 should be
+21. That means that you're value betting
+hands that are just check back. So
+you're reopening the action. Usually
+this is not good if people punish you,
+but we can actually see that you face a
+raise on the river in position 6% where
+it should be 9%. So the way you punish
+people who value bet to thin is to not
+
+[1:29:15]
+people who value bet to thin is to not
+bluff catch but turn those hands into a
+bluff. So it seems you're you're making
+a deviation. So just this set alone, you
+would say, hey, you have a leak. You
+shouldn't do that. But it's not
+something that gets exploited. It
+actually does not get exploited because
+it's 6% instead of nine. if if they will
+
+[1:29:30]
+it's 6% instead of nine. if if they will
+get exploited is 12% instead of nine.
+But something to become aware of, maybe
+you're value betting hands that you just
+think are normal value bets. So maybe
+you're making exploit without knowing
+it, right? That's obviously a problem.
+We we deviations are great as long as
+they're they come from uh consciousness.
+
+[1:29:46]
+they're they come from uh consciousness.
+So it can be just that you just have a
+bad habit of making thin value bets
+where you shouldn't. And like the river
+check out of position is something that
+we discussed, right? moving the top of
+range to checking lines on the river
+when you're out of position and go for a
+
+[1:30:00]
+when you're out of position and go for a
+check race instead instead of betting
+yourself is a way that you can uh uh
+make make extra money. Um
+let me see
+uh what else did I wanted to look at?
+
+[1:30:15]
+uh what else did I wanted to look at?
+Um
+so basically for the for the people
+watching this is just uh your river game
+broken down into uh all the lines that
+you can take uh how successful certain
+lines are. So for example we can
+actually see that your bet your
+continuous so bad bet line uh that's
+
+[1:30:32]
+continuous so bad bet line uh that's
+actually under bluffed and actually it
+gets underfolded as well by population.
+So you're getting 52% success where it
+should be 54. So people are overalling
+and that's again people who have already
+overfold flop and turn. So therefore
+they just arrive with a stronger range
+
+[1:30:45]
+they just arrive with a stronger range
+on the river. So actually you're under
+bluffing but that's actually
+incentivized. Um and you're overbluffing
+for example a bic line and that's
+actually overfolded by 14%. So from that
+perspective you're doing something very
+well. Um but like I said it's more of a
+
+[1:31:00]
+well. Um but like I said it's more of a
+trick. You just keep keep on bet
+bluffing and for example you miss bluffs
+in call check bet. That would for
+example be a line that I think you
+should definitely bluff more. uh check
+check bat uh stuff like that. So, seems
+like your bluffing game is very
+
+[1:31:15]
+like your bluffing game is very
+one-dimensional, like a big sizing or a
+bat, check bat, and that's basically it.
+Um there's definitely more spots where
+you can find good turn barrels and even
+triple barrels, but like I said, you do
+want to add a bit more nuance, but for
+example, out of position, your your
+triple barrels are also getting good
+
+[1:31:30]
+triple barrels are also getting good
+success. In general, bluffing when
+you're out of position, you can see that
+as well. You have 54% success where it
+should be 42. And that's because out of
+position you usually use more smaller
+sizings, right? So it's easier also for
+the in position to so therefore the
+
+[1:31:46]
+the in position to so therefore the
+imposition has to defend more basically.
+Um which actually brings me to to the
+defense because that's I think where
+again most of your money can be made. We
+can see that here you're folding
+basically 45 everywhere. You just have
+like a fixed percentage it seems like
+
+[1:32:01]
+like a fixed percentage it seems like
+and you don't pay attention to if it's
+out of position or in position whereas
+in position like I said you should fold
+42. out position uses fold 57. Now I
+would say especially on lower stakes
+probably your fault percentage
+imposition should be a bit higher
+because people use a bit less blocks
+
+[1:32:15]
+because people use a bit less blocks
+they play usually a bit more polarized.
+Uh so obviously this is versus bots. So
+this is again something that I explain
+as well in the program at various spots
+certain benchmarks we have to take in
+consideration that they're playing GTO.
+So this would for example be a note
+where on average GTO just plays a lot
+
+[1:32:30]
+where on average GTO just plays a lot
+more smaller sizings and therefore we
+should fold less and actually out of
+position we should actually fold less
+because uh in position usually uses
+smaller sizings as well. So there's
+plenty of spots where population would
+throw out a 60 80 probably something
+
+[1:32:46]
+throw out a 60 80 probably something
+similar as you do where solver would
+just go jam or check for example. So uh
+it's normal that the gap should be a
+little bit less but obviously not it
+should not be the same right as we
+concluded here. Um uh and then actually
+
+[1:33:01]
+concluded here. Um uh and then actually
+we can see that your call win for
+example in position with hero calls it's
+actually going very well uh and in
+general we saw that in position so
+that's for example big versus small
+blind it's fine to make hero calls right
+it's the out of position where there's
+
+[1:33:15]
+it's the out of position where there's
+the problem so the big blind uh and
+you're actually calling air way more
+often there 56 instead of 30 38 um so
+yeah that's uh that's definitely a huge
+issue we already saw the the bet sizing
+right where we kind of saw the action
+
+[1:33:30]
+right where we kind of saw the action
+profit based on based on bet sizing. So
+that's definitely something to pay
+attention to. But if we look at for
+example lines, you are
+in position for example, you're
+overfolding versus a bet.
+&gt;&gt; Uh but you're underfolding versus a bet
+
+[1:33:46]
+&gt;&gt; Uh but you're underfolding versus a bet
+bat. So like again the the line that's
+weaker, you're overfolding the line
+that's stronger, you're underfolding.
+So, it's just like your your your mind
+get draws get gets drawn towards where
+where the action is, right? So, this is
+
+[1:34:01]
+where the action is, right? So, this is
+something that you're going to have to
+address uh long term if you want to uh
+yeah, if you want to succeed in this
+game because this is costing you a lot
+of money. Um
+&gt;&gt; yeah, for sure.
+&gt;&gt; Um let me see. We talked about that. And
+
+[1:34:15]
+&gt;&gt; Um let me see. We talked about that. And
+then like I said, mainly a scholar out
+of position.
+Um,
+yeah, that's kind of it for uh for your
+uh overview. Any any thoughts before we
+go to the final verdict?
+
+[1:34:30]
+go to the final verdict?
+I mean, there obviously there's there's
+a ton of great stuff here and yeah, I
+really appreciate this. is it's I did
+have that feeling as I was going through
+my year that there's
+something in my game that's that's not
+
+[1:34:46]
+something in my game that's that's not
+obviously showing up in terms of like
+the pre flop stats or the seb sizings
+that's really hurting my win rate
+because you know I see a lot of I I
+study with other players I have groups
+and and
+oftentimes I don't feel myself
+
+[1:35:00]
+oftentimes I don't feel myself
+completely dwarfed by my friend's
+theoretical knowledge of the game right?
+Like I feel like we're on a a level par,
+but then they might have much higher win
+rates. So I felt like there was
+something big that I was missing. And
+yeah, it does seem to be in these I'm
+
+[1:35:15]
+yeah, it does seem to be in these I'm
+I'm just getting way too stationary in
+these like big pods against early
+positions in these like direct
+aggression lines. And yeah, as you say,
+it's not going to be an easy fix, but
+I'm really glad that I've got that
+awareness now that, you know, if if I'm
+able to to get my head around this, this
+
+[1:35:30]
+able to to get my head around this, this
+is going to be, you know, this this is
+this is thousands of dollars a year,
+right? You know, this is this is going
+to be
+&gt;&gt; this this is going to be huge for you.
+So I'm going to I'm going to pull it up
+for the for the people uh where I wrote
+down kind of the final the final verdict
+
+[1:35:47]
+down kind of the final the final verdict
+um in like also terms of kind of kind of
+hierarchy uh like we already talked
+about river bluff catch game mainly from
+the big blind defense you already
+pointed out I wrote down two emotional
+bluff catching fighting versus strength
+of instead of weakness uh overfolding in
+
+[1:36:02]
+of instead of weakness uh overfolding in
+position versus small sizings and disc
+discontinued aggression and then
+underfolding out of position versus
+bigger sizings and continuous
+aggression. So, we all want to flip that
+around. Um, so that's like I said in
+terms of making money. Uh, that's that's
+
+[1:36:16]
+terms of making money. Uh, that's that's
+probably the most important thing. Then
+the next one is your playing value,
+right? Is there's more to maximizing
+your value than just betting big and
+hoping you know someone calls. Uh, so I
+said playing mid-range too aggressively,
+
+[1:36:30]
+said playing mid-range too aggressively,
+betting for value while getting folds
+instead of bluff catching. So that would
+be that pocket tense example that we
+looked at. So that's an area where uh
+you're going to up your your blue line
+winnings. Um not maximizing top of
+range, just betting yourself. So for
+
+[1:36:45]
+range, just betting yourself. So for
+example, small versus big blind going
+for a sebat check race line instead.
+That would be a great way to build pots
+going for that delay versus check race
+or when you're on the river uh bat turn
+check race river or check call or turn
+goes check check and you check race
+
+[1:37:00]
+goes check check and you check race
+river from the big blind stuff like
+that. Uh not enough slow playing in
+general on flop turn river. That was
+kind of my verdict. So these two points
+uh like I said in your game we can see
+that you have theoretical knowledge of
+the game. You have a lot of experience
+in the game. You also said with your
+
+[1:37:15]
+in the game. You also said with your
+friends you don't see a lot of
+difference. These two things I think are
+going to be huge for you in terms of if
+I can if I can say what's going to
+contribute to most of your win rate.
+It's this um upturn aggression with
+bluffs. And this was in general like
+that range construction difference,
+
+[1:37:31]
+that range construction difference,
+right? We wanted to move more of these
+two street value hands to turn checks
+and then bluff catch river to up your
+blue line and your red line actually has
+to go up by adding way more bluffs in
+this spot. Right? We don't necessarily
+have to go for the bat bat, right? But
+there's plenty of spots where a turnbat
+
+[1:37:46]
+there's plenty of spots where a turnbat
+is going to be already very profitable.
+Um, for example, stabbing, delaying,
+barreling, and then I wrote down become
+less of a one-trick pony. Uh, just
+moving all hands to batic bat and just
+only using the river overbat, for
+example, as a bluff. um or at least
+
+[1:38:02]
+example, as a bluff. um or at least
+overbluffing just that specific one
+trick. So, a bit more diversity there.
+Actually, we didn't really touch on
+this. Uh but the tree pots I wrote down
+various variants was definitely present
+as we saw in the variance tab in the
+beginning. Uh but you are you definitely
+
+[1:38:17]
+beginning. Uh but you are you definitely
+have a tendency of doing this under
+aggressing and overfolding quite a lot.
+Uh oh, this was actually one thing that
+I didn't point out. Let me quickly point
+that one out. uh but not huge in terms
+of uh something that you have to pay
+
+[1:38:31]
+of uh something that you have to pay
+attention to. I will teach you guys how
+to prioritize correctly as well in the
+program. Right? This is step two. Step
+one is analyze. This is this step. Step
+two is how do we prioritize? And I
+didn't write down all the leaks, right?
+Uh there's there's more, right? And this
+
+[1:38:45]
+Uh there's there's more, right? And this
+is completely normal. So don't go here
+in the chat. Dan sucks at poker. Uh in
+the program itself, I go over my my um
+all my game. And then in the end the
+concl my conclusion is WKO sucks at
+poker. Uh just like everyone else,
+everyone sucks at poker. The job is suck
+less. Maybe sounds a bit wrong but uh
+
+[1:39:02]
+less. Maybe sounds a bit wrong but uh
+you understand what I mean. Um so yeah,
+poker a game of mistakes. Make less
+mistake of your opponents and you will
+win. Uh you actually overcheck calling
+uh flop versus cbat. This is actually
+something that uh it's very common for a
+
+[1:39:15]
+something that uh it's very common for a
+population to do. But in these spots uh
+let me see check off flop. Let me look
+at like some probably it's going to be
+like your low pocket pairs
+and then like a king high board or
+something. Something like this. This
+
+[1:39:30]
+something. Something like this. This
+blind first blind man.
+This for example. Oh, this one's
+actually quite a big one as well.
+Yeah, this is this is a like this is
+already a fold on like a king deuce
+three board for example. So when the
+board is king three deuce pocket seven
+
+[1:39:46]
+board is king three deuce pocket seven
+is already straight away folding. So
+imagine if there's two broadways. These
+are just like spots where you have to
+just white white flag it like he he just
+has such a huge range advantage. High
+boards are just a matter of you get to
+massively overfold and he just gets to
+
+[1:40:00]
+massively overfold and he just gets to
+range bet and from there we we play we
+we continue on playing. If you if you're
+trying to [ __ ] with those ranges, uh not
+where the money is. Again, kind of
+identifying where the ranges are strong,
+right? Like if you think about the
+street range, especially people who go
+linear, don't have a flatting range.
+
+[1:40:16]
+linear, don't have a flatting range.
+They have all the broadways. Uh like
+this is kind of best case scenario.
+You're up against ace queen or like an
+ace five or something, right? Uh,
+&gt;&gt; and this still has I don't I don't even
+know
+&gt;&gt; and it has the the range advantage
+
+[1:40:31]
+&gt;&gt; and it has the the range advantage
+equity wise. So, it can definitely it's
+going to put a lot of pressure you on
+boards that are favorable for him. So,
+you you're just not getting these hands
+to showdown enough. So, this is actually
+uh uh quite a big league as well.
+However, the spot three pots out
+position of color is not very very
+
+[1:40:46]
+position of color is not very very
+frequent. So, I wouldn't necessarily pay
+a lot of attention or put a lot of
+conscious effort into that. Uh where is
+the where is the sheet?
+Uh then database review right here. Um
+
+[1:41:02]
+Uh then database review right here. Um
+fast playing too much bluffing too
+little with raises kind of right that we
+already concluded that that that was
+here as well. And the fast playing right
+the fast playing I showed you that
+pocket fives or pocket sevens on this
+what was it? Queen 95 in position three
+
+[1:41:15]
+what was it? Queen 95 in position three
+by pot.
+&gt;&gt; Yeah. uh smaller pots spots that I that
+I pointed out reduce for bed bluffing
+versus big blind. The overfolding versus
+small seabbat this is actually the
+overfall was quite significant and the
+spot is decently frequent. Um
+
+[1:41:33]
+spot is decently frequent. Um
+yeah and this is a very easy fix. So in
+terms of also how to prioritize we have
+to take in consideration how hard is it
+to fix something. So like reduce for
+bluffing versus big blind doesn't really
+seem that hard to fix in my opinion
+
+[1:41:45]
+seem that hard to fix in my opinion
+right. So, it's something that we can
+easily tweak. This one is a little bit
+harder. So, the spot is, you know, it's
+a single race spot. It is a flop spot,
+so a bit more frequent. Not really sure
+where I would rate this one. Probably
+somewhere in the middle in terms of how
+important it is. Finding more bluffs
+
+[1:42:01]
+important it is. Finding more bluffs
+raises for a small C bet. It kind of
+goes hand in hand. So, your game versus
+the small C bet. Um, flop fold versus
+race. Ah, we talked about that, right?
+That with this gutshot, I think we
+looked at the 56. That's a good example.
+And in terms of variance also something
+
+[1:42:15]
+And in terms of variance also something
+that I take take to look at it is uh
+yeah you're running not that great. So
+if you if the heat picks up picks up a
+little bit and you fix at least these
+two issues and then maybe you know some
+some small things like the for bluffing
+
+[1:42:32]
+some small things like the for bluffing
+and the and the floating versus cbat man
+3B 4B 100 definitely uh uh very very
+realistic and to get give people an idea
+at least over the sample it was now
+right now it was zero uh yeah we can
+
+[1:42:47]
+right now it was zero uh yeah we can
+definitely get it to at least something
+like that um probably even higher
+because this this this these two they
+they cost you quite a lot of money. Um
+so hard hard to give exact number but uh
+I'm I'm optim I'm optimistic. So uh
+
+[1:43:02]
+I'm I'm optim I'm optimistic. So uh
+&gt;&gt; uh and and this is just something that I
+wrote on like I said there's definitely
+more um and we can uh we can sit here
+all night and tomorrow as well and we
+can continue right it's just a matter
+how deep you want to go. uh in the new
+
+[1:43:15]
+how deep you want to go. uh in the new
+league buster program I give you the
+tools and knowledge how to do it
+yourself and this is I think a lot of
+people they know the value of database
+analysis I went to chat GPT I said what
+does a database analysis for online
+poker cost it gave me a ballpark
+estimate set for a typical online poker
+
+[1:43:30]
+estimate set for a typical online poker
+player doing a serious database review
+something like 50 to 200k hands uh which
+is what we did right 50k hands good
+coach I'll give I'll give myself some
+credit here uh live feedback well I give
+you live feedback you're likely looking
+at around 250 to $800 as a common range
+
+[1:43:46]
+at around 250 to $800 as a common range
+depending on how extensive the review
+is, how qualified the coach, so kind of
+the stakes that he plays and the
+experience that he has. So let's say
+this was uh worth roughly somewhere in
+the middle four 500 bucks. Let's say
+that's kind of what you can look at in
+
+[1:44:00]
+that's kind of what you can look at in
+terms of cost. And with the leak buster,
+we I basically give you the tool to do
+it and I teach you to do it yourself. So
+people often then go to a coach, right?
+But the problem is, you know, I'm doing
+this now with Dan and then uh let's say
+this session would cost Dan normally 500
+
+[1:44:15]
+this session would cost Dan normally 500
+bucks. Three months from now, Dan will
+have to call me again and say, "Hey,
+wacker, we have to do another session."
+And then a quart the next quarter we
+have to do another session, you know,
+and then he's already before I know it
+at the end of the year, he spent 2k on
+database reviews. Way more ideal if I
+would just show you, right, and teach
+
+[1:44:32]
+would just show you, right, and teach
+you how to do it yourself. Um, so that's
+kind of what what we did with the
+leakbuster program. Uh, if I go to the
+site.
+So here, if you go to the link, let me
+
+[1:44:47]
+So here, if you go to the link, let me
+put the link here in the chat.
+Uh, all the information that you need is
+right here. You go to let's [ __ ] go
+because obviously you're interested. So
+for 1K, that's basically the cost of two
+of these sessions. I teach you exactly
+
+[1:45:00]
+of these sessions. I teach you exactly
+how to do it yourself. Let me get this
+correctly on screen. I teach you exactly
+how to do it yourself. I teach you how
+to fix these actual leak, right? Because
+then is now like okay, I've became aware
+of my biggest win rate booster is indeed
+
+[1:45:15]
+of my biggest win rate booster is indeed
+this this this problem on the river, but
+how do I fix it? Uh this is something
+that I'll explain you in the program. Uh
+I think actually if I go back to the
+site, I can give if we go scroll down
+there's an overview. it is.
+
+[1:45:31]
+there's an overview. it is.
+So here we have the whole analyze
+section. So I will show you exactly how
+I do it through my own database. Uh
+actually let me quickly log in. That's
+maybe easier so I can give you guys a
+better overview of how this looks.
+
+[1:45:49]
+sign in.
+All right. Right. So if I log in
+
+[1:46:13]
+or here and I go to the league buster.
+
+[1:46:18]
+Uh I explain you like I said step by
+step. It's something that I like to call
+the feedback loop. Uh so we can find the
+feedback loop here. and analyze is only
+the first part of and that's kind of
+
+[1:46:31]
+the first part of and that's kind of
+what we did right so now we have to
+prioritize because we saw that we have a
+lot of leaks then we have to diagnose
+and redesign we have to come up with the
+real reason why that problem exists and
+we have to come up with a fix then we
+have to start training and internalizing
+
+[1:46:45]
+have to start training and internalizing
+the new way to do things and game time
+this is all about what we do pre session
+what we do to increase our performance
+during the session like Dan already
+pointed out yeah I know I shouldn't be
+doing this but then in session
+everything goes wrong. Right? So that's
+kind of what I discuss in game time. How
+do we set ourselves up uh so we can
+
+[1:47:02]
+do we set ourselves up uh so we can
+actually do the improved thing? Evaluate
+monitor. I think I already touched on
+this a little bit. Obviously the main
+difference here between some monitoring
+something and a complete analysis is
+kind of the sample size, right? So are
+we actually doing what we set out to do?
+
+[1:47:16]
+we actually doing what we set out to do?
+So I teach you exactly how to do this
+yourself and then we repeat. and repeat
+this uh because in the end uh the loop
+never ends because mastery never ends
+right there is no stagnation in poker
+you either go forward you grow or you go
+
+[1:47:31]
+you either go forward you grow or you go
+in decline because the rest is always
+improving right so if you're not proving
+it's not like oh like no I'm not going
+to do anything on my game and you just
+stay there no it doesn't work like that
+um so yeah this basically the next step
+would be uh prioritize for Dan I already
+
+[1:47:46]
+would be uh prioritize for Dan I already
+gave him a little bit of help this these
+first two points I know is where the
+real money's is going to be and then
+then has to go through this section the
+diagnose and redesign and especially for
+the the river the river section I think
+from what I can tell this is clearly a
+
+[1:48:01]
+from what I can tell this is clearly a
+mental game issue so that's kind of uh
+what I will cover actually in in this
+video
+uh we will talk about the fear and we
+will talk about biases we will talk
+about but we keep it very practical and
+around the the goal here is to fix the
+
+[1:48:16]
+around the the goal here is to fix the
+leak right there's plenty of mental game
+content out there and it's like Yeah,
+it's all very cool, but it doesn't it
+doesn't apply. And this one is strictly
+straight away applies to your leaks and
+I teach you exactly what to do and how
+to fix it. So, it's not just rambling
+around, oh, you have a fear of failure
+
+[1:48:31]
+around, oh, you have a fear of failure
+and therefore no, we we we turn it into
+action points. All right? And then uh
+then it's going to uh uh find a fishious
+way to train it, internalize it, game
+them. Like I said, what you do preession
+uh and we will kind of link everything.
+
+[1:48:46]
+uh and we will kind of link everything.
+Again, presession is not just and this
+is how ma mainly people see it. I think
+I wrote it literally here. It's not a
+checklist or to-do list.
+Pre-prep isn't about listing everything
+
+[1:49:00]
+Pre-prep isn't about listing everything
+you should or shouldn't do. So, no, and
+this is what Dan said with the post-it
+notes. Stop doing this, stop doing that.
+Right? That's usually how we like to
+approach presession, but it's about
+creating and entering the zone where
+those things happen naturally. So, this
+is a very big mindset shift. So again, I
+
+[1:49:15]
+is a very big mindset shift. So again, I
+kind of want to show this because I feel
+like there's kind of people have
+experience with oh yeah presession,
+mental game, performance coaching, but
+this is very practical and we every time
+link it back to the leaks for example in
+this case that I found when I walked
+through my game. So basically everything
+
+[1:49:30]
+through my game. So basically everything
+that you now saw with then that's
+something that I did with my own game.
+Okay. So I I definitely also if you want
+to exploit me I'll also share all my
+leaks in this video and at some point I
+think at the conclusion I believe it was
+as you can see just as what I did with
+
+[1:49:45]
+as you can see just as what I did with
+Dan I also did for myself wrote down a
+lot of leaks and I think it was
+somewhere in the end that I came to the
+conclusion
+that
+
+[1:50:00]
+that
+this was a conclusion the wacko sucks at
+poker. That's uh that was my conclusion
+just like that we came to the conclusion
+that dad sucks at poker and anyone who
+would come up to this YouTube channel uh
+we all suck at poker guys but luckily we
+don't have to be perfect right poker is
+
+[1:50:16]
+don't have to be perfect right poker is
+a game of mistake make less mistakes
+than your opponent and you will win uh
+also in terms of like a little deboss in
+terms of beliefs what it takes to become
+a good professional poker player right
+people think that you need some sort of
+talent or or some luck or I don't know
+
+[1:50:32]
+talent or or some luck or I don't know
+money whatever
+But you need a systematic approach to
+getting better. That's literally what
+sets what sets people apart. And
+basically this program, I did my best to
+create a step-by-step approach. You just
+follow this approach. I give you all the
+
+[1:50:46]
+follow this approach. I give you all the
+tools, all the knowledge that you need
+in order to improve as a poker, improve
+as a poker player, uh, and find and fix
+leaks in your game for good, right? How
+to work on your game. Um, so yeah,
+that's kind of it for me. Uh Dan,
+
+[1:51:02]
+that's kind of it for me. Uh Dan,
+anything you would like to uh any final
+words from your side?
+&gt;&gt; No, nothing major. I just want to yeah
+express my my thanks to you and to the
+team. This is obviously a a really
+useful tool and useful framework for
+
+[1:51:16]
+useful tool and useful framework for
+thinking about how to get better at
+poker. The key for me is that, you know,
+nothing in poker is particularly
+in terms of improving at poker, none of
+it is particularly hard in terms of like
+
+[1:51:30]
+it is particularly hard in terms of like
+brain surgery is hard or
+&gt;&gt; guitar is hard or something like that.
+But it's it's hard it's or it's not hard
+to do, but it's hard over the long term.
+It's hard to stick with it. Stay
+consistent. Do the things that really
+make a difference in your game. And when
+
+[1:51:46]
+make a difference in your game. And when
+you have a process that you can just
+like every day wake up, I'm I'm
+following it. These are my three leaks.
+These are how I work on them. These are
+my this is my warm-up routine. If you
+have all those things in place, it makes
+uh improving a poker become a lot more a
+lot easier, a lot more automatic because
+
+[1:52:01]
+lot easier, a lot more automatic because
+the process is already there. You don't
+have to think about how am I structuring
+my study plan every single day. So yeah,
+&gt;&gt; and it makes poker a lot more fun.
+Actually, this is actually something
+that I share um in in I think
+
+[1:52:15]
+that I share um in in I think
+introduction at some point. I think I
+share like how I kind of came to this
+and at my story somewhere in the
+beginning I actually share one of the
+sessions I did with Elliot Row um very
+long time ago uh but super effective and
+basically it showed me that there's two
+
+[1:52:31]
+basically it showed me that there's two
+roads to poker. You can kind of grind it
+out or you can try to become the best.
+and he kind of switched me that normally
+you think that trying to become the best
+is actually harder but it actually isn't
+because that process if you do it if you
+do it well kind of what I explain in the
+
+[1:52:46]
+do it well kind of what I explain in the
+program um that process is actually
+something that gives you a lot of energy
+uh and it actually makes poker super
+enjoy enjoyable uh it's way easier to
+become engaged and play well and be
+
+[1:53:00]
+become engaged and play well and be
+curious and you will you will just enjoy
+yourself uh way more. All right. So,
+yeah, definitely uh I put a lot of uh a
+lot of my passion into this little
+product. So, definitely go check it out.
+Leakbuster. Uh you can find here the
+
+[1:53:16]
+Leakbuster. Uh you can find here the
+link somewhere down below in the chat. I
+want to thank Dan for uh coming on. It
+definitely takes some courage to have
+your database reviewed live on YouTube
+for thousands of people to watch. Um,
+
+[1:53:30]
+for thousands of people to watch. Um,
+like I said, guy Dan Dan said in the
+beginning he has a master master class a
+master plan, right? This is just
+advertisement. Now he's going to do
+exactly the opposite. So, uh, uh, for
+Dan, this was a good investment.
+&gt;&gt; This is an advertisement. Everyone come
+
+[1:53:45]
+&gt;&gt; This is an advertisement. Everyone come
+and bluff me now. You know, you know I'm
+going to call, right? Guarantee it.
+&gt;&gt; Yeah. He says, I'm I'm going to I'm
+going to, he's like, okay, there's two
+ways that I can fix my problem of
+stationing on the river. I can either
+fix it, but that's hard and I'm not
+really sure how to do it. Or I go on the
+WCO stream, show everyone I'm a station
+
+[1:54:02]
+WCO stream, show everyone I'm a station
+and then tell them I'm not going to do
+it anymore and they're going to bluff me
+so I can actually just keep on calling.
+&gt;&gt; Easy game,
+&gt;&gt; man. And and and then you said this is
+less complicated than brain surgery. I
+don't believe it.
+
+[1:54:17]
+&gt;&gt; So trying to become the best is what
+we're doing in the mechanics. Yes. The
+mechanics of poker is showing you the
+mechanics behind poker success and
+trying to become the best player that
+you can be. For sure.
+All right. Well, then I want to I want
+
+[1:54:30]
+All right. Well, then I want to I want
+to thank you, man, for for sharing it.
+Uh I want to thank everyone who showed
+up live. Uh if you showed up in the
+replay, let me know in the comments down
+below how you like it. Give this video a
+thumbs up. Share it with people who you
+think might have similar issues, right?
+
+[1:54:45]
+think might have similar issues, right?
+Stationing the river or always or it's
+it's either the other camp. It's two
+camps. Either you're stationing or
+you're always overfalling. That's like
+the main the main two two big issues
+that people that people have. And I will
+show you exactly

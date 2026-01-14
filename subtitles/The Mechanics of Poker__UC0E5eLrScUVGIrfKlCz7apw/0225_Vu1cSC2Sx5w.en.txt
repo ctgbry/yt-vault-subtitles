@@ -1,0 +1,1414 @@
+[00:00]
+15L Zoom jumping straight into the
+action we three bed here with the pocket
+sevens and make a little
+seabat the hijack calls I think on the
+turn it's a bit close if we want to bet
+our hand again I think if we have a club
+
+[00:16]
+our hand again I think if we have a club
+we probably want to it's very close I'm
+going to I'm going to go for a barrel
+here I don't mind
+it and on a jack we're definitely going
+to be ripping it in and this is like one
+of the reasons why you want to add a
+couple of these lower pair
+
+[00:30]
+couple of these lower pair
+to your barreling region that for
+example when the Jack which is very good
+card for me completes I'll have very
+little uh Bluffs in my perceived range
+because a lot of players they will kind
+of miss these type of barrels uh here
+with the queen eight my opponent see
+it's half pot now snap checks the turn I
+
+[00:47]
+it's half pot now snap checks the turn I
+think my opponent is a recreational
+player um probably just checking the
+river again and he gives up which is uh
+good news for us but yeah in the turn
+your your pocket sevens is probably one
+of the lowest pair that we're going to
+
+[01:00]
+of the lowest pair that we're going to
+have in these positions so therefore I
+decided and then probably a club is
+preferred but you know cannot have
+cannot have it all I think a club the
+club Nuance might be a bit more
+important when you have pocket eights or
+for example pocket sevens let's say you
+have pocket sixes that's probably then
+
+[01:16]
+have pocket sixes that's probably then
+pure barreling and on the river
+obviously it's a must uh must Barrel
+King Queen off here we could actually
+sometimes for bat now I don't really
+know what the Dynamics are in a
+50nl uh Zoom po
+
+[01:30]
+50nl uh Zoom po
+if people under three bet under F four
+bets I would imagine that people have
+found the three bet charts but are
+probably leaning towards overfall
+towards four bets but could definitely
+
+[01:45]
+towards four bets but could definitely
+be wrong this is just this is just
+intuition if I think about okay it's
+easy to find three bets but then it
+usually becomes harder to fight back in
+this spot I think I'm just going to try
+to play solid uh since I have no read on
+my opponent so this is where for example
+
+[02:00]
+my opponent so this is where for example
+GTO strategies do come in if you are not
+really sure if your opponent's under
+three betting over three betting
+underfolding to four bets over folding
+to four bets whatever you should just
+then play a defensive strategy where you
+know you grab the king queen off and
+you're going to do that 25% of the time
+
+[02:15]
+you're going to do that 25% of the time
+or so you're going to roll out maybe a
+forb bet and now this should not be
+where your approach to strategy ends you
+should always try to look for more
+information on for example your
+population or your opponents to see if
+we should either always forbet king
+queen off or never forbet king queen off
+
+[02:30]
+queen off or never forbet king queen off
+okay but if we don't have that
+information um I think just playing
+trying to play solid is okay here over
+calling I like the the connectors on the
+Lower Side they usually flop quite clean
+let's say for example you have 89 off
+here much rather fult than 76 off
+
+[02:46]
+here much rather fult than 76 off
+because 76 off will connect with parts
+of their ranges that they will not
+connect with think about floing a gutter
+for example on 89X compared to a gutter
+on 10 Jack a I would much rather have
+these lower gutter with the the 67
+
+[03:00]
+these lower gutter with the the 67
+because it's way more likely that both
+my opponents are playing High cards
+right it's the old it's old school
+knowledge of if they play high cards we
+play low cards there is actually some
+sort of Truth in that face a big check
+race here with Queen N Easy call of
+
+[03:16]
+race here with Queen N Easy call of
+course and hope to improve on the turn
+either with a club a queen and
+eight that's fine see sizing wise so
+this I would imagine so this something
+about our hand to
+
+[03:30]
+about our hand to
+maybe strong enough to just raise stack
+it off think I have a weaker draw I
+don't mind raising and then just folding
+to the gem I think my draw is strong
+enough that we can just race call it off
+I just think this sizing is going to be
+on the weaker side uh so therefore I
+used it here I check back with ases face
+
+[03:46]
+used it here I check back with ases face
+a bet I'm just going to call and let him
+hang
+himself definitely raising the river
+here I think this is uh I wanted to also
+focus a little bit on the differences
+between 50nl and for example higher
+Stakes so there's one thing for sure
+
+[04:00]
+Stakes so there's one thing for sure
+that I think people are just going to
+give away way more information with
+timing sizing uh and people in general
+are going to be less deceptive or this
+guy thinks I'm a clown well why why
+don't you call me my friend people are
+going to be less deceptive so meaning
+
+[04:15]
+going to be less deceptive so meaning
+that a check is is weak and a bet is
+strong sort of speak uh and there for
+example that small B's probably going to
+be very much weighted towards a weaker
+hand or at least you know that's just my
+general idea that I have now there's
+
+[04:31]
+general idea that I have now there's
+various adjustments we can make in
+strategy to take advantage of that the
+fact that people give away information
+hopefully some spots will come up but
+yeah I think they will give away
+information they'll be less deceptive
+they will probably be I think overfolded
+in certain lines and underfolding in
+
+[04:48]
+in certain lines and underfolding in
+other lines I think underfolding
+specifically in terms of being capable
+of making big folds probably people will
+overestimate their sort of absolute hand
+strength a bit too much and I definitely
+
+[05:00]
+strength a bit too much and I definitely
+think um there will be many spots like
+the bluffing so if you look at a solver
+or if you look at higher Stakes the
+bluffing sure there's going to be
+bluffing differences right between lines
+between certain spots certain spots are
+just naturally harder to be under
+
+[05:15]
+just naturally harder to be under
+bluffing or over bluffing I think it's
+easy to say that 50 is under bluffing or
+the lower Stakes we get which I do think
+is true on average the lower Stakes you
+get the more people become risk reverse
+so they fold more and Bluff less but I
+think there's a bigger difference
+between certain lines like the lines
+that were sensitive to being under
+
+[05:31]
+that were sensitive to being under
+bluffed now get massively under bluffed
+and the lines that were sensitive to
+getting over bluffed probably still get
+overbluff quite a lot but I definitely
+think uh if you know how to fult
+especially when pots become big and
+people say that they have a very strong
+hand being able to kind of ddge those
+
+[05:46]
+hand being able to kind of ddge those
+bullets I think definitely is a skill
+you should have have at these lower
+Stakes it's the skill of avoiding what a
+strong striking at what is weak all
+right it's a philosophy from The Art of
+War great book if you haven't read it
+
+[06:00]
+War great book if you haven't read it
+going to go for a faulted a guy opens 3x
+I don't know who this guy is but on
+average bigger opens are tend to be
+stronger if it's a recreational again
+here we go with the transparency and not
+not being very deceptive big is strong
+small is quote quote week this hand
+
+[06:16]
+small is quote quote week this hand
+we're going to be in here either by
+calling or three betting I'm going to go
+for a call this time we do flop some
+sort of back or
+something think starting with a bat is
+okay going to go for half pot here
+
+[06:32]
+I think one3 is also completely fine but
+it's a board that I don't want to be run
+want to really be betting a lot of
+medium hands I'm going to bet more like
+king queen plus so I'm going to have a
+lower betting frequency and then for I
+
+[06:45]
+lower betting frequency and then for I
+will use a bigger sizing now in multiway
+pots you usually don't have to go very
+big let's say this was heads up I might
+have bet a three qus but multiway half
+pot I think then is fine you could also
+just bet one 1/3 it's also completely
+fine A5 I think we get overb we can
+
+[07:01]
+fine A5 I think we get overb we can
+check going to go for an overb here it's
+a bit loose but just in general it's a
+very good board for me definitely will
+continue barreling here I think that is
+probably also fine there's going to be a
+
+[07:16]
+probably also fine there's going to be a
+lot
+of the queen is just a very good card
+for me let's say has a six Sev eight
+nines with a diamond or something you
+know he's just in a very tough spot
+either now or in the future let's say
+king or Jack rolls off he's he's pretty
+[ __ ] of course
+
+[07:30]
+[ __ ] of course
+range wise so I think this is a bit out
+of line but fine here uh we isolated the
+what I think is recreational player
+check called flop check turn I'm going
+to check the
+turn and see how fast and big he bets on
+
+[07:46]
+turn and see how fast and big he bets on
+the river okay snap checks that makes me
+feel like he's very much R to high cards
+we can either then bet small or overb
+I'm going to go for the overb
+here and he's not f this is kind of what
+we talked about with giving away
+
+[08:01]
+we talked about with giving away
+information uh the snap check there I
+feel like if he has some sort of hand
+you know he probably wants to think
+about it so I I I say that this Ranger
+is very overcard heavy uh and with that
+information we can adjust our strategy I
+
+[08:16]
+information we can adjust our strategy I
+decided then to go for an overb which I
+do very Bluff heavy and then if I have a
+value hand I would probably size down
+just because of the way his range now
+looks so this is definitely a a tip for
+me when you play lower Stakes pay a lot
+
+[08:31]
+me when you play lower Stakes pay a lot
+of attention really be mainly just
+focused on okay what does this guy have
+given the information that he gives away
+now obviously you know within the pool
+I'm sure there's better players and
+there's worse players first the better
+players you know the opportunities that
+you can try to play your solid game plan
+
+[08:46]
+you can try to play your solid game plan
+but first the majority you want to play
+as
+exploitatively as possible and really
+try to think like okay what does this
+mean right what do his actions means
+what does this say about his range and
+therefore what is the the consequence to
+
+[09:00]
+therefore what is the the consequence to
+our strategy go for three by a Jack
+versus what I think is a recreational
+player get a call from the small
+blind and a lead I would probably have
+not see better it because I feel like
+the cold calls either Broadways or lower
+pairs so then I think on the turn he is
+
+[09:17]
+pairs so then I think on the turn he is
+basically going to tell me what he has
+not a small lead I'm not really sure but
+you know we get priced in so I'm going
+to
+call so again we talked about the
+information that we give away I think
+going for a delayed Cat Here For example
+is very good
+
+[09:30]
+is very good
+uh for that reason if you think about
+his how his range looks the
+turn I'm actually going to fold cold
+call small blind lead flop barrel turn
+tree High
+Broadway I think I think just folding
+
+[09:45]
+Broadway I think I think just folding
+here is
+good also if you think about you
+know possible we we could maybe you know
+turn a hand to a bluff or something but
+again we talked I think there was a PR
+that I talked about earlier
+
+[10:00]
+that I talked about earlier
+like underfolding mainly like absolute
+strong hands and big pots like that you
+know king queen or something I expect
+not to happen often enough so and if I
+feel like in a spot like that the fact
+that he has a leading range just makes I
+think his checking range even weaker and
+it doesn't mean that his leading range
+
+[10:16]
+it doesn't mean that his leading range
+per se is weak especially not on a king
+10 X type of board here I think I'm just
+going to fold straight away the nine is
+very bad king queen queen eight
+Etc so going to go for three with here
+with the
+
+[10:30]
+with the
+Kings definitely going to call three
+there with d89 definitely going to call
+the Flop and reevaluate on the turn
+probably probably
+
+[10:51]
+betting I think a higher a definitely
+not betting lower a is definitely
+betting lower pairs definitely betting
+like Deuces threes this one I'm just not
+
+[11:00]
+like Deuces threes this one I'm just not
+100% sure do feel like bat check call is
+just going to be very nines 10 Jacks
+Queens
+oriented the Run out's actually pretty
+good for me as well in terms of that I
+sometimes now improve to pocket five 78
+suited if I did float that uh but yeah
+
+[11:16]
+suited if I did float that uh but yeah
+if we talk about like people are going
+to over fold I think in a spot like that
+and that's simply because that turn
+check calling range I think is just
+going to be again the transparency while
+what it looks like he's going to have
+nines 10 Jacks Queens maybe has like a
+
+[11:33]
+nines 10 Jacks Queens maybe has like a
+king Jack or a king 10 that he decided
+to three betat and he's probably going
+to if you look at the GTO solution there
+he probably has to Hero call Jacks that
+block the king Jack suited some Queens I
+
+[11:46]
+block the king Jack suited some Queens I
+would say on average what I would know
+of lower stakes and in general like I
+said the trend that you see when you go
+lower that people in general are more
+risk verse and do more folding also we
+did block the strongest hands that he
+can have like I said I think the if you
+have a low a ace4 suited or something or
+
+[12:02]
+have a low a ace4 suited or something or
+A7 suited by by by for sure a bet in
+theory this six I can
+actually dunk B this I think it's good
+enough I'm actually going to do
+
+[12:16]
+enough I'm actually going to do
+it definitely okay I think to have a
+donking range here on this
+board and I think now on the turn fors
+recreational I think just checking and
+seeing what develops is probably best he
+bets definitely have to call
+
+[12:30]
+bets definitely have to call
+one here the king Jack we flop pretty
+good we're we're a big deeper if we
+weren't deeper I would definitely play
+Maybe big bad check here I would
+wouldn't have mind that but right now
+this easy call nine is very bad improves
+it Bluffs 97 107
+
+[12:48]
+it Bluffs 97 107
+910 we turn Royal
+Flush so I think this could be a spot
+where people are going to be overcalling
+the turn actually I wouldn't have mind
+sizing up as well but I decided to just
+
+[13:01]
+sizing up as well but I decided to just
+follow quote quote
+GTO okay now we have to think
+about the best line of action I would
+say check rise is probably the best line
+of action we lose some value from hero
+
+[13:15]
+of action we lose some value from hero
+calls but I don't think he's ever going
+to raise a queen I definitely think he's
+going to bet a
+queen we could also induce a bluff from
+like Ace Jack with Ace of Hearts we lose
+some value from for example Jacks but we
+do block that let's say he has a lower
+flush let's say it's 5'4 and we just bet
+
+[13:30]
+flush let's say it's 5'4 and we just bet
+he probably just snap calls but we want
+to get all the money so I think it's
+important here to go for the check race
+just trying to
+stack Queen X or better so there's a lot
+of hands here in his
+
+[13:45]
+of hands here in his
+range that he's always going to
+call and not going to race whereas if we
+check he could now bet them and then
+call the check race and you know if he
+has a cool if he has a boat it's a
+cooler
+yeah like first this end doesn't really
+
+[14:01]
+yeah like first this end doesn't really
+matter that's unfortunate I hope he
+would show up with like let's say a low
+flush or
+[Music]
+something and here inside SE here with
+D5 and Barrel to
+turn think it's good to have like some
+
+[14:17]
+turn think it's good to have like some
+more unnatural Bluffs on like these tree
+flush
+ports so that if the four flush does
+come in we actually have a
+Bluff not necessarily that for the
+
+[14:32]
+Bluff not necessarily that for the
+theoretical reasons because in theory
+you know we need the bluff to make sure
+our value gets caught but I think here
+just having a bluff when the four flesh
+comes in is just very effective because
+you know put put yourself in the other
+guy's shoes when was the last time that
+
+[14:46]
+guy's shoes when was the last time that
+you called the turn C bat River came a
+four flush and you were like the guy B
+and you thought he didn't have a flush
+well that's because you know people
+usually will have the flush if they bet
+the turn the for flush comes in
+so therefore I think from an Al
+
+[15:01]
+so therefore I think from an Al
+exploitive perspective I think it's good
+to to add some of these um these turn
+blocks in these
+spots here vers four bat I think
+A4
+
+[15:16]
+A4
+probably close I'm going to call but in
+this kind of this kind of situations
+like I said I'm not really 100% sure
+what PO is up to probably in theory this
+is A5 is definitely a H4 maybe sometimes
+
+[15:31]
+is A5 is definitely a H4 maybe sometimes
+goes for 10% okay so this guy uh this
+guy is studied or he has been he has
+been watching wo on the YouTube so
+definitely calling so far so good now I
+think on this turn this is where people
+are going to make a
+
+[15:45]
+are going to make a
+mistake strengthening their betting
+range and weakening their checking range
+goes through this block bet again I
+think it's pretty
+good uh not too thrilled about it but
+with position getting this price
+probably can't fault
+
+[16:01]
+probably can't fault
+yet reevaluate the
+river now the Bluffs here should come
+from probably his king queen suited I'm
+pretty sure they're they're all
+
+[16:16]
+Bluffs but uh I would not have called a
+betat just don't think this is a spot
+that gets bluffed a lot and especially
+at lower Stakes I don't think that's the
+case River I'm just going to check
+behind there's basically no
+
+[16:32]
+behind there's basically no
+value uh he played his hand 10 out of 10
+in my
+opinion so well played by him yeah King
+10 actually I don't like some Queen 10
+suited should be blov I think the blov
+are relatively easy to find in terms of
+
+[16:47]
+are relatively easy to find in terms of
+your queen 10 suited King 10 suited king
+queen suited that have don't have clubs
+these all make for good candidates the
+only problem is that people on a high
+boards when everything bricks it's not
+
+[17:00]
+boards when everything bricks it's not
+really the situation that people
+are very happy bluffing because I quite
+often have an Ace and like I said I
+think these kind of things get uh get
+magnified at lower
+Stakes could dunk this but this hand is
+
+[17:17]
+Stakes could dunk this but this hand is
+probably never a dunk in theory and when
+I say could dunk this I mean this board
+but this is probably not really a thing
+I do think when he checks back I'm going
+to do something exploitative
+and just
+
+[17:31]
+and just
+bet I think
+betting half butt's probably good just
+as an overall strategy and I think on
+average we should be getting more
+fults than Theory I would say
+here and we now actually Bing something
+
+[17:46]
+here and we now actually Bing something
+uh just going to bet sort of my
+hand definitely want to have another
+Block in my strategy but I don't think
+King 10 is really hand that wants to
+block I think your block bet should be
+more reserved for the hands that simply
+
+[18:01]
+more reserved for the hands that simply
+cannot bet for this
+sizing and hands that want to come over
+the
+top so my Approach in a spot like this
+in the beginning would be not to play
+GTO but to go with my assumption that on
+
+[18:16]
+GTO but to go with my assumption that on
+average checks will be weaker and Bets
+will be
+stronger and then readj and then
+basically adjust from there here at the
+king I think we can do both uh both
+options I think
+fine
+
+[18:30]
+fine
+versus a bat small I'm going to
+[Music]
+call probably call twice I do think my
+king High has some sh on
+value first queen eight jack8 Jack 10
+
+[18:46]
+value first queen eight jack8 Jack 10
+stuff like
+that and if he does have King 10 that's
+a bit
+unfortunate but definitely think we can
+call again we could maybe DG B some
+River
+
+[19:00]
+don't think a four is really a river
+that I want to
+dunk let's draw a little four B here
+vers this
+guy seems to be IR regular okay now
+thinks about quite a long time this
+pretty interesting okay that was my one
+
+[19:15]
+pretty interesting okay that was my one
+of my only
+concerns let's start with a 10% here so
+this is for example something that I
+think on a higher Stakes you would not
+really see people probably will take
+their ace10 to Showdown a bit more often
+uh definitely going to be barreling here
+
+[19:31]
+uh definitely going to be barreling here
+on the
+turn
+and then betting again if the Klo
+doesn't
+hit I think that's overall good strategy
+
+[19:45]
+hit I think that's overall good strategy
+here I'm going to go
+for let see 25 30 going to go for check
+racer for recreational a bit on the
+bigger side I think this board
+it's a bit more sensitive to
+
+[20:02]
+it's a bit more sensitive to
+inelasticity meaning that you will just
+have a lot of king T nine10 Ace 10
+suited Queen ax Etc some King Jack some
+ACE Jack that probably not really going
+to fold if I make 9 or 15 and I think if
+
+[20:18]
+to fold if I make 9 or 15 and I think if
+I go 15 here there's a lot of turns
+let's say the turn is the nine of hearts
+or the 10 of hearts or I basically now
+created a sto pot ratio where I can just
+Jam whereas if you go check race to like
+
+[20:30]
+Jam whereas if you go check race to like
+nine probably on an eight or a nine you
+know you have to play your hand a little
+bit careful so I think not check racing
+big on the Flop on a lot of turns will
+decrease your EV and you can kind of
+increase your EV by looking ahead and
+trying to prevent that scenario for
+Happening by check raising bigger now
+
+[20:47]
+Happening by check raising bigger now
+also as soon as we start check raising
+bigger he should probably do way more
+folding and I think on average a
+recreation in that spot will be over
+calling his Queen Max his draws here at
+a king easy
+
+[21:02]
+a king easy
+decision just going to rip it
+in and he has Aces we need L A Hearts
+dealer give us Hearts that's one heart
+but that's not enough
+Queen no Iggy can have it GG
+
+[21:21]
+Iggy here a call from the small blind
+going to check back here with King five
+really got want to get check raised and
+
+[21:30]
+really got want to get check raised and
+blow up the pot I will have to call
+twice but I think just checking back and
+letting him do something stupid it's
+probably better thought about it for a
+little while then came out with a half
+pot easy
+
+[21:46]
+pot easy
+call decided to call we're at the pocket
+NES we're a bit deeper you know snap
+checks back
+uh I'm going to read this as a sign of
+of weakness and just bet the strength of
+my hand
+and I think this guy is also so this
+
+[22:02]
+and I think this guy is also so this
+guy's either very weak or he's afraid of
+the flush if I didn't have a five I
+probably lean towards betting smaller
+but I think with a five make it less
+likely that he has just some random 5x
+um so this is a spot where I think he's
+
+[22:17]
+um so this is a spot where I think he's
+usually very weak now we could say okay
+then we should not overb our value for
+such a huge sizing but I find that when
+there's like this this four straight
+right with the six and the flush coming
+in it's a spot where recreational
+
+[22:32]
+in it's a spot where recreational
+players tend to be afraid with let's say
+a straight sometimes or a set sometimes
+so therefore I
+think this hand actually check sometimes
+in theory I think but just going to
+continue betting so basically because
+
+[22:46]
+continue betting so basically because
+they're afraid of the flush they will
+check way more stronger hands towards us
+and therefore I think over betting when
+you do have a very strong head like this
+is probably still the correct play yes
+you know you're losing value from the
+weaker side of his range but it's
+different let's say the river was a
+
+[23:01]
+different let's say the river was a
+queen non heart and he checks then I
+think it just always is very weak so
+then I think that that concept of
+adjusting your sizing based on his
+strength applies but here because it's a
+flush complete and I think he checks
+stronger hands towards us more often
+
+[23:15]
+stronger hands towards us more often
+because he's quotequote scared but they
+still going to call an overb I think an
+overb is uh is
+better go for the three with at nice
+this time we the other time I think we
+were like 170 big PLS de person
+something here facing a check back again
+
+[23:32]
+something here facing a check back again
+I'm just going to use my strategy of
+doing a lot of probing half
+pot
+and similar sort of hand strength as
+last time I would say so I'm just going
+
+[23:46]
+last time I would say so I'm just going
+to go again for like a 3/4 sizing and
+here going to go for a small bet here on
+this Ace King King texture I think
+
+[24:00]
+this Ace King King texture I think
+hits me pretty well and probably it's
+very close I think if have eight or
+sevens should definitely Barrel but I
+don't really going to have that a lot
+um [ __ ] it TR out the barrel but this
+
+[24:16]
+um [ __ ] it TR out the barrel but this
+maybe overdoing it a little bit and get
+the fult there with the pocket tense
+this guy thinks about it for a very long
+time and he throws something at my
+head I'll give him the fireworks
+
+[24:33]
+back hey screen here on this low
+board I think I'm want to
+check the car the pocket sixes full ver
+
+[24:45]
+check the car the pocket sixes full ver
+big bat think also recreational player
+this is again what we're talking about
+with uh giving away information with
+people's timing and sizing on average
+you know what you will just see is that
+big bats like this you know they're just
+going to be way stronger and the smaller
+bets are just going to be way weaker
+
+[25:01]
+bets are just going to be way weaker
+here D Queen easy
+call could also raise sometimes I
+guess
+checks go to bet call let's see if I'm
+
+[25:17]
+checks go to bet call let's see if I'm
+an idiot
+here but I feel like it's a spot where I
+said bad call so it means that I'm going
+to call the check race cuz I think that
+it's a spot where people will have just
+a lot of sevenx or pocket eights or
+
+[25:31]
+a lot of sevenx or pocket eights or
+pocket sixes and they' be like oh well
+you don't have a four you probably just
+have an ace so and he can have a lot of
+strong hands so I'm capped he can have a
+lot of strong hands in in theory or at
+least perceived but I just don't really
+
+[25:45]
+least perceived but I just don't really
+see a lot of players
+check enough strong hands around the
+river because they're just too afraid
+I'm going to check back in Ace or you
+know can have an overpar or seven or
+something like that so if players on
+average will overestimate how much
+
+[26:01]
+average will overestimate how much
+strong hands they have and then then
+after they checked and they see the bet
+they think I probably just have an Ace
+and they could have a lot of
+forx but in the meantime they're there
+with [ __ ] sixes or five or just a one
+PA hand in general and and could over
+
+[26:17]
+PA hand in general and and could over
+Bluff for the over Bluff going to go for
+an overb here with the queen
+Jack sized up a little bit because we're
+a bit deeper not sure if
+like actually setting up Stacks is a
+
+[26:30]
+like actually setting up Stacks is a
+good idea so maybe maybe just the my
+regular would have been fine my regular
+on the 25 but uh it's my favorite hand
+so obviously not
+folding guys remember you need a
+favorite hand if I pursuit it come on
+
+[26:45]
+favorite hand if I pursuit it come on
+make the for
+B Ry
+calling this
+one g go for an overb here with the
+
+[27:00]
+one g go for an overb here with the
+54 and forc to probably range check here
+on a queen if I think about the hands
+that I want to be over betting it's
+mainly going to be driven around
+Kinks um and
+67 so
+
+[27:15]
+67 so
+yeah and the fact that he called made
+his range very queenx heavy so I think
+we just check F I think it's fine I do
+like the overb though I think it's a
+good play with my specific
+holding but yeah sometimes you just turn
+turn bad and definitely go to check race
+
+[27:31]
+turn bad and definitely go to check race
+here this is going to be a board that's
+going to be overse but probably quite a
+lot and I have decent hand to do it with
+um to go back to the the queen Jack I
+
+[27:45]
+um to go back to the the queen Jack I
+feel like up
+until 200 big blinds deep it's good to
+start sizing up but at some point when
+you get so deep then I think trying to
+get your stack in at some point you know
+you're just going to get called by a set
+so I think I went a bit too too big
+
+[28:02]
+so I think I went a bit too too big
+there for for the stack size that we
+
+[28:15]
+had here facing a checkback going to
+continue my model off thinking that most
+players are not going to be protective
+enough any snap checks so that probably
+confirm something to Checker with the
+
+[28:30]
+confirm something to Checker with the
+King 10 and going to call the river he
+did size up a bit which is a bit
+concerning and he bed very big but you
+know we still didn't if he would have
+overbed or something would fold it but
+yeah here we go A5 for me the BET size
+
+[28:47]
+yeah here we go A5 for me the BET size
+there is going to be the most important
+just an average fish unless they go
+bigger than pots especially in a line
+like this check all small check check
+turn B River they just going to be
+massively over bluffing and this king
+queen hand is a good example of how you
+
+[29:02]
+queen hand is a good example of how you
+can use the fact that people play
+unbalanced ranges and give away
+information so for example when I check
+here if he's basically going to make a
+mistake with the r that way that he
+construct his range so let's say he bets
+too much Jacka bch too much sets and
+
+[29:16]
+too much Jacka bch too much sets and
+then basically leaves his check back
+range to be some overs maybe eights NS
+maybe the occasional Jack n suited you
+know if that's going to be his range uh
+then suddenly
+we can apply a lot of pressure if you
+
+[29:30]
+we can apply a lot of pressure if you
+would see that we would not really get
+this information from his range
+basically by checking a lot this allows
+us to give him the chance to let us know
+what he has here I think uh versus this
+line check all check he snap check the
+river I think his range is very much
+
+[29:45]
+river I think his range is very much
+weighted towards a five or a seven just
+going to make a half po B and expect a
+snap fult again the information given
+away made this a very easy small bet for
+us whereas if he thinks about a little
+bit more you know he can have more
+strong hands in this range so this
+
+[30:00]
+strong hands in this range so this
+definitely spot where we should be
+massively over bluffing and we can get a
+snap fold just like with the king queen
+and if you know players are giving away
+this type of information let's say for
+example my hand on a turn could
+sometimes barrel all right how does the
+fact that they give away this
+information influence our strategies
+
+[30:16]
+information influence our strategies
+well the EV of check goes up so on the
+turn if you have a hand that could
+Barrel but if you think on the river
+it's going to literally just tell you
+what he has either with his sizing or
+the way he construct his range or in
+this case with timing the EV of check
+just massively goes up on the turn now
+
+[30:31]
+just massively goes up on the turn now
+obviously if you look if you would
+consult the solver it shows you the GTO
+strategy on the turn which takes in
+consideration that the EV of check check
+is based on the fact that he's going to
+play an optimal probing strategy On The
+River an optimal uh phase B check bet
+
+[30:46]
+River an optimal uh phase B check bet
+strategy which you know if that's not
+the case then basically you get more EV
+by getting in the line where the
+information is being given away so you
+can adjust your strategy
+by getting in the line where your
+
+[31:00]
+by getting in the line where your
+opponent reviews the strength of his
+hand more often that's then where the EV
+EV gain is taken place and we could even
+take this concept even further if we
+know he has the tendency to tell you
+what he has either with the sizing or du
+to his timing if run on the button you
+
+[31:18]
+to his timing if run on the button you
+have King six offsuit by all means go
+and open because the future street that
+you're going to play you will have
+increased EV because you will have more
+information and therefore can make
+better decisions it's what I like to
+
+[31:30]
+better decisions it's what I like to
+call the ripple effect so a future leak
+in your opponent's strategy will have
+direct consequences to the EV of hands
+that you play on earlier streets
+including pre flop so the more
+information your opponent gives away or
+
+[31:47]
+information your opponent gives away or
+in general the more leaks that they have
+even on later
+streets the more hands we can play
+either pre- flop or on the Flop get to
+those streets where these leaks
+
+[32:01]
+occur go for a big betat here with the
+King n this time not going too big
+because we just had a little ramble
+about if we surpass the 200 Big B deep
+line uh deep Mark he goes for a check
+Min no this is not a check MIM race just
+
+[32:15]
+Min no this is not a check MIM race just
+going to call and see what develops
+thinks about it so the longer thinks
+about it the more I think y has a very
+strong hand
+basically I'm going to eliminate the the
+
+[32:30]
+basically I'm going to eliminate the the
+medium part from his range so if you
+would have checked I would have
+definitely checked behind because I
+think I'm actually sometimes winning
+forsus Jack a jack n or he has like a
+set or straight or something you know
+that he's trying to trying to fast play
+I'm just going to fold the turn I don't
+think our hand has a lot of imply dots
+
+[32:46]
+think our hand has a lot of imply dots
+when we hit our flush our flush I don't
+think is always good as well if the
+board pars for example so we have
+reduced outs there is a very small
+chance that he has the N flush draw
+which obviously wouldn't be great as
+well but I think if he would have
+checked after that timing I think it's a
+
+[33:01]
+checked after that timing I think it's a
+a mistake to to bet cuz if if he if he
+checks you're trying to get trying to
+you're trying to put a 10 or something
+in a tou spot but I don't think it takes
+this long with a 10 so basically the
+
+[33:16]
+this long with a 10 so basically the
+longer he waits on the turn the more I
+think his check race frequency goes up
+and his check fault frequency goes up
+but his check call frequency definitely
+goes down but you know he did check
+raise and overb so if think in general
+it's mainly going to be the check race
+
+[33:30]
+it's mainly going to be the check race
+that that goes up here is Jack probably
+going to lean towards a check race he
+did go half pot though which is a little
+bit concerned
+concerning um
+
+[33:47]
+concerning um
+[Music]
+okay this half pot is throwing me off a
+little bit normally I would check
+race but I'm I'm just going to make a n
+default let's let's continue on the
+
+[34:01]
+default let's let's continue on the
+general team right
+that bigger bets are going to be
+stronger but normally my play with there
+would be to check race I think here see
+big on this
+board I picked up a straight draw which
+
+[34:17]
+board I picked up a straight draw which
+is a bit unfortunate I wish I
+didn't people are going to be so
+massively on the bluffing here but I
+guess guess calling one is a
+still a little sort of mandatory here
+
+[34:30]
+still a little sort of mandatory here
+with the nine you know you could have
+King 10 Queen 10 I think if I had the 10
+I would much rather prefer folding yeah
+he had the queen 10 he gave the river so
+that's I guess the only benefit but this
+is kind of the problem right this is if
+
+[34:45]
+is kind of the problem right this is if
+this is like the best best case scenario
+for us okay that he
+has
+um that he has an open
+Ender and and other or he has hands that
+has us beat you know we should probably
+
+[35:00]
+has us beat you know we should probably
+just be uh be folding the turn here we
+decide to overb with the King n on the
+Flop a lot of overb boards are are
+coming along it's not like I I I I don't
+do this uh just for the sake of the
+video it's just my strategy on all the
+
+[35:15]
+video it's just my strategy on all the
+textures that
+arrived go to check here on the
+turn snap checks the river now this is
+again a bit concerning uh this is this
+is concerning in terms of the fact that
+we have very strong which eliminates I
+think the strong hands that he has in
+
+[35:30]
+think the strong hands that he has in
+his range I'm just going to go medium
+but he probably has a
+Jack or like a weak
+Queen normally I would overb here but
+with with the timing I think he's just
+going to fold um so yeah the A9
+
+[35:46]
+going to fold um so yeah the A9
+interesting let me know comments down
+below what you guys think I think
+folding is actually probably just just
+okay because like I said King 10 Queen
+10 these are all open Enders
+
+[36:01]
+People BET too much is King is Queen B
+yeah I think actually this terrible
+call uh terrible call I think from me on
+the turn I mean terrible is maybe a
+little bit too too big of a word but
+it's definitely a losing call I think
+
+[36:15]
+it's definitely a losing call I think
+you know people probably don't don't
+have enough of d89 D810 maybe Jack n
+Jack 10 definitely definitely going to
+be in there as well at least in theory
+so again if you would then look at the
+solver it's A9 a CO I can already tell
+
+[36:31]
+solver it's A9 a CO I can already tell
+you that in GTO A9 is never ever
+folding I can tell you that that much
+why ace9 is never folding and that's due
+to the range at imposition bets versus
+the GTO range I would call but versus
+
+[36:46]
+the GTO range I would call but versus
+the range of shoot a bunny probably
+not when check flop check turn Ace King
+definitely calling Ace Queen
+
+[37:12]
+go to lead the river
+here some funky stuff going on and I'm
+
+[37:17]
+here some funky stuff going on and I'm
+going to fall to a race
+probably not really sure about my sizing
+could have maybe sized a little bit
+bigger yeah the reason the reason why I
+lead the river is is I don't want him to
+just check back a nine a 10 pocket eight
+
+[37:32]
+just check back a nine a 10 pocket eight
+uh pocket sixes stuff like that so
+basically uh by betting this small kind
+of forcing
+him uh to call me with some of those
+hands King Jack did come did get there
+
+[37:47]
+hands King Jack did come did get there
+uh but he also has king queen queen Jack
+I think my hand's worth a little bit
+more money than then the size that I bet
+at probably half pot would have been
+okay as well and like I was also maybe a
+little bit concerned that he might check
+back Queen Jack king queen so basically
+
+[38:00]
+back Queen Jack king queen so basically
+I'm just leading the river because I'm
+concerned that he's going to check back
+some heads that could potentially call a
+bet this one's pretty interesting on the
+turn if he
+
+[38:15]
+checks just think about it for quite a
+while uh I would I would again make
+quite some big fault here on the
+turn uh and if he checks I would apply
+quite some pressure
+again under the model of people probably
+
+[38:30]
+again under the model of people probably
+show a little deception and just bet too
+much of their strong hands and check too
+much of their weak hands the way we can
+adjust to that is by Val betting thinner
+using bigger sizings and adding more
+Bluffs to the betting range that's it
+for today's session guys I hope you
+
+[38:45]
+for today's session guys I hope you
+learned something in this video about
+how to maneuver in these type of pools
+and how to capitalize on the numerous
+mistakes that we saw our opponents
+making if it did help you in anyway then
+I would wish you guys to help me leave a
+
+[39:00]
+I would wish you guys to help me leave a
+like on this video subscribe to the
+channel and I will see you guys in the
+next one
