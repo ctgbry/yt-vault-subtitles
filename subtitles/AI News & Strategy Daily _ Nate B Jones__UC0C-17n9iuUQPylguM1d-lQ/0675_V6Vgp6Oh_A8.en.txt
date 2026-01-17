@@ -1,0 +1,56 @@
+[00:00]
+So where will AI actually reshape your
+job? Keeping all of that in mind.
+Fundamentally, you need to think of your
+job as a stack of workflows. Your job is
+going to be decomposed and you need to
+take charge of what that looks like. So
+don't think of it as doing marketing.
+Think of it as you run campaigns, you
+create briefs, you analyze performance,
+you manage stakeholders. Those are
+workflows. You don't do product
+management. Instead, you collect
+requirements, you prioritize, you write
+specs, you coordinate launches.
+Workflows. Again, you don't do finance.
+Instead, you reconcile, you forecast,
+you analyze variance, you produce
+reports, again, workflows. Each of these
+can be decomposed into triggers, what
+starts the work, inputs, what you look
+at, transformations, what do you do with
+it, decisions, outputs, and checks to
+know if it's correct. AI slots into a
+structure like that. AI will handle the
+boring and repetitive parts of those
+workflows. It is up to you to figure out
+how that actually shapes in your role.
+Across industries, the same categories
+keep getting automated or heavily
+assisted. Triage tasks, routing tasks,
+
+[01:02]
+assisted. Triage tasks, routing tasks,
+summarization tasks, synthesis tasks,
+policy and rule tasks, repetitive
+document workflows like pulling data
+from forms, glue work across tools,
+moving information from Excel into Word
+or vice versa. You know, the parts that
+stay human for a long time to come are
+parts around negotiation, around trust
+building, around politics, around
+deciding which problems to solve, around
+setting strategy, around being
+accountable when things go wrong. So, I
+don't want you to hear Nate is proposing
+that I AI away my job. I want you to
+hear that AI drains repetitive and
+checkable work out of your role. You
+should be in charge of what that looks
+like or someone else will do it for you.
+And your value is going to shift toward
+defining workflows. Supervising them,
+handling exceptions, choosing what to
+build.

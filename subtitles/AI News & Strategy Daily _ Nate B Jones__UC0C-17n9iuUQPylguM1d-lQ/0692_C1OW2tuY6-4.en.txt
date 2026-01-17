@@ -1,0 +1,40 @@
+[00:00]
+Anti-gravity goes with Gemini 3. It is a
+fork of VS Code for developers where AI
+agents have full execution privileges.
+They can read and edit files. They can
+run on your terminal. They can install
+dependencies. You control the level of
+autonomy they have. They can record
+artifacts, plans, diffs, decisions as
+they go. So you can monitor and control
+what they're doing. Basically,
+anti-gravity turns VS Code into a place
+where agents do work. Now, this matters
+because Google is trying to own the
+developer environment, not just the
+model. So, if anti-gravity becomes the
+place where more developers write code,
+Google doesn't just win model usage
+here, they win the entire developer life
+cycle. And so, the competitive game
+shifts from whose model has the highest
+eval score to whose environment is the
+default place where work gets done and
+where agents do real work. Google is
+betting that the Aentic IDE is going to
+become the AI operating systems shell.
+And so we will see how this plays out.
+There are obviously other players in the
+mix. Cursor is a big one, but Google has
+
+[01:01]
+mix. Cursor is a big one, but Google has
+put their stake in the ground and said
+they're not just a modelmaker at this
+point. They want to own the development
+environment as well. So anti-gravity
+could become the central surface where
+agentic workflows run and the place
+where ultimately you shape the code that
+drives the compute experience.

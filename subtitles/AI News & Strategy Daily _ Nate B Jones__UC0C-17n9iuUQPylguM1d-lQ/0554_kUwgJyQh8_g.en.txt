@@ -1,0 +1,43 @@
+[00:00]
+One of the things that has been
+difficult for people to do with AI has
+been a complicated task like figuring
+out a job search strategy. So let's say
+you need to identify candidate job
+postings. You need to compose a resume
+that fits those job postings. You need
+to make sure that your search strategy
+actually works for those jobs, that your
+targeting strategy works for outreach.
+This is complicated work. Normally it
+would take a lot of prompts. It would
+take many prompts in a row. Some people
+sign up for tools and services for this.
+What you can do with Claude is you can
+make skills that refer to this
+complicated work and give Claude special
+instructions to do it well. Like your
+job search strategy could instruct
+Claude specifically what sites you
+prefer, what job family and roles you
+prefer, what levels you prefer, what
+compensation you want. And all of that
+would be stored inside this Lego brick
+of context that Claude can go and call.
+Not when you have to tag it. You don't
+have to remember it. You just have to
+say, "Hey, I'm trying to think about
+what job search strategy I should use
+
+[01:01]
+what job search strategy I should use
+for this week." And then give it some
+context about your last few weeks, your
+learnings. Help me figure it out. Claude
+will look at that initial prompt,
+understand you're talking about job
+search, and go dig up a skill and use it
+on the fly. And what this does is it
+makes the whole process of doing a
+difficult, complicated, multi-step piece
+of work so much easier.

@@ -1,0 +1,21 @@
+[00:00]
+I think that this is one of the biggest
+pieces of news in the entire year.
+Claude launched a way for us to get past
+the tyranny of the prompt and I worked
+out a way to use that same technique
+outside Claude in Chad GPT in Gemini and
+other places. We're going to dive into
+the whole thing, but the first piece I
+want you to realize is that everything
+has been prompt dependent and that has
+made hard work really difficult.
+Basically, if you want to do something
+complicated like a PowerPoint or an
+Excel or a full financial analysis, it's
+possible, but it's really been prompt
+dependent. And anything we can do that
+makes it slightly easier, slightly less
+dependent on the prompt is a really big
+deal because it makes it so much easier
+for so many more people to do that hard

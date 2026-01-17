@@ -1,0 +1,52 @@
+[00:00]
+The other core issue is that we
+typically have longstanding information
+architecture problems in our documents
+at work that we just paper over and that
+we are not going to be able to paper
+over when AI is writing. Because
+fundamentally what AI does is it exposes
+information asymmetries,
+informationational vagueness that
+previously hid in a lot of our writing
+because people wrote it and you just
+assumed that people were doing their
+best thinking. One of the good things
+about the AI age is we now don't assume
+that everyone's doing their best
+thinking, which means we critique more,
+which is actually healthy. So, if you
+can't tell if this document enables
+person X to make choice Y or if this
+well structured information enables you
+to make a big decision, if you if you
+don't know what it looks like, your goal
+at this point is actually to get rid of
+that vagueness you tolerated in the past
+in the business and define
+theformational architecture of the
+document. Your structure is the business
+
+[01:01]
+document. Your structure is the business
+logic, not just a template. So many
+times if someone gives you like a
+product requirements document or if they
+give you a business memo or a press
+release, when they give it to a human,
+you get a template. Templates just let
+you fill in the boxes without thinking.
+And when you hand AI only a template in
+the prompt, that is what you get. And
+that is why so often when I'm called in
+to help with business writing prompts,
+people say, "I don't know what I did
+wrong. I gave it the template and it
+filled out the template and it's
+terrible. It's crap." Well, you didn't
+give it the the business logic. You
+didn't give it a a decision interface to
+work against. That's why your writing is
+terrible. If you don't give it that
+intent, the business writing is going to
+fail.

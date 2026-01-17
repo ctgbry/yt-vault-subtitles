@@ -1,0 +1,24 @@
+[00:00]
+So, just as we defined AI agents that
+are doers, as LLMs and tools and
+guidance, I'm going to tell you that if
+you want to use agents as modelers, you
+add one thing more. You have agents that
+are LLMs with tools and guidance in a
+simulated world. That's the last part.
+And that's why the simulation matters so
+much with the warehouse that Jensen
+introduced. Every other example we have
+of model building simulates the world.
+Now, it might not be like a 3D video
+game world simulation. It might be a
+simulation that models the relevant
+constraints of the world in text in
+words. That can happen too. And all you
+have to do, like we we do this all the
+time, there are prompts that will set up
+your LLM to act as an agent within a
+reality simulator. And all you're doing
+is telling the agent to act in a certain
+way with this policy and guidance given
+these constraints around the

@@ -1,0 +1,28 @@
+[00:00]
+AI tools, I would argue, create a
+multiplier effect for trained engineers
+more more than they create
+democratization of code. And I know they
+democratize code. I know people who have
+never coded before who are able to do
+some coding. Now,
+engineers can do even more. Engineers
+can compress their expertise to carry
+architectural intent much more easily
+than non-engineers because they
+understand the underlying technical
+systems. Non-engineers, frankly, when
+they get the chatbot and they get the
+ability to vibe code, I've seen them
+build stuff, but I've also seen them
+very frequently get just enough rope to
+hang themselves. Engineers understand
+those limitations that uh coding brings.
+They understand how to read code, they
+understand how the system components
+work together, and they're able to go
+faster as a result. If the non-engineers
+get rope to hang themselves, the
+engineers get rocket fuel. So the
+digital divide is shifting very rapidly
+from who can code to who can engineer.

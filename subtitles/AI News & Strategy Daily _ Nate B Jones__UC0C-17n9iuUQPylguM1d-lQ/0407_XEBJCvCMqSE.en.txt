@@ -1,0 +1,25 @@
+[00:00]
+The reality is that we we have to
+recognize that engineering is what
+enables us to take this wild world where
+LLMs can speak language and where
+they're probabilistic and where they can
+bring intelligence to bear. Engineers
+help wrestle that into an operational
+stable production system. They help to
+bring observability to those systems.
+They help to debug those systems. They
+help to figure out the energy and
+compute footprint that's appropriate for
+those systems. And engineers ultimately
+are cultural architects. They help us to
+design workflows that preserve human
+judgment. They help us to build
+interfaces that make AI reasoning
+inspectable. They help us to prevent
+automation bias and skill atrophy if
+they're designing systems well.
+Ultimately, they help us maintain
+dignity because they can build systems
+that have to admit ignorance. Engineers
+have more responsibility now, not

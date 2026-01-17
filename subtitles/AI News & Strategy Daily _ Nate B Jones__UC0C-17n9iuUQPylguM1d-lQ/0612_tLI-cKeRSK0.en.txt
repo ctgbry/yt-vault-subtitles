@@ -1,0 +1,63 @@
+[00:00]
+The first thing you have to do if you
+suspect malpractice from one of these
+institutions, if you suspect they are
+trying to take advantage of you, have
+the LLM parse the technical framework
+that is built for humans to find
+intimidating, have the AI read Medicare
+billing rules or FDCPA statutes or IEP
+regulations or insurance policy
+appendices, technical documents that are
+designed to be unreadable on purpose by
+humans. This matters because
+institutions are betting you won't use
+an AI to do this. But AI is not
+intimidated by jargon. They decode it
+really quickly because they're trained
+on it. You can audit these institutions
+compliance with their own rules without
+subject matter expertise. And that is
+the first place that I would start if I
+suspected an issue. Number two,
+principle number two, use LLM to
+crossreerence multiple authority
+sources. So check if CPT codes were
+built correctly against CMS bundling
+
+[01:00]
+built correctly against CMS bundling
+rules and Medicare fee schedules and
+setting requirements. The situation
+matters because violations can hide in
+the gaps between the documents. A
+hospital can bill procedure X in setting
+Y differently than in setting Z. You
+have to check how bundling rules when
+multiple procedures are put together.
+You have to look at the fee schedule.
+This kind of multi-document pattern
+recognition is extremely hard for
+people. We can't hold it in our heads
+well, but it turns out AI is really,
+really, really good at it. And so,
+because it's easy to slide things in in
+between documents, in the gaps between
+documents, in the areas that are sort of
+gray or gaps, use AI to crosscheck
+multiple authority sources in the
+relevant area that you're worried about,
+right? Maybe it's not medical, maybe
+it's something else. I have the prompts
+that I'm building are across debt
+collection, they're across education,
+there's other things too because I think
+that this is actually a wider issue and
+that's what I'm trying to call out is
+that fundamentally institutions are good
+at practicing informationational
+
+[02:01]
+at practicing informationational
+asymmetry to bully people and AI gives
+us our best weapon ever to fight

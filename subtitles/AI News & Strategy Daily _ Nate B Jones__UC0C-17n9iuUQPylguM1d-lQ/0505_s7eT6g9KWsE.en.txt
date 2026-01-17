@@ -1,0 +1,22 @@
+[00:00]
+Let's build a mental model for AI. And
+this is why this scale is so important.
+By the way, no one talks like this. Like
+people tend to give you specific skill
+sets and and I can do that, too. I'm
+going to talk about some of the specific
+skill sets you demonstrate, but you need
+an overarching perspective on the
+fluency and competency assessment that
+you're looking for at this level. And 3
+to 5 is all about building mental
+models. You are starting to understand
+how LLMs actually work, what they do
+when they reason, what they do when they
+don't reason. You're starting to
+understand that LLMs don't truly know
+things, that they're not programmed.
+You're understanding what next token
+prediction looks like. You have the
+beginnings of a mental model of what AI
+can

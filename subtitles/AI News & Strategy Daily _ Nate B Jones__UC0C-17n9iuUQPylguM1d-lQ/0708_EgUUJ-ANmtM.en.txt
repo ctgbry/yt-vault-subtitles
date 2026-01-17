@@ -1,0 +1,24 @@
+[00:00]
+People are using the API call to pass a
+string of data in a structured prompt
+query to Nano Banana Pro and retrieve a
+chart or a graph that they can then
+display as the past week's sales, the
+past days customers, whatever it is that
+they need for internal metrics, they can
+just automatically query and get a nice
+chart back from Nano Banana Pro. That is
+generative interface driven by Agentic
+software. Fundamentally, the interface
+is something that is starting to morph
+based on user context and it isn't
+staying fixed anymore. Software is
+becoming generated on demand from intent
+and context. One of the most instructive
+descriptions of vibecoded apps has been
+a recognition from folks who've done
+this over 20 30 projects that they are
+finding that these apps are valuable in
+the moment. And some of them they may
+use again, but some of them they created
+just for a single use.

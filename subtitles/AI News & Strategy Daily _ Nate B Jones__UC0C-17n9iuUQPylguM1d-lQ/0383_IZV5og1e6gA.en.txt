@@ -1,0 +1,22 @@
+[00:00]
+We are entering an era of architectural
+specialization. The next breakthrough
+and I and I think that people need to
+get past this idea of bigger models. The
+next breakthrough may not be a bigger
+model. It may be how we use reasoning
+architecture for specific cognitive
+tasks. Now that we're in the LLM era, we
+may see more specialization. That would
+not surprise me. So where do I want to
+leave you? Intelligence is not the same
+as utility. GPT5, however you measure
+it, is a very intelligent model. But its
+intelligence is not what makes it a
+success or it's a failure. The key is
+understanding that intelligence and
+utility are diverging as we get farther
+into the LLM era. And it's up to you to
+figure out if parallel reasoning makes
+AI smarter for the tasks that you want
+to accomplish.

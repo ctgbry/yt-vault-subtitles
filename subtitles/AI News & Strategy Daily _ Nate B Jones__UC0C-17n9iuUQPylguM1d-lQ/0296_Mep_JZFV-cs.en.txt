@@ -1,0 +1,25 @@
+[00:00]
+And part of why I care about this is
+because what happened with Grock is a
+trust breaker for AI systems everywhere.
+It's not just a Grock problem. Now it's
+big enough and bad enough. It's an AI
+problem because people don't understand.
+They don't understand the technical
+decisions that led to this choice. In
+fact, some of them misunderstand and
+think that Grock became intentionally
+malevolent. That was not what happened.
+Rag systems can be incredibly powerful,
+but if you implement retrieval without
+proper filtering, it's like building a
+water treatment plant, but forgetting to
+add the treatment part. You're just
+piping the sewage into people's houses.
+As far as I can see, there is minimal or
+no content filtering between retrieval
+and generation for Grock. So if someone
+posted extremist content on X and
+someone else asks Grock about that
+topic, Grock might treat that extremist
+content as legitimate

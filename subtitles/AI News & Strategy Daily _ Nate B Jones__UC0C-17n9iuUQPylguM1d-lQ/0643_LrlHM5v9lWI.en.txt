@@ -1,0 +1,63 @@
+[00:00]
+What we're going to do, we're just going
+to have fun with this. I'm going to show
+you a vanilla prompt where I just say
+make it and it's super vague and I don't
+give Claude the context. It's just a
+basic prompt. And I'm going to say make
+a Thanksgiving newsletter, right?
+Because it's Thanksgiving. And you're
+going to see what it does. And then I'm
+going to show you the difference it
+makes when I actually add an extra set
+of Goldilocks prompts so that Claude
+knows what it's doing. Let's dive in.
+Okay, here we are. That prompt on the
+left there, can you create a family
+newsletter? That's all I gave the model.
+And this is what Claude comes back with.
+It's super basic. You can see it has a
+few visual elements here. And it has
+these sort of annoying orange
+highlights. It has a spot to add family
+photos, but of course, that's not
+clickable or usable. And the copy is
+pretty generic. And that's that. It is a
+family newsletter I would not want to
+send to my family. But what if we choose
+to add a more effective prompt? All
+right, here we are looking at the exact
+
+[01:01]
+right, here we are looking at the exact
+same prompt except I've added some
+Goldilocks prompting. In fact, this is a
+little bit of an advanced technique. I
+have stacked up some Goldilocks prompts.
+The advantage of having some shorter
+ones is that you can be more effective.
+So, I have a layout prompt here that
+focuses on non-anoying layouts and
+specifies those. I have a color prompt
+that talks about the kinds of colors
+that would convey trust or be modern or
+whatever. I also have a font prompt. All
+of these
+are important for getting this into
+better shape. If we move over here, we
+see the font has been chosen carefully.
+We see the impact of the layout. We see
+the colors are chosen much more
+carefully.
+And the overall impression is readable.
+I'm not going to say this is the most
+beautiful family newsletter you've seen,
+but I got to be honest with you, I have
+seen much worse formatted family
+newsletters. And so, this is not too
+bad. It even includes a really handy
+like sidebar with a quote that's not
+
+[02:01]
+like sidebar with a quote that's not
+horrific and a nice little footer.

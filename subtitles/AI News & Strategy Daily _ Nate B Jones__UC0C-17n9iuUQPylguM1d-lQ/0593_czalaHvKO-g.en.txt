@@ -1,0 +1,38 @@
+[00:00]
+It's very different from Google, right?
+Because Google just finds you an answer.
+But what is less understood is that it's
+also very different from chat GPT. Chat
+GPT is fundamentally a parametric answer
+engine, which is a fancy way of saying
+chat GPT's default is to go and look
+inside its own training data and its
+weights in the model for an answer for
+your question. It does not go out and
+look at the internet by default. And by
+the way, that is why chat GPT doesn't
+know about new chat GPT instances.
+Right? If you ask chat GPT, it will
+often give you the wrong answer when you
+ask it what the current chat GPT model
+is. It's not just chat GPT that does
+this. Claude does the same thing. Gemini
+has done this. The reason why it's not
+some diabolical plot. It is that they
+are parametric answer engines and they
+look inside their weights and perplexity
+looks outside. It looks at the internet
+as a whole by default. It's like imagine
+a world where you have an answer engine
+in chat GPT that looks inside the house
+
+[01:01]
+in chat GPT that looks inside the house
+first, inside your own weights, or you
+have a choice like perplexity that looks
+at the whole world first and isn't
+necessarily focused on reasoning first.
+That's the difference. And so that
+shapes how and where we use it. And it
+also profoundly shapes our prompt
+strategy.

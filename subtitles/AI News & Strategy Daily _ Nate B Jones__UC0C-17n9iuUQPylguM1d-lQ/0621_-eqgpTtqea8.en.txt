@@ -1,0 +1,48 @@
+[00:00]
+you are projecting capabilities onto the
+model that the model does not have. I
+see this with developers and with
+non-developers both. If you're a
+developer, this can look like assuming a
+competency in an agent tool call that
+isn't really there. If you are not a
+developer, it can look like writing a
+prompt and the prompt is underspecified.
+The prompt lets you infer and guess. And
+so for example, if you say in a casual
+prompt, write me a professional update
+about the migration. The model might
+assume you mean an engineering audience
+and that you want a deep technical
+status update. But you may have meant, I
+want an executive audience in 150 words.
+That's a very simple example. And people
+assume that they can fix this by just
+writing very long prompts. That's not
+correct. The correct way to fix this is
+actually to specify the schema of the
+output. And so what you want to do is
+instead of saying I need to compose a
+prompt and writing prompt forward in
+your head, flip it around and say I want
+an output that looks like this. And that
+
+[01:01]
+an output that looks like this. And that
+becomes your map that you give to the
+AI. And this is called schema first
+prompting. It is a way to handle
+situations where you are routinely
+getting incorrect responses. It's not
+that you have to do this every single
+time. All of these prompts and prompt
+tips and office hours approaches are
+things that you do when things break.
+That is why we're having this
+conversation. So when you are getting
+responses that do not work, ask yourself
+if you are projecting capabilities onto
+the model that it does not have. And if
+you are, think about whether or not you
+need to specify your output more
+precisely in the prompt.

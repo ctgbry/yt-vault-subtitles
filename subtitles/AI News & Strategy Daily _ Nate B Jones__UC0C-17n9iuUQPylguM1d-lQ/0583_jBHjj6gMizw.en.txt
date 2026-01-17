@@ -1,0 +1,32 @@
+[00:00]
+The related story is the acquisition of
+Sky by OpenAI. And that matters because
+Sky is the best team on the planet at
+figuring out the relationship between
+natural language queries and the Mac OS
+operating system. That is what they were
+good at. That is what they were building
+and that is why OpenAI acquired them.
+And there are two possible futures here
+that are both relevant from a hardware
+perspective. Future number one, probably
+earlier horizon is we see OpenAI launch
+something that is Agentic that is tied
+into the Mac operating system that
+enables longerterm agentic work across
+your local computer system and that
+would be Mac specific and it would be
+tied to M5 hardware probably. Future
+number two is longer term. You can use
+all your learning from that if you're
+open AAI to build a native AIO OS and
+that's something that is speculative.
+We'd have to see what that looks like.
+But the more work that's being done on
+understanding how LLMs interact with the
+environment, the more you see that
+
+[01:00]
+environment, the more you see that
+direction start to emerge from major
+model makers.

@@ -1,0 +1,45 @@
+[00:00]
+I want to emphasize here the differences
+I'm talking about are differences on top
+of very capable baseline LLM capacity.
+These models are all good at lots and
+lots of everyday tasks. They're good at
+writing emails. They're good at
+synthesizing PRDS. They're good at
+writing engineering requirements. The
+things I'm calling out are the nuances
+that help you make the most of these
+mods. So prompting shifts in line with
+this insight around entropy. Right? So
+Gemini 3 prompts you actually are
+spending your effort on output
+structure. You're spending your effort
+on task constraints on how you anchor
+phrases and name and define which part
+of the context you're retrieving. So you
+need to get comfortable feeding high
+entropy multimodal context which I
+normally shy away from but you have to
+define what good synthesis looks like
+and good analysis looks like across that
+context. So schemas, ranking criteria,
+what you retrieve, etc. Whereas with G
+GPT 5.1, you're spending more of your
+
+[01:01]
+GPT 5.1, you're spending more of your
+time defining the task definition. Is
+that really clean? Is it unambiguous?
+You're making sure you insist on the
+tone you want. And you may pre-process
+it so that well structured context is
+available to the model so that it can
+think deeply and not wade through jump.
+If you want all of this in one line, use
+Gemini 3 to tame the chaos of your
+inputs and use chat GPT 5.1 when you're
+tackling hard thinking and communication
+around more structured inputs. Once that
+chaos is structured, you can do some of
+both with both models. But that is the
+takeaway I am starting to come

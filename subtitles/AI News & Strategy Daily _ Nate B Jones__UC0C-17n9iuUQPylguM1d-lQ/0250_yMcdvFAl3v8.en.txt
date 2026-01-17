@@ -1,0 +1,29 @@
+[00:00]
+Number two, text is currency. Current
+models handle over a 100,000 tokens,
+200,000 tokens. GPT5, we don't know what
+the published specs will be, but it is
+not unreasonable to think that we are
+headed toward a future with millions of
+tokens by the end of the year. Start
+getting into the habit of front-loading
+rich context. Instead of a two sentence
+description, if you're an operator, if
+you're just chatting in the chat window,
+get into the habit of doing a lot of
+context loading, putting the documents
+in, putting your full statement, your
+full emotions, your full thinking in
+your full voice statement. If you're
+using voice, load up that context, full
+situation, constraints, history, and I
+say full context for operators, but
+that's just as true if you're running
+production prompts, too. You want to be
+in a position where you can take full
+advantage of that context window because
+these models are actually built more and
+more to handle reasoning at the hundreds
+of thousands of tokens and potentially
+up to millions of tokens window shortly.
+So, think about what you're putting in

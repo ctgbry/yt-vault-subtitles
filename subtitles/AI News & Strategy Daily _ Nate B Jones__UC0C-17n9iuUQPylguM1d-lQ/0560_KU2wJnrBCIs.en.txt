@@ -1,0 +1,21 @@
+[00:00]
+Let me give you another one. How do you
+recognize intuitively when AI is
+confident and incorrect? That's an
+extremely high value skill. It is also a
+very fuzzy skill. You have to know
+enough about your domain. You have to
+know enough about how AI speaks and the
+utterances it uses. You have to know
+enough about the relationship between AI
+language and AI truth claims that you
+can read a particular statement and say,
+"I've seen several hundred or several
+thousand AI statements before. This one
+feels more like a false category AI
+statement because it doesn't quite ring
+true for my domain and because I've
+noticed that when AI is hallucinating in
+this model in this chat, it feels more
+confident because it's actually
+doubtful, Right.

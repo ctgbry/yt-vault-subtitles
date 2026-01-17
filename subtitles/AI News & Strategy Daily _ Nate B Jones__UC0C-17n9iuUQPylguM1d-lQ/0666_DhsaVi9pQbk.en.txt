@@ -1,0 +1,36 @@
+[00:00]
+Google Gemini 3.0 appears to leak
+through a shadow release on mobile
+canvas. Users began reporting that
+Gemini's mobile canvas suddenly outputed
+dramatically better results, polished
+SVG animations, fully structured UI
+prototypes, and even functioning
+interactive code, far beyond what Gemini
+2.5 Pro could do. Meanwhile, Vert.Exi
+briefly exposed a Gemini 3 Pro preview
+November 2025 endpoint, which has
+confirmed internal testing. That
+endpoint has since been pulled back. The
+most credible explanation of what is
+going on here is indeed a deliberate
+shadow release. Google has a history of
+doing this and certain prompt types on
+mobile canvas appear to be routing
+automatically to Gemini 3.0 checkpoints
+while the web interface stays at 2.5.
+It's a really lowrisk way for the team
+to gather telemetry on usage and how the
+model's doing before a public
+announcement. This aligns with Google's
+promise of a year-end Gemini 3.0 no
+launch and leak specs that point to a
+very large million token context window,
+major multimodal upgrades, and frankly
+
+[01:02]
+major multimodal upgrades, and frankly
+the likelihood that Gemini 3.0 know is
+going to be the first major
+state-of-the-art model jump over
+anything that we have in the market

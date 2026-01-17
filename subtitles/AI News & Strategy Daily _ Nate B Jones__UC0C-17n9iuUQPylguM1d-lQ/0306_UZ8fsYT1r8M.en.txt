@@ -1,0 +1,15 @@
+[00:00]
+I am really tired of models overfitting
+to eval. So when we have exams that are
+supposed to be like humanity's last exam
+that are supposed to be good measures of
+model evaluation and quality,
+it's goodart's law all over again. As
+soon as you make that a goal for a model
+maker to hit, they will overfit to the
+data. And I got to say, Grock 4, as hard
+as the team has worked, is looking like
+a terribly overfitted model. A model
+that is much lower in real world quality
+than we actually see in all of these
+reported benchmarks.

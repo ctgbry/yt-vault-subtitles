@@ -1,0 +1,24 @@
+[00:00]
+If you deeply understand the regulatory
+environment around real estate
+acquisition in particular state,
+whatever your expertise is, build
+vertical specific orchestration
+frameworks, embed the domain expertise
+inside the workflow as much as you can,
+but keep it out of the model because
+then you can swap the model in and the
+model will learn your verticals,
+compliance, terminology, decision
+patterns, etc. from the tools, from the
+context, from the orchestration layer
+and be able to operate. And so for
+example, a legal compliance framework
+might understand privilege. A healthcare
+memory system might understand consent
+in a certain way. Manufacturing agents
+can understand equipment history. You
+get the idea. But critically, these
+require the ability to call in that
+context, not to assume the model has it
+built

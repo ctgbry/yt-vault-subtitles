@@ -1,0 +1,24 @@
+[00:00]
+I want to leave you with this. Rag is a
+way to solve some of AI's biggest
+problems. Hallucination, stale
+knowledge, lack of memory. It can be
+started as simple as a few lines of
+code. And it does scale up to the
+enterprise scale, although not with 15
+lines of code. This is why so many
+enterprises and businesses are thinking
+about rag moving toward Brack. It solves
+problems that are real if implemented
+well. The tools do exist today. I've
+mentioned some of them on this video.
+You have no excuses not to start if you
+have a problem that fits in the fairly
+wide rag problem space. Most of us have
+run across hallucination stale a stale
+knowledge and memory issues. But if
+you're going to do it, pick a small use
+case. Build just a prototype to start.
+Don't pour the concrete. Measure the
+impact and eval it. Evaluate it and then
+learn and iterate.

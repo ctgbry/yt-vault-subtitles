@@ -1,0 +1,27 @@
+[00:00]
+I want to go through with you the core
+issues that we see as builders, as users
+of AI, as designers of AI systems. What
+is the root of the memory problems we
+experience? If we're at a systems design
+level, if we're at a usage level, if if
+we are even using Chad GPT, why are
+memory problems so sticky and hard to
+untangle? Why have we not seen better
+solutions in the market? I think there
+are good reasons for that. And then once
+we go through those root causes, how can
+we start to think about solving them?
+How can we think about solving them as
+users? How can we think about solving
+them as builders? So, I'm going to go
+through five root causes and then we're
+going to flip the script and I'm going
+to go through eight principles for
+building a solution because I want you
+to walk away from this and I want you to
+feel empowered to actually design better
+memory systems. I don't want you to wait
+around for someone in Silicon Valley to
+make a pitch and get funded for this.
+You can design your own solution

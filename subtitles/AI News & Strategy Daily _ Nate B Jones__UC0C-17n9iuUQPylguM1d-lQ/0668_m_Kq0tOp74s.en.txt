@@ -1,0 +1,40 @@
+[00:00]
+What do these have in common? I mean,
+it's AI agents, but really to me, they
+represent a competing vision and a
+battle over the future of AI agents that
+I think we need to talk about. Google
+really laid out an idealistic, a utopian
+vision for AI agents that I do not see
+companies actually implementing in 2025.
+I get where they're going. It is part of
+Google's job to lay out the vision of
+the future. And Google feels really
+prophetic this week because when they
+published that white paper, it was right
+after the claude code hack news broke.
+And one of the key learnings in the
+cloud code hack news is that we cannot
+depend on model layer security. We have
+to go to orchestration. What is Google
+all about in this white paper? They're
+all about orchestration. They basically
+are saying if you get serious about
+agents, you are gonna have to solve the
+orchestration problem at scale. And
+right now I got to say most
+organizations getting ROI are doing much
+simpler things with agents which is
+
+[01:00]
+simpler things with agents which is
+exactly where Versel comes in. Versel
+comes in and their focus is entirely on
+how can we get practical value out of AI
+agents at work. We're not writing a
+50page white paper. We are just trying
+to get to tomorrow and get to good ROI
+which is where like 99% of businesses
+are. And you know what they do? They go
+through their back office operations.
+This is alarmingly simple, but I love

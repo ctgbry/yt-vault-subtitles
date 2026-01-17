@@ -1,0 +1,20 @@
+[00:00]
+Gro 4 heavy is better than Gro 4. But
+overall, I am sharing this video because
+I want to counter the hype for
+overfitting evaluations that I see
+everywhere. It's really and it's not
+just the Gro team. It's concerning to me
+that when OpenAI does this, it's
+concerning to me when Anthropic does
+this. It's concerning to me when Google
+does this. It is not okay to make the
+evaluations your goal. That's good arts
+law. If you make something your goal and
+it's actually a measure, the measure is
+useless. Well, the measure is useless.
+No, I would suggest that most of the
+major model evaluations are functionally
+useless because they are so studied and
+because there's so much PR value in
+getting number What?

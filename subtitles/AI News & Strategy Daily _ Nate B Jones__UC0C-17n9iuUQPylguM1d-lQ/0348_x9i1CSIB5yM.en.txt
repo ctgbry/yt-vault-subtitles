@@ -1,0 +1,20 @@
+[00:00]
+Pattern four, AI augmented debugging and
+testing. You want to make sure that you
+are pasting your actual error traces and
+communicating clearly what's wrong. That
+you are being very specific and
+prescriptive about how the system will
+get to root cause about the kind of
+suggested fix you will accept in line
+with your house rules. And you should
+apply fixes cautiously, especially in
+production databases. Pattern five, AI
+assisted code reviews. You want to be in
+a place where you can prompt for review
+of the code and then constrain the
+review to just the space you want looked
+at. Keep in mind, humans will have to do
+a second pass, but you can use a tool
+like Devon to go and get a lot done
+quickly.

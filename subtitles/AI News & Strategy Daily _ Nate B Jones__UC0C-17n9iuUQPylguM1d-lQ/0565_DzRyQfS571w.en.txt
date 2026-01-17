@@ -1,0 +1,27 @@
+[00:00]
+MEM 2.0. It is calendar and Slack
+monitoring that proactively surfaces
+relevant notes before your next meeting.
+You don't ask, it just knows. And so
+most of your best context already exists
+in notes, right? And the problem we
+always have, I know I have, is that I
+write the notes and it goes into this
+giant pile. Maybe it's in a word doc,
+maybe it's in Apple notes, maybe it's
+like typed as an extra note in granola,
+whatever. And I forget about it. MEM's
+job is not to generate new content for
+you. Unlike most AI, right? MEM's job is
+to resurface the right content at
+decision time. So the interaction flips
+from write a query to generate to
+observe the context around you and then
+retrieve the alert. In other words, MEM
+is a memory prosthetic. MEM is not a
+content engine. And the pattern that
+makes sense here is that recall will
+beat generation for knowledge work if
+the recall is accurate, useful, timely,
+and correct. And that is what NEM seeks
+to

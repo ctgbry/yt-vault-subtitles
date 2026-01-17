@@ -1,0 +1,19 @@
+[00:00]
+Open AAI releases GPT 5.1 with adaptive
+reasoning and personality controls. So
+GPT 5.1 fixes GPT5's biggest friction
+points. Rigid modes and a cold and
+formal tone, bad writing. Instant now
+decides when a query needs deep
+reasoning and thinking adjust token use
+automatically. I've already found it to
+be cheap on simple tasks and much more
+thorough thinking longer when complexity
+spikes. The personality system was
+completely rebuilt. There are eight tone
+presets, plus sliders for warmth, for
+brevity, for emoji use. There's other
+things, too. Chad GPT 5.1 also actively
+learns your preferences in a
+conversation and it solves one of GPT5's
+core complaints.

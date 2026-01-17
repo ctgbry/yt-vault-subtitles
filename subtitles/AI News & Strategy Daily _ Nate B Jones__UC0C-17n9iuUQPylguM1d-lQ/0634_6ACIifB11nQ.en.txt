@@ -1,0 +1,34 @@
+[00:00]
+I think that gets at a use case I
+actually had for Atlas today. Um, which
+was really interesting to me. Uh, I was
+looking at a GitHub repo and I was
+running through and I was like, I want
+to get a sense of what's in this GitHub
+repo really quickly. What if I just have
+Atlas look at it and I put the assistant
+up on the side and I just have a
+conversation with Atlas about the repo.
+And what I found was there was this sort
+of magic that happened when I was in
+Atlas because I was working with sort of
+that uh there's sort of a magic to code
+comprehension I'm finding with some of
+sort of the way Chad GPT like touches
+and plays with code. it was able to like
+click through, take control of the
+screen, look at all of the different
+files in the repo, and it came up with
+some really, really thoughtful questions
+that enabled me to get much more
+fingertippy with the code much more
+quickly. It was one of those magic
+moments for me. So I think the browser
+it's it's so simple it almost sounds
+
+[01:01]
+it's it's so simple it almost sounds
+silly but like reducing the friction for
+a user to access some of this magic it
+can feel like making the magic available
+like in the first Yes.

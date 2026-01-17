@@ -1,0 +1,32 @@
+[00:00]
+The best response in the SAT was chat
+GPT5 with the think hard button pushed
+closely followed by chat GPT5 with think
+hard typed in the prompt box. In other
+words, part of your job with this model
+and part of what I'm going to be doing
+in the coming days is digging into when
+and how you prompt these models for the
+kind of task that you have in front of
+you. These people who say that prompting
+doesn't matter have not played with this
+model. This is getting harder and harder
+and harder to prompt. It is getting
+trickier to prompt. Yes, if you are
+doing casual work and you just want to
+gesture vaguely at a piece of work and
+you're not too worried about it, it has
+never been easier to prompt. That is
+true. It has never been easier to say,
+"I want an itinerary for Japan." And
+just gesture vaguely at it. It will come
+up with something. So, that part is
+easy. But getting really complex work
+done, doing something like what I gave
+it where correctness matters, accuracy
+matters, the documents don't agree. It's
+a very complex context window. That
+
+[01:01]
+a very complex context window. That
+takes

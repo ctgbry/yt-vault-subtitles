@@ -1,0 +1,27 @@
+[00:00]
+agents are not particularly robust. The
+most sophisticated multi-agent
+implementations I've been a part of tend
+to have robustness from architecture
+rather than robustness from agents
+themselves. And if you want reliability,
+again, you go back to architecture for
+reliability versus the agent itself.
+This is me talking. Prevents you having
+really high value use cases for agents
+today. And I tend to frame the work we
+have to do architecturally to make
+agents work as just the price that you
+pay for where agents are at. And the ROI
+is there because agents are able to do
+so much already. But the promise of
+agents has been much bigger than this.
+The promise of agents, which I think
+Andre is reacting to, is that they will
+do anything, that they will be anywhere,
+that they will learn, they will be
+useful as they stand out of the box,
+that they will remember everything. And
+of course, if you've ever worked with an
+agent, you know that's not true. And
+Andre is saying it's not true.

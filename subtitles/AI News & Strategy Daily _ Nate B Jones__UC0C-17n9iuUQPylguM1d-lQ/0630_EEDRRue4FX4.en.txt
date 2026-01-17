@@ -1,0 +1,38 @@
+[00:00]
+So 49%
+of organizations draw incorrect
+conclusions because their data lacks
+business context. Again drawing from
+this Salesforce survey. So, as an
+example, let's say that the data says
+revenue is $2 million and the customer
+is Acme Corp and it's the third quarter
+revenue number, but maybe that
+particular database row or that
+particular fragment retrieved by the AI
+does not specify that the $2 million was
+a one-time contract, not recurring
+revenue, and your agents are now
+inappropriately adding $2 million in ARR
+to your reporting. What I'm saying is
+that is not uncommon and that is a great
+illustration of how the context really
+matters when you are trying to construct
+efficient agentic systems. You have to
+get context that works. So you need
+semantic layers that encode business
+definitions, relationships and logic.
+Asians should be able to understand the
+difference between booking and revenue,
+between gross and net active insurance
+customers from universal single source
+
+[01:01]
+customers from universal single source
+definition sources of truth. And if you
+don't have that, if you don't have a
+semantic layer that defines the meaning
+across the top of your data at a high
+level, then the more data you add
+without context just means more
+confidently wrong answers.

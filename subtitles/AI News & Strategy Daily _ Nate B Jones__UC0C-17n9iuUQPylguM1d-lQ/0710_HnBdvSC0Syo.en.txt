@@ -1,0 +1,41 @@
+[00:00]
+I am here to tell you that you are
+missing a stage in the prompting layer.
+What if we thought of our first piece
+authoring and drafting as stage two not
+stage one because it is because when you
+think about where you want to go with
+prompting it's actually intent formation
+and discovery that has to happen first
+and then you get into authoring. And
+what I have found is that intent
+formation for individuals is really
+hard. And this, I'll be honest with you,
+is definitely something that is more
+true the earlier you are in your AI
+journey and you are still trying to
+figure out how how prompting actually
+works. Basically, if you're trying to
+write a prompt quickly and formulate
+your intent quickly and you don't have
+the time to do it and you may be an
+advanced prompter, you still run into
+the same issue because you have a fuzzy
+goal. you summarize this, draft a plan,
+analyze the sentiment, and now you need
+to get to a structured, unambiguous,
+high lever prompt that is going to
+clarify the objective and the
+constraints and the steps. And you know
+
+[01:00]
+constraints and the steps. And you know
+that you should. But what I have found
+is that those tools by themselves aren't
+super well suited to the kind of intent
+formation that we're doing at this
+stage. What I'm picturing for you is the
+realworld complexity that I feel that
+others feel when they're trying to craft
+prompts. And to be honest with you,
+there hasn't been a great tool for that.

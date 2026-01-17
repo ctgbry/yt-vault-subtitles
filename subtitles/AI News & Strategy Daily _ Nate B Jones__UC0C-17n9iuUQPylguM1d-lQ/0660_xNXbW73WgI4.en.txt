@@ -1,0 +1,39 @@
+[00:00]
+So here's what changes
+if Gemini 3 and Apple actually come
+together. We will move from a model arms
+race to a distribution duopoly on
+mobile. So instead of seeing a massive
+arms race across the whole spectrum, we
+will suddenly be in a world where Google
+powers the iOS experience by default,
+Google powers the Android experience by
+default, and Google wins just about no
+matter what. We will also move from a
+world where we ask who has the best
+model all the time because they're slow,
+tightly competitive to a world where we
+ask who has the best UX and who has the
+best data loops because increasingly as
+models continue to get more effective.
+We're not going to be asking ourselves
+is the model smart enough to do it.
+We're going to be asking is the UX easy
+enough for me to use and is the data
+loop in place where I can get the data I
+need safely. A dumber model with better
+access to data is better today than any
+other model out there. It's also true
+that if the UX is terrible, you don't
+get the distribution. And that is
+actually the primary issue right now
+with Gemini is that Gemini's UX is not
+
+[01:03]
+with Gemini is that Gemini's UX is not
+on par with where Claude and where
+OpenAI are. Gemini continues to be
+treated a little bit like a research
+project from Google and that is the
+historic risk of Google product
+thinking.

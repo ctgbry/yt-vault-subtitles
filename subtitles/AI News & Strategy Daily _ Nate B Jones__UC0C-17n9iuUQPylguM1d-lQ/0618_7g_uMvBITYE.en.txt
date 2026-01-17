@@ -1,0 +1,66 @@
+[00:00]
+People do not realize how powerful meta
+prompting is until they try it. And I
+want to give you a couple of specific
+techniques that advanced prompters use
+that you can try as well. The first one
+is reverse prompting. So this technique
+exploits the model's meta knowledge
+about what makes prompts effective. The
+model's been trained on a lot of prompt
+engineering conversation and you can ask
+it to design an optimal prompt. And the
+funny thing is people don't realize
+this. You can ask it to define the
+prompt to solve a particular defined
+task and it will just write its own
+prompt and execute on it. And so one of
+the ways that you can do this is to say
+you're an expert prompt designer. Please
+design the single most effective prompt
+to analyze quarterly earnings reports
+for early warning signs of financial
+distress. Consider what details matter,
+what output format is most actionable,
+what reasoning steps are essential. Then
+execute that prompt on this particular
+route. You see how we've included a
+request for specific outputs along with
+
+[01:00]
+request for specific outputs along with
+a request for the prompt. You can
+totally do that. You can ask for a
+prompt with certain characteristics and
+the model can use best practice, look at
+the output, formulate the prompt, keep
+in mind what you're looking for, and
+then run it. People don't realize you
+can do this, but it sure opens up a lot
+of power in the model. Another one is
+recursive prompt optimization. So this
+is a situation where you can say you're
+a recursive prompt optimizer. My current
+prompt is here. Your goal is this. I
+need you to go through multiple
+iterations with me. Right? For version
+one, just add the missing constraints.
+For version two, please resolve
+ambiguities. And for version three,
+enhance reasoning depth. You can pick
+what the versions do. But the point is
+you are starting to define aspects of
+the prompt you care about. You're not
+saying what the new prompt will be.
+That's up to the model. and you were
+giving the model multiple iterations in
+one pass. And so it's going back over
+the prompt again and again and again.
+And this can force a kind of structure
+and constraint that improves the quality
+
+[02:01]
+and constraint that improves the quality
+of the prompt on the specific axes that
+you care about. So, those are a couple
+techniques for metarrompting.

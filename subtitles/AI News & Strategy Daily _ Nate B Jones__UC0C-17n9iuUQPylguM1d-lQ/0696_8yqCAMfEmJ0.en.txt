@@ -1,0 +1,17 @@
+[00:00]
+One of the things that Andre Karpathy
+talked about this week is he talked
+about this idea that we need to be able
+to imagine LLMs as nonanimal alien
+intelligences at a high degree of
+fidelity so that we can understand how
+to work with them. Effectively what he's
+saying is we are as a species having our
+first contact with a new intelligence
+and the better we can build a mental
+model of what that intelligence looks
+like and how it works the more
+effectively we can partner together.
+This is not a like scary doomsday first
+contact movie. It's more about imagining
+how the intelligence works.

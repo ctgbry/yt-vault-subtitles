@@ -1,0 +1,48 @@
+[00:00]
+News broke November 13th that Anthropic
+has successfully repelled a Chinese
+state sponsored attack employing Claude
+as an agent. This is the first
+documented case we have where Claude
+code was used as an agent to conduct a
+cyber attack. This is a big enough deal
+that I'm going to go through exactly
+what happened, why it matters, what
+Anthropic's take is, what the cyber
+security industry's take is, and
+ultimately what are the takeaways for
+all of us as we build with these
+systems. First, what happened? In
+midepptember, Anthropic detected a
+sophisticated espionage campaign that
+they attribute with fairly high
+confidence to a Chinese state sponsored
+group, namely GTG.
+The attackers jailbroke Claude code and
+used it as the core engine of an
+automated hacking framework. So Claude
+was wired into tools via the MCP
+protocol to do recon, to write and run
+exploit code, to harvest credentials,
+and ultimately to exfiltrate data.
+
+[01:00]
+and ultimately to exfiltrate data.
+Around 30 high-value targets were hit.
+Most of them were big tech financial
+institutions, chemical manufacturers,
+and government agencies. A small number
+of them had confirmed successful
+breaches. And if you're wondering, no,
+nobody is saying which they were.
+Anthropic says AI performed 80 to 90% of
+the campaign's work. With humans
+stepping in at only four to six key
+decision points per target, the system
+fired off thousands of requests per
+second, well beyond what a human team
+could have sustained. This is likely the
+first documented large-scale cyber
+espionage campaign where an AI agent
+framework, not humans, did most of the
+tactical

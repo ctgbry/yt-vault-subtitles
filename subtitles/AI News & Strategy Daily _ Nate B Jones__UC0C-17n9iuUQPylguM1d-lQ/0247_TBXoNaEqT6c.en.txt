@@ -1,0 +1,23 @@
+[00:00]
+Number four. Number four. Ha. Structured
+output is a baseline. So stop asking
+just for thoughts. Demand scorecards.
+Ask for matrices. Ask for tables if
+you're in 03. I'm just kidding. It will
+give you tables anyway. Ask for phased
+plans. Ask for structured outputs in
+your document. Whatever it is. The more
+specificity you give in the output, the
+more it's going to give you what you are
+looking for. I don't think this is
+necessarily new. We've started to talk
+about this for a while, but we haven't
+put it in the context of GPT5. GPT5 is
+going to reinforce the value of those
+best practice prompt architectures.
+Let's look at prompt designs. You need
+to have an interrogative principle. The
+best prompts expect the model to ask
+questions. I would assume GPT5 will take
+some of what OpenAI practiced in deep
+research and we'll ask questions.

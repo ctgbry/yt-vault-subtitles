@@ -1,0 +1,40 @@
+[00:00]
+So complex tasks will often collapse
+themselves into one shot where the model
+will skip crucial steps in analysis or
+in planning. Like if you say please
+analyze the churn and propose a plan and
+the model just does a single blob pass
+on it. It has very shallow causes. It's
+a weak plan. This is something we don't
+discuss and we often attribute it to
+model quality where we say the model is
+bad because I got a bad response on this
+multi-step reasoning challenge. I want
+to suggest to you here in office hours
+that the problem is probably not the
+model at this point. It is probably the
+way you are handling the planning step.
+A better approach, a baseline approach
+to fix this is to break the challenge
+into stages with explicit outputs and
+validation gates at each stage like do
+stage one only where you review all of
+the incoming data in this way along
+these axes and then report back with
+this output stop and then force a
+step-by-step progression. And that's a
+very simple thing. You can enforce that
+with tool calls agentically in the API.
+
+[01:01]
+with tool calls agentically in the API.
+You can also do it in the chat. You
+notice how I'm deliberately saying we
+face the same problems as developers and
+non-developers. This is different from
+saying the models don't reason. The
+models do reason. But if you care about
+how they do so in the reasoning quality,
+you need to invest in this so you don't
+get stuck in the planning illusion.

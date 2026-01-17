@@ -1,0 +1,29 @@
+[00:00]
+Google smartly placed their image
+generator right out of the gate on an
+API so that agents can call it and come
+back with images. I'm talking about what
+I actually see on X, on Reddit, other
+places with screenshots, with videos.
+People are using the API call to pass a
+string of data in a structured prompt
+query to NanoBanana Pro and retrieve a
+chart or a graph that they can then
+display as the past week's sales, the
+past days customers, whatever it is that
+they need for internal metrics, they can
+just automatically query and get a nice
+chart back from Nano Banana Pro. That is
+generative interface driven by Aentic
+software. Fundamentally, the interface
+is something that is starting to morph
+based on user context and it isn't
+staying fixed anymore. Software is
+becoming generated on demand from intent
+and context. It's becoming private to
+the user in the moment for that
+particular ask. It's becoming discarded
+
+[01:01]
+particular ask. It's becoming discarded
+when that moment passes.

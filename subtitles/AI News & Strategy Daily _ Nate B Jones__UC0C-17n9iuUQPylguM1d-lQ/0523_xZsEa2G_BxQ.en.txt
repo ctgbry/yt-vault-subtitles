@@ -1,0 +1,35 @@
+[00:00]
+And that gives us our first clue into
+the vision that Claude has and what they
+see as important for agents to do. And
+this is important because we're all
+going to be living with agents now
+through who knows when, right? As long
+as we have this AI moment. Claude
+envisions agents as loops that are smart
+with tools. And let me get into that.
+Essentially, what Claude thinks an agent
+should be, what Enthropic thinks an
+agent should be, is a tool that can go
+out, be a general purpose agent, collect
+other tools through the model context
+protocol approach, which Anthropic also
+pioneered, and come back and do a task
+and check in with you. And so, think of
+it as Anthropic's vision is the agent is
+going to go help you with writing, going
+to go help you with Excel, going to go
+help you with code. It kind of doesn't
+care. It's designed to be general
+purpose and it can call the tools it
+needs to call smartly to get that done.
+So if it needs to go get like a Python
+
+[01:00]
+So if it needs to go get like a Python
+library to do mathematical calculations
+so it can get into Excel, it'll do that,
+right? If it needs to go understand and
+remember the skill it's using to code uh
+a React component for coding, it'll go
+do that. You get the idea.

@@ -1,0 +1,20 @@
+[00:00]
+We discovered with word tovec in 2013
+that networks could learn word
+relationships. The famous example is
+that a network could learn that king
+minus man plus woman equals queen. For
+the first time meaning could emerge from
+data not rules. And that unlocked a lot
+of other interesting discoveries.
+However, we were still limited.
+Fundamentally we were limited by
+sequential processing. Everything had to
+be read one token at a time. Training
+was slow. These models struggled with
+long sentences and were generally only
+interesting to academics. They didn't
+really hit production for most use cases
+in the enterprise. Then everything
+changed in 2017 when the transformer
+revolution

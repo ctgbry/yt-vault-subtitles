@@ -1,0 +1,49 @@
+[00:00]
+The window is getting compressed.
+Amplitude launched a free AI visibility
+tooling that's blowing up. You can use
+it as an individual. You can use it as a
+brand. It's completely free. I don't
+know how long it's going to be free, but
+it's free for now. And most people
+think, you know, that's another
+analytics product. But what they're
+missing is that this is the first time a
+major platform has given away
+measurement infrastructure for free in
+an effort to define the terms of the
+debate. And so what they're signaling is
+GEO is going mainstream. Everybody needs
+to be aware of it. We're gonna make it
+free and you are going to be able to get
+not only your score, but by the way, you
+can look up any brand on there for free
+right now. I can look up Nike for free.
+And so if you want to look at any brand
+in the world or you want to look at your
+buddy who you think is doing very well,
+fine, you can do it. And Amplitude will
+write you a free report. It's a really
+cool nugget. And the pattern is very
+similar to when Google Analytics
+launched, right? They made it free. And
+once defining the measurement standard
+
+[01:00]
+once defining the measurement standard
+became the property of that brand. So
+Google Analytics effectively defined the
+measurement standard and became the
+Kleenex of measurement on the web.
+Adoption starts to accelerate and you
+find ways to monetize down the line.
+That's the strategy Amplitude is is
+using. They're using the Google Analytic
+strategy here. The strategic implication
+is that the playbook that I'm sharing is
+not going to stay secret for long once
+there are easy ways to measure it. And
+so I do worry that this 12 to 18month
+window is one that gets shorter and
+shorter and shorter as more of these
+tools come

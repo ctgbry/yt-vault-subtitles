@@ -1,0 +1,44 @@
+[00:00]
+Zero copy architecture is a philosophy.
+It's not tooling. I'll get into what
+that means. So, traditional data
+warehouses copy data to central
+locations. They clean it up overnight.
+Then they make it available for
+reporting. But depending on your needs,
+Agentic AI cannot wait for overnight
+batch jobs. If you want real time data
+today, that won't work. So, agents need
+real time data access to authoritative
+source systems. If you want real-time
+conversations with your data, now if you
+are okay with having day, delayed or
+longer data and you just you're fine
+with that and most of your use cases are
+with last week's data or last month's
+data, this gets easier. The key shift to
+think about is that the behavior of the
+business user is also evolving. So part
+of why in the Salesforce survey,
+companies were 34% likely more likely to
+succeed if they used a zerocopy
+
+[01:00]
+succeed if they used a zerocopy
+approach, which is where you don't copy
+it to a central location. You just tell
+the AI to query the data where it lives
+in all of your different systems. Part
+of why they were more successful is
+because they were able to architect the
+entire system exactly the way they
+wanted without trying to buy from
+different vendors and cobble a system
+together. And so this is in line with
+other surveys we've seen of executive
+leadership that have emphasized that it
+is really important for executives to
+invest in internal capacity for
+architecting systems if you want the
+ability to build and sustain AI long
+term.

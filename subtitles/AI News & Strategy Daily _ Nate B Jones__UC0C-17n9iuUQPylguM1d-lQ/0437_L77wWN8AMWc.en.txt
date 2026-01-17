@@ -1,0 +1,26 @@
+[00:00]
+You can set up claude with multiple
+agents to do that in claude code for
+example. What is the E? Execution.
+Execution environment. Is it cloud
+contained? So it runs on the provider
+sandbox. Chad GPT claude both do that in
+their application interfaces. Is it
+integrated into your IDE? So it works
+within the development environment
+inside cursor for example. Is it
+platform hosted with dedicated agent
+runtime? Naden can be that. It doesn't
+have to be that depending on how you
+configure it. Is it infrastructure
+spanning? Can it deploy or access
+different external systems and use
+complex tools? Manis can do that. You
+can configure cloud code to do that as
+well. And so I when you look across
+this, it's easy for you to say, well
+Nate, you just said a bunch of things,
+right? You said it needs to have
+complexity def defined execution
+environment defined autonomy defined the
+modality defined

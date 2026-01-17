@@ -1,0 +1,23 @@
+[00:00]
+in is simultaneously one of the best,
+most accessible, and most dangerous
+tools I have seen for building AI
+agents. It's accessible in the sense
+that you can just start right now. You
+don't even have to listen to this video.
+It's dangerous in the sense that I see
+time after time after time in real world
+situations where I talk with people
+passionate about agents that NAD is the
+thing that burned them out because it
+was so accessible they felt like they
+could be non-programmers and not pay
+attention to good engineering
+principles. Please recognize that you
+are building real software and follow
+good principles. Make sure you emphasize
+simplicity. Separate concerns. Focus on
+maintainability. Focus on readability.
+Get your documentation done. Work with
+an LLM. Solve a problem that's well
+bounded.

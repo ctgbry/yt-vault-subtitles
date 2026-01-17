@@ -1,0 +1,28 @@
+[00:00]
+I want to give you a sense that
+Goldilocks prompting is a learnable
+skill. It's also a sharable skill. I'm
+going to share a bunch of these prompts
+with you. So, you can start to build
+them, modify them. If you don't like my
+examples, use different examples. But if
+you keep it to relatively the same
+length if you use a similar structure,
+you're going to end up in a place where
+you have guidelines, useful context, a
+scaffold if you will, for large language
+models to use, but not so much that it
+is a brittle prompt that often fails.
+And that's what I want you to have. I
+want you to have a toolkit that feels
+like a well-worn chisel in the woodshed
+and a well-worn hammer. Something you
+can use every day for a wide variety of
+tasks and not get lost on. So there you
+go. That is my plea to start thinking in
+terms of the altitude you're at.
+Thinking in terms of Goldilocks
+prompting, asking yourself, am I
+prompting at the right level for the
+task I'm asking for? Good luck with
+Goldilocks prompting.

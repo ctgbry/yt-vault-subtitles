@@ -1,0 +1,22 @@
+[00:00]
+You need to design systems that are
+human in the loop from the start. I've
+said this before. Your best humans
+should feel more fingertippy on your
+work because of AI, not not fighting AI.
+So AI should be able to draft useful
+pieces of work, whether that's code or
+something else. And a human should have
+comfortable capacity to review that
+work. That means being clear about what
+your AI scope actually is, what the
+scope of your AI assistant for this task
+actually is, and it means getting
+serious about how much of a review
+burden your AI system imposes. If you
+have someone and all they're doing is
+just hitting merge on AI generated poll
+requests on your codebase, you are
+extending vulnerability into your system
+because you refused to think about the
+review bottleneck.

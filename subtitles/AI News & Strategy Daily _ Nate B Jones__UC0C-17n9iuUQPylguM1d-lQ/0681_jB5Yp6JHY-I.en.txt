@@ -1,0 +1,32 @@
+[00:00]
+AI operations is becoming a fullfledged
+headcount function. It is not a hobby
+job. And so once you start to accept the
+idea that some tasks go to Gemini, some
+tasks go to Claude, some tasks go to
+chat GPT, who maintains that, who
+maintains the prompts, who maintains the
+tools and the artifacts, who teaches
+teams how to work with these different
+layers. This is part software
+engineering, part product management,
+part platform team. We're still evolving
+what the role means, but fundamentally,
+if you think one staff engineer who's a
+champion on AI can just do this, you're
+probably underinvested. One very
+reasonable 2025 move is to explicitly
+charter an AI platform group and give
+them a mandate around how they handle
+routing, how they handle internal
+education, how they handle shared
+prompts. Give them a charter that is big
+enough that they can evolve the impact
+of AI across the organization because
+these models are going to keep getting
+
+[01:00]
+these models are going to keep getting
+better in specific areas and you need a
+team that champions moving workflows
+where it makes sense.

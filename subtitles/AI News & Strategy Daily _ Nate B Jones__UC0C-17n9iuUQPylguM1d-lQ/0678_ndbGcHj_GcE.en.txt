@@ -1,0 +1,31 @@
+[00:00]
+We continue to need to rethink what AI
+is capable of doing every couple of
+months. People wonder why I can still
+find material, still be able to keep
+talking about AI. Guys, today is why we
+still have so much to learn about how to
+use these models in practical workflows,
+how to integrate these models, when do
+we call multiple models, do you need the
+smartest model, when do you use Gemini
+3? And every time we advance the
+stateofthe-art, which is what Gemini 3
+did today, we expand the surface area of
+possible workflows that we can cover
+with AI. And today that expanded by a
+really meaningful margin. And so when
+you are thinking about what AI can do, I
+want to encourage you to think about it
+in terms of a trajectory. you are
+understanding AI today as a particular
+area that AI can cover of your work or
+of workflows that you're trying to
+build. Assume it will get better. I keep
+saying this and I know you can't predict
+it to the day, but it will get better.
+
+[01:01]
+it to the day, but it will get better.
+AI will continue to cover more
+workflows.

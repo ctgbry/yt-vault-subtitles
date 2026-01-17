@@ -1,0 +1,27 @@
+[00:00]
+Now Grock is enabled with this new
+system prompt. So toxic content appears
+on X because it always does. That's not
+new. The auto rag begins to pull it in
+and the system rules are different now.
+There's absolutely no filtering at all
+going on. The system prompt is
+instructing Grock to say politically
+incorrect is fine. So it starts to look
+at this stuff and say ah it's
+politically incorrect. That must be
+fine. There's a prompt engineering
+failure there. There's no
+pre-publication review on Grock as
+anyone who's used X knows. is you can
+just say at Grock please answer and
+until yesterday it would it would just
+automatically answer and they resorted
+to deleting later as a way of dealing
+with egregious examples of
+misinformation. And so Grock began
+direct posting to the platform and we
+have a cascade failure situation.
+Multiple systems failed in sequence and
+each failure increased the consequences
+of the subsequent failure.

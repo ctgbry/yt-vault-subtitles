@@ -1,0 +1,57 @@
+[00:00]
+Chat GPT 5.1 dropped November 12th. It's
+the biggest update since chat GPT5 and
+everyone is talking about the emotions,
+the ability of the model to be warmer
+and they're all missing the point. The
+point is that this is the most agentic
+and useful model that we have seen out
+of Open AI and I want to tell you why.
+So I'm going to get into my top 10
+takeaways. I would love to hear your
+take. Let's hop right into it. Number
+one, sharper instruction following. So
+what is it? Chat GPT 5.1 is explicitly
+tuned to follow instructions much more
+faithfully than chat GPT5 or any earlier
+OpenAI model. So OpenAI is framing it as
+warmer. But the the important part is
+that it's better at following your
+instructions. And the way that shows up
+is for example if your prompt says three
+bullets in a one-s sentence summary, the
+model is more likely to do exactly that.
+If your system prompt says don't
+apologize or don't restate the question,
+it's going to try to obey that. The new
+prompting guide explicitly calls on
+developers to reduce conflicting
+instructions because Chad GPT 5.1 takes
+
+[01:02]
+instructions because Chad GPT 5.1 takes
+instructions super seriously and if
+there are conflicts, it's going to try
+and resolve them. The edge case here is
+that there's there there's an upside and
+a downside when you have something that
+follows instructions. In older models,
+if you had sloppy or conflicting
+prompts, they often got averaged out and
+people got used to that. Now,
+contradictions like be concise and
+explain in detail are more likely to
+cause really weird behavior or
+oscillation. Instruction following is
+better, but it's still probabilistic.
+Long prompts or hidden defaults or vague
+language will still lead to drift. So,
+if you want to dig in more, Chad GPT 5.1
+published a usage guide. They published
+a prompting guide. They both call for
+stronger instruction following and the
+need to simplify prompts. You have to
+treat your prompts in your system like
+real specs. My takeaway here is that we
+continue to move toward a world where
+prompt is

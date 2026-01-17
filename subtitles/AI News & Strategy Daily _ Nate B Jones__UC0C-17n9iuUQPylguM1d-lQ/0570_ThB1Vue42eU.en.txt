@@ -1,0 +1,47 @@
+[00:00]
+OpenAI heated up the browser wars by
+launching their browser that is AI
+enabled called Atlas. It is a browser
+that looks a lot like Chrome or any
+other browser you might use except it
+has a chat assistant in the side. In
+this sense is very similar to other
+smart browsers that have already
+launched. The comment browser from
+Perplexity comes to mind. Exactly the
+same idea. You just launch it in the
+sidebar and you do your task with the
+chat and then you have the main browser
+pane just the way it always is. I can
+actually show you what that looks like.
+So, here we are in the browser. I'm
+actually working on a presentation about
+the browser. I realize that's super
+meta, but you can see I have a little
+chat here, right? And you can kind of
+interact with the chat. In this case,
+what I had the agent do is to help me
+create the PowerPoint presentation about
+the agent. And just to be transparent,
+it was able to lay out the styling. So,
+it got this green and this blue
+highlight uh really effectively. It was
+able to lay out the title. It was able
+to lay out the dark background. Look
+very professional. It also was able to
+take and expand the copy really
+
+[01:00]
+take and expand the copy really
+effectively. Where it didn't work as
+well was it struggled with some of the
+details of formatting. I know this
+doesn't look like fancy formatting, but
+just to be transparent, getting it to do
+white text on background was not
+something it was super good at. I wanted
+to try something that was a real life
+task. And I got to say, this is closer
+to useful browser utility with AI than
+I've had in a while. And that's what
+makes me bullish on the trajectory

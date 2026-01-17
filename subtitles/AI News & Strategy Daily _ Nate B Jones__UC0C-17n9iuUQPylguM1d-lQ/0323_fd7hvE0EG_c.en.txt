@@ -1,0 +1,22 @@
+[00:00]
+Can this agent mode go rogue? The answer
+is yes. And Sam Alman himself warned
+about it. He said, "I would not use this
+for email triage because someone, and he
+tweeted this on Maine, someone could
+write an email to me with a prompt that
+agent mode would read when it opened the
+email and that prompt would hijack agent
+mode." That is a new form of prompt
+injection. That is a new form of attack,
+an email as a prompt injection attack.
+Well, if we weren't thinking it before,
+Sam, we're sure thinking it now. Thanks
+for giving everybody the idea there.
+He's right. That is absolutely a way you
+could prompt inject and hack these
+operator mode agents. And the challenge
+is you can do that with other websites,
+too. You can put text at lower contrast
+that humans are not going to notice that
+an agent might notice.

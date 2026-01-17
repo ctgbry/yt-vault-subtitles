@@ -1,0 +1,24 @@
+[00:00]
+Okay, pattern number three. This one is
+related to tools. It is not going
+anywhere. You know what the fastest tool
+to $100 million is? It's not cursor
+anymore. It's lovable. The vibe coding
+tool. It is such a big deal that
+Microsoft launched their own copycat
+version for GitHub called Spark. I think
+natural language driven coding or vibe
+coding. It is in a sense its own
+pattern. I wanted to give it its own
+airtime. You prompt in natural language
+for code generation. You iterate for
+refinements. It's ideal for prototypes,
+for scripting, for exploration, and you
+can honestly build real applications. I
+know people who have built CRM for small
+services businesses off of Lovable. I
+know people who have built small
+applications that are focused on uh
+crypto monitoring off of Lovable. The
+strength is speed. You can get through
+things very very rapidly.

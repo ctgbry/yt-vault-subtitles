@@ -1,0 +1,83 @@
+[00:00]
+repet AI is out and I want to talk about
+it because even though cursor just came
+out last week it's already making cursor
+look outdated it's insane how fast
+things are moving what's interesting
+about repet AI is that it is both a chat
+agent and a multi-step agent Problem
+Solver so if you know Devon which came
+out or went into beta uh a few months
+back it's really an agent that solves
+multi-step problems and that was the big
+sort of Splash that it made like you
+tell the agent to go solve a development
+problem and it goes out does it it lays
+out its own steps it problem solves it
+comes back cursor which made a lot of
+waves just last week is an llm in the
+development environment that you can
+chat with it at its
+code and repet kind of combines those
+two it puts the development environment
+right there you're in repet and at the
+same time you have this multi- uhep
+agent problem solving uh experience and
+so you can chat with just a quick
+conversation to liner with repet and say
+this is what I want to build and then
+
+[01:01]
+this is what I want to build and then
+the AI will come up with a multi-step
+plan and start to execute it
+autonomously and then come back to you
+and check in as needed people have
+already built all kinds of things with
+repet I saw people building web web
+scrapers with we repet uh I've been
+messing around with something with
+Google Calendar with repet super easy to
+get started very intuitive and I think
+it's going to open up new opportunities
+for developers yes I know we worry about
+developers and roles and jobs
+disappearing with I but one of the
+interesting things is these kinds of
+tools are going to democratize access to
+software in a way we've never seen
+they're going to 100x the number of
+people building with software and that
+means there's going to be 100x the
+number of beginner and newbie questions
+and there's going to be a huge Market
+out there for senior developers who can
+share their expertise with people who
+are just getting started and I don't
+just mean YouTube videos I mean if you
+want to start a business where you are
+available as a consult on demand for
+
+[02:02]
+available as a consult on demand for
+beginners in building who are stuck with
+their code and the llm can't help them
+that is absolutely going to be a viable
+service business opportunity if you are
+a senior developer who wants to build a
+debugging app that's going to be a
+viable opportunity there's so many of
+these and billions of dollars are on the
+table in basically helping these
+beginners get into building software and
+I'll be really curious to see how that
+space evolves so I'm excited I don't
+know what next week will bring but
+already repet has changed the game that
+cursor set the table for last week well
+next week will we have a new release
+quite possibly uh but in the meantime
+I'm curious to hear what are you
+building with repet and uh what are you
+running into as an issue what would you
+like help with from a senior developer

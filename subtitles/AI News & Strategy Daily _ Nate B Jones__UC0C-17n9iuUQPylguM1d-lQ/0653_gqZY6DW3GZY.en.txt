@@ -1,0 +1,43 @@
+[00:00]
+If you're a builder, if you're a PM, the
+real takeaway is assume your product may
+sit on both sides of the chessboard.
+Internally, if you're a CISO or a CTO,
+you have to do three hard things today.
+You have to put the AI into the sock
+stack instead of treating it as a side
+experiment. You have to think of it in
+terms of triage, detection, and
+response. You have to explicitly test
+your own agentic systems as if they're
+an attack surface via red teaming. And
+you have to treat MCP and tools, not
+just the model as part of the security
+perimeter. So don't think about
+hardening the model per se. Think about
+the entire security perimeter
+encompassing the agent, the tools they
+use, the orchestration layer. If you're
+a builder, if you're a PM, the real
+takeaway is assume your product may sit
+on both sides of the chessboard. It may
+be something defenders will use and the
+attackers may use it as well. You need
+to be thinking about observability,
+about abuse detection, about controls as
+first class features, not bolt-ons. If
+you are competing on raw model power,
+that is a race to the bottom. But if
+you're competing on trustworthy,
+
+[01:00]
+you're competing on trustworthy,
+controllable, observable, agentic
+systems, that may become a durable edge
+because what is in jeopardy right now is
+trust. This is a really, really
+important topic and I think we need to
+be talking about it more. This will not
+unfortunately be the last time that we
+have this kind of a threat and we need
+to build for it

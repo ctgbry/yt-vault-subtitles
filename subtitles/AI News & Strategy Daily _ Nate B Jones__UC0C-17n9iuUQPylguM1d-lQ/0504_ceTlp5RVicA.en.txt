@@ -1,0 +1,23 @@
+[00:00]
+You should not leave the LLM to make the
+judgment call of which tool to use
+without guidance. It can choose which
+tool to use with guidance from you.
+And that's really important because
+you're essentially going to need to
+compose a prompt for the LLM based on
+the retrieval context it has, the inputs
+you're giving it, any system
+instructions or prompt that you have for
+it, and then whatever uh tool use that
+it uses, right? And so it's basically
+going to go through, it's going to read
+the retrieval, it's going to read the
+prompt, it's going to select a tool
+during the run, then it's going to come
+back with a response and put it wherever
+you want it to go.
+It is dependent on your clarity in your
+prompt and in the retrieval to know what
+tool to use. If there is ambiguity, you
+will get unpredictable responses.

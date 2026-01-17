@@ -1,0 +1,27 @@
+[00:00]
+You have to figure out how to build AI
+product. An AI product doesn't work like
+any other product guys. Other products
+you can just sort of say this is what
+the product is and write the
+requirements and that's how we were all
+brought up if we were npm for a decade
+but not anymore. Now the product is
+probabilistic if you're building an AI
+product. The product is it mostly does
+this but sometimes there are edge cases.
+Sometimes the product is we figured this
+out. Can you help us package it? It is
+not easy to build AI product especially
+when you couple that with the demands
+from executives where executives are
+expecting really rapid ships on AI.
+They're expecting deadlines and your
+engineering team is like not willing to
+give you deadlines on probabilistic
+products so often. So there's the
+product piece, there's the asset piece.
+Both of those are very tricky. There's a
+third piece that no other role has,
+which is that PM has always been a glue
+role.

@@ -1,0 +1,33 @@
+[00:00]
+What do you do when you want to give
+your LLM, your AI, more than will fit in
+a chat? And how do you keep it
+consistent information that you can
+trust? If you have a lot of information
+and you have to like squeeze it into an
+AI, I get this question a lot. People
+are like, "How do I organize all my
+notes? How do I learn a new topic? Nate,
+you have so many articles. What do I do
+with them?" The answer is a personal
+retrieval augmented generation system,
+but for people who are non-coders,
+that's not super accessible. I have been
+looking and looking and looking for the
+past few months for the best answer for
+this. I got to tell you the best answer
+is free and it's Google. Google has
+launched Notebook LM and nothing comes
+close to beating it for the ability to
+learn complicated subjects, the ability
+to have lots of documents in one place,
+the ability to have reliable search
+across those documents. I got to be
+honest with you, the LLM search with the
+lowest hallucination rates right now is
+Notebook LM. There is nothing else that
+
+[01:00]
+Notebook LM. There is nothing else that
+comes close. It is extremely precise
+about what it recalls.

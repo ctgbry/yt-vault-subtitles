@@ -1,0 +1,36 @@
+[00:00]
+Anti-gravity is shifting our sense of
+how we pay attention in coding in ways
+that we all need to understand, even if
+you're not a coder. Because what
+anti-gravity does is it dares you to
+focus on where you need to intervene
+with an agent that's building something
+rather than to focus you on the code
+side of things. And we have seen
+glimpses of this in the direction that
+cursor is evolving, but anti-gravity
+really really leans in. And I think that
+this implies that a lot of the great
+work that we do going forward is going
+to look weirdly similar for great
+product managers and great tech leads
+because it's going to to be work that is
+done by people who can describe what
+they want built really really clearly
+and who can smell a bad artifact really
+really quickly. And so really, you
+should evaluate how you want to work
+with Gemini less in terms of its ability
+to purely write code and more in terms
+
+[01:00]
+to purely write code and more in terms
+of your ability to articulate intent,
+see useful results, and your ability to
+quickly refine and review. Increasingly
+the models will get there on the code
+that needs to be done. But you need to
+be the one who is given space to review,
+refine, pay attention, and decide what's
+acceptable.

@@ -1,0 +1,39 @@
+[00:00]
+The fourth way, the AI way attacks that
+bottleneck, but we don't talk about it
+that way. So, I want to talk about it
+here. You need to separate your
+expertise in whatever domain you're in
+from documentation. And so, instead of
+viewing it as I need to write up this
+whole thing, look at it as here's an
+example from the HVAC contractor, right?
+Five minute voice memo on the site. You
+capture the context walking through
+looking at the HVAC unit. Then tell the
+AI, "Turn this into a professional
+estimate. no jargon. Please emphasize
+comfort and energy savings because
+that's what the client really emphasized
+to me. And then she goes on about her
+work, right? She goes drives to the next
+job site and she can review the output
+on a mobile phone in the car, add in any
+adjustment she has to pricing, upload a
+couple of photos. It takes just a few
+minutes and she may multiply her ability
+to generate estimates by five as a
+result. That's the breakthrough. That's
+the fourth way. Now, let me get to the
+principles that underly this because not
+everybody here is going to be an HVAC
+contractor. Not everybody's a lawyer or
+
+[01:00]
+contractor. Not everybody's a lawyer or
+a doctor. What are the principles that
+we can scale to whether we work in tech
+or not in tech that help us think about
+expertise differently? Number one,
+expertise compounds and documentation
+erodess or doesn't compound.

@@ -1,0 +1,23 @@
+[00:00]
+The problem is this. Fundamentally, when
+the transformer reads that context, it
+does not read it as a structure. It
+reads it as a string of tokens. And so
+larger structures within the document
+within the codebase can get lost. And
+that is why agentic search is picking up
+versus just semantic rag for context
+windows for code bases. And by context
+window in this case, like rag is
+obviously not the context window. Oh,
+it's like part of the context
+engineering that you're doing for the
+codebase. The point is having a search
+function can beat just semantic meaning
+for code bases because there's so much
+structure in code bases. And that is
+just one example of where we can go
+wrong when we assume that context
+windows just as vanilla fill the prompt
+and add the doc context windows work.
+They don't necessarily work

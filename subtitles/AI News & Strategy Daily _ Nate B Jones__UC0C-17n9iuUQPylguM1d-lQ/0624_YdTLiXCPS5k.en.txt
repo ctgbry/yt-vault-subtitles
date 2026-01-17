@@ -1,0 +1,45 @@
+[00:00]
+Kimmy K2 is an open- source model out of
+China and they have done a phenomenal
+job of putting together a PowerPoint
+skill that enables you to make useful
+PowerPoint presentations that look
+really good and I will show one with the
+Substack writeup. You can see it's a
+very simple prompt but you get a very
+useful PowerPoint out of it. That being
+said, because of the where the data is
+located, you cannot really use this in
+the US or the EU for corporate data.
+It's just the protections aren't there.
+And so if you're doing a fairly generic
+presentation where you're not, you know,
+you're using publicly available
+information off the internet, it's
+phenomenal. If you're using it for
+personal use and you don't mind, it's
+phenomenal. Great job. If you need
+corporate data protections, I find that
+Claude Sonnet 4.5 is super super useful
+for PowerPoint creation. It's just a
+little bit less designed. I tend to
+prefer a spare, elegant, minimalist
+approach with my PowerPoints. I wrote up
+a whole guide on this I can link. And
+it's it's going to be what you need it
+to be with with Claude. It's going to be
+
+[01:00]
+to be with with Claude. It's going to be
+usable. It's going to be presentable.
+But if you have a very elaborate
+PowerPoint style, got to be honest with
+you, you're not going to get what you
+want out of Claude. You're not going to
+get what you want out of any AI right
+now. The AIs that are doing the work
+with PowerPoint either have fairly
+strong preset styling or they're very
+clean and minimalist and elegant. One
+thing I will call out is I do not use
+Kimmy K2 for thinking.

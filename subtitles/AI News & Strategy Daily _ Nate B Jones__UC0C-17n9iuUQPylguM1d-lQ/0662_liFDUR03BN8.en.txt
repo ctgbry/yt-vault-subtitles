@@ -1,0 +1,20 @@
+[00:00]
+The plan would be to run a custom Gemini
+based model on Apple controlled cloud,
+keep the privacy narrative intact and
+use it to power a huge AI reboot for the
+company that would enable Apple to get
+Frontierra intelligence without eating
+the full capital expenditure of training
+frontier models. And they can afford the
+cash, right? So they retain the OS
+integration, they retain all of the
+identity and the payment rails. They
+retain all of the hardware margins and
+the your data stays on your device
+story. If Gemini keeps pace or wins on
+quality, and if Apple can pull that
+intelligence in at a steady pace and
+refresh the experience so it stays
+cutting edge, Apple could leapfrog open
+AI on consumer UX, which none of us saw

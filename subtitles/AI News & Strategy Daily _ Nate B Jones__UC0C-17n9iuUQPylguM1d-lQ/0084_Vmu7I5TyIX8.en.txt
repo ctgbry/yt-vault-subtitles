@@ -1,0 +1,22 @@
+[00:00]
+if you'd like to see something that I
+help put up just yesterday you can visit
+tracker. vote uh so I used llm tooling I
+worked with a friend of mine we went
+from idea to production Deploy on a
+custom domain in just a hair over two
+hours and it's a tiny little react app
+and the entire purpose is to provide you
+a simple very fast AdFree way to track
+votes in 50 states and to track the
+calls that are made for each state over
+the course of the November election
+night and I suppose into Wednesday as
+well so if that's useful that's great uh
+I wanted to have fun and build something
+that was uh useful and also a nice
+exercise in showing how quickly you can
+get to production with an idea so that's
+what I did uh I'll link it I think I'll
+also link the GitHub and you can look at
+it so enjoy

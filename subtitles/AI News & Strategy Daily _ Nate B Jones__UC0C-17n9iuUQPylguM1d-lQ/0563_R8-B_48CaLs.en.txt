@@ -1,0 +1,34 @@
+[00:00]
+I did a survey of hundreds of AI tools
+and the best AI tools out there today do
+not look like chat GPT because
+everybody's building AI chat interfaces
+it seems like and the companies actually
+starting to drive adoption, print money,
+and grow fast are building something
+else entirely. And here's what I
+learned. The winning pattern isn't
+better prompts plus smarter models
+equals AI. The winning pattern is
+collapsing the distance between AI and
+the artifact that you need to ship. In
+other words, the best tools do not look
+like chat GPT because they operate where
+your work already lives and they output
+the exact thing that you would otherwise
+produce manually. Let's look for tools
+that are new, innovative, give us direct
+outputs that are useful, and most
+important of all, have the potential to
+replace something in the budget. That
+was one of my standards when I was
+evaluating these tools because I don't
+know about you, but for me, it is not
+worth it to add yet another AI tool to
+the stack if I'm having to add to the
+
+[01:00]
+the stack if I'm having to add to the
+budget, too. I want to have the
+potential to trade something out of the
+software budget.

@@ -1,0 +1,37 @@
+[00:00]
+If you want to get from casual ideiation
+to like clean intent, there needs to be
+a good tool for that. And I just haven't
+found a tool that more easily helps me
+to name this is what I want to build.
+It's a deck. It's a doc. It's
+communications. You can do Slack
+communications. It's code. Whatever it
+is. And that's why I built Hey Presto.
+If it's not for you, if you want to hack
+around in chat GPT, bless you. It may
+work well. I've certainly done it
+before. And if you disagree with me and
+you think intent formulation is not
+correct for prompting, I would love to
+hear what you think the correct initial
+stage is because I do not believe the
+correct initial stage is writing or
+authoring. Either way, I had fun making
+Hey Presto. I think a lot of the future
+of tooling and tooling development is
+talking with communities, hearing what's
+going on, and trying something. My goal
+is to make it useful. I don't need to
+make it super big. I just want to serve
+the community around a need that I
+found. I also think it's good to
+actually build things and launch them if
+
+[01:01]
+actually build things and launch them if
+you talk about AI all the time. And so
+that's another reason I'm putting this
+out there. I think it's important to
+have AI tools that solve problems. If I
+talk about AI tools a lot,

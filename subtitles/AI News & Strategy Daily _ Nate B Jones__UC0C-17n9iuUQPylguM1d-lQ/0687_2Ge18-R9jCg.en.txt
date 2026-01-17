@@ -1,0 +1,31 @@
+[00:00]
+Okay, first what is Nano Banana Pro? It
+is a visual reasoning model. It is not
+your old SCA style dusion model. It is a
+system that understands layout. It
+understands structure. It understands
+diagrams. It understands typography data
+brand grammar style universes. It's
+effectively it's a layout engine with a
+diagram engine with a data visualization
+engine and a style engine all inside one
+model. It is capable of generating
+finished visual artifacts in one shot.
+Dashboards, diagrams, editorial spreads,
+blueprints. It treats text and image and
+charts as inputs and they're all
+co-equal and they're all composable
+elements. It can separate really dense
+multiconstraint prompts into an orderly
+fashion and execute on them without
+collapse. It sort of functions as if
+Tableau and Inesign and Figma all had a
+baby. I want to lay out what I call the
+key breakthroughs of Nano Banana. And
+I'm going to describe them as engines
+because they are driving the results
+
+[01:02]
+because they are driving the results
+that we see. But I do not know what the
+technical breakthrough is for this

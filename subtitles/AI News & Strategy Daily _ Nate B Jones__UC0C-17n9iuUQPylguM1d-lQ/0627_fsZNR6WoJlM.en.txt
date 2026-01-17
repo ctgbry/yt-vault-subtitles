@@ -1,0 +1,37 @@
+[00:00]
+OpenAI hits 1 million business
+customers. So this November 4th, OpenAI
+announced it passed a million business
+company customers, claiming that it was
+the fastest growing business platform in
+history. For context, that means uh that
+there are about 40% growth uh in two
+months in chat GPT for work seats. So
+again, not year-over-year, 40% growth in
+two months and enterprise seats up X
+yearover-year. Codeex usage is up 10x
+since August.x since August. Guys, the
+thing to take away here is really that
+the growth story that OpenAI is seeing
+through deals like this is part of why
+Sam Alman is so optimistic for the
+hundreds of billions of dollars in
+revenue he plans to see by 2030. There's
+been a lot of conversation about OpenAI
+spending plans, their liabilities, who
+plans to fund their data centers, all of
+that. Part of why they feel they are on
+a financially secure footing is because
+they see absolutely stunning usage. If
+
+[01:00]
+they see absolutely stunning usage. If
+you are up 10x in 90 days on something,
+you start to make pretty big projections
+pretty fast because you start to see how
+much of the world is interested in your
+product. And that's my main takeaway.
+Even though we see a tremendous amount
+of challenge in AI implementation, we
+see the bugs getting released. We see
+challenges in agentic deployment.

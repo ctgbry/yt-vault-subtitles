@@ -1,0 +1,28 @@
+[00:00]
+So be aware of that. You may not want to
+use it for coding. Creative writing, you
+have to have a narrative with a
+particular singular voice. I would not
+use GPT5 Pro for this. And I don't know
+of many people who are, so this feels
+like an easy one. But you're going to
+get maybe some really coherent,
+thoughtful plot feedback from this
+model, plot architecture, where it's
+going to give you its solution to a
+particular plot problem, but it's not
+going to make the bold creative choice.
+It's not going to write in a particular
+voice. That is not really what this
+model does. Conversation. And this is a
+really important LLM use case. A lot of
+the LLM use cases that we see in
+production are conversational use cases.
+This is not a model for conversation.
+One, it takes a long time. And two,
+human dialogue needs consistency and
+personality. If it feels robotic, which
+GPT5 Pro is going to feel robotic. If it
+doesn't feel sequential, if it if it
+jumps around, humans aren't going to
+like

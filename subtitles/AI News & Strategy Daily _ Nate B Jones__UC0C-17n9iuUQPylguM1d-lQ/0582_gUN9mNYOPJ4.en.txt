@@ -1,0 +1,42 @@
+[00:00]
+I spent more than 20 hours following AI
+news so that I could get you these six
+stories in less than 10 minutes. These
+are the ones that mattered. OpenAI
+launches the Atlas browser number one.
+This was an MVP in public. We see the
+OpenAI team aggressively collecting
+feedback and prioritizing features and
+going back and improving the product
+already. I expect a lot more of that in
+the future. What we're seeing is a team
+that does not yet have a browser that is
+as good as other AI powered browsers out
+there. nevertheless shipping leveraging
+OpenAI's install base to get rapid
+feedback from lots and lots of people
+and then using their quick ship ability
+to improve and build on it. They say
+they're using codecs a lot to build. I
+expect rapid ships from the team to
+improve this browser based on the
+extensive feedback that they're getting.
+One thing to keep in mind, there is an
+advantage that OpenAI has here that they
+are leveraging for this product and
+others that nobody else has. They have
+your chat GPT memories and they are
+bringing that in for a personalized
+browser experience and they'll be
+bringing that into other relevant AI
+
+[01:01]
+bringing that into other relevant AI
+products as you go forward. Another
+example of that is the inapp experiences
+that they have with chat GPT where you
+can launch a app within an app that is
+going to carry Shad GPT memories too. So
+look for them to keep leaning into the
+personalization angle across the product
+surface going forward.

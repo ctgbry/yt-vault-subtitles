@@ -1,0 +1,40 @@
+[00:00]
+Chat GPT 5.1 has two brains, instant and
+thinking. Now, you might think this was
+already true with chat GPT5, but it's
+much more true with 5.1. So, chat GPT
+5.1 comes in two main variants. Instant
+is the default fast model and thinking
+is the advanced reasoning model.
+Thinking adapts how long it thinks,
+faster for simple tasks or a much more
+persistent long train of thought for
+complicated tasks. I've already noticed
+that just playing around with it in the
+chat and it's even more prevalent in the
+API. Developers are also now able to set
+reasoning effort to none, which
+effectively turns 5.1 into a pure
+non-reasoning model for very low latency
+use cases. Simple requests in practice
+are going to feel snappier than full
+thinking mode, but still smart. And
+harder questions are going to trigger
+visibly longer thinking. For non tech,
+you no longer have to guess why the
+model is slow. You can use the quick
+model for day-to-day stuff and it will
+be good. Emails, summaries, simple
+exploration. And you only need to switch
+
+[01:00]
+exploration. And you only need to switch
+to the thinking model if you want to
+really wrestle with a big decision, a
+complicated document, really confusing
+data. You have that power and it's going
+to feel more like a skateboard where you
+are writing either a lot of power at the
+top and there's a long thinking
+parameter or it will very quickly drop
+off to instant.

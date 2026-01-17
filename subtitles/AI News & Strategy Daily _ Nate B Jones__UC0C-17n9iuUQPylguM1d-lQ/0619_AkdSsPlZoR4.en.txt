@@ -1,0 +1,36 @@
+[00:00]
+Advanced prompters build self-correction
+systems. And so the first category here
+that we're talking about is about how
+you force models to attack their own
+outputs and to get past the fundamental
+limitation of single pass generation
+which is a fancy way of saying you want
+to push the model to get past the
+initial generation step into thinking
+about what it's done. One way to do this
+is called chain of verification where
+you in the prompt require a verification
+loop inside the same conversational
+turn. So this might look like you know
+analyze this acquisition agreement. List
+your three most important findings.
+That's not special. Now same prompt.
+Identify three ways your analysis might
+be incomplete. for each cite the
+specific language that confirms or
+refutes the concern and then revise your
+findings based on all of this thinking
+or this verification. That's a very easy
+example of chain of verification. The
+key thing to realize is you're not
+asking the model to be more careful.
+
+[01:00]
+asking the model to be more careful.
+You're structuring the generation
+process to include self-critique as a
+mandatory step. And that advocate
+activates verification patterns that the
+model was trained on, but you probably
+wouldn't have gotten into by default.

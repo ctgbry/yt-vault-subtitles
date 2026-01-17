@@ -1,0 +1,17 @@
+[00:00]
+If you really care about controlling
+exactly which model you get every single
+time, you have only a couple of options.
+You can either go to the API or you can
+hit the drop-down and you have you don't
+have 10 models of choices. You have if
+you're if you're a pro user, you have
+chat GPT5 pro and you have chat GBT5
+thinking and you have chat GBT5. The
+options degrade from there down to plus
+and free users. And so you have less and
+less choice and have to rely more on the
+prompting I gave you for router where
+you're prompting think hard. This is an
+issue that they are going to address
+with more customization.

@@ -1,0 +1,44 @@
+[00:00]
+He was part of the Alph Go project which
+built at Google an AI system that could
+play Go, which is a game that is harder
+to play than chess. And there's an
+infamous story, if you're familiar with
+the history of AI, called Move 37. And
+Julian talks about it because it's
+important for us today. So, at the time,
+Alph Go was trying to learn to beat the
+best human players, and it had not done
+so. And then at one point in a real life
+game with a real life go master, it
+played a 37th move that was considered a
+mistake by all of the commentators. It
+violated basic strategy and everyone
+thought it was a disaster. But later as
+the game progressed, the masters
+realized that Alph Go understood the
+game on a level they didn't and it was
+something that led to the win the the
+game being won. And the masters then
+realized that actually the move 37 was
+brilliant. And so Julian talks about
+this and this idea of a move 37. And
+what he suggests is that as we start to
+extend the length of time agents can do
+
+[01:00]
+extend the length of time agents can do
+work, the amount of useful work they can
+do, we are going to get to a point where
+there's a move 37 moment uh for AI. And
+we don't know what that will be going in
+where we inherently can't. But it is
+something
+that we need to be prepared for. We need
+to expect something like maybe a Nobel
+Prize scientific breakthrough in 2027,
+2028, somewhere in there, where AI can
+search a solution space faster and more
+effectively than human intuition. And we
+get something that would not have been
+possible at all.

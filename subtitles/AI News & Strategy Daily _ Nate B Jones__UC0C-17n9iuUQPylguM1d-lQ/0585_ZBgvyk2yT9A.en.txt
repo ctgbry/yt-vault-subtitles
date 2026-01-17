@@ -1,0 +1,25 @@
+[00:00]
+I don't think we talk enough about the
+categories of AI adoption failure and I
+want to lay them out really cleanly so
+that we have a vocabulary to talk about
+them to address them and ultimately to
+get back on track. Let's start with
+number one, the integration tarpit.
+Let's say engineering ships working AI
+code in weeks, but sales and legal and
+compliance cycles were never meant to
+run that fast. They stretch into months
+or longer. Cross team stakeholder
+meetings are multiplying all over the
+business talking about policies and
+approvals. The root cause here is that
+the organization's budget for AI
+development was structured in terms of
+dollars and cents and not in terms of
+coordination cost. When you are working
+with a prototype, it's very simple. But
+a prototype does not equal a system that
+fits data architecture, compliance, and
+politics together. Yes, organizational
+politics are relevant.

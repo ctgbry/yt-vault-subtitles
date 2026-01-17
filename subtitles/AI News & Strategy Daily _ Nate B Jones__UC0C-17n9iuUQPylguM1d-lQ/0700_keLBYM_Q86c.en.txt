@@ -1,0 +1,17 @@
+[00:00]
+For anything that ends up having to go
+through multiple edits that touches code
+where you're trying to stay consistent
+across different formats in an article
+or whatever it is, Opus 4.5 is the
+safest pair of hands. So for images, for
+UI concepts, for marketing visuals, Nano
+Banana is really helpful, but you find
+you feed that with other things. Right
+now for decks, I tend to build them in
+claw and then I tend to polish them by
+running that claw deck through Notebook
+LM, which is powered by Gemini and
+powered by Nano Banana Pro. I get that
+visual polish over the top of a deck
+with bones constructed by clot.

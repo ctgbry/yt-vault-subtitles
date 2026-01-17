@@ -1,0 +1,22 @@
+[00:00]
+A lot of the fancy work that companies
+do to keep context windows open a long
+time basically revolves down to this
+fancy memory management. This is one of
+the reasons why OpenAI feels like it has
+a larger context window even though it
+doesn't. They don't exactly reveal what
+they do, but basically they do some
+fancy work with memory management to
+keep the conversation flowing longer.
+Whereas Claude has a pretty hard memory
+cap and they aren't keeping the
+conversation longer with a technique
+like this right now at least. And so
+you'll run into the you've run out of
+memory on Claude really fast. And what's
+fascinating is people think that means
+that Claude has shorter context windows
+and shorter memory, but that's not true.
+OpenAI is fooling you with fancier
+memory management.

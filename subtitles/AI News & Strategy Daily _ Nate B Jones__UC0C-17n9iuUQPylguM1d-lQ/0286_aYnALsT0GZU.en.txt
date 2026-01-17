@@ -1,0 +1,23 @@
+[00:00]
+Humans are lossy compression functions
+too. I'll say it again. Humans are lossy
+compression functions too. Our
+forgetting and compression is
+fundamentally similar to what these
+models do. That is the bet. I don't know
+that I agree with it. The context window
+problem suggests this bet might be
+incorrect. Yes, we forget details, but
+we maintain coherent mental models.
+Sure, I can't recite page 50 of the
+legal document verbatim, but I
+understand how chapter 20 relates to
+chapter 1, and I can tell you pretty
+clearly. LLM, it's not the same, right?
+research shows they're doing pattern
+matching. And if they're doing pattern
+matching, that's not the same as
+understanding the structure. And if this
+concept of quadratic complexity really
+applies, it's it's not just
+inconvenient.

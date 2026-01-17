@@ -1,0 +1,40 @@
+[00:00]
+If you're looking ahead to 2026, these
+are the three mental models that you
+need to survive in your career as we
+start to have AI agents more and more in
+the workplace. Number one, AI is a
+collaborator on structured work. It is
+not a magic brain. So, I'm going to say
+it again, LLMs are pattern machines.
+They're very, very good at transforming
+text and code. They they can map messy
+inputs to structured outputs very well.
+They follow explicit instructions
+increasingly well and they can do the
+same thing a thousand or 10,000 times
+and never get bored. But they are not
+inherently good at making high stakes
+decisions with very ambiguous
+trade-offs. They don't understand your
+organization's politics or background
+well. They don't know your context
+unless you give it to them. And they are
+very very bad at respecting boundaries
+that you have not defined previously.
+And so the right question is not can AI
+do my job although I hear that a lot.
+That that's wrong. That's not the right
+question to ask given what we know about
+
+[01:00]
+question to ask given what we know about
+AI agents today. Instead, it is which
+parts of my job are repetitive, are
+checkable, are describable, are
+verifiable, and how do I turn those into
+workflows that AI can run or assist
+with? How do I begin to take charge of
+how AI shapes my job? And if you can't
+describe the work clearly, that's
+something that you're going to have to

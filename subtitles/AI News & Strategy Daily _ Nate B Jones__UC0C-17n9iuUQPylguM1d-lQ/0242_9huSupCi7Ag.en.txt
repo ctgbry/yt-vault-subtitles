@@ -1,0 +1,21 @@
+[00:00]
+Look, I get it. Claude code is powerful.
+It is good at code. They have done
+something magical there. I strongly
+suspect it is because there's not the
+same token constraints that you would
+have if you installed Claude in another
+tool like cursor. And because Anthropic
+can control the whole experience, they
+can make Claude code work exactly the
+way they want. It feels a lot like an
+internal development tool that got out
+into the wild, which I believe it is.
+When you think about it that way, what
+you realize is a little bit of what
+senior engineers start to realize after
+time in the discipline. It's not the
+ability to write the code that is
+transformative. It's the ability to
+think about the structure of the project
+and how to order

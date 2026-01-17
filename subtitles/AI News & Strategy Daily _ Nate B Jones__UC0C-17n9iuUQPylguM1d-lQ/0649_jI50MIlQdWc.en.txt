@@ -1,0 +1,50 @@
+[00:00]
+Tools are now normal. They're not
+advanced. 5.1 is designed to work with a
+full tool stack. Web search, code
+execution, file reading, and for
+developers, custom tools and APIs.
+OpenAI markets this as the flagship for
+coding and agentic tasks with very
+strong tool calling performance even in
+instant or non-reasoning mode. In chat
+GPT, you can automatically use search
+when needed. You can read uploaded
+files. You can run code in certain
+contexts. And in the apps, you can
+actually orchestrate calls to your own
+APIs. You can orchestrate calls to your
+databases or services instead of just
+generating text. There's a lot more
+flexibility here. Now, we've been
+calling tools for a while, and we know
+that tool use isn't magical. The model
+still needs clear descriptions of what
+every tool does, what inputs are
+allowed, and when it should not call a
+tool. For example, sensitive operations.
+External tools introduce new real world
+failure modes, security issues, API
+errors, stale data. So you need to think
+about 5.1 as an orchestrator over your
+APIs more than a tax generator. The hard
+
+[01:02]
+APIs more than a tax generator. The hard
+work for engineers is going to be in
+designing good tool schemas in
+understanding safety checks that need to
+be run and understanding that success
+will depend on the quality of your tools
+and prompts rather than just squeezing
+out slightly better text response to a
+random battery of questions from a
+chatbot. For non tech, you don't need to
+know what tools are under the hood
+necessarily. You just need to remember
+you can say things like use the web and
+show me sources or please summarize this
+PDF into three bullets for the VP.
+That's you asking the model to reach
+outside itself instead of hallucinating
+everything from

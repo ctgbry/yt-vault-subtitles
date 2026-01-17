@@ -1,0 +1,30 @@
+[00:00]
+Let me just show you a really cool skill
+that falls in the meta-kill category,
+but I don't think anyone's doing this.
+This is the Claude skill for continuous
+learning. Okay, here's the idea. I want
+to take this idea that I've been sort of
+finding across the web around continual
+learning as a challenge. What would it
+look like? And I want to turn it into a
+skill because no one's done that and I
+think it's super interesting. And so I
+take that as a challenge and I say
+within the constraints that you've got,
+tell me how you would solve this
+problem. And I want to make it clear,
+right? So Claude basically identifies
+that the key thing, the bottleneck is
+manually adding any new update, but
+Claude could identify opportunities to
+create new skills autonomously within
+natural conversation, which would be a
+huge plus. Claude can recognize learning
+moments. It can document the learning in
+a structured format and recommend a
+skill. And it's sort of gives me a
+sample of how this would work. And long
+story short, I can build a continual
+learning capture skill and stick it into
+cloud, which I think is super

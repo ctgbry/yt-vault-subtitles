@@ -1,0 +1,49 @@
+[00:00]
+Planning matters and Codeex is
+extraordinary at planning. And I want
+you to look at this especially if you
+are not an engineer. Codeex is already
+winning because Codeex is much more
+reasonable. It is headlined properly. I
+see possible approaches and there's
+three options that are really easy to
+scan. I can take a tool augmented
+approach, an event- driven workflow or
+an agentic pipeline. It gets into
+confidence thresholds really fast.
+Whereas codec stays really focused at
+the strategic layer, right? it says okay
+what are some component considerations
+you want to think through I feel like
+I'm talking to a more senior member of
+the engineering team when I'm looking at
+codeex over here whereas when I'm
+looking at cloud code it just jumps
+right into this specific failure table
+and tries to explain what what the heck
+it means by these specific failure
+choices I am not ready to get into
+specific failure modes that is why I
+asked the system to think strategically
+only codeex figured that out and codeex
+is here having an earnest conversation
+with me about how I should think about
+the components. It's giving me ideas for
+
+[01:02]
+the components. It's giving me ideas for
+degradation paths that are concise and
+easy to understand. Classification
+uncertainty is one. Model hallucination
+is one. This is so easy to follow. It is
+so easy to think through. It is so
+clear. And then it gives me a series of
+strategic questions around data, human
+in the loop, tooling, scalability, etc.
+And by the way, the leverage in
+engineering and also non-engineering
+tasks in AI right now is in planning.
+Planning matters and codeex is
+extraordinary at planning. And I want
+you to look at this especially if you
+are not an engineer.

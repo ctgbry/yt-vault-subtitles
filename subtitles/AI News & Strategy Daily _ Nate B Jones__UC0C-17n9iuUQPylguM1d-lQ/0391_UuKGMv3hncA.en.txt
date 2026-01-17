@@ -1,0 +1,14 @@
+[00:00]
+Number three, model drift and mismatch.
+So old workflows produce different
+outputs after migration to chat GPT5.
+That is somewhat inevitable. I would
+suggest if you've been running workflows
+in production that you I I hope that you
+have been keeping track of your prompts
+that you have been versioning your
+prompts and that when you have a new
+model that is responding differently
+with outputs because drift is inevitable
+with new models. any new model would
+have produced drift.

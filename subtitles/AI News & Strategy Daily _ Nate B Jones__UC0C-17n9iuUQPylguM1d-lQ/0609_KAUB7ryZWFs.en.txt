@@ -1,0 +1,54 @@
+[00:00]
+Here's what I haven't talked about
+before. In practice with real teams
+building real AI systems, what I'm
+seeing is that ownership is
+irreplaceable at the level of the
+individual working with the AI. If you
+don't have a very strong sense as an
+individual, as an individual contributor
+of ownership and quality and assessing
+the bar the AI is using to solve and
+insisting that the AI isn't doing good
+enough when it really isn't, you're not
+going to be able to add any value at
+all. Whereas in the past, you could have
+that bar sit at the team level and the
+manager would be able to sort of manage
+the informationational standard and it
+would be okay because all of the humans
+were working together and information
+was moving slowly enough and we were
+exploring the problem slowly enough that
+the manager could act as a quality bar.
+In this day and age, that's not true. AI
+is giving everyone so much superpower
+that you have to devolve ownership down
+to the level of the individual
+contributor. And I think that at root is
+one of the reasons why organizations are
+struggling so much with the AI
+
+[01:00]
+struggling so much with the AI
+transformation. It demands more of our
+individual contributors than it ever has
+before. And we're not used to a world
+where the individual contributor is the
+atomic unit of the corporation as
+opposed to the manager. I am beginning
+to think that that is not how AI native
+organizations are actually going to be
+configured. The power you have with AI
+resides so heavily with the individual.
+I don't think you can do it any other
+way. I think you have to put ownership
+at the level of the individual
+contributor. And that has profound
+implications for how we train people.
+Because really what we need to train
+people to do is you need to start by
+taking ownership of your domain and your
+situation of your problems of the way
+you work with AI of the bar you use and
+everything flows from that

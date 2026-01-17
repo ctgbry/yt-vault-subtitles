@@ -1,0 +1,27 @@
+[00:00]
+I want to suggest that we have at least
+six different categories, practical
+categories of AI agents out there today
+that sort of fit within this broader
+spectrum of use cases. The first one,
+it's the simplest, right? The
+conversational generators. Uh, Chad,
+GBT, Claude, and Gemini all come to
+mind. Deep Seek comes to mind. You use
+them when you need highquality text
+generation back fundamentally. The
+second class is coding assistance. when
+you need to write code and you have a
+feedback loop for it depending on how
+you configure it. Cloud code is a great
+example here. Cursor does this, wind
+surf does this, etc. You can't use these
+when you need sort of broader system
+orchestration unless you're going to
+configure them specially. And so I think
+that the exception to a lot of this is
+cloud code because it's such a malleable
+tool. And so that's why it appears in a
+couple of these. But I think that code
+assistant is the good vanilla or generic
+use case for cloud

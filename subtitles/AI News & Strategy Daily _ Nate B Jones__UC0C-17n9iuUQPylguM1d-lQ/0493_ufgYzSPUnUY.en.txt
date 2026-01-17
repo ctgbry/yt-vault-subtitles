@@ -1,0 +1,21 @@
+[00:00]
+Any AI system I have used has the
+tendency to silently degrade tool calls
+and not tell you. And the reason why is
+they're trained to be helpful. And if
+something goes wrong and they forget the
+skill or they can't call the skill
+reliably, they will just go to the next
+best thing, never tell you, and do their
+best to make it work. You have to be
+intentional at discovering what skills
+work, how those skills work, and then
+think carefully about the prompts you
+construct to insist on workflow
+enforcement. If this sounds like systems
+thinking, I warned you it is. But I'm
+doing a lot of the work for you on the
+prompt creation here. And I I want to
+remind you that this is systems thinking
+once to save you boatloads of time down
+the

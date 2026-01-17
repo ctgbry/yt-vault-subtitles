@@ -1,0 +1,26 @@
+[00:00]
+you you are all about to have kind of
+like Luke Skywalker the ability to build
+your own lightsaber which is super cool
+but please be careful to build it right.
+Please be careful because the
+consequences are an insecure agent that
+generates production workloads that
+nobody has monitored or nobody has
+watched over, nobody's able to maintain
+when you're out and that generates
+ultimately organizational
+vulnerabilities. And as much as Chad GPT
+is going to lean on the safety
+guardrails, which are cool, it's not
+enough. It's organization's job to
+design agentic policies that actually
+scale. It's team's jobs to design
+agentic policies for teams that work for
+the whole team, not just the individual.
+And as an individual, it is your job to
+build the most scalable and sustainable
+agent you can. And that is what these
+principles are designed to do. Good luck
+with all the power you're about to be
+given.

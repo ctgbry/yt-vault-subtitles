@@ -1,0 +1,34 @@
+[00:00]
+Now, I think the thing to call out is
+that if you have an agent that excels at
+complex multi-dommain workflows where
+the alternative is hiring expensive
+specialists, what you have is still a
+premium automation tool rather than a
+general productivity app. We keep coming
+back to this idea that there are certain
+buckets in the agentic landscape that
+are more specialized than others and
+where you're going to be paying more as
+a result. And one of the things I want
+you to take away from this is that AI
+agents should not be viewed as a
+singular bucket anymore. You have agents
+that are going to be positioned as
+general productivity tools and you have
+agents that are going to be positioned
+as specialist tools for specialist
+tasks. Manis, as it stabilizes, is
+looking more and more like a specialist
+tool for a specialist task. It's looking
+like a surgeon scalpel versus a Swiss
+Army knife. I'm sure they would like to
+be a Swiss Army knife from an economics
+perspective, but because of the
+engineering challenges I've identified
+earlier in this video, it's a really
+
+[01:00]
+earlier in this video, it's a really
+hard position for a multi-agent
+orchestrator to be Yeah.

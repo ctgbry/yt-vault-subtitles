@@ -1,0 +1,31 @@
+[00:00]
+Chat GPT launched an absolutely terrible
+resource for prompting and I think it
+deserves more attention because we need
+to talk about how bad AI education is
+today. They're terrible prompts, guys.
+They're like one or two line prompts
+that are extremely generic. We need to
+help people to understand principles
+that can scale. If you're going to give
+people simple prompts, maybe that's all
+right as long as they understand one,
+this is just the start and you need to
+do better. And two, this is how it ties
+to your workflow and moves things
+forward. And three, these are the
+principles that scale with it. Like if
+they had taken the time to say from
+their own best practices, if OpenAI had
+taken the time to say it's really
+important to establish context for the
+prompt, having a goal for the prompt is
+important. Look how we're doing that
+even in a simple prompt, right? Like
+that's helpful. That helps you to
+internalize these principles. If you
+don't do that, you're going to be stuck
+thinking that you understand prompting
+and AI and you're going to get left
+behind in 2026. We don't want that. We
+need better prompt education.

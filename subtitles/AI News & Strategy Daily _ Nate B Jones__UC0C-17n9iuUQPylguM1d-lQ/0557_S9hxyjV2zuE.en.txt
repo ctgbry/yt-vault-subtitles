@@ -1,0 +1,22 @@
+[00:00]
+Anthropic launched Claude Skills. It's a
+reusable agent customization platform
+that packages instructions, scripts,
+resources together. I did a whole video
+on it. I think it's one of the biggest
+releases of the year. It takes the
+combination of manual orchestration and
+context and prompts out of the equation
+so that you can autocompose what you
+need to do by assembling the context on
+the fly. Simon Willis, who I read often
+and really respect, called this a bigger
+deal than the model context protocol
+server, which we all know is all over
+the ecosystem. I agree. I think it's a
+huge release. Watch for how enterprises
+handle permissions with this. Watch for
+open AIs and Google's competitive
+response. There will be one. Watch for
+whether skills become a standard
+abstraction for agentic workflows.

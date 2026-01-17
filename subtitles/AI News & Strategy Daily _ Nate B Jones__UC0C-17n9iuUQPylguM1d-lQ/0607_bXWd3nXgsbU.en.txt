@@ -1,0 +1,48 @@
+[00:00]
+OpenAI has a rumored trillion dollar IPO
+and Nvidia hits $5 trillion in market
+cap. What's the real story here? It's
+actually not the rumored IPO, although
+that was news that went around the
+world. The real story is that OpenAI is
+unbundling the tech stack and that is
+part of how they are reaching this
+valuation. They have reached an appetite
+for compute that exceeds even
+Microsoft's cloud's capability to
+deliver. And so they are unbundling and
+they have dropped the Microsoft first
+right of refusal on compute and they can
+now get compute from anywhere from
+Oracle from Google from elsewhere. That
+might seem like it's strange because
+some of the folks like Google make their
+own models but we already see anthropic
+and Google working together. The bottom
+line is not who ends up in a deal with
+who. The bottom line is that everybody
+is in a race to build infrastructure.
+And if you want to look at when the next
+great model comes out from Gemini or
+from OpenAI or from Anthropic, the
+answer is increasingly not dependent on
+researchers doing smart things with
+models. It's dependent on people getting
+
+[01:02]
+models. It's dependent on people getting
+chips into data centers with power
+because researchers keep communicating
+and leadership at these companies keeps
+communicating we're not blocked on
+progress. We're blocked on chips. We're
+blocked on the ability to get enough
+chips into data centers to serve demand.
+As I called out earlier in the week,
+that incredible appetite for AI is part
+of how we know we're not in a bubble.
+This is getting built out to serve a
+backlog of existing demand. And that
+demand has no signs of slowing down. It
+turns out the world has near infinite
+appetite for intelligence.

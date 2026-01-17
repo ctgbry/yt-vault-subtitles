@@ -1,0 +1,42 @@
+[00:00]
+We are figuring out which AI is able to
+help us find the true best deal on
+commonly discounted items. I chose a
+sectional couch for this, but you can
+absolutely use this for TVs or anything
+else that you're looking for. What are
+the contestants? Chad GPT 5.1, Claude
+Opus 4.5, Gemini 3, and two smart
+browsers. I went with Atlas and I went
+with Comet. So, number one, the intent
+has to be very clear for the model to
+come back and give you what you want. I
+know that's not new, but it came
+through. Comet did not figure out even
+though I was on a gray sectional couch
+page that I wanted a gray sectional
+couch. So, the color didn't come through
+because I didn't specify it. Anywhere
+you don't have clear intent, the model
+is just going to give you its best
+guess. That's why I built a prompt that
+is actually designed to let you specify
+as much as you want, in as much detail
+as you want, so the model can go and get
+it. And you'll see what happens when you
+
+[01:00]
+it. And you'll see what happens when you
+start to get clear and how much more
+powerful the search gets. Overall, the
+browsers have a very different approach
+architecturally than the models do. The
+models can use web search tools and then
+their own inference or reasoning
+abilities to figure out what is the
+right answer to the prompt. The web
+search tools are actually equipped with
+more information. They are able to look
+at the web page itself along with
+whatever prompt you give. What you see
+is what you get here,

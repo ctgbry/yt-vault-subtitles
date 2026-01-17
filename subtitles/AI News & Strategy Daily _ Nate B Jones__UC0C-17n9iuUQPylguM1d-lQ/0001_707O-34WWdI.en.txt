@@ -1,0 +1,129 @@
+[00:01]
+okay I wanted to talk a little bit today
+about the biggest flaw that I see in
+most product management
+thinking fundamentally when we make
+decisions as product managers what we're
+really looking to do is we're trying to
+understand is this the bet that I want
+to make right now is this the right bet
+for the
+moment and what I want to suggest to you
+is that most of the time when we are
+looking at this what we're we're trying
+to do is actually assess the correct
+opportunity cost that we can use as a
+baseline to make our
+decision and the flaw we have in our
+thinking is that at the end of the day
+the opportunity cost is actually not
+doing
+nothing and it's also probably not
+building the next best thing on the road
+map the actual opportunity cost is
+building something in the wrong
+direction
+
+[01:00]
+direction
+and I want to kind of get into why at
+the end of the day you should stop
+thinking of your releases as dot points
+on a graph they're not like individual
+moments in time where you like Scribble
+in the line and you're done right like
+no your releases are more like train
+tracks they're going in a particular
+direction you're laying the tracks in
+that direction and by the way you should
+expect that your developers will have to
+continue to build in that direction
+because if it's at all successful
+there's going to be company momentum
+behind it there's going to be an
+expectation of support behind it there's
+going to be sustainment costs what we
+call keeping the lights on or
+Klo all of that is going to be built in
+to the cost of your one little dot Point
+launch the thing that you're proud to
+send out on a Thursday don't release on
+Fridays and say hey we got it
+done you just have to be sure you're
+going in the right direction and I think
+that's something that we really miss we
+talk a lot about how you Scope an MVP
+
+[02:01]
+talk a lot about how you Scope an MVP
+launch but we talk a lot less about how
+you
+actually decide on whether you're going
+in the right direction and just to give
+you some context I actually asked chat
+GPT what is the approximate average cost
+of a team of software developers and a
+product manager and I don't believe the
+answer but the answer it gave me was
+about
+$650,000 a
+year and when you're looking at that
+kind of cost and you're a CEO what
+you're worried about is that this team
+is going to do nothing that this team is
+sitting there and you're spending
+thousands of dollars a week and you're
+just not getting value and so that's why
+often times you have leaders who will
+tell you that what they really want to
+do is make sure that the P pipeline is
+packed right like that every spare
+minute of your developer's time is used
+for this or that or the other thing and
+I will tell you if you over optimize for
+that last 5 or 10% of time you're not
+getting a lot out of it because one your
+
+[03:00]
+getting a lot out of it because one your
+developers are going to be inherently
+overloaded and work is inherently hard
+to estimate in software engineering and
+two you're missing the forest for the
+trees because the biggest cost for you
+is not the developers taking a minute to
+breathe the biggest cost is building in
+the wrong direction and your PM aiming
+you the wrong way and we just don't talk
+about that and I think we need to
+because if you don't understand how to
+look at a market look at the competitive
+landscape look at your product look at
+the future set look at your company
+position your talent base and then say
+this is the this is the correct
+direction to go in and then walk back
+into what is the correct piece of
+software it's going to be hard right
+like you're going to be sort of randomly
+producing releases and hoping they add
+up to something and that is what I see
+in a lot of road maps is it's kind of
+this like sprinkle salt and pepper on
+the counter approach where you just sort
+of sprinkle releases out there and that
+you you hope they add up to something
+but that's it's not how you cook a dish
+
+[04:00]
+but that's it's not how you cook a dish
+it's also not how you do product
+management it's not how you release in a
+strategy that actually gets you
+somewhere so remember to think about
+what you're aiming for and remember to
+reflect on the actual opportunity cost
+of going in the wrong direction when you
+make your assessments in product all
+right there you go that's my tip for the
+day

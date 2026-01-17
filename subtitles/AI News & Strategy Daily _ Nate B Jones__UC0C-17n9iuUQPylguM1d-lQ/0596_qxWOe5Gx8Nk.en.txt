@@ -1,0 +1,27 @@
+[00:00]
+Perplexity is a search engine like
+Google but it's AI native. It
+specifically uses retrieval augmented
+generation as its fundamental
+architecture. That means it retrieves
+relevant documents, extracts paragraphs
+and uses this information to craft
+answers with citations. So the pipeline
+looks like external documents across the
+internet are embedded. They're stored.
+Every query triggers a fresh retrieval
+of relevant documents. But there's an
+important nuance here. If you are using
+perplexity's research mode, which we
+will see in a moment, I'll show you it.
+Then you have a new approach using the
+same architecture. And I want to explain
+it sort of in layman's terms. It's
+called a gentic rag. And what it means
+is research mode will perform dozens of
+searches, read hundreds of sources, and
+do multiple passes across the rag
+architecture to ensure it finds the best
+possible answer. It basically takes the
+effort level on perplexity and turns it
+up to 11,

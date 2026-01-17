@@ -1,0 +1,26 @@
+[00:00]
+progress is demonstrabably continuing at
+exponential rates. We have in any
+benchmark that is not saturated is
+showing continued strong gains. I think
+my favorite is MER right now because it
+just doesn't have a top. All it does is
+it measures how long a task takes a good
+human and then it says can an AI do it
+50% of the time. Now, I'm the first one
+to say 50% is a low bar, but at least
+it's a consistent bar. And we keep
+showing exponential gains on that as a
+use cases get stronger. And we're not
+bottoming out. That's not slowing down.
+We keep doubling every few months.
+Number fourth, we are still
+underallocated on chips. In in the same
+interviews that got blown up around the
+world around AI and bubbles, Sam
+admitted he could release a smarter
+model, but he lacks the chips to do it.
+Anthropic is also famously
+underallocated on chips. Everyone's
+using them for coding and they just
+can't get enough chips.

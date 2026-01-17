@@ -1,0 +1,34 @@
+[00:00]
+I haven't talked a ton about how legal
+is seeing tremendous changes with AI.
+But even though legal has a very high
+bar on accuracy, they cannot mess
+anything up. You can still use something
+like co-pilot to get an early read and
+reduce the time. I think the time taken
+was like 7 days to 7 hours and they got
+more consistent quality because they
+uploaded the contract and critically
+they asked the right prompts, identify
+obligations, identify deadlines, flag
+unusual terms compared to our standard
+which requires co-pilot to know your
+standard. Create a summary in plain
+English. It's all about the kinds of
+prompting that you bring. And you see
+how they're prompting in ways that give
+the AI room to succeed here. Healthcare
+is another example. You can use Copilot
+for patient discharge summaries. Doctors
+might spend 30 minutes writing
+discharges. Now, Copilot can just pull
+from patient records, create the
+discharge summary, including
+medications, and follow up and be done
+with it. It can result in a dramatic
+drop in the time spent doctors on
+doctors spend on paperwork and more time
+
+[01:01]
+doctors spend on paperwork and more time
+with patients.

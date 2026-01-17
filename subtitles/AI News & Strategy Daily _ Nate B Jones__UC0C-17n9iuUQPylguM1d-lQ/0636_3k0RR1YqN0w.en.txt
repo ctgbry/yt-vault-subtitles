@@ -1,0 +1,41 @@
+[00:00]
+So when you are trying to find an AI
+tool so often you think about hopes, you
+think about dreams, you think about how
+far you can go with the tool as an
+example. Lera Guard, which I'm going to
+show here in a second, it cuts down
+prompt attacks. That is its purpose. It
+stops prompt injection attacks. Maybe
+not perfectly, but a lot of them. If you
+have a production AI system, you may
+want to think about a tool like Larag
+Guard because of that. I want to keep
+track of my chats when I have them with
+Claude, when I have them with chat GPT,
+when I have them with Perplexity, but I
+I don't have one place to do that. Well,
+there is a startup that's addressing
+that now. It's called Nessie Labs, and
+they have a product out for Mac called
+Nessie, and that's exactly what it does.
+It imports your chat, GPT chats. If you
+use Chrome, it's going to work with you
+to keep track of your chats. It is laser
+focused on that specific painoint, but
+again, it's not perfect. It does not
+work if you use the clawed app builtin.
+It doesn't automatically keep track of
+
+[01:00]
+It doesn't automatically keep track of
+your chat GPT chats that are not in
+Chrome. So, there are weaknesses, but
+you can't assess whether it's right for
+you or not if you don't know very
+specifically what the pain is that
+you're trying to solve. If you really
+care about getting all your chats in one
+place and organizing them and you can
+name that pain, then maybe it's worth
+it. Maybe that's the right one to go

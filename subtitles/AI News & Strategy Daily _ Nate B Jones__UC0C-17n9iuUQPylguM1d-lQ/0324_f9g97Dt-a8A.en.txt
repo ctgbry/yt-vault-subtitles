@@ -1,0 +1,22 @@
+[00:00]
+Recently, in the last year or so,
+they've been able to read Excel.
+Outputting Excel is still sketchy. If I
+go to 03 and I say, "Hey, 03, make me an
+Excel." Doesn't go very well. It doesn't
+know how to like write formulas down.
+But the problem is this. There is a
+difference between being able to build a
+simple four or five tab spreadsheet, I
+don't know, a dozen rows of information,
+a dozen columns of information on each
+tab, and being able to tackle the
+multi-,000 row spreadsheet from hell
+that keeps most marketing teams going.
+I've had to maintain that spreadsheet. I
+know what they're like. I would not give
+that to this tool. It would be like the
+intern ordering the cupcakes, but worse,
+because then you don't know how to back
+up. There is no undo function on what
+operator is

@@ -1,0 +1,22 @@
+[00:00]
+What are the things we can think about
+with Chad GPT5 that we know from
+publicly released statements that we can
+then infer back into prompts that are
+useful even with today's model with
+claude 4 with Gro 3 with Gemini 2.5 Pro
+with the 03 and 03 Pro models I'm going
+to suggest a few ideas for you number
+one extreme specificity is a focusing
+mechanism these models are so big GPT5
+will handle even more complex
+constraints if you master precise
+specifications now if If you can specify
+word counts, if you can specify formats,
+if you can specify requirements by
+number, if you can use XML tags in some
+cases, that specificity
+does not overwhelm these models. It
+actually helps you to focus them in ways
+that are useful. Number two, text is
+currency.

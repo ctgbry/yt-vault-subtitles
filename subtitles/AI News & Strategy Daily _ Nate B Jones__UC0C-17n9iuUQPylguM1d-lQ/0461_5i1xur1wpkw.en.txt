@@ -1,0 +1,20 @@
+[00:00]
+Story number six, Adobe is buying
+instead of building. Adobe has taken a
+beating recently in the public markets
+because their AI products are widely
+perceived to be missing the mark. And so
+they announced comprehensive thirdparty
+model integration across Firefly,
+embedding what the Luma Ray 3 model for
+video and adding a bunch more
+opportunities for model support from
+Google, OpenAI, Ideog, and others. In
+other words, Adobe is deliberately
+importing best-in-class capabilities
+rather than trying to compete anymore
+with proprietary Firefly models. This
+feels a lot like the meta story.
+Adobee's basically admitting their own
+AI strategy is dead in the water and
+they need to bring in other models.

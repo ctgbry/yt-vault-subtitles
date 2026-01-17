@@ -1,0 +1,39 @@
+[00:00]
+Gemini 3 reminds us with that
+unambiguous number one that that is why
+we get excited about AI. You live in a
+world where you get a colleague that can
+help you in your work who is not going
+to really be able to take your job well
+but who can help you do a whole lot more
+a whole lot faster. And that colleague
+keeps getting smarter all the time. It
+is about a colleague who keeps getting
+smarter all the time. And Gemini 3
+reminds us with that unambiguous number
+one that that is why we get excited
+about AI. That is why these days matter.
+What this reinforces is a set of use
+cases where the model needs to both see
+and think. See and reason. That's really
+exciting because the promise of these
+models has always been that they are
+multimodal. That they can take in image
+data, sound data, text data, and put out
+a variety of things. Maybe code, maybe
+something else. Well, that's becoming
+more and more true. As you start to get
+a model that treats some of these other
+input modes, not just text, as native,
+
+[01:01]
+input modes, not just text, as native,
+as something that they can reason across
+at a high level, you get a truly
+multimodal experience where it feels
+smart all the way around and it doesn't
+feel like it has a weak spot. But for
+now, Gemini 3 is the number one model in
+the world. Everyone just about agrees on
+that and I'd be curious to hear what
+you're building with

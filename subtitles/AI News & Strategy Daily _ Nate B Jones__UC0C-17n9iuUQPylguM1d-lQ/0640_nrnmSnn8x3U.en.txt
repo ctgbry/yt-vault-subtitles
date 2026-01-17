@@ -1,0 +1,28 @@
+[00:00]
+So, Goldilocks prompting is the idea
+that you can prompt too much and you can
+prompt too little. I know that might
+sound funny to some of you cuz I'm the
+guy who does the prompts and people
+think I'm known for these long prompts.
+I am here to help you prompt more
+effectively. And I want to remind you
+that there is an optimal level of
+clarity for the goals that you set out
+to accomplish with the model. And you
+can be over clear. You can be over long.
+And so, we're going to talk about
+Goldilocks prompting and why it makes
+such a difference. I'm actually going to
+show you an example of the incredible
+improvement in model output quality that
+you can get when you actually use
+Goldilocks prompting. What is Goldilocks
+prompting? Very simply, it is giving the
+model enough context so it doesn't
+assume stuff about you that isn't true
+and the problem and then giving the
+model enough guidelines that it knows
+the direction to go in. It also includes
+giving it like clarity on what tools it
+can or should use etc.

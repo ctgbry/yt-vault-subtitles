@@ -1,0 +1,37 @@
+[00:00]
+This is a peer-reviewed preprint showing
+that GPT5 is doing real scientific
+works. It proves new theorems. It
+discovers symmetry generators in cur
+black hole physics. It proposed
+biological experiments that matched
+unpublished lab results. So, it couldn't
+have seen it beforehand. It has academic
+collaborators out of Oxford, Cambridge,
+Harvard, Vanderbilt, and Jackson Lab.
+And so, why does it matter? This is the
+cleanest proof yet that frontier models
+are starting to behave like research
+collaborators not just assistants for
+frontier reasoning for deep math for
+physics for biology model quality is not
+interchangeable and every researcher
+that I have spoken to or who has spoken
+publicly insists that for that kind of
+research GPT5 or 5.1 pro is the gold
+standard. Now, GPT5 Pro is not perfect,
+but again, just as we look at the 3D
+world generator with Marble, this is
+enough to show a fundamental change in
+role. And so, instead of thinking of
+
+[01:00]
+role. And so, instead of thinking of
+chat bots as minions that go do jobs,
+these scientists are increasingly
+regarding GPT5 Pro as a thinking partner
+that helps them to make novel
+discoveries and that is able to propose
+and prove novel theorems that they can
+then validate. And that's a big step for
+an LLM.

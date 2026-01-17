@@ -1,0 +1,25 @@
+[00:00]
+So the key thing to keep in mind through
+this whole conversation is that AI
+systems are stateless by design but
+useful intelligence requires state. So
+every conversation is stateless meaning
+it starts from zero. The model has
+parametric knowledge which the weights
+we talk about in a model right but it
+doesn't have episodic memory. It does
+not remember what happened to you. And
+I'm sorry, but the 10 or 11 sentences or
+the the very lossy memory that chat GPT
+has right now or the ability to search
+conversations that Claude has right now
+is not good enough for that. You have to
+reconstruct your context every single
+time. This is not a bug actually. It is
+an intentional architecture. It is a
+design for statelessness because the
+model makers want the model to be
+maximally useful at solving the next
+problem, the problem in front of you.
+And they cannot presume that state
+matters.

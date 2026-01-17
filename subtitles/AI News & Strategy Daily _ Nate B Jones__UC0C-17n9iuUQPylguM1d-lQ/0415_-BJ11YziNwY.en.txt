@@ -1,0 +1,27 @@
+[00:00]
+So the first truth to understand if
+you're in this bucket is that NAND has a
+visual workflow builder that genuinely
+democratizes automation. And that's part
+of why people gravitate to it. For the
+first time, it is really genuinely
+possible and this does work for
+non-programmers to build sophisticated
+AI agents just by dragging and dropping
+little nodes into a little tree. The
+second truth, which I've already hinted
+at, is that the same visual builder is a
+complexity trap. It has killed so many
+NADN implementations. So, ironically,
+the very feature that makes you want to
+use it is the feature that becomes
+unmaintainable at scale. But, but worry
+not, I'm going to give you a way
+through. I want to map out how to get
+from that honeymoon phase where you
+install it. You you you start to build
+your first node. You start to see data
+flowing across the screen. It feels so
+cool. It works. You feel like you've
+unlocked superpowers. You want to build
+10 more of

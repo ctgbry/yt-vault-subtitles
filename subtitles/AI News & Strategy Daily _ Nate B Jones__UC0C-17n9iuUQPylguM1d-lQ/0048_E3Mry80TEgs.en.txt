@@ -1,0 +1,130 @@
+[00:00]
+you know code repair is a long way
+behind code authorship from an AI
+perspective and I think it's a missed
+opportunity at the end of the day the
+only thing that really matters is
+working code that you can use to get
+your job done and right now so much of
+the work that I've seen has gone into
+crafting coding
+experiences that enable someone who is
+new to coding to get started and get
+into coding fast
+so you have things like the repet AI
+agent that dropped where it's like hey
+let me get started let's do a multi-step
+plan and then you can kind of like go
+from there and it's often the things
+that work are a simple experience right
+like it's like let me go through this
+multi-step plan and knock up a quick
+HTML website for
+you but there's been a lot less work put
+into the complexities of how you edit
+and adjust code reliably with AI and how
+AI can fix its mistakes I was using
+
+[01:00]
+AI can fix its mistakes I was using
+repet this weekend and it ended up just
+sort of giving up and saying please go
+talk to a real person at repet because I
+can't fix this and it was a mistake that
+it had made itself it had tried six
+different times to fix it and it had not
+thought through systematically despite
+my hints what was going on I used the
+yellow duck method I like talk to myself
+and kind of talk through what the coding
+issue was I suggested this is the this
+is the actual thing that's happening and
+I suggested a plan forward and just
+couldn't
+engage
+and I there are
+absolutely opportunities there are
+dollars being left on the table here for
+an AI that is able to be more
+self-critical that is able to actually
+think about what has been written
+previously and not over index on it and
+there's actually really good reasons
+from a llm perspective why it's hard for
+AIS to correct their mistakes within a
+chat but there are also really good
+fixes that are on the table if you think
+about the interface so the reason why
+
+[02:02]
+about the interface so the reason why
+they fail to correct their mistakes
+reliably is because llm chat is context
+dependent and so when they make the
+initial mistake in the chat they are
+predisposed rereading the chat through
+the context window to make the same
+mistake again and that's why you just
+get into this Loop where it says if
+you've ever been coding with AI I'm
+adding debugging so that this will we'll
+figure this out well that's a death Nell
+because at the end of the day it adds
+the debugging or so it says and it
+doesn't actually debug it doesn't do The
+Logical thinking process that goes with
+debuging and when you think about it
+that's the part that matters it's not
+the writing the the AI debuging uh log
+reads right like you you can get an
+audit log of everything that happened in
+the code and if you don't do critical
+thinking about it it's not going to help
+you very much is it so the context
+window is super important for
+understanding why llms tend to get into
+
+[03:00]
+understanding why llms tend to get into
+these Loops these spirals but you can
+also think as a company about how to not
+get hampered by that architecture
+limitation for example you could say it
+seems like there's multiple responses in
+the same vein here maybe I should spin
+up a new chat and on the back end give
+it a CIS prompt that basically
+summarizes the issue and see if the new
+chat can help unlock the user here like
+that's a really simple one that I've
+seen nobody do it would not take any new
+technology it's just a slightly
+different experience and it would help
+us get out of these sort of endless
+Loops of debugging and code that don't
+go
+anywhere and so I guess my challenge is
+if you want to make workflows more
+useful maybe focus on the workflow
+that's already happening with code
+authorship and not just on the net new
+workflow you want to start look there's
+a ton of value that's clearly being
+unlocked as cursor and as repet AI come
+online and other tools come online help
+
+[04:00]
+online and other tools come online help
+new people learn to code I love that I
+think it's going to be impactful I think
+it makes sense from a business
+perspective
+but it also makes sense to help people
+who work in code to edit more
+effectively and I know Sonet 3.5 is
+working on that with uh AI for
+Enterprise and anthropic and that's
+great it feels like we have a ways to go
+with strong critical thinking edits on
+code and I would love to see more
+investment in that direction

@@ -1,0 +1,54 @@
+[00:00]
+I've done a deep comparison here of 5.1
+versus Gemini 3. What do we see overall?
+The deep difference is not just Google
+versus OpenAI. It is what kind of
+entropy each model is best at handling.
+You are looking at a world of context
+entropy versus task entropy. So context
+entropy is how messy, large, and
+multimodal your inputs can be. They
+could have lots of irrelevant details.
+They can have mixed formats. They can
+have timelines, screenshots, logs,
+videos. Sound like Gemini 3? It is. Task
+entropy is how open-ended and multi-step
+the job is. Right? Vague objectives,
+competing constraints, multiple
+stakeholders, tool calls, planning and
+writing and coding. Chat GPT 5.1 is a
+little bit better there, but I want to
+get into the nuance. Right? So, you get
+the best results when you align the
+model to the entropy it's dealing with.
+Gemini 3 does well with high context
+entropy. I think it does okay with task
+entropy, but I would grade it about
+moderate. Here's everything. can find
+the signal and structure it is a great
+
+[01:01]
+the signal and structure it is a great
+use for Gemini 3. Chad GPT5
+or 5.1 is very low to moderate on
+context entropy. You have to give it
+really clean signal but then you can
+give it a complex task. And I want to be
+precise about this because Chad GPT
+5.1's docs do call out that if your
+context window is uh competing, if you
+are giving it instructions that are
+ambiguous and try and cancel each other
+out, like be descriptive and concise,
+GBT 5.1 doesn't like that. It will burn
+tokens trying to fix that ambiguity. I
+have seen it push back on me when it
+feels my prompts are inaccurate, which I
+love. Assuming you have clear prompts
+though, I do think it can handle a very
+high complexity task and think it
+through. It is sort of like a brain in a
+jar in that regard. If you can give it a
+really clean input, it can process it
+and it can be quite a complex task and
+it will come back really thoughtfully.

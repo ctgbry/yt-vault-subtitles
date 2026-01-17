@@ -1,0 +1,31 @@
+[00:00]
+The skill to decompose complex problems
+into AIsized pieces is a new skill in
+our world. This is a huge one. It is
+under discussed and I because I think
+that most people don't understand and
+think I mean like learn prompting. The
+people getting 10x better, they're not
+magically learning tools. They're not
+magical prompters by default. They're
+learning the judgment that transfers
+across AI systems. And understanding how
+to decompose a problem into AI sized
+pieces means that you understand how AI
+models work. You understand your
+problem. You are experienced enough with
+articulating problem framing that you
+can break the problem into separate
+chunks and then you can put the chunks
+into the model. It's a very advanced
+skill. Those are all learnable skills by
+your team. And in my experience, the
+more we are able to name them, which is
+exactly what I'm doing here, the more we
+
+[01:01]
+exactly what I'm doing here, the more we
+are able to start a conversation about
+successful cases in our organizational
+context and unsuccessful cases, things
+that didn't go Well,

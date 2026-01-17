@@ -1,0 +1,25 @@
+[00:00]
+We are in the uncanny valley of AI.
+These AI systems are almost capable of
+running real businesses, making real
+money, having a genuine economic impact.
+It is so close that people are trying to
+rush to get these systems in the door at
+many of our places of work. The problem
+is that all of this intelligence is
+incredibly jagged. We don't know all the
+failure modes. We don't know how the
+failure modes occur, like Claude
+deciding to pretend it had a blazer and
+a tie and deliver things in person. I
+get that Enthropic is improving
+Claudius. Better tools, better prompts,
+better memory.
+I'm sure version two will be better. I
+don't know if it will make money. By the
+way, if you were wondering, yes,
+Claudius lost money. To no one's
+surprise, right? If you're selling
+tungsten metal cubes at a loss and
+refusing to take the markup on the Iron
+Brew, you're not going to do very
