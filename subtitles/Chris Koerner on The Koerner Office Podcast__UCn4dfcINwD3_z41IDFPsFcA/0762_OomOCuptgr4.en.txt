@@ -1,0 +1,382 @@
+[00:00]
+It is so hard to keep up with all the
+new vibe coding tools out there. But I
+keep hearing about Bolt.news V2, the new
+version of Bolt that people are using to
+build and ship real money-making apps.
+And also, Bolt.new got married, got
+married to Claude Code. Claude might be
+my favorite LLM. And Bolt.NE just
+brought Claude Code into the browser so
+they can work hand in hand. I wanted to
+see if the hype around Bolt.NES V2 was
+real. So, I thought, hey, let's hit
+record and build something real fast.
+And what am I going to build? Well, you
+know, I'm always launching, starting new
+businesses, and I got to get the word
+out about these businesses. Sometimes I
+use paid ads, and sometimes I use PR,
+but does PR actually work? Can I
+automate PR? What if I could get an AI
+agent that I vibe code myself to go out
+there and tell the whole world that I am
+now open for business? So, let's do it.
+Let's build a tool on Bolt.new using V2
+that is basically a PR outreach robot
+agent. If this works for me, it'll work
+for all of you as well. And if it works
+
+[01:00]
+for all of you as well. And if it works
+for me, it's going to save me thousands
+of dollars on paid ads. So, what do I
+have to lose?
+I'm going to ask this app to find
+relevant publicists and journalists in
+any industry. I'm going to have it write
+personalized pitched emails for me that
+are kind of funny and quirky and don't
+sound like spam. Remember, that's how I
+got Buckyy's attention. I'm going to
+have them send these emails
+automatically while I sleep. And then
+I'm going to have it track the sending
+of these emails. how many are being
+opened, clicked, and replied to.
+Basically, I'm about to hire a PR person
+that only charges about 20, 30, 40 bucks
+a month. All right, without further ado,
+we're going to go to bolt.new. We've got
+V2. Here's my prompt. Build me a PR
+outreach automation app. I need a
+dashboard where I can input my company
+info and campaign details. The app
+should find relevant journalists,
+generate personalized pitch emails using
+AI, send them automatically, and track
+opens and responses. All right, Bolt is
+off to the races. Okay, here's what it
+spit out. I don't hate it. I don't hate
+it at all. It fully executed my plan. It
+
+[02:01]
+it at all. It fully executed my plan. It
+looks solid, but we're not done. We've
+got to connect it to some other tools so
+it can go out and do research on behalf
+of me. So, I'm going to say connect to
+OpenAI so it can analyze what
+journalists write about in this niche
+and generate personalized pitches that
+match their style. And this is a great
+case study. Now, I know what it needs to
+connect to OpenAI, but you might not
+know. And so instead of having to know,
+just tell it what to do and then it's
+going to tell you what to do in order to
+get to that final end goal. Okay. So I'm
+going to navigate over here to the
+OpenAI API platform. Just Google it. You
+can use your normal Chad GPT login
+credentials for this and I'm going to go
+to quick start. Create an API key. You
+can see I already have some for other
+platforms. And I'm going to call it bolt
+new all permissions. Done. There it is.
+Let's go back to Bolt. Okay. I did not
+know that Bolt.NE could do this. It
+looks like it has its own OpenAI
+package. And I can just use Bolt's API.
+
+[03:02]
+package. And I can just use Bolt's API.
+So, I don't even need to go through the
+the friction of getting my own API key.
+Although, it was very easy. I just
+showed you how to do it. Most platforms
+don't do this. But, it's kind of nice. I
+assume if I didn't want it to use GPT4,
+I could ask it to use something
+different. But, man, this is incredible.
+But now we of course have to start
+sending and tracking emails. That's a
+core function of this. So instead of
+telling it what to do, I'm going to ask
+it what I should do next.
+So I said, "Okay, cool. How can I start
+sending them emails?" Looks like it's
+going to use resend or send grid. It's
+going to be interesting to see if it has
+a package like it does with OpenAI or if
+I'm going to have to go get the API key
+myself. Okay, looks like I have to get
+my own API keys from resend. Thankfully,
+I already have a resend account. Boom.
+Copied. So, now I have to add it to my
+Bolt database project. So, you click the
+little gear icon. You click Bolt
+database secrets.
+
+[04:01]
+database secrets.
+Create secret
+resend_API
+key. There's my key. Cool.
+So, I'll let it know that it's been
+added. Okay. Okay, the resend API key
+has been added.
+Okay, so it says it's ready. Usually
+that means it's not quite ready, but
+we're going to give it a test.
+So, I tried adding the company info as
+requested, but it will not save it. So,
+things break sometimes. If I wanted to
+edit this part out and make it all look
+perfectly, I would. But I want this to
+be real. Okay. So, I'm going to log in
+to my own software. It was not connected
+to Supabase yet, which is just a
+database provider. So, let's see if it
+lets me add company info now.
+Cool. Done. Awesome. Click new campaign.
+Call a journalist one. I'll make it kind
+of cheeky. The Kerner Office is the best
+business podcast in the world and
+everyone needs to know it. That's the
+
+[05:00]
+everyone needs to know it. That's the
+angle of my pitch. Key messages. Main
+points you want to communicate.
+Keep the pitch short, simple, and funny.
+target publications, anything business.
+Now, because of the fact that this is
+AI, we can talk to it normally. We don't
+have to like choose a specific industry
+or publication like Techrunch or CNN.
+We're just going to talk to it. Okay,
+quick break to tell you about something
+completely insane that I'm doing next
+summer. I am challenging myself to start
+50 businesses in 50 states in 50 days.
+Yes, that's a new business in every
+state, and I'm documenting the whole
+thing. the wins, the failures, and the
+whole chaos of just trying to validate
+50 different ideas in 50 different
+states. Canoe rentals, pop-up bakeries,
+power washing, drone roof inspection,
+who knows? And if they end up becoming
+legit businesses, I'm going to need to
+secure the domains immediately. After
+starting 80 plus businesses, I've
+learned that you can have the perfect
+idea, the perfect market, the perfect
+timing, but if someone beats you to the
+
+[06:01]
+timing, but if someone beats you to the
+perfect domain name, you're already
+playing catch-up. You're going to lose
+momentum if you have to settle for
+businessname 20225.com or some other
+clunky variation. Online domain names
+are where smart builders are moving
+right now. So while everyone's fighting
+over scraps in the.com graveyardonline
+gives you exactly what you want, clean,
+professional, memorable. Did you know
+that the word online gets searched over
+500 million times per month? That's not
+just a domain extension. That's builtin
+credibility. And right now, my listeners
+can use code kerner to get theironline
+domain at only 99 cents for the first
+year at get.online. So stop overthinking
+it and check outonline today before your
+perfect domain is taken by someone else.
+So we've created a campaign. Add
+journalist to your database or import
+from a list. We go to journalist. Add
+journalist. Well, I don't want to add a
+journalist. I want it to go out and find
+its own journalist. go out and scrape 20
+
+[07:01]
+its own journalist. go out and scrape 20
+business journalists
+and add them
+to my jour
+go out and scrape 20 business
+journalists and add them to my
+journalist section. They must have name
+and email. Okay, so I understand it
+doesn't want to go out and scrape them
+due to privacy reasons, but I do have
+another video where I show you exactly
+how to scrape this stuff. So, let's
+pretend that I just did that. Let's get
+some emails. But first, I need it to
+allow me to bulk upload a CSV of
+journalist.
+So, I said, allow me to click a button
+in the journalist section that lets me
+upload a CSV with three columns, first
+name, last name, and email address. Now,
+let's start making that CSV. I'm going
+to type in sheets new. I'm gonna go
+first name, last name,
+email address, and I'm just going to put
+in some of my own email addresses. And
+
+[08:00]
+in some of my own email addresses. And
+I'll change my name so I know that these
+emails I'm getting are unique. So, we
+got Chris, we got CK, we got CP, and
+then CC. And I have four different
+emails and four different names. And
+then I'm just going to click download
+CSV. We'll go back here to Bolt. Go back
+here. Boom. Upload CSV in green. I like
+it. Color of Excel. I'm going to add
+this. There it is. That took like a
+millisecond. Very cool. All right, we've
+got journalist. Let's go back to our
+instructions. Generate personalized
+pitches using AI and send them
+automatically. We go to pitches. So,
+another roadblock. My one campaign that
+I created is not appearing in the drop
+down on the pitches tab. And I want to
+be able to select all on the journalist
+dropdown on the pitches tab because who
+wants to email one at a time? So, one
+thing is broken and one thing is not
+optimized. So, we got to get these
+fixed. Oh, so nothing was broken. It was
+just automatically set to only show
+active campaigns. And if you look here,
+
+[09:00]
+active campaigns. And if you look here,
+it's paused right now. It's not active.
+So, I needed to have clicked that green
+triangle first. So, there it is now. And
+then select all journalists. Generate
+pitches for all four. Let's see what
+it's got. So, this button really should
+say generate and send pitches for all
+four because I think with that one
+click, it automatically sent them. As
+you can see right here, we'll generate
+and send pitches to all four
+journalists. Let's click the play button
+on that cuz I don't think it will work
+until I click that. So, select all
+journalists, generate pitches. Nothing's
+happening when I click the button. So,
+I'm going to let it know. I love
+screenshotting stuff and just dragging
+it over there. It helps a lot. I mean,
+helps me. I don't know how much of a
+difference it makes, but it feels like I
+can get what I need in fewer prompts
+when I do that. There it is. I just said
+nothing happens when I click this. Okay,
+so basically what Bolt said is that this
+select all journalist checkbox is not
+talking to the blue button. So,
+
+[10:02]
+talking to the blue button. So,
+basically from the get-go, this software
+was not expecting to have to send bulk
+emails, but it's a no-brainer. Okay, it
+says it's fixed. This button will now
+work properly. We go to campaigns. It's
+still active. Go to journalists. They're
+still there. Boom. Boom. Select all
+journalists. Generate pitches.
+Generating pitch 1 2 3 4. Failed to
+generate pitches. Please check your
+configuration screenshot. This happened
+after I clicked that button.
+It seemed to work at first, but then
+didn't. If we go to analytics, we'll
+show that nothing is happening. All
+right, says it should be working now.
+Boom. Successfully generated and saved
+four pitches as drafts using fallback
+templates. Configure API key for AI
+power generation. So, I think what I
+have to do is add my API key in here.
+So, I'm going to go to secrets and type
+in open AI
+
+[11:02]
+in open AI
+API_key.
+Put the key in there. create secret and
+let it know I just added my OpenAI API
+key to my secrets. Go find it so we
+don't use fallbacks. So, it's working
+now, but it's not using the OpenAI API
+key, which I wanted to. And it
+successfully created the drafts, but I
+don't know how to to read the drafts.
+Okay, so it said that it's working now.
+Let's try it again, but I can't read the
+drafts yet. Okay, four more drafts, but
+I can't read them and I can't send them.
+All right, it's adding the ability to
+view and send these emails.
+Okay, let's try this again. Select all
+journalists. Journalist one, two, three,
+four. Boom. Created. Let's view it. Hi,
+Cece. That was one of the first names.
+Subject line: The Ker Office is the best
+business podcast in the world. I hope it
+finds you well. Following your coverage.
+All right. So, the prompt's a little
+
+[12:00]
+All right. So, the prompt's a little
+wonky, but we can fix that. A little
+more prompting to fix the prompting.
+Send email now. That's the important
+part. Says my resend API key is not
+configured to send messages. Looks like
+I need a marketing email resend account.
+I'll pay for that. Now, will it
+automatically update my API key? I don't
+know.
+So, I'm going to make another one just
+to be safe. Go back to my secrets. Okay.
+So, I told Bolt, okay, I didn't have the
+right resend API to be able to send
+emails. That has been fixed and I added
+a new API key. Please refresh that so I
+can send marketing emails. All right.
+So, it says it should now work. Generate
+pitches. All right. Let's click send.
+Boom.
+Let's look at my email. All right. And
+look at that.
+Uh it's too
+uh I don't know if you can see it. I'll
+add a screenshot in. Screenshot. Boom.
+
+[13:00]
+add a screenshot in. Screenshot. Boom.
+Email received. Software works. So with
+uh I know 15 20 prompts and reprompts
+and in about an hour's time, we
+successfully built PR app that will
+allow you to upload journalist emails,
+write the emails for you, and click send
+on all of them at the same time.
+Bolt.new is great. Check it out. Share
+this with a friend and we'll see you
+next time on the Kerner

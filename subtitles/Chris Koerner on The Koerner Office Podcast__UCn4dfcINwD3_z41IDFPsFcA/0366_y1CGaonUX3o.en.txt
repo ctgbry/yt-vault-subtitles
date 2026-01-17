@@ -1,0 +1,31 @@
+[00:00]
+I just created something pretty genius
+here's exactly how to copy me so we've
+all heard of Reddit right if you ever
+want to sell anything on the internet
+Reddit is the Last Frontier because
+those freaking moderators will delete
+anything you post with links but what if
+you were the moderator what if you own
+your own subreddit where you are the
+sole judge jury and executioner and then
+you could grow that subreddit literally
+while you sleep I just figured out how
+to do that here's a high level overview
+with no sales pitch incoming create a
+zap on zapier choose Reddit as the
+trigger choose new post as the first
+step type in a keyword so your zap is
+triggered every time new post with your
+keyword is posted then you're going to
+use open ai's API to automatically
+create response comments to any targeted
+Reddit post on any subreddit in the
+world and then you're going to use AI to
+comment on those posts something like
+hey this is pretty interesting XYZ add
+value but this post would be a better
+fit in r/ the name of your subreddit I'm
+doing this right now with my subreddit B
+ideas it is working beautifully full
+details here

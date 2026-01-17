@@ -1,0 +1,317 @@
+[00:00]
+welcome to the ker office I am asked
+every day how I scrape things because in
+almost every video or podcast I'm
+talking about oh I scraped this and then
+I cold email these guys and I texted
+them this well what is scraping how do
+you scrape is it hard do you have to
+have technical knowledge no no no no
+these are my four favorite tools for
+scraping and I'm going to show you how
+to use all four of them in this order
+built with a secret hack a certain
+Chrome extension Plus chat GPT and then
+my personal favorite at the end outs
+scraper validate a business idea find a
+bunch of customers sell to a bunch of
+customers get pricing info get market
+research spy on your competitors what
+whatever you want to do you're going to
+know how to do by the end of this video
+builtwith is great because what
+builtwith does is it scrapes millions
+and tens of millions of websites and
+then it enables you to search through
+those websites without having to have
+any scraping knowledge and then export
+them to your desktop so you can do
+whatever you will with them you will get
+email name phone um whatever technology
+that this website uses maybe it's stripe
+maybe it's Shopify maybe it's WordPress
+it will tell you an approximate amount
+of their revenue what is their Tech
+spend every month or year it's just
+super helpful and what I love builtwith
+
+[01:00]
+super helpful and what I love builtwith
+for is just generating a ton of ideas
+let's say I'm short on ideas which
+doesn't usually happen but let's say I
+am I'm just going to go through
+builtwith and just start searching
+around and looking for business ideas
+let's do that right now on the fly so
+let's say I developed a pet chw toy and
+I want this chw toy to be sold on all of
+the thousands of pet chw toy e-commerce
+websites out there I would go to tools
+and then product list and go to animals
+and pet supplies and I would just export
+this 5,000 websites maybe they're
+WordPress maybe they're woocommerce
+Magento it doesn't matter I'm going to
+be able to do cold Outreach to all of
+those store owners to help sell my
+product maybe I sell email marketing
+services for e-commerce Brands and I
+want to know all of the e-commerce
+websites built on Magento because I know
+that no e-commerce email marketing
+agency is only reaching out to Magento
+stores most people have never heard of
+Magento they're all going to Shopify but
+magento's been around since long before
+Shopify and a lot of their stores are a
+lot bigger so I would go here I would go
+to tools e-commerce list
+
+[02:00]
+to tools e-commerce list
+Global Magento stores there you go
+there's 125,000 of them it's feels
+almost illegal that have this data at
+our fingertips let's go to keyword list
+and just see what pops up I don't know
+why my browser is not loading images but
+let's just click lawyer here's 95,000
+lawyer websites maybe I want to sell
+leads to lawyers I want to generate
+leads through Google ads or Facebook ads
+and sell them to lawyers here's all of
+my potential customers when you export
+them you're going to have approximate
+text bend the URL the name of the
+business social followers sales Vue
+these are not very accurate some of them
+are page rank these are very accurate
+because I think it pulls from similar
+web which is a website that tells you
+how much traffic another website gets
+phone numbers you can see about a
+quarter of them have phone numbers
+emails about half of them have emails
+social URLs city state ZIP code when it
+was last scraped so you can see how
+relevant this data is let's say I want
+just the top ranked websites based on
+their Tech spend or their social
+following or their number of employees
+you can get that all right here once
+again bit with is expensive $500 a month
+
+[03:00]
+again bit with is expensive $500 a month
+but what's nice about this is if you
+need really need some of this data you
+could pay for it for 1 month cancel it
+right after you pay for it and then just
+spend 30 days exporting as much as you
+can because it won't throttle you but
+one little loophole I found for this is
+to go to upwork or another like a Fiverr
+type platform and post a job looking for
+a virtual assistant or anyone that has
+access to a paid built with account I've
+done this before several times with
+success and just say hey let me send you
+20 bucks just run this export for me
+real quick whether it's a million
+records or a th000 records it makes no
+difference to them it's no more work to
+them so instead of paying 500 for all
+the leads that you need you can pay 20
+now this is directly competing with you
+using my affiliate link but I don't care
+I want you to win so save money if you
+can but sometimes there is a need to pay
+for this I've paid for this several
+different times I'm not paying for it
+right now cuz I'm not using it on an
+ongoing basis and I'm cheap but that's a
+lot of money so let's go to web
+technology Trends and you can use this
+just to start generating some ideas
+there's so so so so many technologies
+that these website use this is just a
+
+[04:00]
+that these website use this is just a
+few of the more popular ones look at
+stripe 3.3 million sites that use stripe
+so this is built with it's cool I like
+it I would appreciate if you use my
+affiliate link but next I'm going to
+talk about the random one-off jobs like
+I really like this Chrome extension
+instant data scraper I've used it from
+time to time I have no affiliate link I
+have no affiliation with them but
+sometimes you need to scrape something
+on a random website that's not Amazon
+it's not Google it's not something
+that's standardized to most of the
+scrapers out there like out scraper and
+so you just need a one-off Chrome
+extension solution this works really
+well you can train it you can say hey
+scrape only the headings here or scrape
+only these products here and you just
+train it once you run it through a
+sample make sure it looks good and then
+it will just run on its own and Export
+it all to a spreadsheet for you but my
+favorite is use outcraze
+I mean let's say let's not even let's
+
+[05:02]
+I mean let's say let's not even let's
+say this is what one thing that we
+actually use it for we own a tree chming
+company in Dallas Fort Worth and we need
+to find subcontractors well our
+subcontractors many of them are listed
+on Google Maps with their own tree
+triming business they're a competitor of
+ours and their partner of ours so I will
+do this I'll go search tree service and
+then I will only search for Dallas let's
+say Dallas Texas check all those boxes
+and then let's say huh I don't want it
+to go crazy and charge me too much cuz
+it does charge you per result very very
+little but still so let's Max it at 500
+just in case you hit the drop down what
+all do I want to scrape uh I'm not going
+to email them so I don't need that cuz
+it costs a little bit extra you can see
+0.3 for each result I just want their
+phone numbers and the name of their
+business and then actually I'm just
+going to do 50 because I want to show
+you how this goes and I want it to go
+quickly so you can set Advanced
+parameters how many searches per query
+how do I want the data exported how
+
+[06:02]
+how do I want the data exported how
+should I tag this and you can check or
+uncheck all these boxes it'll take less
+time if you uncheck more boxes and I
+want to know the owners of the phones
+nah I don't need to know that for this
+it's not super accurate to be honest
+that part the email validation and the
+phone validation features are not very
+accurate but I use live broadcast for
+that for phone validation is it mobile
+viip or landline and then for email
+validation I use bulk email checker.com
+those work flawlessly whereas this is a
+little less accurate so I don't want to
+pay for it even if it is cheap so I'll
+just do this I'll do get data and it
+will tell me how long it will take oh it
+cost 40 cents for 50 results yes please
+sending the
+task all right then you go to the tasks
+page and you can see that it's running
+this probably won't take very long and
+these are things that I've scraped in
+the past like I'm using this every week
+this was just last week last week last
+week all the time handyman engraver
+cremation cremation handyman hair salon
+sometimes I'm just like generating ideas
+with this and I have no initiative I'm
+
+[07:00]
+with this and I have no initiative I'm
+just like this is my Play time this is
+my free time so I will go ahead and I'm
+going to export one so we don't have to
+wait let's export hair salons and we'll
+see what the results look like this is
+what you're going to get it's a direct
+scrape of their Google business profile
+you get the name of the query the name
+of the business you could delete most of
+this stuff how many reviews what's their
+rating you can sort by reviews sort by
+number of pictures so this scraped
+reviews and you can have it scrape only
+negative reviews only two star reviews
+based on keywords in the reviews so
+that's a whole other feature where if
+you want to sell customer service
+software or agency services or anything
+you could go look for a ton of
+businesses to get one star reviews or
+five-star reviews and then you can paste
+that into chat GPT and look for patterns
+and then use those patterns in your cold
+Outreach to those businesses like hey I
+noticed you have a hair salon but people
+always complain that you don't have any
+openings how do we fix that for you how
+can I help you fix that or they always
+complain that there's hair on the ground
+maybe you should sweep up all that hair
+here's some of the other things you can
+do with out scraper haven't touched the
+
+[08:00]
+do with out scraper haven't touched the
+vast majority of these grape stuff on
+Shopify Tres pilot Twitter in my opinion
+A lot of times if you do a little bit of
+everything you're not really good at
+anything so I love using outs scraper
+for the Google business profile scrape
+because it does that really really well
+let's go here to this one because these
+were not reviews I was helping a friend
+with these he has an engraving business
+all right so we open this and this is
+what you're going to get when you
+normally scrape a business based on a
+keyword here's the keyword there's the
+name of the business owner address phone
+number boom boom boom it's all in here
+super good and what I do here's a pro
+tip if you do using Google Sheets like I
+do I like getting it out of excel I must
+be just a millennial whenever you paste
+these phone numbers into Google Sheets
+it will be formatted really wonky so you
+have to remove all of the other symbols
+in the phone number so I'll do plus one
+space and remove all those and then I
+will remove all of the dashes in the
+phone number so I can stand standardize
+them all that way when I paste them to
+
+[09:01]
+them all that way when I paste them to
+Google Sheets it will look nice and
+clean that's how you use out scraper
+back to this instant data scraper one
+thing that's good for is we wanted to
+make a database of all the horse
+cremation facilities in the US and we
+did it without scraper horse cremation
+is not an actual Google category so it
+was having a hard time finding them all
+so we just found this random Humane
+Society website that had all of the
+horse cremation facilities listed we
+used instant data scraper to do that you
+can even use chat GPT to do that you can
+just paste this stuff in and say hey put
+this in a spreadsheet for at so lots of
+cool tools out there please share this
+with a friend if it's helpful subscribe
+to me and uh we'll see you next time

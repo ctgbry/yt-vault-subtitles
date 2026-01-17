@@ -1,0 +1,31 @@
+[00:00]
+I have an addiction, a problem, and a
+business idea. Addiction. I have too
+many business ideas. That's why I post
+all these videos about them. And I have
+to start a business right after I think
+about it. Two problem. My yard looks
+like crap. It's absolutely terrible.
+Look at my yard. It's embarrassing. I'm
+embarrassed. And so last night, I was
+thinking, how can I fix this? Oh, I'm
+just going to take a bunch of pictures
+of my yard up close, upload it to
+ChatGpt, tell it where I live, and say,
+"Hey, give me a 12-month timeline and
+prescription of what to buy and what to
+do to fix my yard." Then I thought, huh,
+that could be a cool AI tool that I
+could build that anyone could use. And
+then it could be free, but you could
+include affiliate links with all the
+products that you tell them to buy. And
+the users could generate their own
+articles with these prescriptions that
+you could post automatically to Web Flow
+via OpenAI's API and Zapier. Then I
+thought, instead of building this, why
+don't I just hop on YouTube live and
+build it and then anyone can ask
+questions about how to do it in the
+comments. So, I'm going to do that.
