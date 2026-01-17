@@ -1,0 +1,206 @@
+[00:03]
+[Music]
+my mind as far as I can tell the great
+power of quantum computers will actually
+be to simulate quantum systems if you're
+
+[00:15]
+be to simulate quantum systems if you're
+interested in a certain quantum system
+and it's too hard to simulate
+classically you simply build a version
+of the same system you build a version
+of it you build a model of it that's
+actually functioning as the system you
+
+[00:30]
+actually functioning as the system you
+run it and then you do the same thing
+you would do the quantum system you make
+measurements on it quantum measurements
+on it the advantages you can run it much
+slower you could say why bother why not
+just use the real system why not just do
+
+[00:45]
+just use the real system why not just do
+experiments on the real system well real
+systems are kind of limited you can't
+change them you can't manipulate them
+you can't slow them down so that you can
+poke into them you can't modify them an
+arbitrary kinds of ways to see what
+would happen if I if I change the system
+
+[01:03]
+would happen if I if I change the system
+a little bit so I think that quantum
+computers will be extremely valuable in
+in understanding quantum systems at the
+
+[01:16]
+in understanding quantum systems at the
+lowest level the fundamental laws
+they're actually satisfying the same
+laws as the systems that they're
+simulating man okay so in the one hand
+you have things like factoring back in
+factoring is the great thing of quantum
+
+[01:32]
+factoring is the great thing of quantum
+computers factoring large numbers that
+doesn't seem that much to do with
+quantum mechanics right it seems to be
+almost a fluke that a quantum computer
+can solve the factoring problem in a
+
+[01:47]
+can solve the factoring problem in a
+short time so though and those problems
+seem to be extremely special rare and
+it's not clear to me that there's gonna
+be a lot of them on the other hand there
+are a lot of quantum systems chemistry
+
+[02:01]
+are a lot of quantum systems chemistry
+there's solid-state physics there's
+material science there's quantum gravity
+there's all kinds of quantum of quantum
+field theory and some of these are
+actually turning out to be Applied
+Sciences as well as very fundamental
+
+[02:15]
+Sciences as well as very fundamental
+Sciences so we probably will run out of
+the ability to solve equations for these
+things you know solve equations by the
+standard methods of pencil and paper
+solve the equations by the method of
+classical computers and so what we'll do
+
+[02:32]
+classical computers and so what we'll do
+is we'll build versions of these systems
+run them and run them under controlled
+circumstances or we can change them
+manipulate them make measurements on
+them and find out all the things we want
+
+[02:45]
+them and find out all the things we want
+to know
+so in finding out the things we want to
+know about very small systems right now
+the is there something we can also find
+out about the macro level about
+something about it the function and
+forgive me of our brain biological
+
+[03:03]
+forgive me of our brain biological
+systems the the stuff that's about 1
+meter in size versus much much smaller
+well what the only excitement is about
+among the people that I interact with is
+understanding black holes that falls
+
+[03:15]
+understanding black holes that falls
+black holes are big things there are
+many many degrees of freedom there is
+another kind of quantum system that is
+big it's a large
+computer and one of the things we
+learned is that the physics of large
+
+[03:30]
+learned is that the physics of large
+quantum computers is in some ways
+similar to the physics of large quantum
+black holes and we're using that
+relationship now you asked you didn't
+ask about quantum computers or systems
+you didn't ask about the black holes you
+asked about brains
+
+[03:45]
+asked about brains
+yeah but stuff that's in the middle of
+the two it's different so but the black
+holes are there's something fundamental
+about black holes that feels to be very
+different than the brain yes and they
+also function in a very quantum
+
+[04:00]
+also function in a very quantum
+mechanical way right okay it is first of
+all unclear to me but of course it's
+unclear to me I another I'm not a a
+neuroscientist I have I don't even have
+very many friends who are
+neuroscientists I would like to have
+
+[04:16]
+neuroscientists I would like to have
+more friends who are neuroscientists I
+just don't run into them very often
+among the few neuroscientists I've ever
+talked about about this they are pretty
+convinced that the brain functions
+
+[04:30]
+convinced that the brain functions
+classically there is not intrinsically a
+quantum mechanical system or doesn't
+make use of the of the special features
+entanglement coherent superposition are
+they right
+I don't know I sort of hope that wrong
+
+[04:45]
+I don't know I sort of hope that wrong
+with just because I like the romantic
+idea that the brain is a quantum system
+and but I think that but I think it's
+probably not
+the other thing big systems can be
+composed of lots of little systems
+materials the materials Arthur that we
+
+[05:02]
+materials the materials Arthur that we
+work with and so forth are three large
+systems and a large piece of material
+but they're begging and they're made out
+of quantum systems now one of the things
+that's been happening over the last a
+good number of years is with discovering
+
+[05:17]
+good number of years is with discovering
+materials and quantum systems which
+function much more quantum mechanically
+then than we imagined topological
+insulators this kind of thing that kind
+of thing
+those are macroscopic systems but they
+
+[05:31]
+those are macroscopic systems but they
+just superconductors superconductors I
+have a lot of quantum mechanics in them
+you can have a large chunk of
+superconductor so it's a big piece of
+material on the other hand it's
+functioning and its properties depend
+
+[05:45]
+functioning and its properties depend
+very very strongly on quantum mechanics
+and to analyze them you need the tools
+of climate annex
+you

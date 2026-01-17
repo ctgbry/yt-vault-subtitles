@@ -1,0 +1,3806 @@
+[00:00]
+The following is a conversation with
+David Chalmer's. He's a philosopher and
+cognitive scientist specializing in the
+areas of philosophy of mind, philosophy
+of language, and consciousness. He's
+perhaps best known for formulating the
+hard problem of consciousness, which
+
+[00:15]
+hard problem of consciousness, which
+could be stated as why does the feeling
+which accompanies awareness of sensory
+information exist at all? Consciousness
+is almost entirely a mystery. Many
+people who worry about AI safety and
+ethics believe that in some form
+
+[00:30]
+ethics believe that in some form
+consciousness can and should be
+engineered into AI systems of the
+future. So while there's much mystery,
+disagreement, and discoveries yet to be
+made about consciousness, these
+conversations, while fundamentally
+philosophical in nature, may
+
+[00:45]
+philosophical in nature, may
+nevertheless be very important for
+engineers of modern AI systems to engage
+in. This is the artificial intelligence
+podcast. If you enjoy it, subscribe on
+YouTube, give it five stars on Apple
+Podcast, support it on Patreon, or
+simply connect with me on Twitter at Lex
+
+[01:01]
+simply connect with me on Twitter at Lex
+Freedman spelled F R I D M.
+As usual, I'll do one or two minutes of
+ads now and never any ads in the middle
+that can break the flow of the
+conversation. I hope that works for you
+and doesn't hurt the listening
+experience. This show is presented by
+
+[01:16]
+experience. This show is presented by
+Cash App, the number one finance app in
+the app store. When you get it, use code
+lex podcast. Cash App lets you send
+money to friends, buy Bitcoin, and
+invest in the stock market with as
+little as $1. Brokerage services are
+
+[01:30]
+little as $1. Brokerage services are
+provided by Cash App investing,
+subsidiary of Square, a member SIPC.
+Since Cash App does fractional share
+trading, let me mention that the order
+execution algorithm that works behind
+the scenes to create the abstraction of
+fractional orders is an algorithmic
+
+[01:45]
+fractional orders is an algorithmic
+marvel. So big props to the Cash App
+engineers for solving a hard problem
+that in the end provides an easy
+interface that takes a step up to the
+next layer of abstraction over the stock
+market, making trading more accessible
+for new investors and diversification
+
+[02:01]
+for new investors and diversification
+much easier. If you get Cash App from
+the App Store or Google Play and use the
+code lex podcast, you'll get $10. and
+Cash App will also donate $10 to FIRST,
+one of my favorite organizations that is
+helping to advance robotics and STEM
+
+[02:15]
+helping to advance robotics and STEM
+education for young people around the
+world. And now here's my conversation
+with David Chamers.
+Do you think we're living in a
+simulation? I don't rule it out. There's
+probably going to be a lot of
+simulations in the history of the
+
+[02:30]
+simulations in the history of the
+cosmos.
+If the simulation is designed well
+enough, it'll be indistinguishable from
+a non simulated reality.
+And although we could keep searching for
+evidence that were not in a simulation,
+
+[02:45]
+evidence that were not in a simulation,
+any of that evidence in principle could
+be simulated. So, uh, I think it's a
+possibility.
+But do you think the thought experiment
+is interesting or useful to calibrate
+how we think about the nature of
+reality?
+Yeah, I definitely think it's
+interesting and useful. In fact, I'm
+
+[03:01]
+interesting and useful. In fact, I'm
+actually writing a book about this right
+now all about the simulation idea using
+it to shed light on a whole bunch of
+philosophical questions. So, uh you
+know, the big one is how do we know
+anything about the external world? Uh
+
+[03:15]
+anything about the external world? Uh
+Decart said, you know, maybe you're
+being fooled by an evil demon who's
+stimulating your brain into thinking
+all this stuff is real when in fact it's
+all made up. Well, the modern the modern
+version of that is how do you know
+you're not in a simulation? Then the
+
+[03:31]
+you're not in a simulation? Then the
+thought is if you're in a simulation,
+none of this is real. So that's teaching
+you something about about knowledge. How
+do you know about the external world? I
+think there's also really interesting
+questions about the nature of reality
+right here. I mean, if we are in a
+simulation, is all this real? Is there
+
+[03:47]
+simulation, is all this real? Is there
+really a table here? Is there really a
+microphone? Do I really have a body? The
+standard view would be no. Uh we don't.
+none of this would be real. My view is
+actually that's wrong. And even if we
+are in a simulation, all of this is
+real. That's why I called this reality
+
+[04:00]
+real. That's why I called this reality
+2.0. New version of reality, different
+version of reality, still reality. So,
+so what's the difference between quote
+unquote real world and the world that we
+perceive? So, we interact with the world
+to with the world by perceiving it.
+
+[04:18]
+to with the world by perceiving it.
+It only really exists through the window
+of our perception system and in our
+mind. So, what's the difference between
+something that's quote unquote real that
+exists perhaps without us being there
+
+[04:31]
+exists perhaps without us being there
+and and uh the world as you perceive it?
+Well, the world as we perceive it is a
+very simplified and distorted version of
+what's going on underneath. We already
+know that from just thinking about
+science. you know, you don't see too
+
+[04:46]
+science. you know, you don't see too
+many obviously quantum mechanical
+effects in what we uh what we perceive,
+but we still know quantum mechanics is
+going on under all things. I like to
+think the world we perceive is this very
+kind of simplified
+picture of colors and shapes existing in
+
+[05:03]
+picture of colors and shapes existing in
+in space and so on. We know there's a
+that's what the philosopher Wilfrid
+sellers called the manifest image. the
+world as it seems to us. We already know
+underneath all that is a very different
+scientific image with atoms or quantum
+
+[05:17]
+scientific image with atoms or quantum
+wave functions or superstrings or
+whatever the uh the latest thing is and
+that's the ultimate scientific reality.
+So I think of the simulation idea as
+basically another hypothesis about what
+
+[05:30]
+basically another hypothesis about what
+the ultimate say quasi scientific or
+metaphysical reality is going on
+underneath the world of the manifest
+image. world of the manifest image is
+this very simple thing that we interact
+with that's neutral on the underlying
+stuff of reality science can help tell
+
+[05:48]
+stuff of reality science can help tell
+us about that maybe philosophy can help
+tell us about that too and if we
+eventually take the red pill and find
+out we're in a simulation my view is
+that's just another view about what
+reality is made of you know the
+philosopher Emanuel Khan said what is
+
+[06:01]
+philosopher Emanuel Khan said what is
+the nature of the thing in itself you
+I've got a glass here and it's got all
+these it appears to me a certain way a
+certain shape shape. It's liquid. It's
+clear.
+He said, "What is the nature of the
+thing in itself?" Well, I think of the
+simulation idea. It's a hypothesis about
+
+[06:17]
+simulation idea. It's a hypothesis about
+the nature of the thing in itself. It
+turns out if we're in a simulation, the
+thing in itself nature of this glass,
+it's okay. It's actually a bunch of data
+structures running on a uh on a computer
+in the next universe up.
+Yeah. That's what people tend to do when
+
+[06:30]
+Yeah. That's what people tend to do when
+they think about simulation. and they
+think about our modern computers and
+somehow uh trivially crudely just scaled
+up in some sense. But do you think uh
+the simulation I mean in order to
+
+[06:45]
+the simulation I mean in order to
+actually simulate something as
+complicated as our universe that's made
+up of molecules and atoms and particles
+and quarks and maybe even strings? All
+of that requires something just
+
+[07:00]
+of that requires something just
+infinitely many orders of magnitude more
+of of um scale and complexity.
+Do do you think we're even able to even
+like conceptualize what it would take to
+simulate our universe or does it just uh
+
+[07:17]
+simulate our universe or does it just uh
+slip into this idea that uh you
+basically have to build a universe
+something so big to simulate it? is is
+it does it get this into this fuzzy area
+that's not useful at all?
+Yeah. Well, I mean there's obvious I
+
+[07:30]
+Yeah. Well, I mean there's obvious I
+mean our universe is obviously
+incredibly complicated and for us within
+our universe to build a simulation of a
+universe as complicated as ours is going
+to have obvious problems here. If the
+universe is finite, there's just no way
+
+[07:45]
+universe is finite, there's just no way
+that's going to work. Maybe there's some
+cute way to make it work. If the
+universe is uh is uh is infinite, maybe
+an infinite universe could somehow
+simulate a copy of itself. But that's uh
+that's going to be hard. Nonetheless,
+just say we are in a simulation. I think
+
+[08:00]
+just say we are in a simulation. I think
+there's no particular reason why we have
+to think the simulating universe has to
+be anything like ours. You've said
+before that uh it might be
+so you could you could think of it in
+turtles all the way down. you you could
+think of uh the simulating universe
+
+[08:15]
+think of uh the simulating universe
+different than ours, but we ourselves
+could also create another simulated
+universe. So, you said that there could
+be these kind of levels of universes.
+And you've also mentioned this hilarious
+idea, maybe tongue and cheek, maybe not,
+that there may be simulations within
+
+[08:31]
+that there may be simulations within
+simulations, arbitrarily stacked levels,
+and that there may be that we may be in
+level 42.
+Oh, yeah. along those stacks referencing
+Hitchhiker's Guide to the Universe. If
+we're indeed in a simulation within a
+simulation at level 42,
+
+[08:48]
+simulation at level 42,
+what do you think level zero looks like?
+The original
+I would expect that level zero is truly
+enormous. I mean, not just uh if it's
+finite, it's some extraordinarily
+
+[09:00]
+finite, it's some extraordinarily
+large finite capacity. Much more likely
+it's infinite. Maybe it's a maybe it's
+got some very high set the cardality
+that enables it to support just any
+number of um any number of simulations.
+So high degree of infinity at level
+zero, slightly slightly smaller degree
+
+[09:16]
+zero, slightly slightly smaller degree
+of infinity at uh at level one. So by
+the time you get down to us at level 42,
+maybe there's plenty of room for lots of
+simulations of finite capacity.
+Um, if the top universe is only a small
+
+[09:33]
+Um, if the top universe is only a small
+finite capacity, then obviously that's
+going to put very very serious limits on
+how many simulations you're going to be
+able to be able to get running. So I
+think we can certainly confidently say
+that if we're at level 42, then the top
+
+[09:45]
+that if we're at level 42, then the top
+level is pretty pretty damn big.
+So it gets more and more constrained as
+we get down levels, more and more uh
+simplified and constrained and limited
+in resources and you
+Yeah, we still have plenty of capacity
+here. What was it? uh Fineman said he
+said there's plenty of room at the
+bottom. You know, we're still uh you
+
+[10:01]
+bottom. You know, we're still uh you
+know, we're still a number of levels
+above the degree of where there's room
+for fundamental computing, physical
+computing capacity, quantum computing
+capacity at the bottom level. So, we got
+plenty of room to play with and make we
+probably have plenty of room for
+
+[10:15]
+probably have plenty of room for
+simulations of pretty sophisticated
+universes. Perhaps none as complicated
+as our universe, unless our universe is
+is infinite, but still at the very least
+for pretty serious finite universes, but
+maybe universes somewhat simpler than
+
+[10:31]
+maybe universes somewhat simpler than
+ours, unless of course we're prepared to
+take certain shortcuts in the
+simulation, which might then increase
+the capacity significantly. Do you think
+the the human mind, us people, in terms
+of the complexity of simulation is at
+
+[10:45]
+of the complexity of simulation is at
+the height of what the simulation might
+be able to achieve? Like if you look at
+incredible entities that could be
+created in this universe of ours, do you
+have an intuition about how incredible
+human beings are on that scale?
+
+[11:00]
+human beings are on that scale?
+I think we're pretty impressive, but
+we're not that impressive.
+Are we above average?
+I mean I think kind of human beings are
+at a certain point in the scale of
+intelligence which made many things
+possible. You know you get through um
+
+[11:16]
+possible. You know you get through um
+evolution through single cell organisms
+through you know fish and mammals and
+primates and something happens once you
+get to human beings. We've just reached
+that level where we get to develop
+language. We get to develop certain
+
+[11:30]
+language. We get to develop certain
+kinds of culture and we get to develop
+certain kinds of collective thinking
+that has enabled all this amazing stuff
+to happen. Science and literature and
+engineering and and culture and uh and
+so on. Still, we are just at the
+
+[11:45]
+so on. Still, we are just at the
+beginning of that on the evolutionary
+threshold. It's kind of like we just got
+there, you know, who knows a few
+thousand or tens of thousands of years
+ago. We're probably just at the very
+beginning for what's possible there. So,
+I'm inclined to think among the scale of
+
+[12:01]
+I'm inclined to think among the scale of
+intelligent beings, we're somewhere very
+near the bottom. I would expect that,
+for example, if we're in a if we're in a
+simulation than the simulators who
+created our got the capacity to be far
+more sophisticated. For at level 42, who
+
+[12:15]
+more sophisticated. For at level 42, who
+knows what the ones at level zero are
+like.
+It's also possible that this is the
+epitome of what is possible to achieve.
+So we as human beings see ourselves
+maybe as flawed, see all the
+constraints, all the limitations. But
+maybe that's the magical, the beautiful
+
+[12:31]
+maybe that's the magical, the beautiful
+thing. Maybe those limitations are the
+essential elements for an interesting
+sort of that edge of chaos, that
+interesting existence that if you make
+us much more intelligent, if if you uh
+
+[12:45]
+us much more intelligent, if if you uh
+make us more powerful in any kind of
+dimension of performance, maybe you lose
+something fundamental that makes life
+worth living. So you kind of have this
+optimistic view that we're this little
+baby that then there's so much growth
+
+[13:01]
+baby that then there's so much growth
+and potential, but this could also be
+it. The most this is the most amazing
+thing is us.
+Maybe what you're saying is consistent
+with what I'm saying. I mean, we could
+still have levels of intelligence far
+beyond us, but maybe those levels of
+
+[13:16]
+beyond us, but maybe those levels of
+intelligence on your view would be kind
+of boring. And you know, we get we kind
+of get so good at everything that life
+suddenly becomes undimensional. So we're
+just inhabiting inhabiting this one spot
+of like maximal romanticism in the
+history of evolution. You get to humans
+
+[13:31]
+history of evolution. You get to humans
+and it's like yeah and then years to
+come our super intelligent descendants
+are going to look back at us and say uh
+those were the days when uh when they
+just hit the point of inflection and
+life was interesting. I am an optimist
+so I'd like to think that you know if
+
+[13:45]
+so I'd like to think that you know if
+there is super intelligence somewhere in
+the uh in the future they'll figure out
+how to make life super interesting and
+super romantic. Well, you know what
+they're going to do.
+So, what they're going to do is they
+realize how boring life is when you're
+super intelligent. So, they create a new
+
+[14:00]
+super intelligent. So, they create a new
+level of assimulation
+and sort of live through the things
+they've created by watching them uh
+stumble about in their flawed ways. So,
+maybe that's so you create a new level
+of a simulation every time you get
+
+[14:15]
+of a simulation every time you get
+really bored with how smart. And
+this would be kind of sad though cuz it
+would show the peak of their existence
+would be like watching simulations for
+entertainment. That's like saying the
+peak of our existence now is Netflix.
+No, you know it's all right.
+A flip side of that could be the peak of
+our existence for many people having
+
+[14:32]
+our existence for many people having
+children and watching them grow. That
+becomes very meaningful.
+Okay. You create a simulation that's
+like creating a family.
+Creating like well any kind of creation
+is uh is kind of a powerful act. Do you
+think it's easier to simulate the mind
+
+[14:46]
+think it's easier to simulate the mind
+or the universe? So, I've heard several
+people including Nick Bosram think about
+ideas of, you know, maybe you don't need
+to simulate the universe, you can just
+simulate the the human mind or in
+general just the distinction between
+
+[15:00]
+general just the distinction between
+simulating this the entirety of it, the
+entirety of the physical world or just
+simulating the mind.
+Which one do you see as more
+challenging?
+Well, I think in some sense the answer
+is is obvious. It has to be simpler to
+simul simulate the mind than to simulate
+
+[15:15]
+simul simulate the mind than to simulate
+the universe because the mind is part of
+the universe. And in order to fully
+simulate the universe, you're going to
+have to simulate the mind. So unless
+we're talking about partial simulations
+and I guess the question is which comes
+first? Does the mind come before the
+universe or does the universe come
+
+[15:30]
+universe or does the universe come
+before the mind?
+So the mind could just be an emergent
+phenomena in this universe. So
+simulation is a is an interesting thing
+that you know it it's it's not like
+
+[15:45]
+that you know it it's it's not like
+creating a simulation perhaps requires
+you to program every single thing that
+happens in it.
+It's just defining a set of initial
+conditions and rules based on which it
+behaves.
+Mhm.
+Uh simulating the mind requires you to
+
+[16:02]
+Uh simulating the mind requires you to
+have a little bit more.
+We're now in in a little bit of a crazy
+land. But uh it it requires you to
+understand the fundamentals of cognition
+perhaps of consciousness of perception
+of everything like that that's made
+
+[16:18]
+of everything like that that's made
+that's not created through some kind of
+emergence
+from basic physics laws but more
+requires you to actually understand the
+fundamentals of of the mind.
+How about if we said simulate the brain
+
+[16:32]
+How about if we said simulate the brain
+rather than rather than the mind? So the
+brain is just a big physical system. The
+universe is a giant physical system. To
+simulate the universe, at the very
+least, you're going to have to simulate
+the brains as well as all the other
+physical systems within it. And um you
+
+[16:47]
+physical systems within it. And um you
+know, it's not obvious there's that the
+problems are any worse for the uh for
+the brain than for it's particularly
+complex physical system, but if we can
+simulate arbitrary physical systems, we
+can simulate brains. There is this
+
+[17:00]
+can simulate brains. There is this
+further question of whether when you
+simulate a brain will that bring along
+all the features of the mind with it
+like will you get consciousness will you
+get thinking will you get free will and
+so on and that's that's something
+philosophers have have argued over for
+
+[17:16]
+philosophers have have argued over for
+years my own view is if you sim if you
+simulate the brain well enough that will
+also simulate the mind but yeah there's
+plenty of people who would say no you'd
+merely get a like a zombie system a
+simulation of a brain without any true
+
+[17:30]
+simulation of a brain without any true
+consciousness.
+But for you, you put together a brain,
+the consciousness comes with it,
+arrives.
+Yeah, I don't think it's obvious.
+That's your intuition.
+My view is roughly that yeah, what is
+responsible for consciousness? It's in
+the patterns of information processing
+
+[17:46]
+the patterns of information processing
+and so on rather than say the biology
+that it's made of. There's certainly
+plenty of people out there who think
+consciousness has to be say biological.
+So if you merely replicate the patterns
+of information processing in a
+non-biological substrate, you'll miss
+
+[18:00]
+non-biological substrate, you'll miss
+what's crucial for consciousness. I
+mean, I think just don't think there's
+any particular reason to think that
+biology is special here. You can imagine
+substituting the biology for
+non-biological systems, say silicon
+circuits that play the same role, the
+
+[18:15]
+circuits that play the same role, the
+behavior will continue to be the same.
+And you know I think just thinking about
+what is the true when I think about the
+connection the isomorphisms between
+consciousness and the brain the deepest
+connections to me seem to connect
+consciousness to patterns of information
+processing not to specific biology. So I
+
+[18:32]
+processing not to specific biology. So I
+at least adopted as my working
+hypothesis that basically it's the
+computation and the information that
+matters for consciousness. At the same
+time we don't understand consciousness.
+So
+all this should be wrong. So the the
+
+[18:45]
+all this should be wrong. So the the
+computation, the flow, the processing,
+manipulation of information,
+the the process is where the
+consciousness, the software is where the
+consciousness comes from, not the
+hardware. Roughly the software, yeah,
+the patterns of information processing
+
+[19:01]
+the patterns of information processing
+at least in the uh in the hardware,
+which we can view as as software. It may
+not be something you can just like
+program and load and uh erase and so on
+in the way we can with ordinary software
+but it's something at the level of
+information processing rather than at a
+
+[19:16]
+information processing rather than at a
+level of implementation. So on that what
+do you think of the the experience of
+self just the experience of the world in
+a in a virtual world in virtual reality?
+Is it possible that we can create
+
+[19:30]
+Is it possible that we can create
+sort of um
+offsprings of our consciousness by
+existing in a virtual world long enough?
+So yeah, c can we be conscious in in the
+same kind of deep way that we are in
+
+[19:46]
+same kind of deep way that we are in
+this real world by hanging out in a
+virtual world? Yeah. Well, the kind of
+virtual worlds we have now are, you
+know, are interesting but limited in
+certain ways. In particular, they rely
+on us having a brain and so on, which is
+
+[20:02]
+on us having a brain and so on, which is
+outside the virtual world. Maybe I'll
+strap on my VR headset or just hang out
+in a in a virtual world on a on a
+screen, but my brain and then the phys
+my physical environment might be
+
+[20:16]
+my physical environment might be
+simulated if I'm in a virtual world, but
+right now there's no attempt to simulate
+my brain. I might there might be some
+non-player characters in these uh in
+these virtual worlds that have simulated
+cognitive systems of certain kinds that
+dictate their behavior, but you know,
+
+[20:30]
+dictate their behavior, but you know,
+mostly they're pretty simple right now.
+Well, I mean, some people are trying to
+combine put a bit of AI in their
+non-player characters to make them uh to
+make them uh them smarter. But for now,
+um inside virtual worlds, the actual
+thinking is interestingly distinct from
+
+[20:45]
+thinking is interestingly distinct from
+the physics of those virtual worlds. In
+a way, actually, I like to think this is
+kind of reminiscent of the way that
+Decart thought our physical world was.
+There's physics and there's the mind and
+they're separate. Now we now we think
+the mind is somehow somehow connected to
+physics pretty deeply. But in these
+
+[21:00]
+physics pretty deeply. But in these
+virtual worlds, there's a physics of a
+virtual world and then there's this
+brain which is totally outside the
+virtual world that controls it and
+interacts it when anyone anyone
+exercises agency in a video game. And
+you know that's actually somebody
+outside the virtual world moving a
+controller controlling the interaction
+
+[21:16]
+controller controlling the interaction
+of things inside the virtual world. So
+right now in virtual worlds the mind is
+somehow outside the world. But you could
+imagine in the future once we get once
+we have developed serious AI, artificial
+general intelligence and so on then we
+
+[21:32]
+general intelligence and so on then we
+could come to virtual worlds which have
+enough sophistication you could actually
+simulate a brain or have a genuine AGI
+which would then presumably be able to
+act in equally sophisticated ways maybe
+
+[21:46]
+act in equally sophisticated ways maybe
+even more sophisticated ways inside the
+virtual world to how it might in the
+physical world. And then the question's
+going to come along that'll be kind of a
+a VR inter a virtual world internal
+um intelligence. And then the question
+
+[22:00]
+um intelligence. And then the question
+is could they have consciousness,
+experience, intelligence, free will,
+yes,
+all the things that we have. And again,
+my view is
+I don't see why not
+to linger in it a little bit. I I find
+virtual reality really
+incredibly powerful. just even the crude
+
+[22:15]
+incredibly powerful. just even the crude
+virtuality we have now of perhaps
+there's a there's a psychological
+effects that make some people more
+amendable to virtual worlds than others
+but I find myself wanting to stay in
+virtual worlds for for long periods yes
+with with a headset or on a on a desktop
+
+[22:32]
+with with a headset or on a on a desktop
+no with a headset. really interesting
+because uh I am totally addicted to you
+using the internet and things on a uh on
+a desktop but when it comes to VR with a
+headset I don't typically use it for
+more than 10 or 20 minutes there's
+
+[22:46]
+more than 10 or 20 minutes there's
+something just slightly aversive about
+it I find so I don't right now even
+though I have Oculus Rift and Oculus
+Quest and HTC Vive and Samsung this and
+that want to stay in that world
+not for extended periods you you
+actually find yourself out there
+
+[23:01]
+actually find yourself out there
+something about like It's a both a
+combination of just imagination and
+considering the possibilities of where
+this goes in in the future. It it feels
+like I want to
+um almost prepare my brain for like it I
+
+[23:17]
+um almost prepare my brain for like it I
+want to explore sort of Disneyland when
+it's first being built
+in the early days. And it feels like I'm
+walking around almost
+imagining the the possibilities and
+
+[23:31]
+imagining the the possibilities and
+something through that process allows my
+mind to really enter into that world.
+But you say that the brain is external
+to that virtual world. It is strictly
+speaking true.
+
+[23:45]
+speaking true.
+But if you're in VR and you do brain
+surgery on an avatar and you're going to
+open up that skull, what are you going
+to find? Sorry, nothing there. The brain
+is elsewhere.
+You don't think it's possible to kind of
+separate them? And I don't mean in a
+
+[24:00]
+separate them? And I don't mean in a
+sense like the cart like a hard
+separation, but basically do you think
+it's possible with the brain outside of
+the virtual
+when you're wearing a headset
+
+[24:15]
+when you're wearing a headset
+create a new consciousness
+for prolonged periods of times? really
+feel like really exper like forget that
+your brain is outside.
+So this is okay this is going to be the
+case where the brain is still outside
+still outside
+but could living in the VR I mean I mean
+
+[24:32]
+but could living in the VR I mean I mean
+we already find this right with video
+games
+exactly completely immersive
+and you get taken up by living in those
+worlds and it becomes your reality for a
+while.
+So they're not completely immersive
+they're just very immersive you don't
+
+[24:47]
+they're just very immersive you don't
+forget the external world. No
+exactly. So that's what I'm asking. Do
+you think it's almost possible to really
+forget the external world?
+Really, really immerse yourself.
+What to forget completely? Why would we
+
+[25:00]
+What to forget completely? Why would we
+forget? You know, we got pretty good
+memories. Maybe you can stop paying
+attention to the external world. But you
+know that this already happens a lot. I
+go to work and maybe I'm not paying
+attention to my home life. I go to a I
+go to a movie and I'm immersed in that.
+So that degree of immersion absolutely.
+
+[25:17]
+So that degree of immersion absolutely.
+But we still have the capacity to
+remember it to completely forget the
+external world. I'm thinking that would
+probably take some I don't know some
+pretty serious drugs or something to
+make your to make your brain do that.
+Is it possible? So, I mean, I guess I'm
+
+[25:30]
+Is it possible? So, I mean, I guess I'm
+getting at is consciousness
+truly a property that's tied to the the
+physical brain
+or can it can you create sort of
+different offspring, copies of
+
+[25:45]
+different offspring, copies of
+consciousnesses based on the worlds that
+you enter?
+Well, the way we're doing it now, at
+least with a standard VR, there's just
+one brain
+interacts with the physical world, plays
+a video game, puts on a video headset,
+interacts with this virtual world. And I
+
+[26:02]
+interacts with this virtual world. And I
+think we typically say there's one
+consciousness here that nonetheless
+undergoes different environments, takes
+on different characters, you know, in
+different environments. This is already
+something that happens in the
+non-verirtual world. you know, I might
+interact one way in my home life, my
+
+[26:17]
+interact one way in my home life, my
+work life, my social life,
+um, and so on. So, at the very least,
+that will happen in a in a virtual world
+very naturally. People might people have
+people sometimes adopt a character of
+avatars very different from themselves,
+
+[26:32]
+avatars very different from themselves,
+maybe even a different gender, different
+race, different social background. So,
+that much is certainly possible. I would
+see that as a single consciousness
+taking on different personas. So if you
+want literal splitting of consciousness
+
+[26:46]
+want literal splitting of consciousness
+into multiple copies, I think it's going
+to take something more radical than
+that. Like you know, maybe you can run
+different simulations
+of your brain in different realities and
+then expose them to different histories
+and then you know you'd split yourself
+
+[27:00]
+and then you know you'd split yourself
+into 10 different simulated copies which
+then undergo different environments and
+then ultimately do become 10 very
+different consciousnesses. Maybe that
+could happen. But now we're not talking
+about something that's possible in the
+near term. We're gonna have to have
+brain stimulations and AGI for that to
+
+[27:15]
+brain stimulations and AGI for that to
+happen.
+Got it. So, uh before any of that
+happens, it's fundamentally you see it
+as a singular consciousness. Even though
+it's experiencing different
+environments, virtue or not, it's still
+connected to the same set of memories,
+
+[27:30]
+connected to the same set of memories,
+same set of experiences and therefore
+one sort of joint
+uh conscious
+system.
+Yeah. or at least no more multiple than
+the kind of multiple consciousness that
+we get from inhab inhabiting different
+environments
+in a non-verirtual world.
+
+[27:46]
+in a non-verirtual world.
+So you said as a child you were a music
+color
+senate senate. So where songs had colors
+for you? So what songs had what colors?
+You know this is funny. Um, I didn't pay
+
+[28:02]
+You know this is funny. Um, I didn't pay
+much attention to this at the time, but
+I'd listen to a piece of music and I'd
+get some kind of imagery of a uh of a
+kind of uh of a kind of of color. The
+weird thing is mostly they were kind of
+
+[28:15]
+weird thing is mostly they were kind of
+murky dark greens and olive browns and
+the colors weren't all that interesting.
+I don't know what the reason is. I mean,
+my theory is that maybe it's like
+different chords and tones provided
+different colors, and they all tended to
+get mixed together into these somewhat
+
+[28:31]
+get mixed together into these somewhat
+uninteresting browns and greens, but
+every now and then there'd be something
+that had a really pure color. There's
+just a few that I that I remember. There
+was a here, there, and everywhere by the
+Beatles was bright red and has this, you
+know, very distinctive tonality and its
+
+[28:46]
+know, very distinctive tonality and its
+chord structure at the uh at the
+beginning. So, that was bright red.
+There was this song by the Alan Parson's
+project called Ammonia Avenue that was
+uh that was kind of a pure a pure blue.
+Anyway, I've got no idea how this
+
+[29:01]
+Anyway, I've got no idea how this
+happened. I didn't even pay that much
+attention until it went away when I was
+about 20. This senesthesia often goes
+away. So, is it purely just the
+perception of a particular color or was
+there a positive or negative experience?
+like was blue associated with a positive
+
+[29:16]
+like was blue associated with a positive
+and red with a negative or is it simply
+the perception of color associated with
+some characteristic of the song?
+For me, I don't remember a lot of
+association with uh with emotion or with
+value. It was just this kind of weird
+and
+
+[29:30]
+and
+interesting fact. I mean, at the
+beginning, I thought this was something
+that happened to everyone. Songs of
+colors. Maybe I mentioned it once or
+twice and people said, "Uh, nope." uh
+that it was like I thought it was kind
+of cool when there was one that had one
+of these especially pure colors but only
+
+[29:45]
+of these especially pure colors but only
+much later once I became you know a grad
+student thinking about the mind did I
+read about this phenomenon called
+synesthesia and it's like hey that's
+what I had and now I occasionally talk
+about it in my classes in intro class
+and it still happens sometimes a student
+comes up and says hey I have that I
+
+[30:01]
+comes up and says hey I have that I
+never knew about that I never knew it
+had a name
+you said that it went went away at age
+20 or so
+and um that you have a journal entry
+from around then saying songs don't have
+colors anymore. What happened?
+
+[30:15]
+colors anymore. What happened?
+What happened? Yeah, it was definitely
+sad that it was gone. In retrospect,
+it's like, hey, that's cool. The colors
+have gone.
+Yeah. Do you can you think about that
+for a little bit? Do you miss those
+experiences? because it's a
+fundamentally different sets of
+
+[30:31]
+fundamentally different sets of
+experiences that you no longer have
+or do you or is it just a nice thing to
+have had? You don't see them as that
+fundamentally different than you
+visiting a new country and experiencing
+new environments. I guess for me when I
+
+[30:46]
+new environments. I guess for me when I
+had these experiences they were somewhat
+marginal. They were like a little bonus
+kind of experience. I know there are
+people who have much more serious forms
+of senesthesia than this for whom it's
+absolutely central to their lives. I
+know people who when they experience new
+
+[31:01]
+know people who when they experience new
+people they have colors maybe they have
+tastes and so on. Every time they see
+writing it has uh it has colors. Some
+people whenever they hear music it's got
+a it's got a certain um really rich
+color pattern and you know for some
+
+[31:15]
+color pattern and you know for some
+sites it's absolutely central. I think
+if they lost it they'd be devastated.
+Again, for me, it just becomes a very
+very mild form of synthesiz. It's like,
+yeah, it's like those interesting
+experiences.
+Yeah.
+Um, you know, you might get under
+
+[31:30]
+Um, you know, you might get under
+different altered states of
+consciousness and and so on. It's kind
+of cool, but you know, not necessarily
+the single most important experiences in
+your life.
+Got it. So let's try to go to the very
+simplest question that you've answered
+many time but perhaps the simplest
+
+[31:46]
+many time but perhaps the simplest
+things can help us reveal
+even in time some some new ideas so what
+in your view is consciousness what is
+qualia what is the hard problem of
+consciousness
+
+[32:00]
+consciousness I mean the word is used
+many ways but the kind of consciousness
+that I'm interested in is basically
+subjective experience
+what it feels like from the inside to be
+a human being or any other conscious
+
+[32:15]
+a human being or any other conscious
+being. I mean, there's something it's
+like to be me right now. I have visual
+images that I'm experiencing. I'm
+hearing my voice. I've got maybe some
+emotional tone. I've got a stream of
+thoughts running through my head. These
+
+[32:31]
+thoughts running through my head. These
+are all things that I experience from
+the first person point of view. who have
+sometimes called this the inner movie in
+the mind. It's not a perfect it's not a
+perfect metaphor. It's not like a movie
+in every ways and in every way and it's
+very rich but yeah it's just direct
+
+[32:47]
+very rich but yeah it's just direct
+subjective experience and I call that
+cons consciousness or sometimes
+philosophers use the word qualia which
+you suggested people tend to use the
+word qualia for things like the
+qualities of things like colors
+
+[33:00]
+qualities of things like colors
+redness the experience of redness versus
+the experience of greenness the
+experience of one taste or one smell
+versus another experience of the quality
+of pain and A lot of consciousness is
+the experience of those of those uh
+
+[33:16]
+the experience of those of those uh
+those qualities.
+Well, consciousness is bigger. The
+entirety of any kinds of experience
+consciousness of thinking is not
+obviously qualia. It's not like specific
+qualities like redness or greenness, but
+still I'm thinking about my hometown.
+I'm thinking about what I'm going to do
+
+[33:30]
+I'm thinking about what I'm going to do
+later on. Maybe there's still something
+running through my my head which is
+subjective experience. Maybe it goes
+beyond those qualities or qualia.
+Philosophers sometimes use the word
+phenomenal consciousness
+for consciousness in this sense. I mean
+
+[33:45]
+for consciousness in this sense. I mean
+people also talk about access
+consciousness, being able to access
+information in your mind, reflective
+consciousness, being able to think about
+yourself. But it looks like the really
+mysterious one, the one that really gets
+people going is phenomenal
+consciousness. The fact that all this
+
+[34:00]
+consciousness. The fact that all this
+the fact that there's subjective
+experience and all this feels like
+something at all. And then the hard
+problem is how is it that why is it that
+there is phenomenal consciousness at all
+and how is it that physical processes in
+a brain could give you subjective
+
+[34:18]
+a brain could give you subjective
+experience? It looks like on the face of
+it you could have all this big
+complicated physical system in a brain
+running and without a given subjective
+experience at all and yet we do have
+subjective experience. So the hard
+
+[34:31]
+subjective experience. So the hard
+problem is just explain that
+explain how that comes about. We haven't
+been able to build machines where a red
+light goes on that says it's not
+conscious. So
+how does how do how do we actually
+create that or how do humans do it and
+
+[34:47]
+create that or how do humans do it and
+how do we ourselves do it? But
+we do every now and then create machines
+that can do this. You know we create
+babies.
+Yes.
+That are that are conscious. They got
+these brains and that brain does produce
+consciousness. But even be even though
+we can create it, we still don't
+
+[35:01]
+we can create it, we still don't
+understand why it happens. Maybe
+eventually we'll be able to create
+machines which as a matter of fact AI
+machines which as a matter of fact are
+conscious, but that won't necessarily
+make the hard problem go away anymore
+than it does with babies cuz we still
+
+[35:15]
+than it does with babies cuz we still
+want to know how and why is it that
+these processes give you consciousness.
+you know, you just made me realize for
+for a second, maybe it's a totally dumb
+realization.
+Uh but nevertheless, that um it's a
+
+[35:30]
+Uh but nevertheless, that um it's a
+useful way to think about the creation
+of consciousness is looking at a baby.
+So that there's a certain point
+at which that baby is not conscious.
+Mhm.
+this sort of uh the baby starts from
+
+[35:45]
+this sort of uh the baby starts from
+maybe I don't I don't know from a few
+cells right there's a certain point at
+which it becomes consciousness arrives
+it's conscious of course we can't know
+exactly that line but that's a useful
+idea that we do we do create
+
+[36:00]
+idea that we do we do create
+consciousness
+again a really dumb thing for me to say
+but it not until now did I realize we do
+engineer consciousness we we get to
+watch the process
+happen. We don't know which point it
+happens
+
+[36:15]
+happens
+or where it is, but you know, we do see
+the birth of consciousness.
+Yeah. I mean, there's a question of
+course is whether babies are conscious
+when they're born. And it used to be, it
+seems, at least some people thought they
+weren't, which is why they didn't give
+anesthetics to newborn babies when they
+
+[36:31]
+anesthetics to newborn babies when they
+circumcised them. And so now people
+think, oh, that would be incredibly
+cruel. Yeah.
+Of course, uh, of course babies feel
+pain. And now the dominant view is that
+uh the babies can feel pain. Actually my
+partner Claudia works on this whole
+
+[36:45]
+partner Claudia works on this whole
+issue of whether there's consciousness
+in babies and of uh of what kind. And
+she certainly thinks that newborn babies
+um you know come into the world with
+some degree of consciousness. Of course
+then you can just extend the question
+backwards to fetuses and suddenly you're
+into politically controversial
+
+[37:00]
+into politically controversial
+exactly
+territory. But um you know there the
+question also arises in the animal
+kingdom. you know what where does
+consciousness start or stop? Is there a
+line in the animal kingdom where you
+know the first conscious organisms are?
+
+[37:15]
+know the first conscious organisms are?
+It's interesting over time people are
+becoming more and more liberal about
+ascribing consciousness to animals.
+People used to think ah maybe only
+mammals could be conscious. Now most
+people seem to think sure fish are
+conscious they can feel pain. And now
+we're arguing over insects. You'll find
+
+[37:31]
+we're arguing over insects. You'll find
+people out there who say plants have
+some degree of uh of consciousness. So,
+you know, who knows where it's going to
+end. The far end of this chain is the
+view that every physical system has some
+degree of consciousness. Philosophers
+call that pansychism. You know, I I take
+
+[37:47]
+call that pansychism. You know, I I take
+that view. I mean, that's a fascinating
+way to view reality. So, if you could
+talk about, if you can linger on
+pansychism for a little bit, what what
+does it mean? So, it's not just plants
+are conscious. I mean, it's that
+
+[38:01]
+are conscious. I mean, it's that
+consciousness is a fundamental fabric of
+reality.
+What does that mean to you? How are we
+supposed to think about that?
+Well, we're used to the idea that some
+things in the world are fundamental,
+right? Uh in physics, we take things
+
+[38:16]
+right? Uh in physics, we take things
+like space or time or space time, mass,
+charge as fundamental properties of the
+universe. You don't reduce them to
+something simpler. You take those for
+granted. You've got some laws that
+connect them. Here is how mass and space
+
+[38:32]
+connect them. Here is how mass and space
+and time evolve. theories like you know
+relativity or quantum mechanics or some
+future theory that will unify them both.
+But everyone says you got to take some
+things as fundamental and if you can't
+explain one thing in terms of the
+
+[38:45]
+explain one thing in terms of the
+previous fundamental things you have to
+expand.
+Maybe something like this happened with
+Maxwell
+um you ended up with fundamental
+principles of electromagnetism and took
+charge as fundamental cuz turned out
+that was the best way to explain it. So
+
+[39:00]
+that was the best way to explain it. So
+I at least take seriously the
+possibility something like that could
+happen with consciousness. Take it as a
+fundamental property like space, time
+and mass and instead of trying to
+explain consciousness wholly in terms of
+the evolution of space, time and and
+
+[39:17]
+the evolution of space, time and and
+mass and so on, take it as a primitive
+and then connect it to everything else
+by some fundamental laws cuz I mean
+there's basic there's this basic problem
+that the physics we have now looks great
+for solving the easy problems of
+
+[39:31]
+for solving the easy problems of
+consciousness which are all about
+behavior, right? uh struct they give us
+a complicated structure and dynamics
+that tell us how things are going to
+behave, what kind of observable um
+behavior they'll produce, which is great
+for the problems of explaining how we
+
+[39:45]
+for the problems of explaining how we
+walk and how we talk and so on. Those
+are the easy problems of consciousness.
+But the hard problem was this problem
+about subjective experience just doesn't
+look like that kind of problem about
+structure, dynamics, how things behave.
+So it's hard to see how existing physics
+
+[40:01]
+So it's hard to see how existing physics
+is going to give you a full explanation
+of that. Certainly trying to get a
+physics view of consciousness. Yes,
+there there has to be a connecting point
+and it could be at the very eximatic at
+the very beginning level. But uh I mean
+
+[40:16]
+the very beginning level. But uh I mean
+first of all there's a crazy idea
+that uh sort of uh everything has
+properties of consciousness.
+So at that point the word consciousness
+
+[40:30]
+So at that point the word consciousness
+is already beyond the reach of our
+current understanding like far because
+it's so far from at least uh for me
+maybe you can correct me
+it's far from the experience experiences
+that we have that I have as a human
+being that it to say that everything is
+
+[40:46]
+being that it to say that everything is
+conscious that means
+uh that means there that basically
+another way to put that if if that's
+true then we understand almost nothing
+about that as fundamental aspect of the
+world.
+
+[41:00]
+world.
+How do you feel about saying an ant is
+conscious? Do you get the same reaction
+to that or is that something you can
+understand?
+I can understand ant. I can't understand
+uh an atom or plant
+plant. So I'm I'm comfortable with
+living things on earth.
+
+[41:16]
+living things on earth.
+Mhm. being cautious because there's some
+kind of agency
+where they're similar size to me
+and uh they can be born and they can die
+
+[41:30]
+and uh they can be born and they can die
+and that is understandable
+intuitively. Of course, you
+anthropomorphize.
+You put yourself in the place of the
+plant.
+Uh
+but I can understand it. I mean I'm I'm
+not like um I don't believe actually
+
+[41:47]
+not like um I don't believe actually
+that plants are conscious or that plants
+suffer but I can understand that kind of
+belief that kind of idea.
+How do you feel about how do you feel
+about robots like the kind of robots we
+have now if I told you like that you
+know a Roomba has some degree of
+consciousness
+
+[42:01]
+consciousness
+uh or some uh you know deep neural
+network.
+I could understand that a Roomba has
+consciousness. I just had spent all day
+at iroot. Uh I and I mean I personally
+love robots and I have a deep connection
+
+[42:16]
+love robots and I have a deep connection
+with robots. So I can I also probably
+anthropomorphize them. But there's
+something about the physical
+object. So there's a difference than a
+neural network. A neural network running
+a software. To me the physical object
+
+[42:31]
+a software. To me the physical object
+something about the human experience
+allows me to really see that physical
+object as an entity. And if it moves and
+moves in a way that it there's a like I
+didn't program it where it feels that
+
+[42:47]
+didn't program it where it feels that
+it's acting based on its own perception
+and yes self-awareness and and
+consciousness even if it's a Roomba then
+you start to assign it some agency some
+consciousness.
+
+[43:00]
+consciousness.
+So, but to say that pansychism that
+consciousness is a fundamental property
+of reality
+is a much bigger statement.
+Mhm.
+That it it's like turtles all the way.
+It's like every it's it doesn't end. The
+
+[43:16]
+It's like every it's it doesn't end. The
+whole thing is so like how I know it's
+full of mystery. Uh but
+if you can linger on it like h how would
+it how do you think about reality if
+consciousness is a fundamental part of
+
+[43:30]
+consciousness is a fundamental part of
+its fabric? The way you get there is
+from thinking can we explain
+consciousness given the existing
+fundamentals and then if you can't as at
+least right now it looks like uh then
+you got to add something. It doesn't
+follow that you have to add
+consciousness. Here's another
+
+[43:45]
+consciousness. Here's another
+interesting possibility is well we'll
+add something else. Let's call it
+protoconciousness. Mhm.
+or X,
+right?
+And then it turns out space, time, mass
+plus X will somehow collectively give
+you the possibility for uh for
+consciousness. I don't rule out that
+
+[44:01]
+consciousness. I don't rule out that
+view either. I call that pan protocism
+cuz maybe there's some other property
+protoconsciousness at the bottom level.
+And if you can't imagine there's
+actually genuine consciousness at the
+bottom level, I think we should be open
+to the idea there's this other thing X,
+
+[44:16]
+to the idea there's this other thing X,
+maybe we can't imagine that somehow
+gives you consciousness. But if we are
+playing along with the idea that there
+really is genuine consciousness at the
+bottom level, of course this is going to
+be way out and speculative. But you know
+at least in say if it was classical
+
+[44:31]
+at least in say if it was classical
+physics then we'd have to you'd end up
+saying well every little atom every with
+you know a bunch of particles in
+spaceime each of these particles has
+some kind of consciousness whose
+structure mirrors maybe their physical
+properties like its mass, it charge, its
+
+[44:47]
+properties like its mass, it charge, its
+velocity and so on. and the structure of
+its consciousness would roughly
+correspond to that and the physical
+interactions between particles. I mean
+there's this old worry about physics
+kind I mentioned this before in this
+issue about the manifest image. We don't
+
+[45:01]
+issue about the manifest image. We don't
+really find out about the intrinsic
+nature of things. Physics tells us about
+how a particle relates to other
+particles and interacts. It doesn't tell
+us about what the particle is in itself.
+That was K's thing in itself. So here's
+
+[45:15]
+That was K's thing in itself. So here's
+a view.
+Um a the nature in itself of a particle
+is something mental. A particle is
+actually a conscious a little conscious
+subject with uh with properties of its
+consciousness that correspond to its
+physical properties. The laws of physics
+
+[45:30]
+physical properties. The laws of physics
+are actually ultimately relating these
+properties of conscious subjects. So in
+this view a Newtonian world actually
+would be a vast collection of little
+conscious subjects at the bottom level.
+way way simpler than we are without free
+will or rationality or anything like
+
+[45:46]
+will or rationality or anything like
+that. But that's what the universe would
+be like. Now, of course, that's a vastly
+speculative view. No, no particular
+reason to think it's correct.
+Furthermore, non-newtonian physics, say
+quantum mechanical wave function,
+suddenly it starts to look different.
+
+[46:00]
+suddenly it starts to look different.
+It's not a vast collection of conscious
+subjects. Maybe the there's ultimately
+one big wave function for the whole
+universe. corresponding to that might be
+something more like a a single conscious
+mind whose structure corresponds to the
+structure of the wave function. People
+
+[46:16]
+structure of the wave function. People
+sometimes call this cosmos psychism. And
+now of course we're in the realm of
+extremely speculative philosophy.
+There's no direct evidence for this. But
+yeah, but if you want a picture of what
+that universe would be like, think yeah,
+giant cosmic mind with enough richness
+
+[46:32]
+giant cosmic mind with enough richness
+and structure among it to replicate all
+the structure of physics.
+I think therefore I am at the level of
+particles and with quantum mechanics at
+the level of the wave function and it's
+um it's kind of an exciting
+
+[46:48]
+um it's kind of an exciting
+beautiful possibility of course way out
+of reach of physics currently. It is
+interesting that some neuroscientists
+are beginning to take pansychism
+seriously that you find consciousness
+even in very in very simple systems. So
+
+[47:03]
+even in very in very simple systems. So
+for example, the integrated information
+theory of consciousness that a lot of
+neuroscientists are taking seriously.
+Actually I just got this new book by
+Kristoff Cook just came in the feeling
+of life itself why consciousness is
+widespread but can't be computed. He
+
+[47:17]
+widespread but can't be computed. He
+likes he basically endorses a pansyus
+view where you get consciousness with
+the degree of information processing or
+integrated information processing in a
+simple in a system and even very very
+simple systems like a couple of
+
+[47:30]
+simple systems like a couple of
+particles will have some degree of this.
+So he ends up with some degree of
+consciousness in all matter and the
+claim is that this theory can actually
+explain a bunch of stuff about the
+connection between the brain and
+consciousness. Now that's very
+controversial. I think it's very very
+
+[47:46]
+controversial. I think it's very very
+early days in the science of
+consciousness. It's interesting that
+it's not just philosophy that that might
+lead you in this direction but there are
+ways of thinking quasi scientifically
+that lead you there too
+but maybe different than pensychism.
+
+[48:01]
+but maybe different than pensychism.
+What do you think? So Alan Watts has
+this quote that I'd like to ask you
+about. Uh the quote is through our eyes
+the universe is perceiving itself.
+Through our ears, the universe is
+listening to its harmonies. We are the
+
+[48:16]
+listening to its harmonies. We are the
+witnesses to which the universe becomes
+conscious of its glory, of its
+magnificence.
+So that's not pansychism.
+Do you think that we are essentially the
+tools, the senses the universe created
+
+[48:33]
+tools, the senses the universe created
+to be conscious of itself? It's an
+interesting idea. Of course, if you went
+for the giant cosmic mind view, then the
+universe was conscious
+all along. It didn't need us. We're just
+little components of the universal
+
+[48:47]
+little components of the universal
+consciousness. Likewise, if you believe
+in pansarchism,
+then there was some little degree of
+consciousness at the bottom level all
+along and we were just a more complex
+form of consciousness. So I think maybe
+the quote you mentioned works better if
+
+[49:02]
+the quote you mentioned works better if
+you're not a pansychist, you're not a
+cosmos psychist, you think consciousness
+just exists at this uh at this
+intermediate level. And of course that's
+the orthodox view
+that you would say is the the common
+view. So is your own view with
+
+[49:16]
+view. So is your own view with
+pansychism
+a rarer view? I think it's generally
+regarded certainly as a speculative view
+held by a fairly small minority of at
+least theorists. Philosopher most
+philosophers and most scientists who
+
+[49:31]
+philosophers and most scientists who
+think about consciousness are not
+pansychist. There's been a bit of a
+movement in that direction for the last
+10 years or so. Seems to be quite
+popular especially among the the younger
+generation, but it's still very
+definitely a minority view. many people
+think is totally batshit crazy to use
+
+[49:47]
+think is totally batshit crazy to use
+the technical term but um
+it's a philosophical term. Yeah. So the
+orthodox view I think is still
+consciousness is something that humans
+have and some good number of non-human
+animals have and maybe AIs might have
+
+[50:00]
+animals have and maybe AIs might have
+one day but it's restricted on that
+view. Then there was no consciousness at
+the start of the universe. There may be
+none at the end but is this thing which
+happened at some point in the history of
+the universe. consciousness developed
+and yes it's on that's a very amazing
+
+[50:16]
+and yes it's on that's a very amazing
+event on this view because many people
+are inclined to think consciousness is
+what somehow gives meaning to our lives
+without consciousness there'd be no
+meaning no true value no good versus bad
+and so on so with the advent of
+
+[50:31]
+and so on so with the advent of
+consciousness suddenly the universe went
+from meaningless to somehow meaningful
+why did this happen I guess the quote
+you mentioned was somehow this was
+somehow destined to happen because the
+
+[50:45]
+somehow destined to happen because the
+universe needed to have consciousness
+within it to have value and have meaning
+and maybe you could combine that with a
+theistic view or a teological view. The
+universe was inexurably evolving towards
+consciousness. Actually my colleague
+here at NYU Tom Nagel wrote a book
+
+[51:01]
+here at NYU Tom Nagel wrote a book
+called mind and cosmos a few years ago
+where he argued for this teological view
+of evolution toward consciousness saying
+this led to problems for Darwinism. This
+got him on you know this is very very
+controversial. Most people didn't agree
+
+[51:16]
+controversial. Most people didn't agree
+I don't myself agree with this
+teological view but it is a it's at
+least a beautiful speculative view
+of the uh of the cosmos. What do you
+think people experience?
+
+[51:30]
+think people experience?
+What do they seek when they believe in
+God from this kind of perspective?
+I'm not an expert on thinking about
+God and religion. I'm not myself
+religious at all. When people sort of
+pray, communicate with God, what
+
+[51:46]
+pray, communicate with God, what
+whichever form, I'm not speaking to sort
+of the practices and the rituals of
+religion. I mean the actual experience
+of that people really have a deep
+connection with God in some cases.
+
+[52:01]
+connection with God in some cases.
+What do you think that experience
+is? It's so common at least throughout
+the history of civilization
+that
+it seems like we uh seek that at the
+
+[52:16]
+it seems like we uh seek that at the
+very least. It's an interesting
+conscious experience that people have
+when they experience religious awe or
+prayer and so on. And neuroscientists
+have tried to examine what bits of the
+uh the brain are active and so on. But
+
+[52:30]
+uh the brain are active and so on. But
+yeah, that there's this deeper question
+of what is what are people looking for
+when they're doing this. And like I
+said, I've got no real expertise on
+this, but it does seem that one thing
+people are after is a sense of meaning
+and value, a sense of connection to
+
+[52:45]
+and value, a sense of connection to
+something greater than themselves that
+will give their lives meaning and value.
+And maybe the thought is if there is a
+god then god somehow as a universal
+consciousness who has invested this
+universe with meaning
+
+[53:01]
+universe with meaning
+and some connection to god might give
+your life meaning that's a I can kind of
+see the see the attractions of that but
+still makes me wonder why is it exactly
+that a universal consciousness uni god
+
+[53:15]
+that a universal consciousness uni god
+would be needed to give the to give the
+world meaning if I mean if universal
+consciousness can give the world
+meaning. Why can't local consciousness
+give the world meaning too? So I think
+my consciousness gives my world
+is the thing is the origin of of meaning
+
+[53:30]
+is the thing is the origin of of meaning
+for your world.
+Yeah. I experience things as good or
+bad, happy,
+sad, interesting, important. So my
+consciousness invests this world with
+meaning. Without any consciousness,
+maybe it would be a bleak, meaningless
+universe. But I don't see why I need
+
+[53:46]
+universe. But I don't see why I need
+someone else's consciousness or even
+God's consciousness to give this uh this
+universe meaning. Here we are local
+creatures with our own subjective
+experiences. I think we can give the
+universe meaning ourselves. So I mean
+maybe to some people that feels
+
+[54:00]
+maybe to some people that feels
+inadequate. Yeah. Our own local
+consciousness is somehow too puny and
+insignificant to invest any of this with
+cosmic significance. And maybe God gives
+you a sense of cosmic significance, but
+I'm just speculating here.
+
+[54:15]
+I'm just speculating here.
+So the, you know, it's a really
+interesting idea that consciousness is
+the thing that makes life meaningful.
+If you could maybe just just briefly
+explore that for a second. So I suspect
+
+[54:31]
+explore that for a second. So I suspect
+just from listening to you now you mean
+in an almost trivial sense just the the
+day-to-day experiences of life have
+because of you attach identity to it.
+
+[54:46]
+because of you attach identity to it.
+Mhm. they become
+well I I guess I want to ask
+something I I would uh always wanted to
+ask a legit world worldrenowned
+
+[55:00]
+ask a legit world worldrenowned
+philosopher what is the meaning of life
+so I suspect you don't mean
+consciousness gives any kind of greater
+meaning to it all
+and more to dayto-day but is there
+greater meaning to it all
+
+[55:16]
+greater meaning to it all
+I I think life has meaning for us
+because we are conscious. So without
+consciousness, no meaning. Consciousness
+invests our life with meaning. So
+consciousness is the source of my view
+of the meaning of life. But I wouldn't
+
+[55:31]
+of the meaning of life. But I wouldn't
+say consciousness itself is the meaning
+of life. I'd say what's meaningful in
+life is basically what we find
+meaningful. What we experience as
+meaningful. So if you find meaning and
+fulfillment and value in say
+
+[55:47]
+fulfillment and value in say
+intellectual work like understanding
+then that's your that's a very
+significant part of the meaning of life
+for you. If you find it in social
+connections or in raising a family then
+that's the meaning of life for you. The
+meaning kind of comes from what you
+
+[56:01]
+meaning kind of comes from what you
+value as a conscious creature. So I
+think there's no on this view there's no
+universal solution
+you no universal answer to the question
+what is the meaning of life? The meaning
+of life is where you find it as a
+conscious creature. But it's
+consciousness that somehow makes value
+
+[56:17]
+consciousness that somehow makes value
+possible. Experiencing some things as
+good or as bad or as meaningful
+some comes from within consciousness.
+So you think consciousness is a crucial
+component ingredient of having gi
+
+[56:31]
+component ingredient of having gi
+assigning value to things. I mean, there
+kind of a fairly strong intuition that
+without consciousness, there wouldn't
+really be any value. If we just had a
+purely a universe of unconscious
+creatures, would anything be better or
+
+[56:45]
+creatures, would anything be better or
+worse than anything else? Certainly,
+when it comes to ethical dilemmas, you
+know, you know about the old uh the old
+trolley problem. Do you uh do you kill
+one person or do you switch to the other
+track to kill uh kill five? Well, I've
+
+[57:00]
+track to kill uh kill five? Well, I've
+got a variant on this. the zombie
+trolley problem where there's one
+conscious being on uh on one track and
+five
+humanoid zombies, let's make them
+robots.
+Yeah.
+Who are not who are not conscious on the
+uh on the other track?
+
+[57:15]
+uh on the other track?
+Do you uh given that choice, do you kill
+the one conscious being or the five
+unconscious
+robots? Most people have a fairly clear
+intuition here.
+Yeah.
+Kill the uh kill the unconscious beings
+because they basically they don't have a
+meaningful life. They're not really
+persons,
+
+[57:31]
+persons,
+conscious beings,
+of course, at all.
+Of course, we don't have good intuition
+about
+something like an unconscious being. So,
+in philosophical terms, you refer to as
+
+[57:45]
+in philosophical terms, you refer to as
+a zombie.
+It's a useful
+thought experiment, construction in
+philosophical terms, but we don't yet
+have them.
+So that's kind of what we may be able to
+create with robots.
+
+[58:00]
+create with robots.
+And I don't necessarily know what that
+even means.
+Yeah. Merely hypothetical for now.
+They're just a thought experiment. They
+may never be possible. I mean the
+extreme case of a zombie is a being
+which is physically functionally
+
+[58:16]
+which is physically functionally
+behaviorally identical to me but not
+conscious. That's a mere I don't think
+that could ever be built in this
+universe. The question is just could we
+does that hypothetically make sense?
+That's kind of a useful contrast class
+to raise questions like why aren't we
+
+[58:30]
+to raise questions like why aren't we
+zombies? How does it come about that
+we're conscious and we're not like that?
+But there are less extreme versions of
+this like robots which are maybe not
+physically identical to us, maybe not
+even functionally identical to us. Maybe
+they've got a different architecture,
+
+[58:45]
+they've got a different architecture,
+but they can do a lot of sophisticated
+things, maybe carry on a conversation,
+but they're not conscious. That's not so
+far out. We've got simple computer
+systems at least tending in that
+direction now and presumably
+this is going to get get more and more
+
+[59:00]
+this is going to get get more and more
+sophisticated over uh years to come
+where we may have some pretty it's at
+least quite straightforward to conceive
+of some pretty sophisticated robot
+systems that can use language and be
+fairly high functioning without
+
+[59:15]
+fairly high functioning without
+consciousness at all. Then I stipulate
+that. I mean, we of course there's this
+tricky
+question of how you would know whether
+they're conscious. But let's say we've
+somehow solved that and we know that
+these high functioning robots aren't
+conscious. Then the question is, do they
+have moral status? Does it matter how we
+
+[59:31]
+have moral status? Does it matter how we
+treat them?
+Um, what does moral status mean? So
+does basically it's that question. Can
+they suffer? Does it matter how we treat
+them? We'd be, for example, if we if if
+I mistreat this glass, this cup by uh by
+
+[59:47]
+I mistreat this glass, this cup by uh by
+shattering it,
+then that's bad. Why is it bad, though?
+It's going to make a mess. It's going to
+be annoying for me and my partner um and
+so on. It's not bad for the cup. No one
+would say the cup itself has moral
+status. Hey, you you hurt the cup. Um
+
+[1:00:02]
+status. Hey, you you hurt the cup. Um
+and that's uh that's doing it a moral
+harm. Um likewise, plants. Well, again,
+if they're not conscious, most people
+think if by uprooting a plant, you're
+not harming it. But if a being is
+conscious, on the other hand, then you
+
+[1:00:16]
+conscious, on the other hand, then you
+are harming it. So Siri or um I dare not
+say the uh the the name of Alexa
+anyway. So, we don't think we're uh
+we're morally harming Alexa by turning
+her off or disconnecting her or even
+
+[1:00:31]
+her off or disconnecting her or even
+destroying her, whether it's the system
+or the uh or the underlying software
+system because we don't really think
+she's conscious. On the other hand, you
+move to like the the disembodied being
+in the moving in the movie her Samantha.
+
+[1:00:45]
+in the moving in the movie her Samantha.
+I guess she was kind of presented as
+conscious and then if you if you
+destroyed her, you'd certainly be
+committing a serious harm. So I think
+our strong sense is if a being is
+conscious and can undergo subjective
+experiences then it matters morally how
+we treat them. So if a robot is
+
+[1:01:01]
+we treat them. So if a robot is
+conscious it matters but if a robot is
+not conscious then they're basically
+just meat or a machine and it uh and it
+and it doesn't matter. So I think at
+least maybe how we think about this
+stuff is fundamentally wrong. But I
+think a a lot of people who think about
+
+[1:01:15]
+think a a lot of people who think about
+this stuff seriously including people
+who think about say the moral treatment
+of animals and so on come to the view
+that consciousness is ultimately kind of
+the line between systems that where we
+have to take them into account in
+thinking morally about how we act and
+
+[1:01:32]
+thinking morally about how we act and
+systems for which we don't. And I I
+think I've seen you either write or talk
+about the demonstration of consciousness
+from a system like that, from a system
+like Alexa or um a conversational agent
+
+[1:01:48]
+like Alexa or um a conversational agent
+that what you would be looking for is
+kind of at the very basic level for the
+system to
+have an awareness that I'm just a
+program and yet why do I experience
+
+[1:02:02]
+program and yet why do I experience
+this?
+Mhm. and or or not to have that
+experience, but to communicate that to
+you. So that's what us humans would
+sound like if you all of a sudden woke
+up one day like Kafka, right? In a body
+of a bug or something, but in in a
+
+[1:02:16]
+of a bug or something, but in in a
+computer, you all of a sudden realize
+you don't have a body and yet you would
+feeling what you were feeling. You would
+probably say those kinds of things. Mhm.
+So do you think a system essentially
+becomes conscious by
+
+[1:02:31]
+becomes conscious by
+convincing us that it's conscious
+h
+through the words that I just mentioned?
+So by being confused about the fact that
+uh why am I having these experiences?
+
+[1:02:45]
+uh why am I having these experiences?
+So basically
+I don't think this is what makes you
+conscious but I do think being puzzled
+about consciousness is a very good sign
+that a system is conscious. So if I
+encountered a robot that actually seemed
+to be genuinely puzzled by its own
+mental states and saying, "Yeah, I have
+
+[1:03:02]
+mental states and saying, "Yeah, I have
+all these weird experiences and I don't
+see how to explain them. I know I'm a
+just a set of silicon circuits, but I
+don't see how that would give you my
+consciousness." I would at least take
+that as some evidence that there's some
+consciousness going on there. I don't
+
+[1:03:16]
+consciousness going on there. I don't
+think a system needs to be puzzled about
+consciousness to be conscious. Many
+people aren't puzzled by their
+consciousness. Animals don't seem to be
+puzzled at all. I still think they're
+conscious. So, I don't think that's a
+requirement on consciousness. But I do
+
+[1:03:31]
+requirement on consciousness. But I do
+think if we're looking for signs for
+consciousness, say in AI systems, one of
+the things that will help convince me
+that AI system is conscious is if it
+shows signs of it, if it shows signs of
+
+[1:03:45]
+shows signs of it, if it shows signs of
+introspectively recognizing something
+like consciousness and finding this
+philosophically puzzling in the way that
+uh the way that that we do. It's such an
+interesting thought though because a lot
+of people sort of would uh at the
+shallow level criticize the touring test
+
+[1:04:01]
+shallow level criticize the touring test
+for language that it's essentially
+uh what I heard like
+Dan Dennett criticize it in this kind of
+way which is it's really puts a lot of
+emphasis on lying.
+Yeah. And
+
+[1:04:15]
+Yeah. And
+being able to being able to imitate
+human beings. Yeah. There's this uh
+there's this cartoon of the AI system
+studying for the Turing test. I just got
+to read this book called Talk Like a
+Human. It's like, man, why do I have to
+waste my time learning how to imitate
+humans? Maybe the AI system is going to
+
+[1:04:31]
+humans? Maybe the AI system is going to
+be way beyond the hard problem of
+consciousness. And it's going to be this
+like, why do I need to waste my time
+pretending that I recognize the hard
+problem of consciousness to uh in order
+for people to recognize me as conscious?
+Yeah, it just feels like I guess the
+question is, do you think there's a we
+
+[1:04:47]
+question is, do you think there's a we
+can ever really create a test for
+consciousness? because it it feels like
+we're very humanentric.
+And so the only way we would be
+convinced
+that something is conscious is by is
+
+[1:05:00]
+that something is conscious is by is
+basically the thing demonstrates
+the illusion of consciousness.
+That we can never really know whether
+it's conscious or not. And in fact
+that almost feels like it doesn't matter
+then
+or does it still matter to you that
+
+[1:05:17]
+or does it still matter to you that
+something is conscious or it
+demonstrates consciousness. You still
+see that fundamental distinction.
+I think to a lot of people whether a
+system is conscious or not matters
+hugely for many things like how we treat
+it can it suffer and so on. But still
+
+[1:05:33]
+it can it suffer and so on. But still
+that leaves open the question how can we
+ever know? And it's true that it's
+awfully hard to see how we can know for
+sure whether a system is conscious. I
+suspect that sociologically the thing
+
+[1:05:45]
+suspect that sociologically the thing
+that's going to convince us that a
+system is conscious is in part things
+like social interaction, conversation
+and so on where they seem to be
+conscious. They talk about their
+conscious states or just talk about
+being happy or sad or finding things
+
+[1:06:00]
+being happy or sad or finding things
+meaningful or being in pain. that will
+tend to convince us if we don't the
+system genuinely seems to be conscious
+we don't treat it as such eventually
+it's going to seem like a strange form
+of racism or speciesism or somehow
+not to acknowledge them as
+
+[1:06:16]
+not to acknowledge them as
+I truly believe that by the way I I I
+believe that there is going to be
+something akin to the civil rights
+movement but for robots
+um I think the moment you have a roomba
+say please don't kick me that hurts just
+
+[1:06:32]
+say please don't kick me that hurts just
+say it.
+Yeah,
+I think that will fundamentally
+change the fabric of our society.
+I think you're probably right. Although
+it's going to be very tricky because
+just say we're in we've got the
+technology where these conscious beings
+
+[1:06:45]
+technology where these conscious beings
+can just be mult created and multiplied
+by the thousands by by flicking a
+switch.
+So, and the legal status is going to be
+different, but ultimately the moral
+status ought to be the same. And yeah,
+the civil rights issue is going to be a
+
+[1:07:01]
+the civil rights issue is going to be a
+huge mess.
+So if one day somebody clones you,
+another very real possibility.
+Um, in fact, I find the conversation
+between two copies of David Chalmer's
+
+[1:07:16]
+between two copies of David Chalmer's
+Mhm.
+quite interesting.
+Uh,
+scary thought.
+Just
+who is this idiot? He's not making any
+sense. So what uh do you think he would
+be conscious?
+
+[1:07:32]
+be conscious?
+I do think he would be conscious. I do
+think in some sense I'm not sure it
+would be me. They would be two different
+beings at this point. I think they both
+be conscious and they both have many of
+the same mental
+
+[1:07:45]
+the same mental
+properties. I think they both in a way
+have the same moral status. It'll be
+wrong to hurt either of them or to kill
+them and so on. Still, there's some
+sense in which probably their legal
+status would have to be different. If
+I'm the original and that one's just a
+
+[1:08:01]
+I'm the original and that one's just a
+clone, then, you know, creating a clone
+of me, presumably the clone doesn't, for
+example, automatically own the stuff
+that I own or, you know, um,
+I've got to, you know, certain connect
+the things that the people I interact
+
+[1:08:16]
+the things that the people I interact
+with, my family, my partner, and so on.
+I'm I'm gonna somehow be connected to
+them in a way in which the clone isn't.
+So
+because you came slightly first.
+Yeah. Because
+a clone would argue
+that they have
+
+[1:08:31]
+that they have
+really as much of a connection.
+They have all the memories of that
+connection. Then in a way you might say
+it's kind of unfair to discriminate
+against them. But say you've got an
+apartment that only one person can live
+in or a partner who only one person.
+But why should it be with you?
+
+[1:08:45]
+But why should it be with you?
+The original.
+It's an interesting philosophical
+question. But you might say because I
+actually have this history.
+If I am the same person as the one that
+came before and the clone is not, then I
+have this history that the clone
+
+[1:09:00]
+have this history that the clone
+doesn't. Of course, there's also the
+question,
+isn't the clone the same person, too?
+This is a question about personal
+identity. If I continue and I create a
+clone over there, I want to say this one
+is me and this one is is someone else.
+But you could take the view that a clone
+
+[1:09:17]
+But you could take the view that a clone
+is equally me. Of course, in a movie
+like Star Trek where they have a telelet
+transporter, it basically creates clones
+all the time, they treat the clones as
+if they're the original person. Of
+course, they destroy the original body
+in Star Trek. So, there's only one left
+
+[1:09:30]
+in Star Trek. So, there's only one left
+around and only very occasionally do
+things go wrong and you get two copies
+of Captain Kirk
+that somehow our legal system at the
+very least is going to have to sort out
+some of these issues and that maybe
+that's what's moral and what's leg
+what's legally acceptable are going to
+
+[1:09:45]
+what's legally acceptable are going to
+come apart.
+What question would you ask a clone of
+yourself?
+Is there something useful you can find
+out from him about
+the fundamentals of consciousness even?
+
+[1:10:00]
+the fundamentals of consciousness even?
+I mean,
+kind of in principle, I know that if
+it's a perfect clone, it's going to
+behave just like me. So, I'm not sure
+I'm going to be able to I can discover
+whether it's a perfect clone by seeing
+whether it answers like me. But
+
+[1:10:15]
+whether it answers like me. But
+otherwise, I know what I'm going to find
+is a being which is just like me, except
+that it's just undergone this great
+shock of discovering that it's a clone.
+So, just so you woke me up tomorrow and
+said, "Hey, Dave, sorry to tell you
+this, but you're actually the clone."
+
+[1:10:31]
+this, but you're actually the clone."
+And you provided me really convincing
+evidence, showed me the film of my being
+cloned and then all right to here being
+here um and and waking up. So, you
+proved to me I'm a clone. Well, yeah.
+Okay. I would find that shocking. And
+who knows how I would react to this. So,
+
+[1:10:47]
+who knows how I would react to this. So,
+so maybe by talking to the clone, I'd
+find something about my own psychology
+that I can't find out so easily, like
+how I'd react upon discovering that I'm
+a clone. I could certainly ask the clone
+if it's conscious and what it is
+consciousness is like and so on, but I
+
+[1:11:00]
+consciousness is like and so on, but I
+guess I kind of know if it's a perfect
+clone. It's going to behave roughly like
+me. Of course, at the beginning, there
+will be a question about whether a
+perfect clone is possible. So I may want
+to ask it lots of questions to see if
+its consciousness and the way it talks
+about its consciousness and the way it
+
+[1:11:15]
+about its consciousness and the way it
+react to things in general is like me
+and you know that will occupy us for a
+uh for a long time.
+Some basic unit testing on the early
+models.
+So so if it's a perfect clone you say
+that it's going to behave exactly like
+
+[1:11:30]
+that it's going to behave exactly like
+you. So that takes us to free will.
+Mhm.
+So
+is there free will? Are we able to make
+decisions that are not predetermined
+from the initial conditions of the the
+universe?
+You know, philosophers do this annoying
+
+[1:11:46]
+You know, philosophers do this annoying
+thing of saying it depends what you
+mean. So in this case, you know, yeah,
+really depends on what you mean by by
+free will. If you mean something which
+was not determined in advance, could
+never have been determined, then I don't
+
+[1:12:01]
+never have been determined, then I don't
+know. We have free will. I mean, there's
+quantum mechanics and who's to say if
+that opens up some room, but I'm not
+sure we have free will in that sense,
+but I'm also not sure that's the kind of
+free will that really matters.
+Mhm.
+You know, um what matters to us is being
+
+[1:12:15]
+You know, um what matters to us is being
+able to do what we want and to create
+our own futures. We've got this
+distinction between having our lives be
+under our control and under someone
+else's control. And we've got the the
+sense of actions that we are responsible
+for versus ones that we're not. I think
+
+[1:12:31]
+for versus ones that we're not. I think
+you can make those distinctions even in
+a deterministic
+universe. And this is what people call
+the compatibilist view of free will
+where it's compatible with determinism.
+So I think for many purposes the kind of
+free will that matters is something we
+
+[1:12:46]
+free will that matters is something we
+can have in a deterministic universe.
+And I can't see any reason in principle
+why an AI system couldn't have free will
+of that kind. If you mean super duper
+free will, the ability to violate the
+laws of physics and doing things that in
+principle could not be predicted. I
+
+[1:13:01]
+principle could not be predicted. I
+don't know. Maybe no one has that kind
+of free will.
+What's the connection between the
+the reality of free will and the the
+experience of it, the subjective
+experience in your view?
+
+[1:13:15]
+experience in your view?
+So, how does consciousness connect to
+this to the experience of uh to the
+reality and the experience of free will?
+It's certainly true that when we make
+decisions and when we choose and so on,
+we feel like we have an open future.
+Yes.
+Feel like, yeah, I could do this. I
+
+[1:13:30]
+Feel like, yeah, I could do this. I
+could go into philosophy or I could go
+into math. I could go to a movie
+tonight. I could go to a restaurant. Um,
+so we experience these things as if the
+future is open. And maybe we experience
+ourselves as exerting a kind of
+
+[1:13:48]
+ourselves as exerting a kind of
+effect on the future that's somehow
+picking out one path from many paths
+were previously open. And you might
+think that actually if we're in a
+deterministic universe, there's a sense
+in which objectively those paths weren't
+
+[1:14:00]
+in which objectively those paths weren't
+really open all along,
+but subjectively they were open. And
+that's I think that's what really
+matters in making a decision. into our
+experience of making a decision as
+choosing a path for for ourselves. I
+mean in general our introspective models
+
+[1:14:17]
+mean in general our introspective models
+of the mind I think are generally very
+distorted representations of the mind.
+So it may well be that our experience of
+ourel in making a decision. Our
+experience of what's going on doesn't
+terribly well mirror what's uh what's
+
+[1:14:30]
+terribly well mirror what's uh what's
+going on. And I mean you know maybe
+there are anticedants in the brain way
+before anything came into consciousness
+and and and
+so on those aren't represented in our
+introspective model. So in general our
+experience of our experience of
+
+[1:14:45]
+experience of our experience of
+perception
+you know it's like I experience a
+perceptual image of the external world.
+It's not a terribly good model of what's
+actually going on
+in the in my visual cortex and so on
+which has all these layers and so on.
+It's just one little snapshot of of one
+bit of that. So in general, you know,
+
+[1:15:01]
+bit of that. So in general, you know,
+introspective models are very over
+oversimplified and it wouldn't be
+surprising if that was true of free will
+as well. This also incidentally can be
+applied to consciousness itself. There
+is this very interesting view that
+consciousness itself is an introspective
+
+[1:15:16]
+consciousness itself is an introspective
+illusion. In fact, we're not conscious,
+but we uh but we the brain just has
+these introspective models of itself
+where it oversimplifies everything and
+represents itself as having these
+special properties of consciousness.
+
+[1:15:31]
+special properties of consciousness.
+It's this really simple way to kind of
+keep track of itself and so on. And then
+on the illusionist view, yeah, that's
+just a that's just an illusion. It was I
+find this view I find it implausible. I
+do find it very attractive in some ways
+because you it's easy to tell some story
+
+[1:15:46]
+because you it's easy to tell some story
+about how the brain would create
+introspective models of its own
+consciousness of its own free will as a
+way of simplifying itself. I mean it's a
+similar way when we perceive the
+external world we perceive it as having
+these colors that
+
+[1:16:01]
+these colors that
+maybe it doesn't really have course
+that's a really useful way of keeping
+tracks of keeping track.
+Did you say that you find it not very
+plausible? because I I I find it both
+plausible and attractive in some sense
+because I
+
+[1:16:16]
+because I
+I mean that's that kind of view is one
+that has the minimum amount of mystery
+around it.
+You can kind of understand that kind of
+view. Everything else says we don't
+
+[1:16:31]
+view. Everything else says we don't
+understand so much of this picture.
+Yeah. No, it is very it is very
+attractive. I recently wrote an article
+about this kind of issue called the meta
+problem of consciousness. The hard
+problem is how does the brain give you
+consciousness? The meta problem is why
+
+[1:16:45]
+consciousness? The meta problem is why
+are we puzzled by the hard problem of
+consciousness and cuz you know our being
+puzzled by it that's ultimately a bit of
+behavior. We might be able to explain
+that bit of behavior as one of the easy
+problems consciousness. So maybe
+there'll be some computational model
+
+[1:17:00]
+there'll be some computational model
+that explains why we're puzzled by
+consciousness. the meta problem has come
+up with that model and I've been
+thinking about that a lot lately. There
+are some interesting stories you can
+tell about why the right kind of
+computational system might develop these
+
+[1:17:15]
+computational system might develop these
+introspective models of itself that
+attributed itself these special
+properties. Um so that that meta problem
+is a research program program for
+everyone. And then if you've got
+attraction to sort of simple views,
+desert landscapes and so on,
+
+[1:17:31]
+desert landscapes and so on,
+then you can go all the way with what
+people call illusionism and say in fact
+consciousness itself is not real. What
+is real is just these uh these these
+introspective models we have that tell
+us that we're conscious. Um so the view
+
+[1:17:46]
+us that we're conscious. Um so the view
+is very simple, very attractive, very
+powerful. The trouble is, of course, it
+has to say that deep down consciousness
+is not real. We're not actually
+experiencing right now. And it looks
+like it's just contradictory a
+
+[1:18:00]
+like it's just contradictory a
+fundamental datim of our existence. And
+this is why most people find this view
+crazy. Just as they find pansychism
+crazy in one way, people find
+illusionism crazy in another way. But it
+I mean
+
+[1:18:15]
+I mean
+but it so yes it has to deny this
+fundamental data of our existence now
+and the view that makes the view sort of
+frankly unbelievable for most people. On
+the other hand the view developed right
+might be able to explain why we find it
+
+[1:18:30]
+might be able to explain why we find it
+unbelievable because these models are so
+deeply hardwired into our head
+and they're all integrated. It's it's
+not you can't escape that the the
+illusion is a crazy possibility. Is it
+possible that the entirety of the
+universe, our planet, all the people in
+
+[1:18:46]
+universe, our planet, all the people in
+New York, all the organisms on our
+planet, the including me here today are
+not real in in that sense. They're all
+part of an illusion inside of Dave
+Charmer's head.
+I think all this could be a simulation.
+
+[1:19:02]
+I think all this could be a simulation.
+No, but not just a simulation.
+Yeah,
+because a simulation kind of
+is outside of you.
+A dream. What if it's all an illusion
+that yes, a dream that you're
+experiencing that's it's all in your
+
+[1:19:16]
+experiencing that's it's all in your
+mind, right? Like is that can you take
+illusionism that far?
+Well, there's illusionism about the
+external world and illusionism about
+consciousness and these might gopective
+different illusionism about the external
+
+[1:19:31]
+different illusionism about the external
+world kind of takes you back to Daycart
+and yeah, could all this be produced by
+an e evil demon? Decart himself also had
+the dream argument. and he said, "How do
+you know you're not dreaming right now?
+How do you know this is not an amazing
+dream?" And I think it's at least a
+
+[1:19:45]
+dream?" And I think it's at least a
+possibility that yeah, this could be
+some super duper complex dream in the
+next universe up. I guess though my
+attitude is that
+just as I mean Deart thought that if the
+evil demon was doing it, it's not real.
+
+[1:20:01]
+evil demon was doing it, it's not real.
+A lot of people these days say if a
+simulation is doing it, it's not real.
+As I was saying before, I think even if
+it's a simulation, that doesn't stop
+this from being real. It just tells us
+what the world is made of. Likewise, if
+it's a dream, it could turn out that all
+this is like my dream created by my
+
+[1:20:16]
+this is like my dream created by my
+brain and the next universe up. My own
+view is that wouldn't stop this physical
+world from being real. It would turn out
+this cup at the most fundamental level
+was made of a bit of say my
+consciousness in the dreaming mind at
+
+[1:20:30]
+consciousness in the dreaming mind at
+the next level up. Maybe that would give
+you a kind of weird kind of pansychism
+about reality, but it wouldn't show that
+the cup isn't real. It would just tell
+us it's ultimately made of processes in
+my dreaming mind. So, I'd resist the
+idea that if the physical world is a
+
+[1:20:46]
+idea that if the physical world is a
+dream, then it's an illusion that it's
+right. By the way, perhaps you have an
+interesting thought about it. Why is the
+cards demon or genius considered
+
+[1:21:00]
+cards demon or genius considered
+evil? Why couldn't it have been a
+benevolent one that had the same powers?
+Yeah, I mean Dek called it the melanini,
+the uh evil genie or evil genius. Malign
+I guess was the word. But uh yeah, it's
+
+[1:21:15]
+I guess was the word. But uh yeah, it's
+interesting question. I mean a later
+philosophy Barkley
+um said no in fact
+um all this is done by God.
+God actually suppi supplies you all of
+these uh all of these perceptions and
+
+[1:21:30]
+these uh all of these perceptions and
+ideas and that's how physical reality is
+sustained. And interestingly Barclay's
+God is doing something that doesn't look
+so different from what Decart's evil
+demon was doing. It's just that Deart
+thought it was deception and Barkley
+thought it was not. And I'm I'm actually
+
+[1:21:47]
+thought it was not. And I'm I'm actually
+more sympathetic to Barkley here. Um,
+yeah, this evil demon may be trying to
+deceive you, but I think, okay, well,
+the evil demon may just be under the uh
+working under a false philosophical
+
+[1:22:00]
+working under a false philosophical
+theory. It thinks it's deceiving you,
+it's wrong. It's like those machines in
+the matrix. They thought they were
+deceiving you that all this stuff is
+real. I think, no, if we're in a matrix,
+it's all still uh it's all still real.
+Um yeah, the the philosopher OK Busma
+had a nice story about this about 50
+
+[1:22:16]
+had a nice story about this about 50
+years ago about Deart's evil demon where
+he said this demon spends all it its
+time trying to fool people but fails
+because somehow all the demon ends up
+doing is constructing realities for uh
+for people. So yeah, I think that maybe
+
+[1:22:31]
+for people. So yeah, I think that maybe
+if it's very natural to take this view
+that if we're in a simulation or or evil
+demon scenario or something then none of
+this is real. But I think it may be
+ultimately a philosophical mistake
+especially if you take on board sort of
+
+[1:22:45]
+especially if you take on board sort of
+the view of reality where what matters
+to reality is really its structure
+something like its mathematical
+structure and so on which seems to be
+the view that a lot of people take from
+contemporary physics and it looks like
+you can find all that mathematical
+structure in a simulation maybe even in
+
+[1:23:02]
+structure in a simulation maybe even in
+a dream and so on. So as long as that
+structure is real I would say that's
+enough for the physical world to be
+real. Yeah, the physical world may turn
+out to be somewhat more intangible than
+we had thought and have a surprising
+nature, but we're already gotten very
+
+[1:23:16]
+nature, but we're already gotten very
+used to that from from modern science.
+See, you've you've kind of alluded that
+you don't have to have consciousness for
+high levels of intelligence, but to
+create truly general intelligence
+systems, AGI systems at human level
+
+[1:23:31]
+systems, AGI systems at human level
+intelligence and perhaps superhuman
+level intelligence. you've talked about
+that it you feel like that kind of thing
+might be very far away but um
+nevertheless when we reach that point do
+you think consciousness
+
+[1:23:46]
+you think consciousness
+from an engineering perspective is
+needed or at least highly beneficial for
+creating an AGI system. Yeah. No one
+knows what consciousness is for
+functionally. So right now there's no
+specific thing we can point to and say
+
+[1:24:01]
+specific thing we can point to and say
+you need consciousness for that.
+Mhm.
+Still my inclination is to believe that
+in principle AGI is possible. At the
+very least I don't see why someone
+couldn't simulate a brain ultimately
+have a computational system that
+
+[1:24:16]
+have a computational system that
+produces all of our behavior. And if
+that's possible, I'm sure vastly many
+other computational systems of equal or
+greater sophistication
+are possible with all of our cognitive
+functions and more. And my inclination
+
+[1:24:30]
+functions and more. And my inclination
+is to think that
+once you've got all these cognitive
+functions, you know, perception,
+attention,
+reasoning, introspection,
+language, emotion,
+and so on. It's very likely you'll have
+
+[1:24:46]
+and so on. It's very likely you'll have
+uh you'll have consciousness as well. At
+least it's very hard for me to see how
+you'd have a system that had all those
+things while bypassing somehow
+conscious. So just naturally it's
+integrated quite naturally. There's a
+
+[1:25:00]
+integrated quite naturally. There's a
+lot of overlap about the kind of
+function that required to achieve each
+of those things. That's the so you can't
+disentangle them even when you're
+at least in us. But we don't know what
+the causal role of consciousness in the
+physical world what it does. I mean just
+
+[1:25:15]
+physical world what it does. I mean just
+say it turns out consciousness does
+something very specific in the physical
+world like collapsing wave functions
+as on one common interpretation of
+quantum mechanics. Then ultimately we
+might find some place where it actually
+makes a difference and we could say ah
+here is where in collapsing wave
+
+[1:25:30]
+here is where in collapsing wave
+functions it's driving the behavior of a
+system. And maybe it could even turn out
+that for uh AGI you'd need something
+playing that. I mean, if you wanted to
+connect this to free will, some people
+think consciousness collapsing wave
+functions. That would be how the
+conscious mind exerts effects on the
+
+[1:25:48]
+conscious mind exerts effects on the
+physical world and exerts its free will.
+And maybe it could turn out that any AGI
+that didn't utilize that mechanism would
+be limited in the kinds of functionality
+that it had. I don't myself find that
+
+[1:26:01]
+that it had. I don't myself find that
+plausible. I think probably that
+functionality could be simulated. But
+you could imagine once we had a very
+specific idea about the role of
+consciousness in the physical world,
+this would have some impact on the
+capacity of AGIS. And if it was a role
+
+[1:26:15]
+capacity of AGIS. And if it was a role
+that could not be duplicated elsewhere,
+then we'd have to find a we we'd have to
+find some way to either
+get consciousness in the system to play
+that role or to simulate it. If we can
+isolate a particular road to
+consciousness, of course, that's
+incredibly
+
+[1:26:31]
+incredibly
+uh seems like an incredibly difficult
+thing.
+Do you have uh worries about existential
+threats of
+conscious intelligent beings that are
+not us?
+
+[1:26:46]
+not us?
+So certainly, I'm sure you're worried
+about us.
+Yeah. from an existential threat
+perspective, but outside of us AI
+systems, there's a couple of different
+kinds of existential threats here. One
+is an existential threat to
+consciousness generally. I mean, yes, I
+
+[1:27:01]
+consciousness generally. I mean, yes, I
+care about humans and the survival of
+humans and so on, but just say it turns
+out that that eventually we're replaced
+by some artificial beings that aren't
+humans, but are somehow our successors.
+
+[1:27:15]
+humans, but are somehow our successors.
+They still have good lives. they still
+do interesting and wonderful things with
+the universe. I don't think that's
+that's not so bad. Um that's just our
+successors. We were one stage in
+evolution. Something different, maybe
+better came next. If on the other hand,
+
+[1:27:30]
+better came next. If on the other hand,
+all of consciousness was wiped out, that
+would be a very serious moral disaster.
+One way that could happen is by all
+intelligent life being uh wiped out. And
+many people think that yeah, once you
+get to humans and AI and amazing
+
+[1:27:46]
+get to humans and AI and amazing
+sophistication where everyone has got
+the the ability to create weapons that
+can destroy the whole universe just by
+just by pressing a button, then maybe
+it's inevitable all intelligent life
+will uh will die out. That would be a
+
+[1:28:01]
+will uh will die out. That would be a
+that would certainly be a disaster and
+we've got to think very hard about how
+to avoid that. But yeah, another
+interesting kind of disaster is that
+maybe intelligent life is not wiped out
+but all consciousness is wiped out. So
+
+[1:28:15]
+but all consciousness is wiped out. So
+just say you thought unlike what I was
+saying a moment ago that there are two
+different kinds of intelligent systems
+some which are conscious and some which
+are some which are not and just say it
+turns out that we create AGI with a with
+high degree of intelligence meaning high
+
+[1:28:31]
+high degree of intelligence meaning high
+degree of sophistication and its
+behavior but with no consciousness at
+all. That AGI could take over the world
+maybe but then there'd be but let's
+there'd be no consciousness in this
+world. This would be a world of zombies.
+Some people have called this the zombie
+
+[1:28:46]
+Some people have called this the zombie
+apocalypse
+because it's an apocalypse of
+consciousness. Consciousness is gone.
+You've merely got this super intelligent
+non-concious robots. And I would say
+that's a moral disaster in the same way
+in almost the same way that the world
+with no intelligent life is a moral
+
+[1:29:01]
+with no intelligent life is a moral
+disaster. All value and meaning may be
+gone from uh from that world. So these
+are both threats to watch out for. Now
+my own view is if you get super
+intelligence you're almost certainly
+going to bring consciousness with it. So
+I hope that's not going to happen. But
+
+[1:29:16]
+I hope that's not going to happen. But
+of course I don't understand
+consciousness. No one understands
+consciousness. This is one reason for
+this is one reason at least among many
+for thinking very seriously about
+consciousness and thinking about the
+kind of future we want to create with uh
+in a in a world with humans andor AIs.
+
+[1:29:33]
+in a in a world with humans andor AIs.
+How do you feel about the possibility if
+consciousness so naturally does come
+with the AGI systems that we are just a
+step in the evolution that we will be
+just something a blimp on the record
+
+[1:29:47]
+just something a blimp on the record
+that'll be studied in books by the AGI
+systems centuries from now?
+I mean I think I'd probably be okay with
+that especially if somehow humans are
+continuous with AGIS. I mean I think
+
+[1:30:00]
+continuous with AGIS. I mean I think
+something like this is inevitable. At
+the very least, humans are going to be
+transformed. We're going to be augmented
+by technology that's already happening
+in all kinds of ways. We're going to be
+transformed by technology where our
+brains are going to be uploaded and
+
+[1:30:15]
+brains are going to be uploaded and
+computationally enhanced. And eventually
+that line between what's a human and
+what's a what's an AI may be kind of
+hard to hard to draw. How much does it
+matter, for example, that some future
+being a thousand years from now that
+somehow descended from us actually still
+
+[1:30:31]
+somehow descended from us actually still
+has biology? I think it would be nice if
+you can kind of point to its cognitive
+system, point to some parts that had
+some roots in us and chase a trace a
+continuous line there. That would be
+selfishly nice for me to think that
+okay, I'm connected to this thread line
+
+[1:30:47]
+okay, I'm connected to this thread line
+through the future of the world. But
+even if it turns out, okay, there's a
+jump there. They they found a better way
+to design cognitive systems. They
+designed a wholly new kind of thing and
+the only line is some causal chain of
+designing and systems that design better
+
+[1:31:02]
+designing and systems that design better
+systems. Is that so much worse? I don't
+know. We're still at least part of a
+causal chain of uh of design. And yes,
+they're not humans, but still they're
+our successes. So, I mean, ultimately, I
+think it's probably inevitable that
+
+[1:31:15]
+think it's probably inevitable that
+something like that will happen. And at
+least we were at least we were part of
+the process. It' be nice if they still
+cared enough about us to um you know
+maybe to engage with our arguments and
+maybe I'm really hoping that the AGIS
+are going to solve all the problems of
+
+[1:31:30]
+are going to solve all the problems of
+philosophy. They'll come back and read
+all this all this crappy work from the
+20th and 21st century hard problem of
+consciousness and here is why they got
+it wrong and so on. If that happened
+then I'd really feel like I was part of
+at least a intellectual process over
+centuries and that would be kind of
+
+[1:31:45]
+centuries and that would be kind of
+cool. I'm pretty sure they would clone
+or they would recreate David Chmer's and
+and for the fun of it sort of bring back
+um other philosophers.
+Yeah, bring back Deart and just put them
+in a room and just watch. It'll be a a
+Netflix of the future show where you
+
+[1:32:02]
+Netflix of the future show where you
+bring philosophers from different human
+100% human philosophers from previous
+generations, put them in a room and see
+them.
+I am totally I am totally up for that.
+simulators, AGIs of the future. If
+you're watching this podcast,
+
+[1:32:16]
+you're watching this podcast,
+do that.
+I would like to be recreated and hang
+out with
+Deart with Deart would be the first who
+if you if you could hang out as part of
+such a TV show with a philosopher that's
+no longer with us from long ago. Who
+
+[1:32:31]
+no longer with us from long ago. Who
+would it who would you choose?
+Well, Deart would have to be right up
+there. Oh, actually a couple of months
+ago, I got to have a conversation with
+Decart. an actor who's actually a
+philosopher came out on stage playing
+day. I didn't know this was gonna happen
+and just after I gave a talk and
+
+[1:32:48]
+and just after I gave a talk and
+a bit of
+talking about how my ideas were crap and
+all derived from him and so on. We had a
+long we had a long argument. This was
+great. I would love to see what Dick
+Hart would think about AI, for example,
+and the modern neuroscience and so on. I
+
+[1:33:00]
+and the modern neuroscience and so on. I
+suspect not too much would surprise him,
+but um yeah, William James
+um you know, for a psychologist of
+consciousness, I think James was
+probably the uh was probably the uh the
+richest, but um or there are Emanuel K.
+
+[1:33:16]
+richest, but um or there are Emanuel K.
+You know, I never really understood what
+he was up to if I got to actually uh
+talk to him about some of this. Hey,
+there it was Princess Elizabeth who
+talked with Decart and who really uh you
+know got at the problems of how Decart's
+
+[1:33:30]
+know got at the problems of how Decart's
+ideas of a non-physical mind interacting
+with the uh with the uh the physical
+body couldn't really work. She's been
+kind of most philosophers think she's
+been proved right. So maybe put me in a
+room with
+Deart and Princess Elizabeth and we can
+all argue it out.
+
+[1:33:46]
+all argue it out.
+Uh
+what kind of future? So we talked about
+uh with zombies a concerning future but
+what kind of future excites you? What do
+you think if we look forward sort of
+
+[1:34:00]
+you think if we look forward sort of
+we're at the very early stages of
+understanding consciousness and we're
+now at the early stages of being able to
+engineer
+complex interesting systems that have
+degrees of intelligence and maybe one
+day we'll have degrees of consciousness
+maybe be able to upload brains all those
+
+[1:34:17]
+maybe be able to upload brains all those
+possibilities virtual reality what is
+there a particular aspect of this future
+world that just excites you I think
+there are lots of different aspects. I
+mean, frankly, I wanted to hurry up and
+have like, yeah, we've had some progress
+
+[1:34:30]
+have like, yeah, we've had some progress
+lately in AI and VR, but in the grand
+scheme of things, it's still kind of
+slow. The changes are not yet
+transformative. And, you know, I'm in my
+50s. I've only got so long left. So, I'd
+like I'd like to see really serious AI
+in my lifetime and really serious
+
+[1:34:47]
+in my lifetime and really serious
+virtual worlds cuz yeah, once people I
+would like to be able to hang out in a
+virtual reality which is richer than uh
+than uh than this reality to really get
+to inhabit fundamentally different kinds
+
+[1:35:00]
+to inhabit fundamentally different kinds
+of spaces. Well, I would very much like
+to be able to upload my mind onto a uh
+onto a computer. So, um maybe I don't
+have to die. Um if this is maybe
+gradually replace my neurons with uh
+
+[1:35:15]
+gradually replace my neurons with uh
+silicon chips that inhabit a computer
+selfishly, that would be uh that would
+be wonderful. I suspect I'm not going to
+quite get there in uh in my lifetime.
+But once that's possible, then you've
+got the possibility of transforming your
+consciousness in remarkable ways,
+
+[1:35:30]
+consciousness in remarkable ways,
+augmenting it, enhancing it. So let me
+ask then if such a system is a
+possibility within your lifetime
+and you were given the opportunity to
+become immortal
+in this kind of way.
+
+[1:35:46]
+in this kind of way.
+Would you choose to be immortal?
+Yes, I totally would. I know some people
+say uh they couldn't it would be awful
+to be uh to be immortal. It would be so
+boring or something. I don't see I
+
+[1:36:01]
+boring or something. I don't see I
+really don't see uh I don't see why this
+might be I mean even if it's just
+ordinary life that continues ordinary
+life is not so bad but furthermore I
+kind of suspect that you know if the
+universe is going to go on forever or
+
+[1:36:15]
+universe is going to go on forever or
+indefinitely it's going to continue to
+be interesting I don't think you know
+your view was that we just hit this one
+romantic point of interest now and
+afterwards it's all going to be boring
+super intelligent stasis I guess my
+vision is more like no it's going to
+
+[1:36:30]
+vision is more like no it's going to
+continue to be infinitely interesting
+something like as you go up the set
+theoretic hierarchy you know you go from
+the uh the finite card finite cardinals
+to alf zero and then uh through there to
+all the alf and alf two and maybe the
+
+[1:36:46]
+all the alf and alf two and maybe the
+the continuum and you keep taking power
+sets and you know in set theory they've
+got these results that actually all this
+is fundamentally unpredictable it
+doesn't follow any simple computational
+patterns there's new levels of
+creativity as the set threatic universe
+
+[1:37:00]
+creativity as the set threatic universe
+expands and expands. I guess that's my
+future. That's my vision of the future
+of that's my optimistic vision of the
+future of super intelligence. It will
+keep expanding and keep growing but
+still being fundamentally unpredictable
+at many points. I mean yes this gets
+creates all kinds of worries like
+
+[1:37:16]
+creates all kinds of worries like
+couldn't it all be fragile and be
+destroyed at any point? So we're going
+to need a solution to that problem. If
+we get to stipulate that I'm immortal,
+well, I hope that I'm not just immortal
+and stuck in the single world forever,
+but I'm immortal and get to take part in
+
+[1:37:30]
+but I'm immortal and get to take part in
+this process of going through infinitely
+rich created futures.
+Rich, unpredictable, exciting. Well, I
+think I speak for a lot of people in
+saying I hope you do become immortal and
+there'll be that Netflix show of the
+future where you get to argue with
+
+[1:37:45]
+future where you get to argue with
+Decart
+perhaps for all eternity. So Dave, it
+was an honor. Thank you so much for
+talking today.
+Thanks. It was a pleasure.
+Thanks for listening to this
+conversation and thank you to our
+presenting sponsor, Cash App. Download
+
+[1:38:00]
+presenting sponsor, Cash App. Download
+it. Use code Lex Podcast. You'll get $10
+and $10 will go to First, an
+organization that inspires and educates
+young minds to become science and
+technology innovators of tomorrow. If
+you enjoy this podcast, subscribe on
+YouTube, give it five stars on Apple
+
+[1:38:16]
+YouTube, give it five stars on Apple
+Podcast, follow on Spotify, support it
+on Patreon, or simply connect with me on
+Twitter at Lex Freedman. And now, let me
+leave you with some words from David
+Chmer's. Materialism is a beautiful and
+compelling view of the world, but to
+
+[1:38:31]
+compelling view of the world, but to
+account for consciousness, we have to go
+beyond the resources it provides.
+Thank you for listening and hope to see
+you next time.
