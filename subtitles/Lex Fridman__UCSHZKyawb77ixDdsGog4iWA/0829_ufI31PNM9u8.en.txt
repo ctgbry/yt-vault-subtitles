@@ -1,0 +1,70 @@
+[00:00]
+The competition is heating up. You've
+been uh friendly with Elon even though
+technically is a competitor. What do you
+think about the robo taxi efforts that
+Tesla is doing? We don't compete with
+Tesla directly. We are not making cars
+etc. Right. We building L45 autonomy.
+We're building a Whimo driver which is
+general purpose and can be used in many
+settings. They're obviously working on
+making Tesla self-driving too. I've just
+assumed it's a de facto that Elon would
+succeed in whatever he does. So that is
+uh not something I question. These
+spaces are such vast spaces. In all
+future scenarios, I see Tesla doing well
+and Whimo doing well. We've always been
+a deep technology company. Whimo is a
+version of building a AI robot that
+works well. This year we've scaled up a
+lot and we'll continue scaling up in 26.
+Like we mentioned with the Neolithic
+package, I think it's very possible that
+in the quote unquote AI package when the
+history is written, autonomous vehicles
+is like the big thing that changes
+everything. just a complete transition
+from manually driven to autonomous in
+ways we might not predict. It might
+change the way we move about the world
+
+[01:01]
+change the way we move about the world
+completely. Second and third order
+effects as you're seeing now with Tesla
+very possibly you would see internally
+with Alphabet, maybe Whimo, maybe some
+of the Gemini robotics stuff cuz we
+should remember that Whimo is a robot.
+It just happens to be on four wheels.
+You said that the next big thing might
+be in the space of robotics. Demis and
+the Google Deepoint team is very focused
+on Gemini robotics, right? We are
+definitely building the underlying
+models. So we have a lot of investments
+there and I think we also pretty cutting
+edge in our research there. So we are
+definitely driving that direction. We
+obviously are thinking about
+applications. We are partnering with a
+few companies today but it's an area I
+would say stay tuned. We are yet to
+fully articulate our plans outside but
+it's an area we are definitely committed
+to driving a lot of progress but I think
+AI ends up driving that massive progress
+in robotics. The field has been held
+back. I mean the hardware has made
+extraordinary progress. The software had
+been the challenge, but you know with AI
+now and the generalized models we are
+building, getting them to work in the
+real world in a safe way, in a
+generalized way is the frontier we're
+
+[02:00]
+generalized way is the frontier we're
+pushing pretty hard on.
