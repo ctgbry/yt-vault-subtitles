@@ -1,0 +1,612 @@
+[00:01]
+Welcome to Analyzing Finance with Nick.
+Today's video I'm going to be presenting
+a discussion about the private credit
+markets. What is private credit? What is
+this boom going on? And what are the
+possible systematic risks of the private
+credit boom going bust? This is going to
+be more of an indepth topic where I go
+into a specific financial asset class
+and the fundamentals of it. As a
+disclosure and a disclaimer, nothing in
+this video is investment advice. Please
+do your own due diligence and research
+or hire a investment advisor to help you
+with that. I will not be answering
+specific questions about specific stocks
+in the comments or specific investments.
+If you have any specific questions about
+your portfolio or your own investments
+or whether private credit is a good idea
+for you, feel free to reach out to me
+directly via my website and consultation
+
+[01:00]
+directly via my website and consultation
+form. As a disclosure, I am a partner at
+Spearhead Advisors, a wealth management
+firm based in Southern California,
+and that helps provide my perspective.
+But just again to be clear, this isn't
+investment advice. This is an
+educational presentation.
+So what is private credit?
+Private credit is lending that is
+provided by non-bank institutions such
+as funds, insurers, and asset managers
+directly to companies through privately
+unwritten and non-public loans. It
+emerged after the 2008 crisis. non-bank
+lenders were able to enter the market
+for more speculative loans or more
+direct loans to smaller medium-sized
+businesses because of regulations such
+as DoddFrank and increased capital
+requirements on the US banking system
+limiting bigger banks from participating
+in this lending. Pre2020 it did a good
+job of doing that. It filled a void
+
+[02:00]
+job of doing that. It filled a void
+because the banks were no longer allowed
+to lend to these businesses and private
+credit stepped up. Since then, it's
+gotten more branded as an asset class
+and as a result has gotten a lot more
+speculative as there's more money in
+private credit because of the good
+returns it has had, but there are less
+deals or less quality borrowers that
+need capital to be lent to them.
+Estimates of the total private credit
+market vary, but based on my research,
+the range is anywhere from 2 to three
+trillion in US dollars. That sounds like
+a lot of money, but it's still only
+about 4 to 6% of the US corporate credit
+market. And by comparison, there's
+assetbacked securities which include
+mortgage back securities which are about
+21% of the credit market and
+non-mortgagebacked
+asset back securities like auto
+securities or credit cards. The mortgage
+
+[03:00]
+securities or credit cards. The mortgage
+back securities caused a lot of the
+issues in the 2008 crisis. So if there
+is a systematic breakdown of private
+credit or just a bust in the private
+credit space, it is less likely
+to be as big of a crisis as 2008 given
+that it's a much smaller portion of the
+commercial credit market. And this chart
+from the Federal Reserve Bank of Boston
+shows the explosion in private credit.
+It has accelerated a lot since 2009 and
+has continued that uptrend really
+throughout um the rest of that decade,
+the 2010s and more so in the 2020s. So
+what is the appeal of private credit?
+Why would an investor rather buy private
+credit than an investment grade or high
+yield corporate bond?
+First, they offer higher yields, usually
+about 3 to 5% or 3 to 500 basis points
+in finances spread on top of an
+
+[04:02]
+in finances spread on top of an
+equivalent publicly traded corporate
+debt. It has floating rates and lower
+duration, so you're not as at risk of
+interest rate risk. A lot of bonds in
+the conventional bond market are fixed
+rates. So, if interest rates go down,
+the value of the bond goes up. And if
+interest rates go up like we've seen the
+last few years, the value of those bonds
+gets crushed. And since private credit
+is mostly floating rate, it has a low
+duration. And so it has been able to
+outperform bonds who have fixed coupon
+payments when bond prices as a whole got
+reset when Powell hiked rates in 2022
+and 2023.
+The other thing was that newer investors
+can be assured that they'll get a
+certain coupon rate on their bonds than
+assuming that they don't default of
+course than having to worry about
+
+[05:00]
+course than having to worry about
+reinvestment risk. The other thing is a
+low perceived correlation to public
+markets. The key word here is perceived
+because the bond market is actually
+quite correlated, but private markets
+don't necessarily need to show the
+movements of their bonds because it is
+private and they're not required to mark
+the market. Not having to mark the
+market is a major advantage because a
+lot of asset allocators, particularly on
+the institutional pension fund level,
+prefer not seeing volatility in their
+portfolio. If you don't mark to market,
+if the value of the security goes up,
+you can mark it up. And this is the same
+issue for private equity as well. And if
+the value of your security goes down,
+unless it defaults and you're not going
+to cover anything, you don't need to
+mark it down like the normal bond
+market, particularly high yield. If it
+creditors are scared they're not going
+to get paid back, those bonds will trade
+
+[06:00]
+to get paid back, those bonds will trade
+at a discount. But you don't have those
+same market forces in private credit,
+which creates a much smoother looking
+series of returns than is probably the
+case in real life. And if you like this
+content and want me to do a private
+equity version of this video, let me
+know. If you give me 2,000 likes for
+this video, I will make a private equity
+version of it. Mark to market's the key.
+And that also affects sharp ratios which
+a lot of larger institutional allocators
+use to determine risk adjusted returns
+and how good of a performer the active
+manager is. The other thing is
+customizable covenants. Covenants are
+the restrictions that borrowers have on
+what they can do with the money and how
+they can pay back with a private credit.
+Since it is not have to be disclosed to
+the public, you can negotiate more
+customizable
+terms of the loans. And the last one is
+
+[07:01]
+terms of the loans. And the last one is
+less regulation. There still is some
+regulation in private credit and direct
+lending, but
+it is less scrutiny for both the
+borrowers and the lenders than if you
+put this loan through the bond market.
+Some people say private credit is a
+bubble. Others said this is just a
+normal part of a boom. But there is some
+signs of speculative excess in the
+sector that do concern me. First,
+there's an increased promotion of
+private credit to retail investors.
+You're seeing a lot more retail focused
+vehicles to invest in private credit.
+The next thing is looser covenants and
+writing standards. This is a product of
+more money going into this sector and
+not as many good deals or creditworthy
+borrowers to lend to. In order to be the
+one the borrower picks to take the loan
+from, you got to negotiate against
+yourself, you need to give less
+standards and strings attached to the
+loan or give loans to more risky
+
+[08:01]
+loan or give loans to more risky
+businesses who may have a lower rate of
+paying back their debts. The third one
+is rapid inflows. Private credit aid or
+assets under management has tripled in
+the last five years which is huge for
+any asset class. Since these are mostly
+floating rate securities and fixed
+income instruments most of that growth
+has been through inflows not through
+appreciation of the bonds. Fourth is
+narrowing spreads. Private credit the
+spread that it gets above public market
+bonds has narrowed. you're not getting
+compensated as much to take the extra
+risk of going to the private markets
+than you were say four to five years
+ago. And then there's also rising
+default rates and potential fraud in
+this sector which is a sign that we
+might be heading towards a bust. You
+could see this in the headlines
+surrounding private credit. One is Blue
+Owl, which is a major business
+development company. They called off a
+
+[09:01]
+development company. They called off a
+merger of two of its funds because one
+of them was deep underwater and being
+written down and the investors in the
+whole entity did not want to take on the
+losses. The second is the US government
+is probing into firms that borrowed $400
+million from a Black Rockck owned
+lender. Last quarter Black Rockck had
+this bond marked at 100 cents on the
+dollar and just a few weeks ago it's now
+down to zero. And those kind of shocking
+elevators down where you think things
+written from 100 to zero don't really
+happen in the public markets and the
+bond side but it does happen in private
+credit and that's the risk of not
+marking to market. You get surprised by
+a bagel and Black Rockck seems to be
+somebody who is a victim to that.
+Another one is there's the collapse of a
+few subprime car lenders in the private
+credit space. One was Triricolor and
+
+[10:01]
+credit space. One was Triricolor and
+First the other one was First Brands and
+they're both filed for bankruptcy and
+one of them has been accused of
+allegedly using the same collateral for
+multiple loans which if true is not
+really a legal thing to do. And yeah,
+you've seen banks such as Jeff and JP
+Morgan and Fifth Third all have losses
+resulting the defaults of these subprime
+auto lenders which are in the private
+credit space. And I think the catalyst
+that really is going to break private
+credit is that the American consumer is
+weak. I've talked about this in many of
+my other videos and presentations, but
+the combination of higher cost of living
+and wages really not catching up to it
+has put a lot of people in a bind. They
+covered that in 2023 and parts of 2024
+through increasing debt like taking on
+
+[11:00]
+through increasing debt like taking on
+credit cards or taking on HELOCs if they
+can get them at a rate that makes sense,
+personal loans, etc. But now these
+options have seemed to be maxed out and
+a lot of people aren't paying back. It's
+not just low-income people. It's people
+in the six-f figureure income level
+seeing higher defaults on their consumer
+debts than expected. As a result,
+businesses in the consumer sector may
+not get as many clients because their
+customers are stretched for cash and
+might not be able to pay back their
+loans. The lack of liquidity and people
+investing in this could lead to issues
+too. UBS particularly has warned of a
+looming systemic risk for private credit
+ratings and a lot of the insurance
+companies buying these private credits
+have been shopping for more favorable
+grades for their debt in the same way
+that they did and other investors did
+for higher credit ratings for MBS in
+
+[12:03]
+for higher credit ratings for MBS in
+pre208.
+And then the last headline is related to
+what we talked about in our enrollment
+cliff video. Harvard has to re-enter the
+debt market with a 450 million bond
+sale. And why would Harvard have to
+raise debt if they have tens of billions
+of dollars in their endowment? Even with
+some of the federal cuts and grants and
+other possible cost increases, they
+should be able to have the liquidity
+from their endowment portfolio to cover
+their operations. But the problem is is
+that both Harvard and Yale and a lot of
+other universities, endowment funds, and
+other institutional investors have
+overallocated to private credit and
+private equity. Because of that, those
+things are illquid and the market is not
+moving in that space right now. They
+can't sell those on demand. And as a
+result, they need liquidity and so
+they're going to have to get liquidity
+through borrowing because they cannot
+
+[13:01]
+through borrowing because they cannot
+sell their private assets at a price
+that would not incur losses.
+There are some things to watch for with
+private credit. One is the default rates
+versus high yield. The market has very
+generous assumptions right now for
+private credit recovery rates. And those
+who aren't familiar with bankruptcy law
+or how bonds work in a default, the
+recovery rate is the percentage of your
+money you expect to get back in the
+event of bankruptcy. If it's a company
+that has a lot of physical equipment
+very valuable to sell in the open market
+or a lot of real estate or hard assets
+that can easily be sold or there's one
+bloated cost that can be restructured in
+the bankruptcy process and the company
+can be of a going concern again then the
+recovery rate of a default could
+actually be fairly high. Sometimes you
+could even get close to 100 cents on the
+dollar. Other times, if it's a
+technology company and almost all the
+
+[14:00]
+technology company and almost all the
+money they borrowed was used to pay
+salaries, contractors or to buy digital
+ads and other than maybe a few computers
+and desks, they don't have any physical
+equipment. They don't have any IP that
+can be easily sold. If they default,
+they might get zero recovery rate or
+very marginal. So, a lot of it depends
+on what kind of business you're dealing
+with and how much debt they have
+relative to their assets. As we see at
+the chart on the left, this is the fault
+rates of direct lending, syndicated
+loans, which are both forms of private
+credit, and high yield bonds. And
+basically the recovery rate been lower
+for high yield bonds
+in terms of pre-default but post default
+high yield bond holders tend to have
+higher recovery rates. The other chart
+here is the maturity wall which is the
+percentage of private credit in the
+marketplace maturing in a given year.
+The other thing is really the private
+
+[15:00]
+The other thing is really the private
+credit sponsors which are a lot of times
+the business development companies or
+private equity firms in this space.
+Their stock prices have been hit really
+hard this year. BDC's, for those not
+familiar, it's short for business
+development companies. And this chart is
+a shows the price action of business
+development companies falling 22% from
+their highs between the beginning of
+this year and shortly before
+Thanksgiving as I'm recording this
+because of all the concerns about
+private credit. Since private credit is
+private, you can't look at each
+individual loan because it's not listed
+on the market. But the best proxy
+probably for this stress is to look at
+what's going on in the BDC sector.
+There's going to be a lot of ripple
+effects from this squeeze and private
+credit. Banks have some exposure, but
+it's mild. The reaction to Jeffrey's
+stock price on the first brand's news is
+concerning and it might suggest there
+
+[16:00]
+concerning and it might suggest there
+might be some more exposure than
+perceived, especially if the banks are
+the ones lending to the private equity
+firms or the BDC's or other sponsors
+sponsors have issues paying back those
+loans. Insurance companies risk severe
+losses that risk their own solveny.
+Insurance companies have been the most
+aggressive of the institutional
+investors to embrace private credit and
+this may come at their detriment
+particularly for life insurers.
+Endowment funds, pension funds and
+sovereign wealth funds will see funding
+ratios deteriorate. Gated liquidity
+which means the inability to take money
+out when needed could near-term squeeze
+their current obligations. So when a
+pension is measured, it's security based
+on its funding status. So what
+percentage of its obligations over the
+actuarial predicted length of time can
+the pension fund expect to deliver on?
+
+[17:01]
+the pension fund expect to deliver on?
+The lower the number, it's worse. To
+have your pension solvent,
+it should be over 100. When that drops
+below that, you start to get solveny
+issues and people worrying about crisis.
+A lot of mismanaged states in the United
+States have their public employees
+funds. Well under 100% solveny. I think
+it's like over 40 out of 50 states have
+solveny issues with their pension funds.
+But that's for a different video. If you
+want me to do a video about state public
+pension funds and their potential
+solveny issue, let me know. And if this
+video gets 5,000 likes, I will do a
+presentation about pension funds in the
+United States of America, particularly
+public worker pension funds. Other major
+stakeholders that are likely to absorb
+losses in the private credit bust, which
+in trader speak would be the bag holders
+of this include family offices, BDC
+
+[18:00]
+of this include family offices, BDC
+shareholders, which a lot of the BDC's
+are publicly traded in the stock market
+and retail investors exposed through
+interval funds.
+There will other consequences outside of
+just investors in the space losing money
+is you'll see possible funding freezes
+for levered speculative grade borrowers.
+So if you are a business who normally
+borrows in the private credit market, if
+the private credit market gets in
+hiccups, you might not have access to
+credit at least for the period when you
+have a credit crisis going on when
+people are scared to lend. In the long
+run, borrowers, especially larger
+borrowers, may have to switch back to
+publicly traded high yield bond markets
+to raise capital. This systemic risk is
+not nearly as bad as 2008 because most
+of the holders are unlevered private
+asset holders, not banks. So, the people
+who take this loss, they just have to
+eat it and move on. Insurance companies
+
+[19:00]
+eat it and move on. Insurance companies
+are the most overexposed.
+This chart on the left from the Federal
+Reserve shows how much billions of
+dollars, which is now up to over $800
+billion of private credit loans
+outstanding are on the books of major
+life insurance companies. So yeah, if
+any industry is going to have more acute
+risk from this, it's going to be life
+insuranceers.
+What would happen in a credit bust? I'm
+just going to do a stress test of
+hypothetically how I think the global
+economy and financial markets would
+react to a private credit bust. If the
+private credit bubble were to bust, what
+would happen to it and other asset
+classes in the economy? My scenario base
+case is a mix of like a recession the
+style between like the 1991 SNL crisis
+and the 2001.com
+bust. I think it'll be parts of both of
+those. I think you'd see an economic
+recession with the US economy
+
+[20:01]
+recession with the US economy
+contracting 1 and a half to 2% peak to
+trough. Private credit default rates of
+like 10 to 12% of the bonds with a 40 to
+70% recovery rate. My buy is probably
+closer to the 40% recovery rate because
+we live in a more capital-like economy
+now. Companies do not need as much capex
+or real estate or hard assets on the
+books. And so as a result, if you have a
+more human capital driven business,
+there's naturally not going to be as
+much assets to recover. And also because
+of the news we've seen with things like
+what happened with the subprime auto
+lenders that I talked about previously
+and issues with Black Rockck's private
+credit fund having a part of its
+portfolio marked from 100 to zero. I
+think there's a real risk of the
+recovery rates for private credit to be
+lower than what people expect which is
+about the 70% mark. I think credit
+spreads in the bond market particularly
+for high yield will widen overall
+
+[21:01]
+for high yield will widen overall
+liability management activities and
+recent bankruptcies I think also point
+to lower recoveries in this cycle. Some
+boomers retirements are going to be
+compromised. Particularly higher net
+worth boomers who had put themselves or
+their advisors put them in a large chunk
+of this private credit. It may not go to
+zero, but you probably won't get
+real return on this. You might break
+even or get a loss and it'll take you
+several years to get the money back.
+That can derail people's retirements
+significantly. Also, life insurance
+companies are particularly at risk here.
+Many life insuranceers could possibly
+fail if this gets bad enough and we
+might need to have a industry bailout or
+realignment of the life insurance
+companies. I think you would see a 20 to
+30% correction in
+the US stock market and this could be
+
+[22:01]
+the US stock market and this could be
+more if the AI bubble pops
+simultaneously. You have a lot of stocks
+trading at very high valuations right
+now on the backs of the AI boom and big
+tech is 30 to 40% of the S&P 500
+depending on how on the trading day and
+how it's measured and as well as being
+over half of the NASDAQ. If you had a
+correction disproportionately in that
+sector for idiosyncratic reasons along
+with this private credit bust it can
+result in a much larger bare market.
+People who have absorbed losses in
+private credit may have to sell their
+big tech stocks to cover their losses,
+which could cause a cascading effect.
+The other long-term effect is that
+there's going to be a tightening of
+credit standards for the next 3 to 5
+years likely because there'll just be
+less liquidity available to borrowers in
+the private credit space. Thank you guys
+all for watching. What did you think? Do
+you think private credit is the next
+
+[23:00]
+you think private credit is the next
+bubble or is it the most underrated
+potential systematic risk to the market?
+If you want me to do similar videos on a
+possible bubble in private equity or a
+discussion on the funding status of
+public workers pensions throughout the
+United States of America, please like,
+subscribe, and share. If we get to 2,000
+and 5,000 likes on this video, I will
+make those other two. Um, thank you guys
+all for watching.
