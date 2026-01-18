@@ -1,0 +1,1087 @@
+[00:00]
+What if AI agents could replace some of
+your team? Well, they can. I brought on
+Flo, who's the CEO of
+Lindy.AI, probably the number one AI
+agent platform, and he shows us how to
+do agent swarms, the big new thing with
+uh AI agents where you have multiple
+agents going after these problems. Now,
+we go through a bunch of different job
+responsibilities and how to actually set
+up these agents forms and AI agents so
+that they become AI employees for your
+business. Enjoy the episode and I can't
+wait to see what you end up building.
+[Music]
+Flo is back on the pod. The AI agent
+god. That's what I call him. Um, Flo, if
+
+[01:02]
+god. That's what I call him. Um, Flo, if
+people stick around to the end of this
+episode, what are they going to learn?
+What are they going to get out of this?
+They are going to learn that you can
+create agents a lot faster than you
+think you can, and you can automate half
+your business in like half a day. and
+you can create your first agent in 10
+minutes. And you're gonna show us how to
+do that. Yeah, that's the goal. Okay, so
+let's let's get to it. Cool. Um, let me
+share my
+screen real quick. Okay. Uh, well, for
+quick introduction, um, Flo, I'm the
+founder of Lindy. You can think of us as
+like the the Zapier of AI. We're
+building a no code platform for you to
+build your your own AI agents. Um, this
+is I've already been here on the
+podcast. Thanks Craig for having me
+again. Uh this is the the last time we
+we chatted and I'm going to use this
+later as an example for to show Lindy's
+web scraping abilities because we we
+released that last week. Thousands of
+web scrapers, 4,000 of them in fact. And
+
+[02:01]
+web scrapers, 4,000 of them in fact. And
+so one of the web scrapers is Lindy now
+has the ability to scrape uh YouTube
+comments. Um so I'll just start with
+like just a super quick introduction and
+a super super simple use case for Lindy
+which is uh meeting recording and note
+takingaking. So I mean this is probably
+like the most universal use case like
+everyone's in meetings all day and this
+is the simplest meeting recorder you can
+build on Lindy. It's like hey when a
+calendar event begins you record the
+meeting and then you summarize the
+meeting that's it. Obviously little by
+little you add up and add up and add
+them more to it and I'll show you my
+meeting recorder. this is my actual
+meeting recorded or that I that I live
+with all day and this is actually like a
+a small part of it like it just keeps
+going and going and going. Um so in a
+way that's the beauty of it is like you
+keep adding to it and then it becomes
+irreplaceable. So I mean one example
+that this meeting recorder does here is
+it uh adds the meeting notes to a Google
+doc and if I have already met with this
+person before it looks on my Google
+drive for these
+
+[03:00]
+drive for these
+notes and it adds the notes to the
+existing Google doc that I have for this
+person. Uh it was actually super useful.
+Just yesterday we just on boarded our
+first head of marketing and he asked me
+for context like my relationship context
+with some marketing agencies that we're
+working with and I just had to like dig
+up the Google Docs and I could send him
+a Google doc and I'm like this is
+everything we've ever talked about with
+this person and it worked. It just works
+just works. Um and then the beauty of it
+is since it's an agent so when you look
+at it like this like this is where it
+sort of looks like Zapier. It sort of
+looks like a workflow under the hood
+though it's an agent. And so what it
+means is that I'll show you for example
+this update document step here. Um I can
+literally just speak to this step in
+English. So each field here for this
+step is just a prompt. So here for
+example I'm like hey which document
+should you update? Well the document you
+found previously that contains my note
+for this person. What content should I
+put in the document? And here I can just
+be like summarize the meeting you just
+
+[04:01]
+be like summarize the meeting you just
+had in bullet points. So I don't need to
+have like a separate step for AI like
+the thing is AI. You're basically
+telling an AI to go through a sequence
+of steps. But these these steps are not
+islands like they would be for like a
+workflow automation platform like
+Zapier. And I think what's cool about
+this is I mean if you if you dial this
+and and you you do this correctly,
+there's no mistakes.
+That's right. If anything, it's it if
+you made a mistake, it recovers from it.
+Like very often, I'm actually surprised
+you can create your
+agentworkflow and set up the steps and
+never configure them. You literally
+don't even tell it what to do. I'll
+actually give you an example right now.
+Um I'm going to create a Lindy start
+from scratch and I'm going to tell her.
+So the trigger here is just me chatting
+with it. It's just like an agent that I
+can chat with and I'm going to use the
+the YouTube video example. So YouTube
+here. So this is an example of all the
+scrapers. We just we just added
+thousands and thousands of integrations
+
+[05:01]
+thousands and thousands of integrations
+in scrapers. We're like by far the top
+AI agents right now in terms of number
+of integrations. Um so I'm going to do
+YouTube comments by URL and after the
+results are available I'm going to just
+let it have a conversation with me. So
+I'm I'm going to leave it like this and
+I'm literally going to do nothing. I'm
+I'm not telling it what to do. I'm not
+telling it I just this is it. This is
+the, you know, the different steps that
+you that you follow. And I'm going to
+grab this uh link from the last time we
+chatted. Now, I think there you go. And
+I'm going to just send it to the video.
+So, I got roasted in the comment because
+partly because my accent think it's it's
+racist
+and it is a sick accent. Um, and look, I
+did not tell it what to do. It's just
+like, all right, it's getting the
+YouTube comments. I think this creeping
+takes about a minute. Dude, by the way,
+I get roasted all the time for
+calling Claude Clo.
+Yeah. How How should you call
+
+[06:02]
+Yeah. How How should you call
+it? Is it I agree.
+I
+agree. Is it a Canadian thing? Well, in
+French you call it
+clo, right? Yeah. You know, so but
+people make fun of me. All right. Well,
+back back to uh Lindy. All right. Uh I
+mean right here I you can see I didn't
+tell it what to do. It just like got the
+com comments and hey one viewer noted a
+potential business opportunity startup
+ID set up Lindy's flow as a service. We
+actually do have uh if you go to I think
+it's
+lindy.ai/service partners. We have like
+dozens of of companies that make a
+living through just building lindies for
+customers. Like fact that's a lot. I
+didn't even know there was so many of
+them. I think it's like 50 or something
+more than that. Um, yeah, you can see I
+didn't have to tell it what to do. To go
+back to the meeting recording example.
+And again, that's a difference between
+um a a a workflow and an agent is like
+agents really like to chat. So, you can
+just chat with it at any time. So, I'm
+
+[07:01]
+just chat with it at any time. So, I'm
+going to go here. What's an example of a
+of a of a meeting I can show you?
+Um, I had a reference check with
+someone.
+Um, yeah. So, I can just chat and be
+like, "What did the candidate say about
+moving to SF?" And I can't tell you. I
+mean, I use this all day. I think I have
+really bad memory because I'm in
+meetings all day. And so, I just use
+this as like I call it my exocortex.
+It's like my my brain outside my brain
+and it just like replies to questions
+for me. Yeah. I also I I find my memory
+has been getting worse too as I'm
+relying more and more on technology to
+basically fulfill things. So,
+uh, this is helpful. Yeah. Yeah. So, all
+day I just asked you these questions
+and let's wait for it to reply right
+here. He's currently based again, we're
+going to have to change his name and and
+blur it out. Uh, but he is interested in
+
+[08:01]
+blur it out. Uh, but he is interested in
+our new office and and so on and so
+forth. Um, so I I think the meeting
+recording is probably one of the most
+universal use cases. Uh, meeting
+scheduling is a close second. Basically,
+the entire executive assistant stack.
+Like I just I haven't replaced my
+executive assistant. But I think I
+replaced like 70% of of what she does
+with Lindy. I mean executive assistants,
+they take notes during your meetings.
+They schedule your meetings. They
+prepare you for your meetings. Uh they
+make restaurant reservations. I have
+this Lindy chief of staff here. So Lindy
+can make phone calls. Oh, the most
+hilarious thing happened just yesterday.
+Actually, I asked her to make a phone
+call for uh to make a reservation for
+like a date night with my girlfriend,
+and I was like, "Hey, make a reservation
+at Flower and Water. It's like a super
+good restaurant in San Francisco tonight
+for two people at 8:00 p.m. Can go as
+early as 7:30 or 9:00 p.m." And I didn't
+give her the number of flour and water.
+So, she went to Perplexity to look for
+the number. She found a number and then
+she made a phone call. And then the
+really thing the really funny things
+
+[09:00]
+really thing the really funny things
+that happened is I didn't realize but
+this restaurant actually also uses an AI
+agent to pick up the
+phone. So after I listened to the call
+and I was like wait a minute this was
+also an AI agent.
+Hi it's Arena at Flower and Water. Just
+so you know I'm taking notes on this
+call to share with the team. How can I
+help you? Hi Arena. I'm calling to make
+a dinner reservation tonight for two
+people. We're looking for 8:00 p.m. but
+we're flexible. and the agents just and
+in the end I had a reservation. So it's
+it's crazy like it's already happening
+where AI agents are currently working
+together.
+Yeah. And by the way, Flower and Water,
+I think uh Johnny Ies from Apple and I
+think maybe even Steve Jobs, one of
+their favorite restaurants. So this is
+like a hard restaurant to get into. And
+the fact that this happened is is
+amazing. Yeah. Yeah. Uh it's funny. The
+first time I demoed this feature, I used
+it to because I literally the the team
+had just coded it in like half a week
+
+[10:01]
+had just coded it in like half a week
+and I was like, "All right, demo time.
+Let me just ask you to like cancel my
+flight to Paris that have scheduled next
+week and it worked first shot and she
+canceled my flight." I was like,
+"No, I didn't expect it to work." Um,
+yeah. So, you know, like phone call like
+reservations, meeting prep is a pretty
+big one. I have this Lindy here and this
+is actually using the the feature that
+we just released last week. which we
+call agent swarms. And while you bring
+that up, what is an agent swarm? That's
+a good question. An agent swarm is the
+ability to send a list of things to do
+to to an AI agent and for this AI agent
+to do all these things reliably,
+quickly, and in parallel because AI
+agents are awesome and they're and
+they're super powerful, but over
+long-term like longtime horizons, they
+fail. They lose coherence. And so for
+example, if you give an AI agent a list
+of things like, hey, take these 500
+people and send personalized outreach to
+them, like personalized lead outreach is
+
+[11:00]
+them, like personalized lead outreach is
+a very big use case for AI agents. It's
+first of all, it's going to take
+forever. It's going to be pretty
+expensive and the by the 200th lead, it
+may fail. It may just become unreliable.
+If you use an agent swarm instead, it's
+going to basically, you know, like in
+the matrix, you have like a agent Smith
+that duplicates himself. It's like the
+agent smith thing like the agent is
+going to duplicate himself and send one
+copy of itself to each lead. Yeah. So
+this meeting prep here uses it's
+actually it's funny if it's a swarm of
+swarms. So what I do is every morning
+you wake up you check my meetings for
+the day and then you deploy an agent
+swarm for each meeting that I have and
+then inside this swarm you deploy
+another swarm for every attendee of
+every meeting that I have. And then this
+is really cool because this Lindy
+actually uses the meeting notes that the
+other Lindy brings together that I just
+mentioned. So she looks in the Google
+Drive folder that contains all of my
+meeting notes that Lindy creates and
+then she gets my notes for this meeting
+
+[12:02]
+then she gets my notes for this meeting
+and then she search for my emails with
+this person. She looks up for their
+LinkedIn on
+Google and then she sends me a digest by
+email.
+So you can see here every morning, let's
+see, right here. Again, we may have to
+like uh blur out some of these, but I
+just receive these digest every morning
+of everything. And and it's pretty
+detailed. Like so, for example, I have
+this uh this dinner tonight. It's like a
+founder dinner where like people talk
+about their struggles and there's like a
+bunch of of really senior executive
+coaches and they've sent us an email
+beforehand and they're like, "Hey, you
+have to come prepared with a challenge
+that you want to
+discuss." And so this Lindy here found
+it. And so now, you know, it's like,
+"Ah, right. Like I need before this
+dinner tonight, I need to come prepared
+with a challenge to discuss."
+I was I was really impressed because
+right before we hopped onto this
+podcast, you said, "Hey, by the way, I
+picked up that Sure MV7
+
+[13:02]
+picked up that Sure MV7
+mic." And I was like, I was like,
+"There's no way this guy is going to
+remember to buy this mic." Cuz I
+remember when I had you on the first
+time, the mic wasn't really great and
+people were complaining and it was the
+first thing you told me. And then when
+you when I when you you know I just see
+right now in the meeting prep it says
+use good audio equipment. Sure MV7. You
+got me. That's my dirty secret. That's
+how you know. Yeah. No 100%. It's it's I
+mean half my life runs on this right
+now. It's just like same for the meeting
+scheduling. I'll show you my my meeting
+scheduleuler here. Um so and it works
+exactly the same as an AI as a human
+assistant does which is people reach out
+to me by email. They're like flow I'd
+love to chat. or you know maybe it's
+like a job interview or anything like
+that that like a candidate I'm
+interviewing and all I do is I have
+given this Flindy her own email address
+and all I do is I CC her I'm like sounds
+good I'd love to chat will help us find
+time and so you can see here this
+happened just this morning um I was
+
+[14:02]
+happened just this morning um I was
+introduced by a recruiter to a candidate
+and I'm like thank you KG great to meet
+you Brian I would love to chat plus
+Lindy will help us find some time and
+you can see here I literally also added
+would you like to meet in person at the
+office. And here Lindy looked at my
+calendar. She found available times. She
+sent the times by email. Then he
+responded, "Yep, in person on Monday
+works." So she sent the calendar invite.
+And you can see in the calendar invite
+right here, she puts the address of the
+office right here. And then she sent
+this uh confirmation. She's like, "All
+right, we'll meet at 1:30 at 1841 Market
+Street." This is like you're setting off
+like a million light bulbs in my head
+right now because what I'm doing is I'm
+thinking what are all the tasks in my
+business that are recurring like this.
+Like what what you're showing me right
+now my EA does this um my EA does this.
+So like what do you recommend to people?
+Should they should they take stock of
+all the recurring tasks and
+
+[15:00]
+all the recurring tasks and
+then see if that you know Lindy's can do
+it? I think so. So, what I do recommend
+to people is actually to start with
+these like personal assistance use cases
+because it's just so easy and everybody
+can use a meeting scheduleuler.
+Everybody can use a meeting prep,
+everybody can use a meeting recorder.
+And so, just like you know, dip your
+toes in the water like that. Like just
+like get the reps, put a W on the board
+and you can on board to this in like
+five minutes. It's like super easy.
+We've got templates here. We've got like
+hundreds of templates. If you go to the
+the home tab here, there's a bunch of
+lindies that are pre-created and these
+ones we literally advertise them at the
+top because like we call it like the
+personal assistant starter pack. It's
+just like everybody can use these things
+and then little by little once you
+understand how the platform works which
+it's really pretty easy then you're
+going to very rapidly like to your
+exactly what you said like a light bulb
+is going to go off and you're like and
+you're going to be like oh my god like
+this can be used for everything. So,
+I'll give a more complex example. And
+what do you think? Like, should we just
+like build a Lindy live right now? Yeah,
+why not? Let's do it. Uh, let me build I
+
+[16:02]
+why not? Let's do it. Uh, let me build I
+spend a ton of time recruiting right
+now. So, I'm going to create a Lindy
+recruiter. So, I'm going to make her
+chat with Lindy. I'm going to make it um
+when I chat with it, I'm going to just
+give it a list just criteria of what I'm
+looking for. And then I'm going to use
+the search for people action. So, we
+have like a ton of prospecting
+integrations because like prospecting is
+one of our top use cases. And then uh
+I'm going to make it enter an AI agent
+and I'm going to tell it um show me the
+list of people you found and ask me
+which ones to reach out to. And again,
+that's where it's an AI agent. I don't
+need to like, you know, divide up the
+array or the list of people it found or
+to format it. I just I'm speaking to my
+agent and the agent saw the people. It's
+like the same agent that's moving from
+step to step to step. And here I'm going
+to give this step and exit conditions.
+Like once I've told you which ones to
+reach out
+to, then you enter uh a swarm. And I'm
+
+[17:02]
+to, then you enter uh a swarm. And I'm
+not even going to tell it what items to
+swarm through. I I think it's just going
+to be smart enough to figure it out. And
+I'm going to make it uh research this
+person on perplexity. So search
+proplexity. So, uh,
+research this person on
+perplexity and then I'm going to make it
+send an email to this
+person. So, and from my email, uh, send
+email and I'm just going to make it I'm
+going to prompt it here. I could just
+also write like a literal value. We have
+this setting here that's like set
+manually. So, I could just here type my
+email. Uh, but here I'm just going to be
+prompt AI and it's like reach out to
+join
+lindy.ai. Um, that's it. I'm just gonna
+do this for now. And in one click, you
+can insert a human in the loop. So, I
+can be like ask for confirmation and
+that's it. Right here, it's going to ask
+me for confirmation. When should
+people have a human in the loop and when
+
+[18:02]
+people have a human in the loop and when
+shouldn't they have a human in the loop?
+Great question. If a if an AI agent
+could embarrass you, you should probably
+insert a human in the loop at least in
+the beginning for the first few cycles
+and you're going to work on it. It's the
+same thing as training a human. It's
+like you just think of it as like you
+just on boarded an intern and like you
+don't at first you're kind of on their
+back. You kind of watch what they're
+doing. That's how you think of it. And
+soon we're we're building a feature
+right now that's making it so that uh
+the agent can learn from your feedback.
+So, as you insert a human in the loop,
+if you correct it, little by little,
+it's going to learn. Um, that is it.
+Right here, I have like an MVP
+recruiter. I'm going to rename her and
+just call her the
+recruiter. That's it. I've got I've got
+a small recruiter. And again, that's the
+beauty of it is like you start small.
+Like this took me two minutes and then
+you add to it and add to it and add to
+it. So, for example, here I could make
+it send reminders. Like if the person
+doesn't reply, I could make it send two,
+four, five reminders, right? Uh, and
+
+[19:01]
+four, five reminders, right? Uh, and
+actually I'm going to add a last step
+here. So it's like, hey, I've reached
+that to
+everyone. Um, I'm going to start here
+and I'm going to be like, I want to hire
+like find me five account executives uh
+working at what's a good what's a good
+place to hire from account executives?
+Hubspot. Yeah. Um, actually I'm
+realizing I think this was set. Yeah.
+Okay. This is beautiful. All right. We
+don't recommend poaching from HubSpot,
+but we don't we don't condone it
+either. Are you are you a HubSpot
+partner? Um, no. Okay, good. Um, okay.
+Reach out to every to everyone who
+doesn't have enterprise or corporate in
+their title. I think that's literally
+two people. And here it's going to start
+swarming over basically the two people
+that I gave it right here. So you see I
+
+[20:00]
+that I gave it right here. So you see I
+didn't configure the swarm. It's just
+like smart enough to figure it out here.
+And now if I expand this task here, I
+can see the subtasks that are part of
+the swarm. And so what it's doing here
+is it's searching complexity for this
+person. And it's it's going to be AI
+slap, you know, like by default AI AI
+just writes AI slap. So like I would
+need to prompt it more. I would need to
+give it examples. But boom. I hope this
+email finds you well. I'm reaching at
+because I came across your profile and I
+mean right here I just gave it to two
+profiles but I could have said like 200
+and that's that's basically how we
+recruit like we're pretty good at
+recruiting and it's very cost effective
+and we just use this all day and this
+could be used for well you know
+recruiting if you think about what
+recruiting is it's about making it's
+about closing it's really closing deals
+at the end of the day right
+so this could be applied to I mean you
+mentioned sales prospecting this is in a
+way is like sales process
+100% 100%. You can also like upload CSVs
+here. So if you have a bunch of leads
+from another platform so Lindy can
+generate her own leads, but there's also
+
+[21:00]
+generate her own leads, but there's also
+a lot of other platforms that you may
+want to use to do that. And so I have we
+also use it for sales prospecting. So if
+you look at we have this
+sales outreacher Lindy
+here and I have a CSV right here. I'll
+open it. Can Google Chrome open CSVs? I
+cannot. I also have it in a Google
+sheet. So, Unicorn Founders, it's like a
+list. So, this one Google Sheets here is
+20 unicorn founders, but um let me see
+if this is the right sales outreacher.
+Yeah. Um I'm just going to delete to
+begin. What one of the things I noticed,
+by the way, is that uh 3.5 is default
+selected. Should people keep that
+default or should they change it? I
+think you should keep it. I think that's
+like a great default. Um, basically
+start with cloud and then if you find
+your agent is too dumb, graduate to
+we've got Gemini, we've got 01. O1 is is
+really good. It's really expensive, but
+it's really good. Um, I use 01 for
+
+[22:01]
+it's really good. Um, I use 01 for
+research tasks. Um, and if your agent is
+too expensive, use Gemini
+Flash. And most of the time, Cloud does
+a good job and Gemini Flash does a good
+job. Yeah. So right here I just I mean
+you can see it took me in the time I
+spent to answer this question. I just
+reached out to 20 unicorn founders about
+about what we do and it's actually uh
+personalized right so here it's it's
+reaching out to the founder of Epic like
+team Swinny and it's like hey like this
+is how we Lindy can help you uh
+streamline developer support manage and
+organize data from your free games
+program an epic first run initiative.
+So, it's it's really super super
+customizable and super personalized.
+That's why I wanted this is why I wanted
+to have you on the pod again. I saw that
+you were well, it was right after the
+the announcement of the
+swarms and just I I think that you know
+what it's important for people to
+realize is that this can take a small
+
+[23:01]
+realize is that this can take a small
+team of 1 2 3 5 people and make them
+feel like 20 30 40 50 people and there's
+an arbitrage moment that is happening.
+Not everyone. I mean, maybe in our
+world, we're all like, "Yeah, AI agents,
+AI swarms, everyone knows what this is,
+right?" Making jokes about Claude and
+Clude. No, we're we're so we're so early
+in this. And if you're if you're
+listening to this, um, it's all just
+about like getting your feet Yeah. and
+your hands dirty and starting to create
+some of these things and just seeing it
+work in action. There is a huge gap
+right now between what is possible and
+what people are actually doing. There's
+there's a huge arbitrage and you can see
+it because the companies that are
+actually exploiting this arbitrage are
+blowing up. I mean uh there's this
+startup called Arcades. They're like
+this is like an AI ad generator. And
+reportedly they reached like $5 million
+in AR in like a couple of months with I
+think like eight people like seven or
+eight people or something like that. You
+may you may know this. Yeah, I know it
+
+[24:02]
+may you may know this. Yeah, I know it
+because dude it's hilarious. I had the
+founder on the pod a while ago. awesome
+guy and awesome technology. And then
+like two weeks and I I speak to him on X
+all the time. And then two weeks later,
+I get an email from his team being like,
+"Hey, like it was like a creator
+outreach email." And he was like, "Hey,
+like we'd love to partner with you and
+do like a paid promotion or do like
+something with you or give you free
+access to the product." And I messaged
+the founder and I was like, "Dude, oh,
+and it said it was him, right? it said
+it was him and I was like why are you
+texting me this and he's like he started
+laughing and he was like oh no no no
+that you know he was probably using
+Lindy you know I you know I can't I
+can't speak for who's using us but I
+will say this example I just gave of the
+restaurant reservations it's also
+happening for outreach like that where
+we are increasingly we have cut multiple
+times Lindy's talk to Lindy's from like
+
+[25:00]
+times Lindy's talk to Lindy's from like
+different customers so this influencer
+outreach use case is actually a pretty
+big one and we have I can't say who but
+we I wish I could say who because it's
+pretty cool. It's a very big YouTuber
+who uh is using us. Um and um he uh so
+he it's actually not him, it's his
+agent. He's using us because this guy
+receives so many emails all day from
+like random brands who are offering him
+to partner and it's just it's a deluge,
+right? And like less than 1% of them he
+wants to work with. So his agent has
+deployed a Lindy to help him like filter
+and like negotiate deals and all of that
+stuff. We have another customer who's
+like a famous jewelry brand who uses a
+lot of influencer marketing and they
+have also deployed a Lindy to find
+influencers on Tik Tok and Instagram and
+YouTube and find their contact
+information and reach out to them and
+offer them
+partnerships. And when we signed that
+customer, I was like, we need to create
+a reminder to check a month from now if
+that if if his Lindy ducked to his
+Lindy. And sure enough, we checked a
+month later and they had they had
+crossed paths. I love it. Um, would you
+
+[26:01]
+crossed paths. I love it. Um, would you
+be able to go back to the template
+section? And the reason why is I want to
+scan through some of these just to get
+people's minds primed for the types of
+stuff that you can use. Yeah, let me
+open the full list of templates here.
+Uh, you know, lead enrichment, lead
+qualification, customer support like and
+and customer support over everything
+because we just released last week like
+1,600 integrations. Like again, we're by
+far right now the top AI agent platform
+in terms of number of integrations. And
+so wherever your customer support
+exists, if it's like Telegram or Slack
+or WhatsApp or Zenesk or Intercom, like
+you name it, like we can we can automate
+your customer support over over these
+platforms. Um the focus group here is is
+a really interesting use case because
+LLMs are not super good at reasoning,
+but they are really good at pretending
+to be human because that's that's what
+they are, right? they've been trained on
+on so much text that's human written and
+
+[27:01]
+on so much text that's human written and
+there's actually a lot of papers that
+find that the answers that LLM give you
+are actually very correlated to what to
+the answers that a human would have
+given you. So if you ask like do you
+like this or that like LLM are actually
+doing a very reasonable job at at
+emulating a human and so that means that
+you can like marketing companies and
+like big firms they spend fortunes on
+focus groups and we use it ourselves as
+well like we've created a lindy that
+simulates our user. So we've prompted it
+to be like hey these are the different
+personas of users we have and we talk to
+it all day like what do you think of
+this? What do you think of that? Like
+how do how is this lending on you? And
+it's it's I would say it's 80% as good
+as like an actual focus group in an
+actual user research session, but it
+cost you like 10 cents instead of
+$1,000. Dude, that's so interesting. I
+uh I talk a lot about on the channel
+just this idea of like building
+community- based businesses and
+community based products where it's like
+you're building a product for a
+
+[28:00]
+you're building a product for a
+community. And I never thought of it
+like this, but a virtual community,
+right? Like so coming up with an idea
+for like vibe coding something, coming
+up with a product for something,
+starting a social account and then
+getting feedback on your business idea
+and what you're trying to do from your
+virtual community. Yeah, you know, I
+actually think that's the next step for
+right now like Bolt and Lovable and all
+of these companies are really blowing
+up. These like prompt to app platforms
+are really blowing up. I think that's
+going to be the next step for them where
+it's like you build the MVP of your app
+and then it sends it to a thousand
+virtual
+users and and they use it and like 5
+minutes later you've got feedback from a
+thousand people and then you just rinse
+and repeat and you let this running for
+a day and by the end of the day you've
+got an an app that's been iterated on
+for like the equivalent of a year,
+right? Uh this one I I love. It's it's
+my Elon Lindy. So what it does is uh it
+actually uses both the phone call
+capability we have and the swarm
+
+[29:00]
+capability we have and the swarm
+capability we have. So you give it a
+list of your team and every week it
+makes a phone call to each teammate for
+a sort of virtual standup and it asks
+them like what did you get done this
+week? Uh it's actually funny because I
+forgot I had this running and I I
+received a phone call like a couple of
+weeks ago from my Lindy and I was like
+oh like it's my Lindy phone number is in
+my contacts and I'm like oh my Lindy's
+calling me. What's going on? So I pick
+up the phone. I'm like, "Hey." And and
+she's like, "Hey, Floyd, it's Lindy."
+I'm like, "Okay, what do you want?" And
+she's like, "What did you get done this
+week?" [ __ ] you. Um, yeah. So, the Elani
+is really cool. And then it sends you a
+report with a summary of what your
+entire team has told you. So, this is
+actually right now being deployed by one
+of our customers, like a thousand plus
+employees. And every week it's just like
+a thousand people receive a phone call
+and then the CEO receives a report with
+like what everybody in the company is
+doing. It's basically replacing the
+middle management layer of the company.
+Very
+cool. Dude, this is crazy. You've come I
+think you were on the pod like 6 months
+
+[30:01]
+think you were on the pod like 6 months
+ago almost and the integrations and just
+seeing all these templates like it's
+crazy how much has changed. It is moving
+fast for sure. The team has been
+cranking. Um I'll give one last example
+I guess of of a Lindy that I really like
+which is the the competitive analysis
+Lindy. Um, I think this is another thing
+that can be very useful to pretty much
+any company. Um, I have it right here.
+Uh, competitive tracker. Um, so you can
+see it's funny. It's got the the poop
+emoji here as an icon. Um, what it does
+is, uh, it wakes up every month. It gets
+the list of competitors from this
+spreadsheet. Like you can just like keep
+a spreadsheet with the competitors that
+you're keeping tabs on. And then it
+deploys a swarm for each competitor. And
+for each competitor, it looks up
+whatever information you want. The
+employee count, the traffic estimates,
+the recent news, whether they've raised
+the money, whether they're hiring, any
+anything you want. And then it does a
+couple of interesting things, which is
+one, it sends you a report with like,
+
+[31:01]
+one, it sends you a report with like,
+hey, like these are the competitors who
+are putting ahead. And it logs all of
+that in a spreadsheet. And so you can
+see here, this is just an example
+spreadsheet where I've I've entered
+three competitors like Brex, Mercury,
+and RAM. They're like financial
+companies. And here it's logging all of
+this data here in this in this other
+tab. And then I've set up this other
+sheet on the spreadsheet that's like
+telling me it's like a table. It shows
+me for each competitor for every
+month, how have their employees count
+trending? How have their monthly website
+visits trended, their valuation, and so
+on and so
+forth. And again, I mean, you can see
+it's it's pretty simple. It's like nine
+steps or something like that. And we
+have a template for it.
+That's really cool. Yeah. It's also
+um you know when it comes to building a
+startup and looking at competition like
+you you really don't want to be like
+going to their websites every day and
+letting them get in your head. So having
+something like this feels a bit more
+
+[32:00]
+something like this feels a bit more
+sober. Yes. One one thing I have liked
+actually doing uh this is actually from
+before we had swarms. Um, if you're on
+Twitter or on Product Hunt or whatever,
+you get the feeling that everyone is
+their mother is working on AI agents.
+So, you get a new announcement maybe
+every day at this point. Like twice a
+week, you get like a new major
+announcement. And so, at first as a
+founder, you know, I was like, I
+wouldn't say I was getting demoralized
+by it, but it was like [ __ ] like this is
+this is heavy competition. Like, this is
+going to be a hot space, right? And so
+what I did is I set up a Lindy that's
+like I could just send her these
+announcements and then I would be like
+in six months tell me where these guys
+are and in 12 months tell me where these
+guys are. And one thing that it's really
+taught me
+is 90% of the time they're nowhere. So
+it's really trained me like that. Now
+when I see a computer I'm like yeah look
+it doesn't it's like the folks that I
+would worry about 12 months ago don't
+exist today. So 90% of the time it
+doesn't matter. I love it. All right. Is
+there anything else you wanted to cover?
+
+[33:01]
+there anything else you wanted to cover?
+Um, let me think. I Okay, I'll show one
+last example that the contra is showing
+is my my CRM manager. So, I have this
+Lindy that helps me um manage my my my
+network. And so I every so often I talk
+to her and I'm like, "Hey, I just met
+this guy. He's awesome. I really wanted
+to stay stay in touch with with him."
+So, um I'll show you an example here.
+Um, well, we're going to have to we're
+going to have to blur it out, but uh I
+edit this guy like, hey, like this guy
+is is awesome. You know, apparently he's
+the best that other guy has ever worked
+with. Addit him to a spreadsheet.
+Another really cool thing is that I can
+talk to this Lindy and I can be like,
+hey, who should I hit up when I'm in New
+York or who are like really good
+salespeople that I know? And then it
+finds me a list. And then this Lindy, I
+actually also made her observe my inbox
+and notice when I have booked a flight,
+which by the way soon is going to be a
+Lindy booking flights for me. And so she
+she sees when I booked a flight because
+
+[34:00]
+she sees when I booked a flight because
+I receive an email
+confirmation. And she's like, and I can
+I can actually show you because right
+now I'm going to to New York. So she's
+like, "Hey, like you're going to New
+York." This is just like a test email I
+sent to myself. and she's looking in my
+CRM and she's like, "Hey, these are the
+contacts that you should meet up when
+you're going to New York." That's so
+smart. You know what I usually do, which
+is like dumb, but whenever I'm doing
+something like this, I'll go onto my
+Twitter account and just see who I'm
+following and be like, "Oh yeah, Flo's
+in San Francisco." and reach out. But
+it's like obviously not the best way to
+do that. The problem is too few people
+are on Twitter, which I don't
+understand. I feel like everybody should
+be on Twitter. It's like such a boon,
+but too few people are on Twitter. Yeah,
+that's right. Yeah. And LinkedIn is gar
+is kind of garbage. Let's be real. No,
+100%. Yeah. It's not your real network.
+Yeah. Yeah. Yeah. This has been great.
+Uh Flo, I'm going to put together
+a a document that people can download
+
+[35:00]
+a a document that people can download
+that can help them set up their first
+agents, maybe some best practices, just
+some notes on how to do it. Um people
+can go and grab that. That'll be in the
+comment section and in the show notes.
+And is there is there one thing you want
+to leave people with? I will create a
+custom signup link for you if you go to
+lindy.ai/greg. I'll create a signup link
+so that people get a a 50% discount and
+they get like a longer free trial.
+Great. So, I'll include that in the show
+notes in the pin comment. Um, appreciate
+that, Flo. And um why I think it's
+important that people start doing this
+is like don't listen to us anymore. You
+know, what are you doing listening to us
+at this point, right? Like go and get
+your hands dirty. Yeah. The frontier has
+really rushed forward so much right now.
+It's it's it's like we had computers and
+everybody was still using the fax
+machine and just like computers arrived
+all of a sudden because innovation is
+accelerating and people are still using
+
+[36:01]
+accelerating and people are still using
+fax machines and I'm like this is people
+don't understand right now what's what's
+happening. It's cool, dude. It's really
+cool. Thanks for sharing it with us.
+Yeah. Thanks a lot, Greg. I'll see you
+around. See you.
